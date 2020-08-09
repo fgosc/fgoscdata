@@ -6,22 +6,22 @@ import logging
 import json
 from pathlib import Path
 import csv
-import sys
 import unicodedata
-import requests
 from tqdm import tqdm
-from make_freequest import id2name, id2type,id2dropPriority, alias2id, DropItem, FgoQuest, questId2qp
+from make_freequest import id2name, id2type, id2dropPriority, alias2id
+from make_freequest import DropItem, FgoQuest, questId2qp
 
 logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
 logger = logging.getLogger(__name__)
 
 csv_dir = Path(__file__).resolve().parent / Path("data/csv/")
 json_dir = Path(__file__).resolve().parent / Path("data/json/")
-##url_quest = "https://api.atlasacademy.io/nice/JP/quest/"
+
 
 @dataclasses.dataclass(frozen=True)
 class FgoEventQuest(FgoQuest):
     shortname: str
+
 
 def main(args):
     infiles = csv_dir.glob('**/*.csv')
@@ -47,23 +47,22 @@ def main(args):
                             logger.warning("Error: 変換できません: %s", tmp[item])
                             exit(1)
                         name = id2name[alias2id[tmp[item]]]
-                        drop.append(DropItem(item_id, name, id2type[item_id], id2dropPriority[item_id]))
-                        
-            drop = sorted(drop, key=lambda x:x.dropPriority, reverse=True)
+                        drop.append(DropItem(item_id, name, id2type[item_id],
+                                             id2dropPriority[item_id]))
+
+            drop = sorted(drop, key=lambda x: x.dropPriority, reverse=True)
             questId = int(tmp["id"])
             qp = questId2qp[questId]
             logger.debug('drop: %s', drop)
-##            r_get = requests.get(url_quest + tmp["id"] + "/1")
-##            item_data = r_get.json()
-##            qp = item_data["qp"]
             event_quest = FgoEventQuest(int(tmp["id"]), tmp["quest"],
-                                   "", "", qp, drop, tmp["shortname"])
+                                        "", "", qp, drop, tmp["shortname"])
 
             quest_output.append(dataclasses.asdict(event_quest))
 
         outfile = json_dir / (infile.stem + ".json")
         with open(outfile, "w",  encoding='UTF-8') as f:
             f.write(json.dumps(quest_output, ensure_ascii=False, indent=4))
+
 
 def parse_args():
     parser = argparse.ArgumentParser()
