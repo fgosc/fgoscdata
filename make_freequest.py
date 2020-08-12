@@ -3,7 +3,7 @@
 import json
 from pathlib import Path
 import csv
-import mojimoji
+import unicodedata
 import dataclasses
 from typing import List
 from tqdm import tqdm
@@ -38,12 +38,12 @@ questId2spotid = {item["id"]: item["spotId"] for item in kazemai["mstQuest"]}
 questId2qp = {item["questId"]: item["qp"] for item in kazemai["mstQuestPhase"]}
 alias2id = {}
 for item in drop_item:
-    alias2id[mojimoji.zen_to_han(mojimoji.han_to_zen(item["name"]), kana=False)] = item["id"]
+    alias2id[unicodedata.normalize('NFKC', item["name"])] = item["id"]
     if "shortname" in item.keys():
-        alias2id[mojimoji.zen_to_han(mojimoji.han_to_zen(item["shortname"]), kana=False)] = item["id"]
+        alias2id[unicodedata.normalize('NFKC', item["shortname"])] = item["id"]
     if "alias" in item.keys():
         for a in item["alias"]:
-            alias2id[mojimoji.zen_to_han(mojimoji.han_to_zen(a), kana=False)] = item["id"]
+            alias2id[unicodedata.normalize('NFKC', a)] = item["id"]
 
 
 @dataclasses.dataclass(frozen=True)
@@ -97,7 +97,7 @@ def main(args):
         qp = questId2qp[questId]
         freequest = FgoFreeQuest(questId, tmp["quest"], tmp["place"],
                                  tmp["chapter"], qp, drop, int(tmp['scPriority']))
-        spotname = mojimoji.zen_to_han(mojimoji.han_to_zen(spotid2spotname[questId2spotid[questId]]), kana=False)
+        spotname = unicodedata.normalize('NFKC', spotid2spotname[questId2spotid[questId]])
         if tmp["place"] != spotname:
             logger.warning("場所名が異なります%s %s", tmp["place"], spotname)
         quest_output.append(dataclasses.asdict(freequest))
