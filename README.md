@@ -6,7 +6,7 @@
 
 ### 1-1. get_data.py の実行
 ```
-$ get_data.py
+$ python get_data.py
 ```
 kazemai.jsonが取得・更新される
 
@@ -37,7 +37,7 @@ shortname.csv のデータからイベント交換アイテム以外の全てを
 
 まずはfgosccalc用のアイテム・概念礼装とfgosccnt用の概念礼装データを登録する
 ```
-$ update.py
+$ python update.py
 ```
 
 ## 3. アイテムデータの本登録
@@ -49,17 +49,17 @@ fgosccnt でアイテムデータを認識できるようにする
 (この時点で問題無く動作する)
 3. ハッシュ値回収プログラムの実行
 ```
-$ make_hash_battle.py
+$ python make_hash_battle.py
 ```
 ## 4. クエストデータの登録: (イベント名).json の作成
 1. 種火以外埋まった戦利品表のスクショを入手して fgosccalc などで処理させる
    * または#FGO周回カウンタなどからドロップ情報を得る
 2. クエスト名とidを取得する
 ```
-$ extract_event.py
+$ python extract_event.py
 ```
 3. 処理したデータで (イベント名).csv にドロップリストを追記して(イベント名).jsonを作成
 ```
-$ make_event_quest.py 
+$ python make_event_quest.py 
 ```
 * 「ポイント」「礼装」と書くと逆変換ができないので正式な名称で記述する
