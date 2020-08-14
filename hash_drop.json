@@ -507,22 +507,6 @@
         "dropPriority": 9005
     },
     {
-        "id": 9404600,
-        "type": "Craft Essence",
-        "rarity": 5,
-        "name": "セレブレイト・メモリーズ",
-        "phash": "82fa7296d200ad98",
-        "dropPriority": 9005
-    },
-    {
-        "id": 9404630,
-        "type": "Craft Essence",
-        "rarity": 5,
-        "name": "アイドル・メイカー",
-        "phash": "a93ad4bdb8dd55e7",
-        "dropPriority": 9005
-    },
-    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -552,14 +536,6 @@
         "rarity": 4,
         "name": "黄金の翼",
         "phash": "61e29d2df2d76bb7",
-        "dropPriority": 9004
-    },
-    {
-        "id": 9404610,
-        "type": "Craft Essence",
-        "rarity": 4,
-        "name": "ブレイン・ストーミング",
-        "phash": "2513d5d77b298d6f",
         "dropPriority": 9004
     },
     {
@@ -689,14 +665,6 @@
         "rarity": 3,
         "name": "ノスタルジック・フォーム",
         "phash": "a5933f4163006952",
-        "dropPriority": 9003
-    },
-    {
-        "id": 9404620,
-        "type": "Craft Essence",
-        "rarity": 3,
-        "name": "フィラー・フラワー",
-        "phash": "ea790f535181413d",
         "dropPriority": 9003
     },
     {
