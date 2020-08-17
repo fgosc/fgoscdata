@@ -507,6 +507,40 @@
         "dropPriority": 9005
     },
     {
+        "id": 9404550,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ハニー・レイク",
+        "phash": "96f63a6352190d07",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9404580,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ハイド・ハンター",
+        "shortname": "礼装",
+        "phash": "a1fc07eb5a7b3d69",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9404590,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "チェーンソー・オブ・ザ・デッド",
+        "shortname": "礼装",
+        "phash": "98d04fcdb93b5bde",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9404640,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "イノセント・ブルー",
+        "phash": "999879619699bfd6",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -536,6 +570,22 @@
         "rarity": 4,
         "name": "黄金の翼",
         "phash": "61e29d2df2d76bb7",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9404560,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "ハッピー☆ドライブ",
+        "phash": "b3282c475711c5b7",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9404650,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "クライミング・バトル",
+        "phash": "26019d226bc26532",
         "dropPriority": 9004
     },
     {
@@ -665,6 +715,22 @@
         "rarity": 3,
         "name": "ノスタルジック・フォーム",
         "phash": "a5933f4163006952",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9404570,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "ホラー・コンシェルジュ",
+        "phash": "8371a7fae45a6cba",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9404660,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "マブダチ・バーベキュー",
+        "phash": "72fe990d6896d193",
         "dropPriority": 9003
     },
     {
@@ -2359,6 +2425,23 @@
         "phash_battle": "6a059c21934a590c"
     },
     {
+        "id": 94051403,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "12856d6eb5020c59",
+        "name": "ミニチェーンソー",
+        "shortname": "チェーンソー",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94051404,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "6612ec3bc9699966",
+        "name": "虞美人草の髪飾り",
+        "dropPriority": 2004
+    },
+    {
         "id": 94000302,
         "type": "Item",
         "rarity": 2,
@@ -2815,6 +2898,15 @@
         "phash_battle": "ce3189352ca21ac4"
     },
     {
+        "id": 94051402,
+        "type": "Item",
+        "rarity": 2,
+        "phash": "56c8a976daac3643",
+        "name": "採れたて野菜",
+        "shortname": "野菜",
+        "dropPriority": 2002
+    },
+    {
         "id": 94000301,
         "type": "Item",
         "rarity": 1,
@@ -3189,6 +3281,15 @@
         "name": "マーカーハウス",
         "dropPriority": 2001,
         "phash_battle": "fc030722c8e4310c"
+    },
+    {
+        "id": 94051401,
+        "type": "Item",
+        "rarity": 1,
+        "phash": "740709b1914d0988",
+        "name": "よく乾いた薪",
+        "shortname": "薪",
+        "dropPriority": 2001
     },
     {
         "id": 1,
