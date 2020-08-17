@@ -2431,7 +2431,8 @@
         "phash": "12856d6eb5020c59",
         "name": "ミニチェーンソー",
         "shortname": "チェーンソー",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "d225bf420eb1c59a"
     },
     {
         "id": 94051404,
@@ -2904,7 +2905,8 @@
         "phash": "56c8a976daac3643",
         "name": "採れたて野菜",
         "shortname": "野菜",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "6e05b8ce0661b9a7"
     },
     {
         "id": 94000301,
@@ -3289,7 +3291,8 @@
         "phash": "740709b1914d0988",
         "name": "よく乾いた薪",
         "shortname": "薪",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "5603d12d85c23282"
     },
     {
         "id": 1,
