@@ -325,10 +325,10 @@
                 "dropPriority": 2002
             },
             {
-                "id": 94051402,
-                "name": "採れたて野菜",
+                "id": 94051401,
+                "name": "よく乾いた薪",
                 "type": "Item",
-                "dropPriority": 2002
+                "dropPriority": 2001
             }
         ],
         "shortname": "リラックスマンション"
