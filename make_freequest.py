@@ -9,7 +9,7 @@ from typing import List
 from tqdm import tqdm
 import argparse
 import logging
-
+import requests
 
 logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
 logger = logging.getLogger(__name__)
@@ -19,6 +19,7 @@ freequest_json_file = Path(__file__).resolve().parent \
                       / "data/json" / Path("freequest.json")
 drop_file = Path(__file__).resolve().parent / Path("hash_drop.json")
 kazemai_file = Path(__file__).resolve().parent / Path("kazemai.json")
+url_quest = "https://api.atlasacademy.io/nice/JP/quest/"
 
 with open(drop_file, encoding='UTF-8') as f:
     drop_item = json.load(f)
@@ -33,9 +34,9 @@ shortname2dropPriority = {item["shortname"]: item["dropPriority"] for item in dr
 id2name = {item["id"]: item["name"] for item in drop_item if "name" in item.keys()}
 id2type = {item["id"]: item["type"] for item in drop_item if "type" in item.keys()}
 id2dropPriority = {item["id"]: item["dropPriority"] for item in drop_item if "dropPriority" in item.keys()}
-spotid2spotname = {item["id"]: item["name"] for item in kazemai["mstSpot"]}
-questId2spotid = {item["id"]: item["spotId"] for item in kazemai["mstQuest"]}
-questId2qp = {item["questId"]: item["qp"] for item in kazemai["mstQuestPhase"]}
+##spotid2spotname = {item["id"]: item["name"] for item in kazemai["mstSpot"]}
+##questId2spotid = {item["id"]: item["spotId"] for item in kazemai["mstQuest"]}
+##questId2qp = {item["questId"]: item["qp"] for item in kazemai["mstQuestPhase"]}
 alias2id = {}
 for item in drop_item:
     alias2id[unicodedata.normalize('NFKC', item["name"])] = item["id"]
@@ -74,7 +75,11 @@ class FgoQuest:
 class FgoFreeQuest(FgoQuest):
     scPriority: int
 
-
+def questId2quest(questId):
+    r_get = requests.get(url_quest + str(questId) + "/1")
+    quest = r_get.json()
+    return quest
+    
 def main(args):
 
     with open(freequest_file, encoding='UTF-8') as f:
@@ -94,10 +99,12 @@ def main(args):
 
         drop = sorted(drop, key=lambda x: x.dropPriority, reverse=True)
         questId = int(tmp["id"])
-        qp = questId2qp[questId]
+        quest = questId2quest(questId)
+        qp = quest["qp"]
         freequest = FgoFreeQuest(questId, tmp["quest"], tmp["place"],
                                  tmp["chapter"], qp, drop, int(tmp['scPriority']))
-        spotname = unicodedata.normalize('NFKC', spotid2spotname[questId2spotid[questId]])
+        spotname = quest["name"]
+##        spotname = unicodedata.normalize('NFKC', spotid2spotname[questId2spotid[questId]])
         if tmp["place"] != spotname:
             logger.warning("場所名が異なります%s %s", tmp["place"], spotname)
         quest_output.append(dataclasses.asdict(freequest))

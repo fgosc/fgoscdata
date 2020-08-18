@@ -9,7 +9,7 @@ import csv
 import unicodedata
 from tqdm import tqdm
 from make_freequest import id2name, id2type, id2dropPriority, alias2id
-from make_freequest import DropItem, FgoQuest, questId2qp
+from make_freequest import DropItem, FgoQuest, questId2quest
 
 logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
 logger = logging.getLogger(__name__)
@@ -52,11 +52,16 @@ def main(args):
 
             drop = sorted(drop, key=lambda x: x.dropPriority, reverse=True)
             questId = int(tmp["id"])
-            qp = questId2qp[questId]
+            quest = questId2quest(questId)
+            qp = quest["qp"]
             logger.debug('drop: %s', drop)
             event_quest = FgoEventQuest(int(tmp["id"]), tmp["quest"],
                                         "", "", qp, drop, tmp["shortname"])
 
+            spotname = quest["name"]
+            if tmp["quest"] != spotname:
+                logger.warning("場所名が異なります: $s %s %s", infile, tmp["quest"], spotname)
+            
             quest_output.append(dataclasses.asdict(event_quest))
 
         outfile = json_dir / (infile.stem + ".json")
