@@ -46,7 +46,7 @@
         "shortname": "セーフティコテージ"
     },
     {
-        "id": 94051702,
+        "id": 94051703,
         "name": "デンジャーコテージ",
         "place": "",
         "chapter": "",
@@ -132,7 +132,7 @@
         "shortname": "スプラッシュレイク"
     },
     {
-        "id": 94051706,
+        "id": 94051707,
         "name": "ブラッディレイク",
         "place": "",
         "chapter": "",
@@ -236,7 +236,7 @@
         "shortname": "ハイキングフォレスト"
     },
     {
-        "id": 94051710,
+        "id": 94051711,
         "name": "スニーキングフォレスト",
         "place": "",
         "chapter": "",
@@ -279,12 +279,58 @@
                 "dropPriority": 2003
             },
             {
-                "id": 94051401,
-                "name": "よく乾いた薪",
+                "id": 94051402,
+                "name": "採れたて野菜",
                 "type": "Item",
-                "dropPriority": 2001
+                "dropPriority": 2002
             }
         ],
         "shortname": "スニーキングフォレスト"
+    },
+    {
+        "id": 94051713,
+        "name": "リラックスマンション",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6511,
+                "name": "禁断の頁",
+                "type": "Item",
+                "dropPriority": 8303
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 94051403,
+                "name": "ミニチェーンソー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94051402,
+                "name": "採れたて野菜",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94051402,
+                "name": "採れたて野菜",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "リラックスマンション"
     }
 ]
