@@ -332,5 +332,57 @@
             }
         ],
         "shortname": "リラックスマンション"
+    },
+    {
+        "id": 94051715,
+        "name": "パニックマンション",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 94051403,
+                "name": "ミニチェーンソー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94051402,
+                "name": "採れたて野菜",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94051401,
+                "name": "よく乾いた薪",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "パニックマンション"
     }
 ]
