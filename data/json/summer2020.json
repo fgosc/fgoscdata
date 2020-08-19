@@ -494,5 +494,115 @@
             }
         ],
         "shortname": "パニックマンション"
+    },
+    {
+        "id": 94051717,
+        "name": "ワイルドハウス",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6541,
+                "name": "禍罪の矢尻",
+                "type": "Item",
+                "dropPriority": 8315
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 94051402,
+                "name": "採れたて野菜",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94051401,
+                "name": "よく乾いた薪",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "ワイルドハウス"
+    },
+    {
+        "id": 94051718,
+        "name": "ワイルドハウス",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9404580,
+                "name": "ハイド・ハンター",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6541,
+                "name": "禍罪の矢尻",
+                "type": "Item",
+                "dropPriority": 8315
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 94051402,
+                "name": "採れたて野菜",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94051401,
+                "name": "よく乾いた薪",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "ワイルドハウス"
     }
 ]
