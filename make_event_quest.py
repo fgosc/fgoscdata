@@ -23,54 +23,62 @@ class FgoEventQuest(FgoQuest):
     shortname: str
 
 
+def list2dic(quest_list):
+    quest_output = []
+    for quest in quest_list:
+        # ドロップを作成
+        drop = []
+        for item in quest.keys():
+            if item.startswith("item"):
+                if quest[item] != "":
+                    quest[item] = unicodedata.normalize("NFKC", quest[item])
+                    if quest[item] in alias2id.keys():
+                        item_id = alias2id[quest[item]]
+                    else:
+                        logger.warning("Error: 変換できません: %s", quest[item])
+                        exit(1)
+                    name = id2name[alias2id[quest[item]]]
+                    drop.append(DropItem(item_id, name, id2type[item_id],
+                                         id2dropPriority[item_id]))
+
+        drop = sorted(drop, key=lambda x: x.dropPriority, reverse=True)
+        questId = int(quest["id"])
+        q = questId2quest(questId)
+        qp = q["qp"]
+        spotname = q["name"]
+        logger.debug('drop: %s', drop)
+        event_quest = FgoEventQuest(int(quest["id"]), quest["quest"],
+                                    "", "", qp, drop, quest["shortname"])
+        if quest["quest"] != spotname:
+            logger.warning("場所名が異なります: $s %s %s",
+                           infile, quest["quest"], spotname)
+        
+        quest_output.append(dataclasses.asdict(event_quest))
+    return quest_output
+
 def main(args):
-    infiles = csv_dir.glob('**/*.csv')
+    file = Path(args.csv)
+    if file.exists() is False:
+        logger.critical("File not found: %s", file)
+        exit(1)
 
-    for infile in tqdm(infiles):
-        # 各ファイルを処理
+    with open(file, encoding='UTF-8') as f:
+        reader = csv.DictReader(f)
+        quest_list = [row for row in reader]
 
-        with open(infile, encoding='UTF-8') as f:
-            reader = csv.DictReader(f)
-            tmps = [row for row in reader]
+    quest_dic = list2dic(quest_list)
 
-        quest_output = []
-        for tmp in tmps:
-            # ドロップを作成
-            drop = []
-            for item in tmp.keys():
-                if item.startswith("item"):
-                    if tmp[item] != "":
-                        tmp[item] = unicodedata.normalize("NFKC", tmp[item])
-                        if tmp[item] in alias2id.keys():
-                            item_id = alias2id[tmp[item]]
-                        else:
-                            logger.warning("Error: 変換できません: %s", tmp[item])
-                            exit(1)
-                        name = id2name[alias2id[tmp[item]]]
-                        drop.append(DropItem(item_id, name, id2type[item_id],
-                                             id2dropPriority[item_id]))
-
-            drop = sorted(drop, key=lambda x: x.dropPriority, reverse=True)
-            questId = int(tmp["id"])
-            quest = questId2quest(questId)
-            qp = quest["qp"]
-            logger.debug('drop: %s', drop)
-            event_quest = FgoEventQuest(int(tmp["id"]), tmp["quest"],
-                                        "", "", qp, drop, tmp["shortname"])
-
-            spotname = quest["name"]
-            if tmp["quest"] != spotname:
-                logger.warning("場所名が異なります: $s %s %s", infile, tmp["quest"], spotname)
-            
-            quest_output.append(dataclasses.asdict(event_quest))
-
-        outfile = json_dir / (infile.stem + ".json")
-        with open(outfile, "w",  encoding='UTF-8') as f:
-            f.write(json.dumps(quest_output, ensure_ascii=False, indent=4))
+    outfile = json_dir / (file.stem + ".json")
+    with open(outfile, "w",  encoding='UTF-8') as f:
+        f.write(json.dumps(quest_dic, ensure_ascii=False, indent=4))
 
 
 def parse_args():
     parser = argparse.ArgumentParser()
+    parser.add_argument(
+        'csv',
+        help='input csv file',
+    )
     parser.add_argument(
         '--loglevel',
         choices=('DEBUG', 'INFO', 'WARNING'),
