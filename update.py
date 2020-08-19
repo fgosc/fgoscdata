@@ -24,6 +24,7 @@ Item_blacklist_file = Path(__file__).resolve().parent / Path("item_bl.txt")
 shortname_file = Path(__file__).resolve().parent / Path("shortname.csv")
 hash_exp_file = Path(__file__).resolve().parent / Path("hash_exp.csv")
 hash_battle_file = Path(__file__).resolve().parent / Path("hash_battle.csv")
+hash_replace_file = Path(__file__).resolve().parent / Path("hash_replace.csv")
 #item_priority_file = Path(__file__).resolve().parent / Path("item_priority.csv")
 Misc_dir = Path(__file__).resolve().parent / Path("data/misc/")
 CE_output_file = Path(__file__).resolve().parent / Path("hash_ce.csv")
@@ -385,8 +386,13 @@ def make_item_data():
 
     with open(hash_battle_file, encoding='UTF-8') as f:
         reader = csv.DictReader(f)
-        battle_output = [row for row in reader]
+        tmp = [row for row in reader]
+        id2hash_battle = {int(item["id"]):item["phash_battle"] for item in tmp}
 
+    with open(hash_replace_file, encoding='UTF-8') as f:
+        reader = csv.DictReader(f)
+        tmp = [row for row in reader]
+        id2hash_replace = {int(item["id"]):item["phash_relace"] for item in tmp}
 
 ##    with open(Item_nickname_file, encoding='UTF-8') as f:
 ##        reader = csv.DictReader(f)
@@ -442,15 +448,18 @@ def make_item_data():
             elif item["background"] == "bronze":
                 tmp["rarity"] = 1
             
-            Image_file = search_item_file(item["icon"], Image_dir /str(item["background"]))
-            fg_image = cv2.imread(str(Image_file), cv2.IMREAD_UNCHANGED)
-            fg_image = cut_img_edge(fg_image, name)
-            image = overray_item(name, bg_image[item['background']], fg_image)
-            hash = compute_hash(image)
-            hash_hex = ""
-            for h in hash[0]:
-                hash_hex = hash_hex + "{:02x}".format(h)
-            tmp["phash"]  = hash_hex
+            if item["id"] in id2hash_replace.keys():
+                tmp["phash"]  = id2hash_replace[item["id"]]
+            else:
+                Image_file = search_item_file(item["icon"], Image_dir /str(item["background"]))
+                fg_image = cv2.imread(str(Image_file), cv2.IMREAD_UNCHANGED)
+                fg_image = cut_img_edge(fg_image, name)
+                image = overray_item(name, bg_image[item['background']], fg_image)
+                hash = compute_hash(image)
+                hash_hex = ""
+                for h in hash[0]:
+                    hash_hex = hash_hex + "{:02x}".format(h)
+                tmp["phash"]  = hash_hex
 ##            image_s = overray_battle_item(name, bg_image[item['background']], fg_image)
 ##            hash = compute_battle_hash(image_s)
 ##            hash_hex = ""
@@ -474,10 +483,14 @@ def make_item_data():
 ##                tmp["priority"] = item_priority[item["id"]]
             tmp["dropPriority"] = id2dropPriority[item["id"]]
 
-            for bo in battle_output:
-                if item["id"] == int(bo["id"]) and bo["phash_battle"] != "":
-                    tmp["phash_battle"] = bo["phash_battle"]
-                    break
+            if item["id"] in id2hash_battle.keys():
+                phash_battle = id2hash_battle[item["id"]]
+                if phash_battle != "":
+                    tmp["phash_battle"] = phash_battle
+##                for bo in battle_output:
+##                if item["id"] == int(bo["id"]) and bo["phash_battle"] != "":
+##                    tmp["phash_battle"] = bo["phash_battle"]
+##                    break
 
             if item["id"] == ID_QUEST_REWARD:
                 item_rward_qp.append(tmp)

@@ -507,14 +507,6 @@
         "dropPriority": 9005
     },
     {
-        "id": 9404550,
-        "type": "Craft Essence",
-        "rarity": 5,
-        "name": "ハニー・レイク",
-        "phash": "96f63a6352190d07",
-        "dropPriority": 9005
-    },
-    {
         "id": 9404580,
         "type": "Craft Essence",
         "rarity": 5,
@@ -530,14 +522,6 @@
         "name": "チェーンソー・オブ・ザ・デッド",
         "shortname": "礼装",
         "phash": "98d04fcdb93b5bde",
-        "dropPriority": 9005
-    },
-    {
-        "id": 9404640,
-        "type": "Craft Essence",
-        "rarity": 5,
-        "name": "イノセント・ブルー",
-        "phash": "999879619699bfd6",
         "dropPriority": 9005
     },
     {
@@ -570,22 +554,6 @@
         "rarity": 4,
         "name": "黄金の翼",
         "phash": "61e29d2df2d76bb7",
-        "dropPriority": 9004
-    },
-    {
-        "id": 9404560,
-        "type": "Craft Essence",
-        "rarity": 4,
-        "name": "ハッピー☆ドライブ",
-        "phash": "b3282c475711c5b7",
-        "dropPriority": 9004
-    },
-    {
-        "id": 9404650,
-        "type": "Craft Essence",
-        "rarity": 4,
-        "name": "クライミング・バトル",
-        "phash": "26019d226bc26532",
         "dropPriority": 9004
     },
     {
@@ -715,22 +683,6 @@
         "rarity": 3,
         "name": "ノスタルジック・フォーム",
         "phash": "a5933f4163006952",
-        "dropPriority": 9003
-    },
-    {
-        "id": 9404570,
-        "type": "Craft Essence",
-        "rarity": 3,
-        "name": "ホラー・コンシェルジュ",
-        "phash": "8371a7fae45a6cba",
-        "dropPriority": 9003
-    },
-    {
-        "id": 9404660,
-        "type": "Craft Essence",
-        "rarity": 3,
-        "name": "マブダチ・バーベキュー",
-        "phash": "72fe990d6896d193",
         "dropPriority": 9003
     },
     {
@@ -1263,7 +1215,7 @@
         "id": 6505,
         "type": "Item",
         "rarity": 1,
-        "phash": "54050140411d9001",
+        "phash": "5c01015219140004",
         "name": "虚影の塵",
         "shortname": "塵",
         "dropPriority": 8201,
@@ -2433,14 +2385,6 @@
         "shortname": "チェーンソー",
         "dropPriority": 2003,
         "phash_battle": "d225bf420eb1c59a"
-    },
-    {
-        "id": 94051404,
-        "type": "Item",
-        "rarity": 3,
-        "phash": "6612ec3bc9699966",
-        "name": "虞美人草の髪飾り",
-        "dropPriority": 2004
     },
     {
         "id": 94000302,
