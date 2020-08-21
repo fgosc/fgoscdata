@@ -696,5 +696,57 @@
             }
         ],
         "shortname": "エキサイトマーケット"
+    },
+    {
+        "id": 94051723,
+        "name": "コープスマーケット",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9404590,
+                "name": "チェーンソー・オブ・ザ・デッド",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
+                "type": "Item",
+                "dropPriority": 8104
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 94051403,
+                "name": "ミニチェーンソー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94051402,
+                "name": "採れたて野菜",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "コープスマーケット"
     }
 ]
