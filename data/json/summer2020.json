@@ -1007,6 +1007,12 @@
                 "dropPriority": 8316
             },
             {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
                 "id": 6107,
                 "name": "狂の魔石",
                 "type": "Item",
