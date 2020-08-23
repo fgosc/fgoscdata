@@ -613,6 +613,12 @@
         "qp": 7400,
         "drop": [
             {
+                "id": 9404590,
+                "name": "チェーンソー・オブ・ザ・デッド",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
                 "id": 6540,
                 "name": "九十九鏡",
                 "type": "Item",
@@ -805,7 +811,7 @@
                 "dropPriority": 2001
             }
         ],
-        "shortname": "サイレントガーデン"
+        "shortname": "サイレントガーデンB"
     },
     {
         "id": 94051726,
@@ -857,6 +863,6 @@
                 "dropPriority": 2001
             }
         ],
-        "shortname": "サイレントガーデン"
+        "shortname": "サイレントガーデンA"
     }
 ]
