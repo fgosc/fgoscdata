@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# 恒常フリクエ・修練場のCSVデータをJSONファイルに変換
+# イベントidから同一のイベントid群を抽出
 import json
 import argparse
 import logging
@@ -7,19 +7,21 @@ import requests
 
 url_quest = "https://api.atlasacademy.io/nice/JP/quest/"
 
+mstQuest_url = "https://raw.githubusercontent.com/FZFalzar/FGOData/master/JP_tables/quest/mstQuest.json"
+
 logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
 logger = logging.getLogger(__name__)
 
 
 def main(args):
     questid_start = int(args.questid / 100)*100 + 1
-    for i in range(99):
-        r_get = requests.get(url_quest + str(questid_start + i) + "/1")
-        if r_get.status_code == 404:
-            break
-        quest = r_get.json()
-        logger.debug("quest: %s", quest)
-        print("{},{}".format(questid_start + i, quest["name"]))
+    questid_end = int(args.questid / 100)*100 + 99
+    r_get = requests.get(mstQuest_url)
+    mstQuest_list = r_get.json()
+    logger.debug("mstQuest_list: %s", mstQuest_list)
+    for quest in mstQuest_list:
+        if questid_start <= quest["id"] <= questid_end:
+            print("{},{}".format(quest["id"], quest["name"]))
 
 def parse_args():
     parser = argparse.ArgumentParser(description='questidからそのイベントのクエストをリストする')

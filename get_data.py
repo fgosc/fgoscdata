@@ -9,28 +9,15 @@ import csv
 logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
 logger = logging.getLogger(__name__)
 
-kazemai_url = "https://fgo.square.ovh/kazemai/kazemai.json"
 item_url = "https://api.atlasacademy.io/export/JP/nice_item.json"
 ce_url = "https://api.atlasacademy.io/export/JP/nice_equip.json"
 Item_blacklist_file = Path(__file__).resolve().parent / Path("item_bl.txt")
 shortname_file = Path(__file__).resolve().parent / Path("shortname.csv")
-filename = "kazemai.json"
 CE_blacklist_file = Path(__file__).resolve().parent / Path("ce_bl.txt")
 CE_gacha_file = Path(__file__).resolve().parent / Path("ce_gacha.txt")
 
 
-def get_kazemai():
-    # kazemai file の保存
-    r_get = requests.get(kazemai_url)
-    kazemai = r_get.json()
-
-    with open(filename, mode="w", encoding="UTF-8") as f:
-        f.write(json.dumps(kazemai, ensure_ascii=False, indent=2))
-
-
 def main(args):
-    get_kazemai()
-
     # phash に存在しない(新)アイテム(id, name)の追記(shortname.csv, name_alias.csv)
     r_get = requests.get(item_url)
     item_list = r_get.json()
