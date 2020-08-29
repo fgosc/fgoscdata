@@ -18,14 +18,10 @@ freequest_file = Path(__file__).resolve().parent / Path("freequest.csv")
 freequest_json_file = Path(__file__).resolve().parent \
                       / "data/json" / Path("freequest.json")
 drop_file = Path(__file__).resolve().parent / Path("hash_drop.json")
-kazemai_file = Path(__file__).resolve().parent / Path("kazemai.json")
 url_quest = "https://api.atlasacademy.io/nice/JP/quest/"
 
 with open(drop_file, encoding='UTF-8') as f:
     drop_item = json.load(f)
-
-with open(kazemai_file, encoding='UTF-8') as f:
-    kazemai = json.load(f)
 
 name2item = {}
 shortname2name = {item["shortname"]: item["name"] for item in drop_item if "shortname" in item.keys()}
@@ -34,9 +30,6 @@ shortname2dropPriority = {item["shortname"]: item["dropPriority"] for item in dr
 id2name = {item["id"]: item["name"] for item in drop_item if "name" in item.keys()}
 id2type = {item["id"]: item["type"] for item in drop_item if "type" in item.keys()}
 id2dropPriority = {item["id"]: item["dropPriority"] for item in drop_item if "dropPriority" in item.keys()}
-##spotid2spotname = {item["id"]: item["name"] for item in kazemai["mstSpot"]}
-##questId2spotid = {item["id"]: item["spotId"] for item in kazemai["mstQuest"]}
-##questId2qp = {item["questId"]: item["qp"] for item in kazemai["mstQuestPhase"]}
 alias2id = {}
 for item in drop_item:
     alias2id[unicodedata.normalize('NFKC', item["name"])] = item["id"]
