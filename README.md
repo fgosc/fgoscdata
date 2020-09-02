@@ -10,7 +10,7 @@
 ```
 $ python get_data.py
 ```
-kazemai.jsonが取得・更新される
+shortname.csvに未取得アイテムが記述される
 
 ### 1-2.shortname.csv の編集
 phash に存在しない(新)アイテム(name, shortname)の追記　
@@ -21,17 +21,17 @@ phash に存在しない(新)アイテム(name, shortname)の追記　
 * アイテム名が複数の単語を合成して構成されている場合、画像を見てわかるほうの一般名のほうを残してつける
   * ただし、「ポイント」はなるべく「ポイント」とつける
 
-3. item_bl.txt, ce_bl.txt の修正
-
-
 ### 1-3. item_bl.txt の編集
  入ってはいけないアイテムをブラックリストファイルの編集で除外 
 
 shortname.csv のデータからイベント交換アイテム以外の全てを抽出して登録(属性ではじかれているものもある)、shortname.csv からは消す
 
-※ shortname.csvに間違って残っていても悪さをするといったことはない
+※ shortname.csvに間違ってデータが残っていても悪さをするといったことはない
 
-### 1-4. ce_bl.txt の編集
+### 1-4. ce_gacha.txt の編集
+フレンドポイント召喚、聖晶石召喚で排出される概念礼装を記述
+
+### 1-5. ce_bl.txt の編集
 イベント限定概念礼装で報酬で5枚のみ提供され、クエストでドロップしないものを追加
 
 ## 2. アイテム・概念礼装データの仮登録
@@ -46,9 +46,9 @@ $ python update.py
 ### 3-1. hash_drop.json の再作成
 fgosccnt でアイテムデータを認識できるようにする
 
-1. アイテムデータの入った**バトルリザルトの**スクショを用意してfgosccnt で処理
+1. アイテムデータの入った**バトルリザルトの**スクショを用意してfgosccnt.py で処理
 2. 作成された新アイテムの item???.png, ce???.png, point???.png を正式名称にリネーム
-(この時点で問題無く動作する)
+(この時点でDropPriorityの認識などそのまま使用しても問題無く動作はする)
 3. ハッシュ値回収プログラムの実行
 ```
 $ python make_hash_battle.py
@@ -60,7 +60,21 @@ $ python make_hash_battle.py
 ```
 $ python extract_event.py
 ```
-3. 処理したデータで (イベント名).csv にドロップリストを追記して(イベント名).jsonを作成
+作成された event_list.csv を見て、作成したいイベントのフリークエストを代表として一つだけ調べる
+
+3. 2.で調べた id で下記コマンドを実行してフリークエスト一覧を取得・表示する
+```
+$ python get_quest_list.py questId
+```
+
+4. もし戦利品のスクリーンショットが入手できたら下記コマンドでデータを作成する
+なければ手作業で作成する
+
+```
+$ python img2str.py --csv -q questID FILENAME
+```
+
+5. 処理したデータで (イベント名).csv にドロップリストを追記して(イベント名).jsonを作成
 ```
 $ python make_event_quest.py 
 ```
