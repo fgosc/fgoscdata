@@ -264,27 +264,8 @@ def overray_item(name, background, foreground):
     枠画像とアイテム画像を合成する
     """
     bg_height, bg_width = background.shape[:2]
-##    if name.endswith("魔石"):
-##        foreground = foreground[:,:100-16]
     fg_height, fg_width = foreground.shape[:2]
-    if name in ["セイバーピース","セイバーモニュメント"]:
-        point = (int((bg_width-fg_width)/2)-3, 131-fg_height)
-    elif name in ["アーチャーピース","アーチャーモニュメント"]:
-        point = (int((bg_width-fg_width)/2)-8, 131-fg_height)
-    elif name in ["ランサーピース","ランサーモニュメント"]:
-        point = (int((bg_width-fg_width)/2), 131-fg_height)
-    elif name in ["ライダーピース","ライダーモニュメント"]:
-        point = (int((bg_width-fg_width)/2)+7, 131-fg_height)
-    elif name in ["キャスターピース","キャスターモニュメント"]:
-        point = (int((bg_width-fg_width)/2)-1, 131-fg_height)
-    elif name in ["アサシンピース","アサシンモニュメント"]:
-        point = (int((bg_width-fg_width)/2)+6, 131-fg_height)
-    elif name in ["バーサーカーピース","バーサーカーモニュメント"]:
-        point = (int((bg_width-fg_width)/2)-3, 131-fg_height)
-    elif name in ["銅のセイバーバッヂ"]:
-        point = (int((bg_width-fg_width)/2)-3, int((bg_height-14-fg_height)/2)+2)
-    else:
-        point = (int((bg_width-fg_width)/2), int((bg_height-14-fg_height)/2))
+    point = (int((bg_width-fg_width)/2), int((bg_height-14-fg_height)/2))
     # 合成
     image = CvOverlayImage.overlay(background,
                                    foreground,
@@ -297,31 +278,12 @@ def overray_battle_item(name, background, foreground):
     枠画像とアイテム画像を合成するバトルリザルト用(テスト版)
     """
     bg_height, bg_width = background.shape[:2]
-##    if name.endswith("魔石"):
-##        foreground = foreground[:,:100-16]
     # 縮小 80%
     resizeScale = 0.8
     foreground = cv2.resize(foreground, (0,0), fx=resizeScale, fy=resizeScale, interpolation=cv2.INTER_AREA)
 
     fg_height, fg_width = foreground.shape[:2]
-    if name in ["セイバーピース","セイバーモニュメント"]:
-        point = (int((bg_width-fg_width)/2)-3, 131-fg_height)
-    elif name in ["アーチャーピース","アーチャーモニュメント"]:
-        point = (int((bg_width-fg_width)/2)-8, 131-fg_height)
-    elif name in ["ランサーピース","ランサーモニュメント"]:
-        point = (int((bg_width-fg_width)/2), 131-fg_height)
-    elif name in ["ライダーピース","ライダーモニュメント"]:
-        point = (int((bg_width-fg_width)/2)+7, 131-fg_height)
-    elif name in ["キャスターピース","キャスターモニュメント"]:
-        point = (int((bg_width-fg_width)/2)-1, 131-fg_height)
-    elif name in ["アサシンピース","アサシンモニュメント"]:
-        point = (int((bg_width-fg_width)/2)+6, 131-fg_height)
-    elif name in ["バーサーカーピース","バーサーカーモニュメント"]:
-        point = (int((bg_width-fg_width)/2)-3, 131-fg_height)
-    elif name == "銅のセイバーバッヂ":
-        point = (int((bg_width-fg_width)/2), int((bg_height-14-fg_height)/2)+2)
-    else:
-        point = (int((bg_width-fg_width)/2), int((bg_height-14-fg_height)/2))
+    point = (int((bg_width-fg_width)/2), int((bg_height-14-fg_height)/2))
     # 合成
     image = CvOverlayImage.overlay(background,
                                    foreground,
@@ -361,12 +323,6 @@ def name2nickname(name, item_nickname):
 
 def cut_img_edge(img, name):
     height, width = img.shape[:2]
-    if name.endswith("魔石"):
-        img = img[:,:width-16]
-    elif name == "大騎士勲章":
-        img = img[:,14:]
-    elif name == "暁光炉心":
-        img = img[7:,10:]
     return img
 
 def make_item_data():
