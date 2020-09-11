@@ -2096,6 +2096,30 @@
         "dropPriority": 2005
     },
     {
+        "id": 94004506,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "164961b229164a15",
+        "name": "迅犬豆",
+        "dropPriority": 4008
+    },
+    {
+        "id": 94004507,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "164961b229164a55",
+        "name": "賢猿豆",
+        "dropPriority": 4007
+    },
+    {
+        "id": 94004508,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "164961b229164a75",
+        "name": "剛雉豆",
+        "dropPriority": 4006
+    },
+    {
         "id": 94006403,
         "type": "Item",
         "rarity": 3,
@@ -2110,6 +2134,46 @@
         "phash": "de093cb30b6ca64b",
         "name": "金のズダ袋",
         "dropPriority": 2003
+    },
+    {
+        "id": 94007705,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "de42b02ce53d91de",
+        "name": "勇者の剣",
+        "dropPriority": 4006
+    },
+    {
+        "id": 94007706,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "d606790de53585de",
+        "name": "勇者の槍",
+        "dropPriority": 4005
+    },
+    {
+        "id": 94007707,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "5284ac4b93b32371",
+        "name": "勇者の弓",
+        "dropPriority": 4004
+    },
+    {
+        "id": 94007708,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "de522db0c96571d3",
+        "name": "勇者の盾",
+        "dropPriority": 4008
+    },
+    {
+        "id": 94007709,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "7c16836803e0b9d1",
+        "name": "勇者のマント",
+        "dropPriority": 4009
     },
     {
         "id": 94009001,
@@ -2136,12 +2200,60 @@
         "dropPriority": 2004
     },
     {
+        "id": 94015004,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "d60924e4a191e14a",
+        "name": "クイックオイル",
+        "dropPriority": 4004
+    },
+    {
+        "id": 94015005,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "3eede14a15b32ccc",
+        "name": "アーツニトロ",
+        "dropPriority": 4003
+    },
+    {
+        "id": 94015006,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "76ad095a8383a146",
+        "name": "バスターガソリン",
+        "dropPriority": 4002
+    },
+    {
         "id": 94015303,
         "type": "Item",
         "rarity": 3,
         "phash": "5e498332639c49b1",
         "name": "コノートコイン",
         "dropPriority": 2004
+    },
+    {
+        "id": 94015304,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "fa7ccb8727599ce8",
+        "name": "星出しスプーン",
+        "dropPriority": 4004
+    },
+    {
+        "id": 94015305,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "b6194b26d8630e3d",
+        "name": "カロリーミート",
+        "dropPriority": 4003
+    },
+    {
+        "id": 94015306,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "362cd3b36949a333",
+        "name": "宝具ハンマー",
+        "dropPriority": 4002
     },
     {
         "id": 94017503,
@@ -2357,6 +2469,14 @@
         "shortname": "扇",
         "dropPriority": 2003,
         "phash_battle": "dc03602d0d12ee02"
+    },
+    {
+        "id": 94045907,
+        "type": "Item",
+        "rarity": 3,
+        "phash": "d64309e65926816c",
+        "name": "フレチョコ",
+        "dropPriority": 4006
     },
     {
         "id": 94046503,
@@ -2602,6 +2722,62 @@
         "phash": "e782393809dec636",
         "name": "ショートケーキ",
         "dropPriority": 2002
+    },
+    {
+        "id": 94009811,
+        "type": "Item",
+        "rarity": 2,
+        "phash": "562ba9d45bec5216",
+        "name": "剣のチョコ型",
+        "dropPriority": 4010
+    },
+    {
+        "id": 94009812,
+        "type": "Item",
+        "rarity": 2,
+        "phash": "867a69c61aacead3",
+        "name": "弓のチョコ型",
+        "dropPriority": 4009
+    },
+    {
+        "id": 94009813,
+        "type": "Item",
+        "rarity": 2,
+        "phash": "564ba1545bac5a16",
+        "name": "槍のチョコ型",
+        "dropPriority": 4008
+    },
+    {
+        "id": 94009814,
+        "type": "Item",
+        "rarity": 2,
+        "phash": "561ba9547bac5a9e",
+        "name": "騎のチョコ型",
+        "dropPriority": 4007
+    },
+    {
+        "id": 94009815,
+        "type": "Item",
+        "rarity": 2,
+        "phash": "560ba1547b84521e",
+        "name": "術のチョコ型",
+        "dropPriority": 4006
+    },
+    {
+        "id": 94009816,
+        "type": "Item",
+        "rarity": 2,
+        "phash": "563ba9c47bacda16",
+        "name": "殺のチョコ型",
+        "dropPriority": 4005
+    },
+    {
+        "id": 94009817,
+        "type": "Item",
+        "rarity": 2,
+        "phash": "560ba9547b845a0e",
+        "name": "狂のチョコ型",
+        "dropPriority": 4004
     },
     {
         "id": 94011302,
