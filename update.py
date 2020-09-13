@@ -45,7 +45,9 @@ ID_QP = 1
 ID_QUEST_REWARD = 5
 
 url_ce = "https://api.atlasacademy.io/export/JP/nice_equip.json"
+url_ce_na = "https://api.atlasacademy.io/export/NA/nice_equip.json"
 url_item = "https://api.atlasacademy.io/export/JP/nice_item.json"
+url_item_na = "https://api.atlasacademy.io/export/NA/nice_item.json"
 
 bg_files = {"zero":"listframes0_bg.png",
            "bronze":"listframes1_bg.png",
@@ -330,14 +332,14 @@ def make_item_data():
     アイテムデータを作成
     """
     r_get = requests.get(url_item)
-
     item_list = r_get.json()
-
     r_get2 = requests.get(mstItem_url)
-
     mstItem_list = r_get2.json()
+    r_get3 = requests.get(url_item_na)
+    item_list_na = r_get3.json()
 
     id2dropPriority ={ item["id"]:item["dropPriority"] for item in mstItem_list}
+    id2name_eng ={ item["id"]:item["name"] for item in item_list_na}
     
     with open(Item_blacklist_file, encoding='UTF-8') as f:
         bl_item = [s.strip() for s in f.readlines()]
@@ -433,6 +435,8 @@ def make_item_data():
                 tmp["phash_class"]  = hash_gem_hex
 
             tmp["name"] = name
+            if item["id"] in id2name_eng.keys():
+                tmp["name_eng"] = id2name_eng[item["id"]]
             if name in shortname.keys():
                 tmp["shortname"] = shortname[name]
             if item["id"] in name_alias.keys():
@@ -614,8 +618,11 @@ def make_ce_data():
         ce_output[i + 3] = []
 
     r_get = requests.get(url_ce)
-
     ce_list = r_get.json()
+    r_get2 = requests.get(url_ce_na)
+    ce_list_na = r_get2.json()
+    id2name_eng ={ item["id"]:item["name"] for item in ce_list_na}
+
     with open(CE_blacklist_file, encoding='UTF-8') as f:
         bl_ces = [s.strip() for s in f.readlines()]
     with open(CE_gacha_file, encoding='UTF-8') as f:
@@ -645,6 +652,8 @@ def make_ce_data():
         tmp["type"] = "Craft Essence"
         tmp["rarity"] = ce["rarity"]
         tmp["name"] = name
+        if ce["id"] in id2name_eng.keys():
+            tmp["name_eng"] = id2name_eng[ce["id"]]
         if name in shortname.keys():
             tmp["shortname"] = shortname[name]
         tmp["phash"]  = out
