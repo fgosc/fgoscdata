@@ -392,6 +392,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "リターン・マッチ",
+        "name_eng": "Grudge Match",
         "phash": "88bb085eb44bd286",
         "dropPriority": 9005
     },
@@ -400,6 +401,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "C・K・T",
+        "name_eng": "C.K.T.",
         "phash": "6cc9886271626336",
         "dropPriority": 9005
     },
@@ -671,6 +673,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：ドルセント・ショップ",
+        "name_eng": "CE EXP Card: Moolah's Shop",
         "phash": "3ce3cbd2b0323953",
         "dropPriority": 9004
     },
@@ -1924,6 +1927,7 @@
         "rarity": 2,
         "phash": "bc8249eab2596e0c",
         "name": "AUOくじ",
+        "name_eng": "KoH Lottery Ticket",
         "shortname": "くじ",
         "dropPriority": 2005
     },
@@ -2524,6 +2528,7 @@
         "rarity": 3,
         "phash": "d6052d6281614b0c",
         "name": "マッスルバーガー",
+        "name_eng": "Muscle Burger",
         "shortname": "バーガー",
         "dropPriority": 2003
     },
@@ -2533,6 +2538,7 @@
         "rarity": 3,
         "phash": "7642a9ac6e3394d3",
         "name": "金の延べ棒",
+        "name_eng": "Bar of Gold",
         "dropPriority": 2004
     },
     {
@@ -3105,6 +3111,7 @@
         "rarity": 2,
         "phash": "7e0289ac87584267",
         "name": "ストロングドッグ",
+        "name_eng": "Strong Dog",
         "shortname": "ドッグ",
         "dropPriority": 2002
     },
@@ -3517,6 +3524,7 @@
         "rarity": 1,
         "phash": "5649292300a861d0",
         "name": "ワイルドポテト",
+        "name_eng": "Wild Fries",
         "shortname": "ポテト",
         "dropPriority": 2001
     },
