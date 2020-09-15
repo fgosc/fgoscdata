@@ -217,7 +217,7 @@ def compute_hash_ce(img_rgb):
     記述した比率はiPpd2018画像の実測値
     """
     height, width = img_rgb.shape[:2]
-    img = img_rgb[5:115,3:119]
+    img = img_rgb[19:115,3:119]
 
 ##    cv2.imshow("img", cv2.resize(img, dsize=None, fx=2., fy=2.))
 ##    cv2.waitKey(0)
