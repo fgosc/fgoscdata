@@ -217,7 +217,20 @@ def compute_hash_ce(img_rgb):
     記述した比率はiPpd2018画像の実測値
     """
     height, width = img_rgb.shape[:2]
-    img = img_rgb[19:115,3:119]
+    img = img_rgb[5:115,3:119]
+
+##    cv2.imshow("img", cv2.resize(img, dsize=None, fx=2., fy=2.))
+##    cv2.waitKey(0)
+##    cv2.destroyAllWindows()
+    return hasher.compute(img)
+
+def compute_hash_ce_narrow(img_rgb):
+    """
+    CE Identifier for scrolled down screenshot
+    """
+    height, width = img_rgb.shape[:2]
+    img = img_rgb[int(30/206*height):int(155/206*height),
+                  int(5/188*width):int(183/188*width)]
 
 ##    cv2.imshow("img", cv2.resize(img, dsize=None, fx=2., fy=2.))
 ##    cv2.waitKey(0)
@@ -647,6 +660,10 @@ def make_ce_data():
         out = ""
         for h in hash[0]:
             out = out + "{:02x}".format(h)
+        hash_narrow = compute_hash_ce_narrow(image)
+        out_narrow = ""
+        for h in hash_narrow[0]:
+            out_narrow = out_narrow + "{:02x}".format(h)
         tmp = {}
         tmp["id"] = ce["id"]
         tmp["type"] = "Craft Essence"
@@ -657,6 +674,7 @@ def make_ce_data():
         if name in shortname.keys():
             tmp["shortname"] = shortname[name]
         tmp["phash"]  = out
+        tmp["phash_narrow"]  = out_narrow
 #        tmp = [ce["id"]] + ["Craft Essence"] + [name] + [shortname[name] if name in shortname.keys() else "" ] + [out]
         ce_output[ce['rarity']].append(tmp)
 
