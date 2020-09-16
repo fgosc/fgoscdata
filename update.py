@@ -414,6 +414,7 @@ def make_item_data():
             else:
                 tmp["type"] = "Item"
 
+            tmp["background"] = item["background"]
             if item["background"] == "gold":
                 tmp["rarity"] = 3
             elif item["background"] == "silver":
