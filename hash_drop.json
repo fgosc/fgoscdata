@@ -634,6 +634,16 @@
         "dropPriority": 9005
     },
     {
+        "id": 9404700,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "掲げるは我が心",
+        "shortname": "礼装",
+        "phash": "a90ffcd0d592c9f7",
+        "phash_narrow": "892f7a659449fdb0",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -2983,6 +2993,35 @@
         "phash_battle": "126d6d821e7181fa"
     },
     {
+        "id": 94052603,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "364b41718c942398",
+        "name": "スカサハコイン〔金〕",
+        "shortname": "コイン金",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94052604,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5642a1204b3909b8",
+        "name": "魔猪ぐるみ",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94052605,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "f40369e01b4893bc",
+        "name": "戦士の名札",
+        "shortname": "名札",
+        "dropPriority": 2005
+    },
+    {
         "id": 94000302,
         "type": "Item",
         "background": "silver",
@@ -3610,6 +3649,16 @@
         "phash_battle": "5eadeb9c568cf10f"
     },
     {
+        "id": 94052602,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "364bc17188942b98",
+        "name": "スカサハコイン〔銀〕",
+        "shortname": "コイン銀",
+        "dropPriority": 2002
+    },
+    {
         "id": 94000301,
         "type": "Item",
         "background": "bronze",
@@ -4065,6 +4114,16 @@
         "shortname": "薪",
         "dropPriority": 2001,
         "phash_battle": "560391592989e443"
+    },
+    {
+        "id": 94052601,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "76030171a8942188",
+        "name": "スカサハコイン〔銅〕",
+        "shortname": "コイン銅",
+        "dropPriority": 2001
     },
     {
         "id": 1,
