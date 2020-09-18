@@ -345,6 +345,12 @@
                 "dropPriority": 9005
             },
             {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
                 "id": 6524,
                 "name": "大騎士勲章",
                 "type": "Item",
