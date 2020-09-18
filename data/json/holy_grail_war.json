@@ -1,0 +1,78 @@
+[
+    {
+        "id": 94052656,
+        "name": "第1期 伝説級 スカサハ式反復横跳び",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9404700,
+                "name": "掲げるは我が心",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6529,
+                "name": "呪獣胆石",
+                "type": "Item",
+                "dropPriority": 8504
+            },
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94052605,
+                "name": "戦士の名札",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94052603,
+                "name": "スカサハコイン〔金〕",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94052602,
+                "name": "スカサハコイン〔銀〕",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94052601,
+                "name": "スカサハコイン〔銅〕",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "第1期 伝説級"
+    }
+]
