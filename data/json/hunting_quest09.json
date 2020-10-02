@@ -41,12 +41,6 @@
                 "name": "狂猛火",
                 "type": "Exp. UP",
                 "dropPriority": 661
-            },
-            {
-                "id": 1,
-                "name": "QP",
-                "type": "Item",
-                "dropPriority": 510
             }
         ],
         "shortname": "心を失った者・ハント 開位級"
@@ -93,12 +87,6 @@
                 "name": "狂猛火",
                 "type": "Exp. UP",
                 "dropPriority": 661
-            },
-            {
-                "id": 1,
-                "name": "QP",
-                "type": "Item",
-                "dropPriority": 510
             }
         ],
         "shortname": "心を失った者・ハント 祭位級"
@@ -145,12 +133,6 @@
                 "name": "狂猛火",
                 "type": "Exp. UP",
                 "dropPriority": 661
-            },
-            {
-                "id": 1,
-                "name": "QP",
-                "type": "Item",
-                "dropPriority": 510
             }
         ],
         "shortname": "心を失った者・ハント 典位級"
@@ -197,12 +179,6 @@
                 "name": "狂猛火",
                 "type": "Exp. UP",
                 "dropPriority": 661
-            },
-            {
-                "id": 1,
-                "name": "QP",
-                "type": "Item",
-                "dropPriority": 510
             }
         ],
         "shortname": "心を失った者・ハント 典位+級"
