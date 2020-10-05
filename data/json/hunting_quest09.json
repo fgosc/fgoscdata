@@ -598,5 +598,213 @@
             }
         ],
         "shortname": "ワルキューレ・ハント 典位+級"
+    },
+    {
+        "id": 94053113,
+        "name": "巨大メカ魔猪・ハント 開位級",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            }
+        ],
+        "shortname": "巨大メカ魔猪・ハント 開位級"
+    },
+    {
+        "id": 94053114,
+        "name": "巨大メカ魔猪・ハント 祭位級",
+        "place": "",
+        "chapter": "",
+        "qp": 7900,
+        "drop": [
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            }
+        ],
+        "shortname": "巨大メカ魔猪・ハント 祭位級"
+    },
+    {
+        "id": 94053115,
+        "name": "巨大メカ魔猪・ハント 典位級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            }
+        ],
+        "shortname": "巨大メカ魔猪・ハント 典位級"
+    },
+    {
+        "id": 94053116,
+        "name": "巨大メカ魔猪・ハント 典位+級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            }
+        ],
+        "shortname": "巨大メカ魔猪・ハント 典位+級"
     }
 ]
