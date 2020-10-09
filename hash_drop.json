@@ -644,19 +644,11 @@
         "dropPriority": 9005
     },
     {
-        "id": 9404710,
-        "type": "Craft Essence",
-        "rarity": 5,
-        "name": "誠の蛍火",
-        "phash": "9be00e76b56ec9db",
-        "phash_narrow": "b3c85eb226eec5ed",
-        "dropPriority": 9005
-    },
-    {
         "id": 9404740,
         "type": "Craft Essence",
         "rarity": 5,
         "name": "姫巫女の寸暇",
+        "shortname": "礼装",
         "phash": "6ccf6a1ec68edd61",
         "phash_narrow": "0cef38628edb79c6",
         "dropPriority": 9005
@@ -699,15 +691,6 @@
         "name_eng": "Golden Wings",
         "phash": "61e29d2df2d76bb7",
         "phash_narrow": "61921d38dcabdde6",
-        "dropPriority": 9004
-    },
-    {
-        "id": 9404720,
-        "type": "Craft Essence",
-        "rarity": 4,
-        "name": "晴れの日",
-        "phash": "2837dc862deb5600",
-        "phash_narrow": "2833d62da9f621e6",
         "dropPriority": 9004
     },
     {
@@ -832,6 +815,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+        "shortname": "★4EXP礼装",
         "phash": "56374cda9789713d",
         "phash_narrow": "52354cb686f28f00",
         "dropPriority": 9004
@@ -874,15 +858,6 @@
         "name_eng": "Nostalgic Form",
         "phash": "a5933f4163006952",
         "phash_narrow": "a493bd43a60d270c",
-        "dropPriority": 9003
-    },
-    {
-        "id": 9404730,
-        "type": "Craft Essence",
-        "rarity": 3,
-        "name": "金色ノ原",
-        "phash": "1a1547e7ec096651",
-        "phash_narrow": "9a1d07e529084886",
         "dropPriority": 9003
     },
     {
@@ -969,6 +944,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "概念礼装EXPカード：猛者と無敵",
+        "shortname": "★3EXP礼装",
         "phash": "4613b8c5c99a4602",
         "phash_narrow": "461334ed18d20205",
         "dropPriority": 9003
@@ -3042,6 +3018,7 @@
         "rarity": 3,
         "phash": "a6194b6603a6f446",
         "name": "おおぶり蛤",
+        "shortname": "蛤",
         "dropPriority": 2002
     },
     {
@@ -3709,6 +3686,7 @@
         "rarity": 2,
         "phash": "764b1de627f08964",
         "name": "おてがる銅鏡",
+        "shortname": "銅鏡",
         "dropPriority": 2001
     },
     {
@@ -3718,6 +3696,7 @@
         "rarity": 2,
         "phash": "dc0379ec37d04f30",
         "name": "芳しい茅束",
+        "shortname": "茅束",
         "dropPriority": 2003
     },
     {
@@ -3727,6 +3706,7 @@
         "rarity": 2,
         "phash": "5612d92c9dcd61ad",
         "name": "丈夫な丸太",
+        "shortname": "丸太",
         "dropPriority": 2004
     },
     {
@@ -3736,6 +3716,7 @@
         "rarity": 2,
         "phash": "5e09815c49164385",
         "name": "寝かせた粘土",
+        "shortname": "粘土",
         "dropPriority": 2005
     },
     {
@@ -4213,6 +4194,7 @@
         "rarity": 1,
         "phash": "368d696361529998",
         "name": "ミニ銅鐸",
+        "shortname": "銅鐸",
         "dropPriority": 2000
     },
     {
