@@ -1750,7 +1750,7 @@
         "name_eng": "Gem of Lancer",
         "shortname": "槍輝",
         "dropPriority": 6098,
-        "phash_battle": "7.6831E+15"
+        "phash_battle": "7683095351942420"
     },
     {
         "id": 6004,
@@ -1789,7 +1789,7 @@
         "name_eng": "Gem of Assassin",
         "shortname": "殺輝",
         "dropPriority": 6095,
-        "phash_battle": "1.6873E+15"
+        "phash_battle": "1687295914908620"
     },
     {
         "id": 6007,
@@ -1802,7 +1802,7 @@
         "name_eng": "Gem of Berserker",
         "shortname": "狂輝",
         "dropPriority": 6094,
-        "phash_battle": "7.6873E+15"
+        "phash_battle": "7687295910949660"
     },
     {
         "id": 7101,
