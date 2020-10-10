@@ -5,7 +5,7 @@ import csv
 
 import requests
 
-ID_OLD_EVENT_MAX = 94051599
+ID_OLD_EVENT_MAX = 94049000
 id_exclude = (94052080, 94052507)
 
 ##kaemai_file = Path(__file__).resolve().parent / Path("kazemai.json")
