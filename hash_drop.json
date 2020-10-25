@@ -455,6 +455,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ロイヤル・アイシング",
+        "name_eng": "Royal Icing",
         "phash": "b6951667a6b90864",
         "phash_narrow": "ba9c5126939b061e",
         "dropPriority": 9005
@@ -464,6 +465,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "スリー・アングラー",
+        "name_eng": "Three Anglers",
         "phash": "fd872466f861796b",
         "phash_narrow": "fd998686b4b43677",
         "dropPriority": 9005
@@ -473,6 +475,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "氷結闘熊",
+        "name_eng": "Frost Fighting Bear",
         "phash": "d1dced638e32dd2e",
         "phash_narrow": "d1dcf5c6b3550ee3",
         "dropPriority": 9005
@@ -2144,6 +2147,7 @@
         "rarity": 2,
         "phash": "3e8881785996f285",
         "name": "おともだちポイント",
+        "name_eng": "Magifender Points",
         "dropPriority": 3004
     },
     {
@@ -2840,6 +2844,7 @@
         "rarity": 3,
         "phash": "96792c934296690c",
         "name": "コヅチサンデー",
+        "name_eng": "Mallet Sundae",
         "shortname": "サンデー",
         "dropPriority": 2003
     },
@@ -3518,6 +3523,7 @@
         "rarity": 2,
         "phash": "de4279cc65b59751",
         "name": "カナボーチュロス",
+        "name_eng": "Kanabou Churro",
         "shortname": "チュロス",
         "dropPriority": 2002
     },
@@ -4030,6 +4036,7 @@
         "rarity": 1,
         "phash": "369969692c844890",
         "name": "ドクロコーン",
+        "name_eng": "Skull Corn",
         "shortname": "コーン",
         "dropPriority": 2001
     },
