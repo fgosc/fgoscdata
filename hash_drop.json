@@ -3070,6 +3070,16 @@
         "phash_battle": "9603e91b8096646c"
     },
     {
+        "id": 3,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "fbf4062f2b6b6929",
+        "name": "マナプリズム",
+        "name_eng": "Mana Prism",
+        "dropPriority": 1003
+    },
+    {
         "id": 94000302,
         "type": "Item",
         "background": "silver",
