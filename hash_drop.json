@@ -3077,7 +3077,8 @@
         "phash": "fbf4062f2b6b6929",
         "name": "マナプリズム",
         "name_eng": "Mana Prism",
-        "dropPriority": 1003
+        "dropPriority": 1003,
+        "phash_battle": "f81427232b290b53"
     },
     {
         "id": 94000302,
