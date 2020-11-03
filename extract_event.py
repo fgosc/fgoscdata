@@ -2,31 +2,50 @@
 import json
 from pathlib import Path
 import csv
+import argparse
+import datetime
+import logging
 
 import requests
 
-ID_OLD_EVENT_MAX = 94049000
-id_exclude = (94052080, 94052507)
+logger = logging.getLogger(__name__)
 
-##kaemai_file = Path(__file__).resolve().parent / Path("kazemai.json")
 mstQuest_url = "https://raw.githubusercontent.com/FZFalzar/FGOData/master/JP_tables/quest/mstQuest.json"
 
 r_get2 = requests.get(mstQuest_url)
 
-mstQuest_list = r_get2.json()
+def main(args):
+    opened = int(datetime.datetime.strptime(args.openedat, "%Y/%m/%d").timestamp())
+    closed = int(datetime.datetime.strptime(args.closedat + ' 23:59:59', "%Y/%m/%d %H:%M:%S").timestamp())
+    logger.debug("opendat: %s", opened)
+    logger.debug("closedat: %s", closed)
+    mstQuest_list = r_get2.json()
 
-##print(mstItem_list)
-
-##with open(kaemai_file, encoding='UTF-8') as f:
-##    db = json.load(f)
-
-q_list = []
-for quest in mstQuest_list:
-    if str(quest["id"]).startswith("94") and quest["id"] > ID_OLD_EVENT_MAX:
-##        if id_exclude[0] > quest["id"] and id_exclude[1] < quest["id"]:
-        if not (id_exclude[0] <= quest["id"] <= id_exclude[1]):
+    q_list = []
+    for quest in mstQuest_list:
+        if opened <= quest["openedAt"] and quest["closedAt"] <= closed:
             q_list.append([quest["id"], quest["name"]])
 
-with open("event_list.csv", "w", encoding='UTF-8') as f:
-    writer = csv.writer(f, lineterminator="\n")
-    writer.writerows(q_list)
+    with open("event_list.csv", "w", encoding='UTF-8') as f:
+        writer = csv.writer(f, lineterminator="\n")
+        writer.writerows(q_list)
+
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='FGOクエストをCSV出力')
+    parser.add_argument('-o', '--openedat',
+                        required=True,
+                        help='quest open date: e.g. 2015/7/30')
+    parser.add_argument('-c', '--closedat',
+                        required=True,
+                        help='quest close date: e.g.  2020/11/03')
+    parser.add_argument('-l', '--loglevel',
+                        choices=('debug', 'info'), default='info')
+    args = parser.parse_args()    # 引数を解析
+    lformat = '[%(levelname)s] %(message)s'
+    logging.basicConfig(
+        level=logging.INFO,
+        format=lformat,
+    )
+    logger.setLevel(args.loglevel.upper())
+    main(args)
