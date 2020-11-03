@@ -11,20 +11,27 @@ import requests
 logger = logging.getLogger(__name__)
 
 mstQuest_url = "https://raw.githubusercontent.com/FZFalzar/FGOData/master/JP_tables/quest/mstQuest.json"
+mstQuestInfo_url = "https://raw.githubusercontent.com/FZFalzar/FGOData/master/JP_tables/quest/viewQuestInfo.json"
 
-r_get2 = requests.get(mstQuest_url)
 
 def main(args):
     opened = int(datetime.datetime.strptime(args.openedat, "%Y/%m/%d").timestamp())
     closed = int(datetime.datetime.strptime(args.closedat + ' 23:59:59', "%Y/%m/%d %H:%M:%S").timestamp())
     logger.debug("opendat: %s", opened)
     logger.debug("closedat: %s", closed)
-    mstQuest_list = r_get2.json()
+
+    r_get = requests.get(mstQuest_url)
+    mstQuest_list = r_get.json()
+    r_get2 = requests.get(mstQuestInfo_url)
+    mstQuestInfo_list = r_get2.json()
 
     q_list = []
     for quest in mstQuest_list:
         if opened <= quest["openedAt"] and quest["closedAt"] <= closed:
-            q_list.append([quest["id"], quest["name"]])
+            for q in mstQuestInfo_list:
+                if q["questId"] == quest["id"] and "高難易度" not in quest["name"]:
+                    q_list.append([quest["id"], quest["name"]])
+                    break
 
     with open("event_list.csv", "w", encoding='UTF-8') as f:
         writer = csv.writer(f, lineterminator="\n")
