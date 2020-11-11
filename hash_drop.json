@@ -657,6 +657,24 @@
         "dropPriority": 9005
     },
     {
+        "id": 9404790,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ミステリー・トレジャー",
+        "phash": "92290b932c5bb556",
+        "phash_narrow": "b22993280bab56b8",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9404820,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ライク・ア・バード",
+        "phash": "59e7f57d9670f54a",
+        "phash_narrow": "59a37d8f13b506d4",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -694,6 +712,15 @@
         "name_eng": "Golden Wings",
         "phash": "61e29d2df2d76bb7",
         "phash_narrow": "61921d38dcabdde6",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9404800,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "グレイテスト・オーシャン",
+        "phash": "d207bb928cd3092c",
+        "phash_narrow": "521f1382d21ad847",
         "dropPriority": 9004
     },
     {
@@ -861,6 +888,15 @@
         "name_eng": "Nostalgic Form",
         "phash": "a5933f4163006952",
         "phash_narrow": "a493bd43a60d270c",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9404810,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "カラー・ミー・トゥルー",
+        "phash": "1857afe900cf3cf0",
+        "phash_narrow": "1c17afc0437c6657",
         "dropPriority": 9003
     },
     {
@@ -2018,6 +2054,15 @@
         "phash_battle": "1c892382d192a443"
     },
     {
+        "id": 94053407,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "36088d72599cf204",
+        "name": "虚数探査ポイント",
+        "dropPriority": 3007
+    },
+    {
         "id": 94047709,
         "type": "Item",
         "background": "silver",
@@ -3070,6 +3115,15 @@
         "phash_battle": "9603e91b8096646c"
     },
     {
+        "id": 94053401,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "56422db0abcc4a19",
+        "name": "虚数トロ",
+        "dropPriority": 2003
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -3764,6 +3818,42 @@
         "phash_battle": "be01711c108cc660"
     },
     {
+        "id": 94053402,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "96d969961b2c9166",
+        "name": "虚数ウニ",
+        "dropPriority": 2002
+    },
+    {
+        "id": 94053404,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "67e859dcc00eb873",
+        "name": "眩い魚鱗",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94053405,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "6799cc7649b6d8a7",
+        "name": "眩いヒレ",
+        "dropPriority": 2005
+    },
+    {
+        "id": 94053406,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "4f62398de23c6636",
+        "name": "眩い鋭歯",
+        "dropPriority": 2006
+    },
+    {
         "id": 94000301,
         "type": "Item",
         "background": "bronze",
@@ -4242,6 +4332,15 @@
         "shortname": "コイン銅",
         "dropPriority": 2001,
         "phash_battle": "3e07719c118c6624"
+    },
+    {
+        "id": 94053403,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "5c67a5a10389c950",
+        "name": "虚数ゲソ",
+        "dropPriority": 2001
     },
     {
         "id": 1,
