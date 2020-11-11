@@ -3210,8 +3210,7 @@
         "phash": "7c680756a11d638c",
         "name": "騎の印章",
         "name_eng": "Seal of Rider",
-        "dropPriority": 2004,
-        "phash_battle": "fc0d06a16bc941f1"
+        "dropPriority": 2004
     },
     {
         "id": 94003105,
@@ -3806,7 +3805,8 @@
         "phash": "6799cc7649b6d8a7",
         "name": "眩いヒレ",
         "shortname": "ヒレ",
-        "dropPriority": 2005
+        "dropPriority": 2005,
+        "phash_battle": "b68d4e9b54ab1426"
     },
     {
         "id": 94053406,
