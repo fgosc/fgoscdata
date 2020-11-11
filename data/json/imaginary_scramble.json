@@ -1,0 +1,164 @@
+[
+    {
+        "id": 94053461,
+        "name": "虚数海資源調達作戦 初級",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9404820,
+                "name": "ライク・ア・バード",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 94053405,
+                "name": "眩いヒレ",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94053404,
+                "name": "眩い魚鱗",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94053403,
+                "name": "虚数ゲソ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "虚数海資源調達作戦 初級"
+    },
+    {
+        "id": 94053462,
+        "name": "虚数海資源調達作戦 中級",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9404820,
+                "name": "ライク・ア・バード",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 94053406,
+                "name": "眩い鋭歯",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94053405,
+                "name": "眩いヒレ",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94053402,
+                "name": "虚数ウニ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "虚数海資源調達作戦 中級"
+    },
+    {
+        "id": 94053463,
+        "name": "虚数海資源調達作戦 上級",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9404820,
+                "name": "ライク・ア・バード",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 94053406,
+                "name": "眩い鋭歯",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94053404,
+                "name": "眩い魚鱗",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94053401,
+                "name": "虚数トロ",
+                "type": "Item",
+                "dropPriority": 2003
+            }
+        ],
+        "shortname": "虚数海資源調達作戦 上級"
+    }
+]
