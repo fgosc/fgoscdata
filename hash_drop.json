@@ -3078,7 +3078,8 @@
         "phash": "56422db0abcc4a19",
         "name": "虚数トロ",
         "shortname": "トロ",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "5245b18b0c596686"
     },
     {
         "id": 3,
@@ -3209,7 +3210,8 @@
         "phash": "7c680756a11d638c",
         "name": "騎の印章",
         "name_eng": "Seal of Rider",
-        "dropPriority": 2004
+        "dropPriority": 2004,
+        "phash_battle": "fc0d06a16bc941f1"
     },
     {
         "id": 94003105,
@@ -3782,7 +3784,8 @@
         "phash": "96d969961b2c9166",
         "name": "虚数ウニ",
         "shortname": "ウニ",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "5689013864020002"
     },
     {
         "id": 94053404,
@@ -3792,7 +3795,8 @@
         "phash": "67e859dcc00eb873",
         "name": "眩い魚鱗",
         "shortname": "魚鱗",
-        "dropPriority": 2004
+        "dropPriority": 2004,
+        "phash_battle": "e629d80eb9339c03"
     },
     {
         "id": 94053405,
@@ -3812,7 +3816,8 @@
         "phash": "4f62398de23c6636",
         "name": "眩い鋭歯",
         "shortname": "鋭歯",
-        "dropPriority": 2006
+        "dropPriority": 2006,
+        "phash_battle": "46318d6436465999"
     },
     {
         "id": 94000301,
@@ -4302,7 +4307,8 @@
         "phash": "5c67a5a10389c950",
         "name": "虚数ゲソ",
         "shortname": "ゲソ",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "5c6783a9c9523018"
     },
     {
         "id": 1,
