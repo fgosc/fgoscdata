@@ -486,5 +486,63 @@
             }
         ],
         "shortname": "ヘビィクルーザー級"
+    },
+    {
+        "id": 94053469,
+        "name": "虚数海資源調達作戦 バトルクルーザー級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9404820,
+                "name": "ライク・ア・バード",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6531,
+                "name": "奇奇神酒",
+                "type": "Item",
+                "dropPriority": 8505
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 94053406,
+                "name": "眩い鋭歯",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94053405,
+                "name": "眩いヒレ",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94053404,
+                "name": "眩い魚鱗",
+                "type": "Item",
+                "dropPriority": 2004
+            }
+        ],
+        "shortname": "バトルクルーザー級"
     }
 ]
