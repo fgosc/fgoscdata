@@ -546,6 +546,76 @@
         "shortname": "バトルクルーザー級"
     },
     {
+        "id": 94053470,
+        "name": "虚数海資源調達作戦 バトルシップ級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9404820,
+                "name": "ライク・ア・バード",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94053405,
+                "name": "眩いヒレ",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94053404,
+                "name": "眩い魚鱗",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94053403,
+                "name": "虚数ゲソ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "バトルシップ級"
+    },
+    {
         "id": 94053471,
         "name": "虚数海資源調達作戦 ドレッドノート級",
         "place": "",
