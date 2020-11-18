@@ -544,5 +544,75 @@
             }
         ],
         "shortname": "バトルクルーザー級"
+    },
+    {
+        "id": 94053472,
+        "name": "虚数海資源調達作戦 スーパードレッドノート級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9404820,
+                "name": "ライク・ア・バード",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6544,
+                "name": "煌星のカケラ",
+                "type": "Item",
+                "dropPriority": 8508
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 94053406,
+                "name": "眩い鋭歯",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94053404,
+                "name": "眩い魚鱗",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94053401,
+                "name": "虚数トロ",
+                "type": "Item",
+                "dropPriority": 2003
+            }
+        ],
+        "shortname": "スーパードレッドノート級"
     }
 ]
