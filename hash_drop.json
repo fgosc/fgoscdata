@@ -667,6 +667,15 @@
         "dropPriority": 9005
     },
     {
+        "id": 9404870,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "テイク・ロマンス",
+        "phash": "028d05a19122e10f",
+        "phash_narrow": "431dc49d12e007d3",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -791,6 +800,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：猪王",
+        "name_eng": "CE EXP Card: Boar King",
         "phash": "7261b137c9c58836",
         "phash_narrow": "6661327d49897616",
         "dropPriority": 9004
@@ -1017,6 +1027,7 @@
         "rarity": 3,
         "phash": "76138d8c432211c9",
         "name": "暁光炉心",
+        "name_eng": "Reactor Core of Dawn",
         "shortname": "炉心",
         "dropPriority": 8406,
         "phash_battle": "76258c6311d02391"
@@ -1232,6 +1243,7 @@
         "rarity": 2,
         "phash": "5ea20d6c9368a15c",
         "name": "閑古鈴",
+        "name_eng": "Soundless Bell",
         "shortname": "鈴",
         "dropPriority": 8314,
         "phash_battle": "d62d158329484346"
