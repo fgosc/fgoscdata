@@ -7900,6 +7900,40 @@
         "scPriority": 1205
     },
     {
+        "id": 93030807,
+        "name": "千本通",
+        "place": "朱雀大路",
+        "chapter": "平安京",
+        "qp": 10530,
+        "drop": [
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            }
+        ],
+        "scPriority": 1207
+    },
+    {
         "id": 93030808,
         "name": "狐のほら穴",
         "place": "稲荷神社",
