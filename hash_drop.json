@@ -970,6 +970,7 @@
         "rarity": 3,
         "phash": "76030fe121b46136",
         "name": "鬼炎鬼灯",
+        "shortname": "鬼灯",
         "dropPriority": 8509
     },
     {
@@ -1200,6 +1201,7 @@
         "rarity": 2,
         "phash": "5768acf649bcd28c",
         "name": "虹の糸玉",
+        "shortname": "糸玉",
         "dropPriority": 8318
     },
     {
