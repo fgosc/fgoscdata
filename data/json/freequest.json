@@ -7774,6 +7774,46 @@
         "scPriority": 1202
     },
     {
+        "id": 93030803,
+        "name": "引き回しの刑",
+        "place": "六条大路",
+        "chapter": "平安京",
+        "qp": 10270,
+        "drop": [
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            }
+        ],
+        "scPriority": 1203
+    },
+    {
         "id": 93030804,
         "name": "中川のわたり",
         "place": "貴族邸",
