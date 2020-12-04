@@ -971,7 +971,8 @@
         "phash": "76030fe121b46136",
         "name": "鬼炎鬼灯",
         "shortname": "鬼灯",
-        "dropPriority": 8509
+        "dropPriority": 8509,
+        "phash_battle": "564f238174620e29"
     },
     {
         "id": 6546,
@@ -1202,7 +1203,8 @@
         "phash": "5768acf649bcd28c",
         "name": "虹の糸玉",
         "shortname": "糸玉",
-        "dropPriority": 8318
+        "dropPriority": 8318,
+        "phash_battle": "5badfe18968e64c5"
     },
     {
         "id": 6545,
