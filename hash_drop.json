@@ -667,15 +667,6 @@
         "dropPriority": 9005
     },
     {
-        "id": 9404870,
-        "type": "Craft Essence",
-        "rarity": 5,
-        "name": "テイク・ロマンス",
-        "phash": "028d05a19122e10f",
-        "phash_narrow": "431dc49d12e007d3",
-        "dropPriority": 9005
-    },
-    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -973,6 +964,15 @@
         "dropPriority": 9003
     },
     {
+        "id": 6548,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "76030fe121b46136",
+        "name": "鬼炎鬼灯",
+        "dropPriority": 8509
+    },
+    {
         "id": 6546,
         "type": "Item",
         "background": "gold",
@@ -1192,6 +1192,15 @@
         ],
         "dropPriority": 8402,
         "phash_battle": "364998a64846318c"
+    },
+    {
+        "id": 6547,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5768acf649bcd28c",
+        "name": "虹の糸玉",
+        "dropPriority": 8318
     },
     {
         "id": 6545,
