@@ -86,7 +86,12 @@ def main(args):
         for item in tmp.keys():
             if item.startswith("item"):
                 if tmp[item] != "":
-                    item_id = shortname2id[tmp[item]]
+                    try:
+                        item_id = shortname2id[tmp[item]]
+                    except:
+                        logger.critical('item: %s', item)
+                        logger.critical('tmp[item]: %s', tmp[item])
+                        exit()
                     name = id2name[item_id]
                     drop.append(DropItem(item_id, name, id2type[item_id], id2dropPriority[item_id]))
 
@@ -96,10 +101,10 @@ def main(args):
         qp = quest["qp"]
         freequest = FgoFreeQuest(questId, tmp["quest"], tmp["place"],
                                  tmp["chapter"], qp, drop, int(tmp['scPriority']))
-        spotname = quest["name"]
+        questname = quest["name"]
 ##        spotname = unicodedata.normalize('NFKC', spotid2spotname[questId2spotid[questId]])
-        if tmp["place"] != spotname:
-            logger.warning("場所名が異なります%s %s", tmp["place"], spotname)
+        if tmp["quest"] != questname:
+            logger.warning("場所名が異なります%s %s", tmp["quest"], spotname)
         quest_output.append(dataclasses.asdict(freequest))
 
     with open(freequest_json_file, "w",  encoding='UTF-8') as f:

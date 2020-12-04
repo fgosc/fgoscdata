@@ -7694,6 +7694,218 @@
         "scPriority": 1200
     },
     {
+        "id": 93030801,
+        "name": "侍従池領",
+        "place": "七条四坊",
+        "chapter": "平安京",
+        "qp": 10140,
+        "drop": [
+            {
+                "id": 6540,
+                "name": "九十九鏡",
+                "type": "Item",
+                "dropPriority": 8506
+            },
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            }
+        ],
+        "scPriority": 1201
+    },
+    {
+        "id": 93030802,
+        "name": "西七条",
+        "place": "七条二坊",
+        "chapter": "平安京",
+        "qp": 10270,
+        "drop": [
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            }
+        ],
+        "scPriority": 1202
+    },
+    {
+        "id": 93030804,
+        "name": "中川のわたり",
+        "place": "貴族邸",
+        "chapter": "平安京",
+        "qp": 10400,
+        "drop": [
+            {
+                "id": 6540,
+                "name": "九十九鏡",
+                "type": "Item",
+                "dropPriority": 8506
+            },
+            {
+                "id": 6511,
+                "name": "禁断の頁",
+                "type": "Item",
+                "dropPriority": 8303
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            }
+        ],
+        "scPriority": 1204
+    },
+    {
+        "id": 93030805,
+        "name": "天子南面",
+        "place": "朱雀門",
+        "chapter": "平安京",
+        "qp": 10400,
+        "drop": [
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "scPriority": 1205
+    },
+    {
+        "id": 93030808,
+        "name": "狐のほら穴",
+        "place": "稲荷神社",
+        "chapter": "平安京",
+        "qp": 10660,
+        "drop": [
+            {
+                "id": 6542,
+                "name": "真理の卵",
+                "type": "Item",
+                "dropPriority": 8507
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1208
+    },
+    {
         "id": 93030809,
         "name": "百鬼夜行",
         "place": "大宮大路",
@@ -7738,6 +7950,68 @@
             }
         ],
         "scPriority": 1209
+    },
+    {
+        "id": 93030810,
+        "name": "一条邸",
+        "place": "頼光の屋敷",
+        "chapter": "平安京",
+        "qp": 10790,
+        "drop": [
+            {
+                "id": 6540,
+                "name": "九十九鏡",
+                "type": "Item",
+                "dropPriority": 8506
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            }
+        ],
+        "scPriority": 1210
+    },
+    {
+        "id": 93030811,
+        "name": "出会い橋",
+        "place": "五条の橋",
+        "chapter": "平安京",
+        "qp": 10790,
+        "drop": [
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            }
+        ],
+        "scPriority": 1211
     },
     {
         "id": 93030812,
