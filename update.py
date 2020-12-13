@@ -425,10 +425,16 @@ def make_item_data():
             if item["id"] in id2hash_replace.keys():
                 tmp["phash"]  = id2hash_replace[item["id"]]
             else:
-                Image_file = search_item_file(item["icon"], Image_dir /str(item["background"]))
-                fg_image = cv2.imread(str(Image_file), cv2.IMREAD_UNCHANGED)
-                fg_image = cut_img_edge(fg_image, name)
-                image = overray_item(name, bg_image[item['background']], fg_image)
+                # icon: "https://assets.atlasacademy.io/GameData/JP/Items/5.png",
+                # https://assets.atlasacademy.io/GameData/JP/Items/6548_bordered.png
+                Image_file = search_item_file(item["icon"].replace(".png", "_bordered.png"), Image_dir /str(item["background"]))
+                # fg_image = cv2.imread(str(Image_file), cv2.IMREAD_UNCHANGED)
+                # fg_image = cut_img_edge(fg_image, name)
+                # image = overray_item(name, bg_image[item['background']], fg_image)
+                print(item["icon"])
+                item_image = cv2.imread(str(Image_file))
+                i_h, i_w = item_image.shape[:2]
+                image = tmpimg[5:i_h-5,5:i_w-5]
                 hash = compute_hash(image)
                 hash_hex = ""
                 for h in hash[0]:
