@@ -485,6 +485,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "聖女の教示",
+        "name_eng": "Holy Maiden's Teachings",
         "shortname": "礼装",
         "phash": "2a067dcd4909b27b",
         "phash_narrow": "2a16f7ed0c8557f6",
@@ -2171,6 +2172,7 @@
         "rarity": 2,
         "phash": "de4229b4924f60b0",
         "name": "アミーゴタオル",
+        "name_eng": "Amigo Towel",
         "shortname": "タオル",
         "dropPriority": 2005,
         "phash_battle": "9629b15aa9f44791"
@@ -2890,6 +2892,7 @@
         "rarity": 3,
         "phash": "7e8893274c9860d3",
         "name": "アディオスマイク",
+        "name_eng": "Adios Mic",
         "shortname": "マイク",
         "dropPriority": 2003,
         "phash_battle": "7c9327ccf0263889"
@@ -3582,6 +3585,7 @@
         "rarity": 2,
         "phash": "dc3205cca27c580f",
         "name": "ムーチョダンベル",
+        "name_eng": "Mucho Dumbbell",
         "shortname": "ダンベル",
         "dropPriority": 2002,
         "phash_battle": "ba5584a05926d2a2"
@@ -4139,6 +4143,7 @@
         "rarity": 1,
         "phash": "762d01d3b932c381",
         "name": "オーラバンド",
+        "name_eng": "Hola Wristband",
         "shortname": "バンド",
         "dropPriority": 2001,
         "phash_battle": "746d93b1c309300c"
