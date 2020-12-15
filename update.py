@@ -431,10 +431,9 @@ def make_item_data():
                 # fg_image = cv2.imread(str(Image_file), cv2.IMREAD_UNCHANGED)
                 # fg_image = cut_img_edge(fg_image, name)
                 # image = overray_item(name, bg_image[item['background']], fg_image)
-                print(item["icon"])
-                item_image = cv2.imread(str(Image_file))
+                item_image = cv2.imread(str(Image_file), cv2.IMREAD_UNCHANGED)
                 i_h, i_w = item_image.shape[:2]
-                image = tmpimg[5:i_h-5,5:i_w-5]
+                image = item_image[5:i_h-5,5:i_w-5]
                 hash = compute_hash(image)
                 hash_hex = ""
                 for h in hash[0]:
