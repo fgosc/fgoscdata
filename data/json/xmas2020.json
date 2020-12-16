@@ -1,5 +1,121 @@
 [
     {
+        "id": 94054301,
+        "name": "メリー・ロードワーク 初級",
+        "place": "",
+        "chapter": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 9404860,
+                "name": "チェリー・アイシクル",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94054205,
+                "name": "太陽のバンテージ",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94054202,
+                "name": "セイントバー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94054201,
+                "name": "クールガム",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "メリー・ロードワーク 初級"
+    },
+    {
+        "id": 94054302,
+        "name": "メリー・ロードワーク 中級",
+        "place": "",
+        "chapter": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9404860,
+                "name": "チェリー・アイシクル",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94054205,
+                "name": "太陽のバンテージ",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94054203,
+                "name": "ホーリーバナナ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94054202,
+                "name": "セイントバー",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "メリー・ロードワーク 中級"
+    },
+    {
         "id": 94054303,
         "name": "メリー・ロードワーク 上級",
         "place": "",
