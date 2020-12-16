@@ -1,0 +1,66 @@
+[
+    {
+        "id": 94054303,
+        "name": "メリー・ロードワーク 上級",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9404860,
+                "name": "チェリー・アイシクル",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            },
+            {
+                "id": 94054205,
+                "name": "太陽のバンテージ",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94054203,
+                "name": "ホーリーバナナ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94054201,
+                "name": "クールガム",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "メリー・ロードワーク 上級"
+    }
+]
