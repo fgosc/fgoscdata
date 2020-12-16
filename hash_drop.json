@@ -668,6 +668,16 @@
         "dropPriority": 9005
     },
     {
+        "id": 9404860,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "チェリー・アイシクル",
+        "shortname": "礼装",
+        "phash": "84a5c97393231912",
+        "phash_narrow": "04ad4c50e163d329",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -3110,6 +3120,16 @@
         "phash_battle": "5245b18b0c596686"
     },
     {
+        "id": 94054203,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "b81807e3cfdf8719",
+        "name": "ホーリーバナナ",
+        "shortname": "バナナ",
+        "dropPriority": 2003
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -3849,6 +3869,26 @@
         "phash_battle": "46318d6436465999"
     },
     {
+        "id": 94054202,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "fd03b96c32997603",
+        "name": "セイントバー",
+        "shortname": "バー",
+        "dropPriority": 2002
+    },
+    {
+        "id": 94054205,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "f6a50b2e48339983",
+        "name": "太陽のバンテージ",
+        "shortname": "バンテージ",
+        "dropPriority": 2005
+    },
+    {
         "id": 94000301,
         "type": "Item",
         "background": "bronze",
@@ -4339,6 +4379,16 @@
         "shortname": "ゲソ",
         "dropPriority": 2001,
         "phash_battle": "5c6783a9c9523018"
+    },
+    {
+        "id": 94054201,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "1e6781a9321a4891",
+        "name": "クールガム",
+        "shortname": "ガム",
+        "dropPriority": 2001
     },
     {
         "id": 1,
