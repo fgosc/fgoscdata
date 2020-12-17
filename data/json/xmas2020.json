@@ -180,6 +180,82 @@
         "shortname": "メリー・ロードワーク 上級"
     },
     {
+        "id": 94054304,
+        "name": "メリー・ロードワーク フライ級",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 9404860,
+                "name": "チェリー・アイシクル",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6543,
+                "name": "光銀の冠",
+                "type": "Item",
+                "dropPriority": 8316
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94054205,
+                "name": "太陽のバンテージ",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94054203,
+                "name": "ホーリーバナナ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94054202,
+                "name": "セイントバー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94054201,
+                "name": "クールガム",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "フライ級"
+    },
+    {
         "id": 94054330,
         "name": "聖夜の拳闘祭",
         "place": "",
