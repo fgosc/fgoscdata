@@ -30,7 +30,7 @@ def main(args):
         if opened <= quest["openedAt"] and quest["closedAt"] <= closed:
             for q in mstQuestInfo_list:
                 if q["questId"] == quest["id"] and "高難易度" not in quest["name"]:
-                    q_list.append([quest["id"], quest["name"]])
+                    q_list.append([quest["id"], quest["name"], quest["recommendLv"]])
                     break
 
     with open("event_list.csv", "w", encoding='UTF-8') as f:
