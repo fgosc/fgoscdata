@@ -3137,7 +3137,8 @@
         "rarity": 3,
         "phash": "7e30031761044188",
         "name": "ブラックプレゼント",
-        "dropPriority": 2006
+        "dropPriority": 2006,
+        "phash_battle": "fe03272745404840"
     },
     {
         "id": 3,
