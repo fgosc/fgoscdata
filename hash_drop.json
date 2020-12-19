@@ -3131,6 +3131,15 @@
         "phash_battle": "b81007cf8733e19a"
     },
     {
+        "id": 94054206,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7e30031761044188",
+        "name": "ブラックプレゼント",
+        "dropPriority": 2006
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
