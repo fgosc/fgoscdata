@@ -396,6 +396,82 @@
         "shortname": "フェザー級"
     },
     {
+        "id": 94054307,
+        "name": "メリー・ロードワーク ウェルター級",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9404860,
+                "name": "チェリー・アイシクル",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94054205,
+                "name": "太陽のバンテージ",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94054203,
+                "name": "ホーリーバナナ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94054201,
+                "name": "クールガム",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "ウェルター級"
+    },
+    {
         "id": 94054330,
         "name": "聖夜の拳闘祭",
         "place": "",
