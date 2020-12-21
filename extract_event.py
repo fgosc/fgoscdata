@@ -12,7 +12,18 @@ logger = logging.getLogger(__name__)
 
 mstQuest_url = "https://raw.githubusercontent.com/FZFalzar/FGOData/master/JP_tables/quest/mstQuest.json"
 mstQuestInfo_url = "https://raw.githubusercontent.com/FZFalzar/FGOData/master/JP_tables/quest/viewQuestInfo.json"
+mstQuestPhase_url = "https://raw.githubusercontent.com/FZFalzar/FGOData/master/JP_tables/quest/mstQuestPhase.json"
 
+
+def list2class(enemy):
+    enemy_dic = {
+                 1:"剣", 2:"弓", 3:"槍", 4:"騎", 5:"術", 6:"殺", 7:"狂",
+                 8:"盾", 9:"裁", 10:"分", 11:"讐", 23:"月", 25:"降"
+                 }
+    out = ""
+    for e in enemy:
+        out += enemy_dic[e]
+    return out
 
 def main(args):
     opened = int(datetime.datetime.strptime(args.openedat, "%Y/%m/%d").timestamp())
@@ -24,13 +35,17 @@ def main(args):
     mstQuest_list = r_get.json()
     r_get2 = requests.get(mstQuestInfo_url)
     mstQuestInfo_list = r_get2.json()
+    r_get3 = requests.get(mstQuestPhase_url)
+    mstQuestPhase_list = r_get3.json()
+    questId2classIds = {q["questId"]: q["classIds"] for q in mstQuestPhase_list}
 
     q_list = []
     for quest in mstQuest_list:
         if opened <= quest["openedAt"] and quest["closedAt"] <= closed:
             for q in mstQuestInfo_list:
                 if q["questId"] == quest["id"] and "高難易度" not in quest["name"]:
-                    q_list.append([quest["id"], quest["name"], quest["recommendLv"]])
+                    enemy = questId2classIds[quest["id"]]
+                    q_list.append([quest["id"], quest["name"], quest["recommendLv"], list2class(enemy)])
                     break
 
     with open("event_list.csv", "w", encoding='UTF-8') as f:

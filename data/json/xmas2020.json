@@ -472,6 +472,70 @@
         "shortname": "ウェルター級"
     },
     {
+        "id": 94054308,
+        "name": "メリー・ロードワーク ヘビー級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9404860,
+                "name": "チェリー・アイシクル",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6531,
+                "name": "奇奇神酒",
+                "type": "Item",
+                "dropPriority": 8505
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94054205,
+                "name": "太陽のバンテージ",
+                "type": "Item",
+                "dropPriority": 2005
+            }
+        ],
+        "shortname": "ヘビー級"
+    },
+    {
         "id": 94054330,
         "name": "聖夜の拳闘祭",
         "place": "",
