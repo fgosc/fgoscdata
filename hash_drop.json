@@ -496,6 +496,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "銀雪の女神たち",
+        "name_eng": "Goddesses of the Glittering Snow",
         "phash": "32f6d67adf51c4ac",
         "phash_narrow": "28a6646a53d0f764",
         "dropPriority": 9005
@@ -843,6 +844,15 @@
         "shortname": "★4EXP礼装",
         "phash": "56374cda9789713d",
         "phash_narrow": "52354cb686f28f00",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9807670,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "概念礼装EXPカード：ロデオ",
+        "phash": "762349b185572ccc",
+        "phash_narrow": "f64b788d532dcd52",
         "dropPriority": 9004
     },
     {
@@ -2173,6 +2183,7 @@
         "rarity": 2,
         "phash": "de882150c22c7992",
         "name": "奉納ポイント",
+        "name_eng": "Tribute Points",
         "dropPriority": 3007
     },
     {
@@ -2914,6 +2925,7 @@
         "rarity": 3,
         "phash": "b693096269391919",
         "name": "雀の幸",
+        "name_eng": "Bounty of the Sparrow",
         "dropPriority": 2003
     },
     {
@@ -2923,6 +2935,7 @@
         "rarity": 3,
         "phash": "fe02197c07ce609e",
         "name": "ケヤキの材木",
+        "name_eng": "Keyaki Lumber",
         "shortname": "ケヤキ",
         "dropPriority": 2006
     },
@@ -3628,6 +3641,7 @@
         "rarity": 2,
         "phash": "fe2905560b36f1a4",
         "name": "川の幸",
+        "name_eng": "Bounty of the River",
         "dropPriority": 2002
     },
     {
@@ -3637,6 +3651,7 @@
         "rarity": 2,
         "phash": "dde289e412dd62bf",
         "name": "ヒノキの材木",
+        "name_eng": "Cypress Lumber",
         "shortname": "ヒノキ",
         "dropPriority": 2005
     },
@@ -4208,6 +4223,7 @@
         "rarity": 1,
         "phash": "560321a1211d8802",
         "name": "山の幸",
+        "name_eng": "Bounty of the Mountains",
         "dropPriority": 2001
     },
     {
@@ -4217,6 +4233,7 @@
         "rarity": 1,
         "phash": "de3389ad354e42ba",
         "name": "スギの材木",
+        "name_eng": "Cedar Lumber",
         "shortname": "スギ",
         "dropPriority": 2004
     },
