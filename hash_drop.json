@@ -3171,7 +3171,8 @@
         "phash": "5611ad76d12d8e18",
         "name": "合戦最中",
         "shortname": "最中",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "52a91651ae51cf3c"
     },
     {
         "id": 3,
@@ -3944,7 +3945,8 @@
         "phash": "d41369a6936c27cc",
         "name": "山伏団子",
         "shortname": "団子",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "5649ac9224855893"
     },
     {
         "id": 94000301,
@@ -4459,7 +4461,8 @@
         "phash": "7c93050423516110",
         "name": "腕白煎餅",
         "shortname": "煎餅",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "fc17050301314140"
     },
     {
         "id": 1,
