@@ -178,5 +178,121 @@
             }
         ],
         "shortname": "フランス修行 急"
+    },
+    {
+        "id": 94055404,
+        "name": "ハロウィン修行 序",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 9404940,
+                "name": "愛し子を縫う",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
+                "type": "Item",
+                "dropPriority": 8104
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 94055303,
+                "name": "合戦最中",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94055301,
+                "name": "腕白煎餅",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "ハロウィン修行 序"
+    },
+    {
+        "id": 94055405,
+        "name": "ハロウィン修行 破",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 9404940,
+                "name": "愛し子を縫う",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94055302,
+                "name": "山伏団子",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94055301,
+                "name": "腕白煎餅",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "ハロウィン修行 破"
     }
 ]
