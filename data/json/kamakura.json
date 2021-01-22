@@ -400,6 +400,64 @@
         "shortname": "オーストラリア修行 序"
     },
     {
+        "id": 94055408,
+        "name": "オーストラリア修行 破",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9404940,
+                "name": "愛し子を縫う",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94055303,
+                "name": "合戦最中",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94055302,
+                "name": "山伏団子",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "オーストラリア修行 破"
+    },
+    {
         "id": 94055409,
         "name": "オーストラリア修行 急",
         "place": "",
