@@ -562,6 +562,64 @@
         "shortname": "地中海修行 序"
     },
     {
+        "id": 94055411,
+        "name": "地中海修行 破",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9404940,
+                "name": "愛し子を縫う",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94055302,
+                "name": "山伏団子",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94055301,
+                "name": "腕白煎餅",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "地中海修行 破"
+    },
+    {
         "id": 94055412,
         "name": "地中海修行 急",
         "place": "",
