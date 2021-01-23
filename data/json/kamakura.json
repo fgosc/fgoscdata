@@ -502,5 +502,121 @@
             }
         ],
         "shortname": "オーストラリア修行 急"
+    },
+    {
+        "id": 94055410,
+        "name": "地中海修行 序",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9404940,
+                "name": "愛し子を縫う",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94055303,
+                "name": "合戦最中",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94055301,
+                "name": "腕白煎餅",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "地中海修行 序"
+    },
+    {
+        "id": 94055412,
+        "name": "地中海修行 急",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9404940,
+                "name": "愛し子を縫う",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94055303,
+                "name": "合戦最中",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94055302,
+                "name": "山伏団子",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "地中海修行 急"
     }
 ]
