@@ -862,5 +862,215 @@
             }
         ],
         "shortname": "ニューヨーク修行 急"
+    },
+    {
+        "id": 94055416,
+        "name": "鎌倉修行 序",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9404940,
+                "name": "愛し子を縫う",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6541,
+                "name": "禍罪の矢尻",
+                "type": "Item",
+                "dropPriority": 8315
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94055303,
+                "name": "合戦最中",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94055302,
+                "name": "山伏団子",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94055301,
+                "name": "腕白煎餅",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "鎌倉修行 序"
+    },
+    {
+        "id": 94055417,
+        "name": "鎌倉修行 破",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9404940,
+                "name": "愛し子を縫う",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6546,
+                "name": "悠久の実",
+                "type": "Item",
+                "dropPriority": 8407
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6511,
+                "name": "禁断の頁",
+                "type": "Item",
+                "dropPriority": 8303
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94055303,
+                "name": "合戦最中",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94055302,
+                "name": "山伏団子",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94055301,
+                "name": "腕白煎餅",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "鎌倉修行 破"
+    },
+    {
+        "id": 94055418,
+        "name": "鎌倉修行 急",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9404940,
+                "name": "愛し子を縫う",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6540,
+                "name": "九十九鏡",
+                "type": "Item",
+                "dropPriority": 8506
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94055303,
+                "name": "合戦最中",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94055302,
+                "name": "山伏団子",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94055301,
+                "name": "腕白煎餅",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "鎌倉修行 急"
     }
 ]
