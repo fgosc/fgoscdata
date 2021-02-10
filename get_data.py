@@ -9,6 +9,8 @@ import re
 
 import requests
 from bs4 import BeautifulSoup
+import tinysegmenter
+segmenter = tinysegmenter.TinySegmenter()
 
 logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
 logger = logging.getLogger(__name__)
@@ -89,7 +91,7 @@ def main(args):
             continue
         if item["name"] not in bl_item:
             if item["name"] not in name2shortname.keys():
-                name2shortname[item["name"]] = ""
+                name2shortname[item["name"]] = segmenter.tokenize(item["name"])[-1]
 
     # 概念礼装
     r_get = requests.get(ce_url)
