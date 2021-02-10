@@ -58,6 +58,64 @@
         "shortname": "ゴッド・ラブ・ハント 初級"
     },
     {
+        "id": 94056202,
+        "name": "ゴッド・ラブ・ハント 中級",
+        "place": "",
+        "chapter": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9404980,
+                "name": "ホワイト・ガーデン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94056104,
+                "name": "ゴッド・ラブポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94056103,
+                "name": "ゴッド・アロー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94056102,
+                "name": "ゴッド・ハープ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "ゴッド・ラブ・ハント 中級"
+    },
+    {
         "id": 94056203,
         "name": "ゴッド・ラブ・ハント 上級",
         "place": "",
