@@ -506,6 +506,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ビューティフル・ドリーマー",
+        "name_eng": "Beautiful Dreamer",
         "shortname": "礼装",
         "phash": "ba376d42d90a0152",
         "phash_narrow": "bab76dd12c036409",
@@ -686,6 +687,16 @@
         "shortname": "礼装",
         "phash": "948dc2246b832c7a",
         "phash_narrow": "94c9c464838c2e63",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9404980,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ホワイト・ガーデン",
+        "shortname": "礼装",
+        "phash": "1d3dec8d32aab445",
+        "phash_narrow": "1e75cc95bb8a8d15",
         "dropPriority": 9005
     },
     {
@@ -1049,6 +1060,7 @@
         "rarity": 3,
         "phash": "76c3358c2683caa5",
         "name": "九十九鏡",
+        "name_eng": "Tsukumo Mirror",
         "shortname": "鏡",
         "dropPriority": 8506,
         "phash_battle": "d6139ca682a4c44e"
@@ -2084,6 +2096,16 @@
         "phash_battle": "1c892382d192a443"
     },
     {
+        "id": 94056104,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "7e9a8fe96c5c9b94",
+        "name": "ゴッド・ラブポイント",
+        "shortname": "ラブポイント",
+        "dropPriority": 3004
+    },
+    {
         "id": 94047709,
         "type": "Item",
         "background": "silver",
@@ -2182,6 +2204,7 @@
         "rarity": 2,
         "phash": "9e8801784118a444",
         "name": "詩詠みポイント",
+        "name_eng": "Poetry Composition Points",
         "shortname": "ポイント",
         "dropPriority": 3004,
         "phash_battle": "9e85695984045111"
@@ -2956,6 +2979,7 @@
         "rarity": 3,
         "phash": "df02788c60339ccf",
         "name": "夢綴りの筆",
+        "name_eng": "Brush of Dream Writing",
         "shortname": "筆",
         "dropPriority": 2003,
         "phash_battle": "ce32cc6398c71dc6"
@@ -3173,6 +3197,34 @@
         "shortname": "最中",
         "dropPriority": 2003,
         "phash_battle": "52a91651ae51cf3c"
+    },
+    {
+        "id": 94056103,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "fb8c5261051725d2",
+        "name": "ゴッド・アロー",
+        "shortname": "アロー",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94056106,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "1e188db3d325874c",
+        "name": "スーパーロックオンチョコ〔ブルーベリー〕",
+        "dropPriority": 2006
+    },
+    {
+        "id": 94056107,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "1e388db3c325874c",
+        "name": "スーパーロックオンチョコ〔ストロベリー〕",
+        "dropPriority": 2007
     },
     {
         "id": 3,
@@ -3683,6 +3735,7 @@
         "rarity": 2,
         "phash": "6e12792c89a90de9",
         "name": "想紡ぎの墨",
+        "name_eng": "Ink of Sentiment Weaving",
         "shortname": "墨",
         "dropPriority": 2002,
         "phash_battle": "56533985ad850929"
@@ -3947,6 +4000,16 @@
         "shortname": "団子",
         "dropPriority": 2002,
         "phash_battle": "5649ac9224855893"
+    },
+    {
+        "id": 94056102,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "cfb88e4b0fd8ac94",
+        "name": "ゴッド・ハープ",
+        "shortname": "ハープ",
+        "dropPriority": 2002
     },
     {
         "id": 94000301,
@@ -4276,6 +4339,7 @@
         "rarity": 1,
         "phash": "76251451ac43a001",
         "name": "言記しの紙",
+        "name_eng": "Paper of Story Recording",
         "shortname": "紙",
         "dropPriority": 2001,
         "phash_battle": "329d850d43410032"
@@ -4463,6 +4527,16 @@
         "shortname": "煎餅",
         "dropPriority": 2001,
         "phash_battle": "fc17050301314140"
+    },
+    {
+        "id": 94056101,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "562d56433c93c867",
+        "name": "ゴッド・フェザー",
+        "shortname": "フェザー",
+        "dropPriority": 2001
     },
     {
         "id": 1,
