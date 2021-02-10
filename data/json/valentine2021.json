@@ -1,0 +1,54 @@
+[
+    {
+        "id": 94056203,
+        "name": "ゴッド・ラブ・ハント 上級",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9404980,
+                "name": "ホワイト・ガーデン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94056104,
+                "name": "ゴッド・ラブポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94056103,
+                "name": "ゴッド・アロー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94056101,
+                "name": "ゴッド・フェザー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "ゴッド・ラブ・ハント 上級"
+    }
+]
