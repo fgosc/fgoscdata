@@ -2103,7 +2103,8 @@
         "phash": "7e9a8fe96c5c9b94",
         "name": "ゴッド・ラブポイント",
         "shortname": "ラブポイント",
-        "dropPriority": 3004
+        "dropPriority": 3004,
+        "phash_battle": "5c1da96e18905171"
     },
     {
         "id": 94047709,
@@ -3206,7 +3207,8 @@
         "phash": "fb8c5261051725d2",
         "name": "ゴッド・アロー",
         "shortname": "アロー",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "bad0610f0f66b29a"
     },
     {
         "id": 94056106,
@@ -4009,7 +4011,8 @@
         "phash": "cfb88e4b0fd8ac94",
         "name": "ゴッド・ハープ",
         "shortname": "ハープ",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "acb84b4ba4ac0913"
     },
     {
         "id": 94000301,
@@ -4536,7 +4539,8 @@
         "phash": "562d56433c93c867",
         "name": "ゴッド・フェザー",
         "shortname": "フェザー",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "2c5f63b4cae598a1"
     },
     {
         "id": 1,
