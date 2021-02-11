@@ -166,5 +166,75 @@
             }
         ],
         "shortname": "ゴッド・ラブ・ハント 上級"
+    },
+    {
+        "id": 94056204,
+        "name": "ゴッド・ラブ・ハント ファーストラブ級",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 9404980,
+                "name": "ホワイト・ガーデン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94056104,
+                "name": "ゴッド・ラブポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94056103,
+                "name": "ゴッド・アロー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94056102,
+                "name": "ゴッド・ハープ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94056101,
+                "name": "ゴッド・フェザー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "ファーストラブ級"
     }
 ]
