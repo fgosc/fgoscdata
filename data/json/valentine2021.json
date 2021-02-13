@@ -300,5 +300,75 @@
             }
         ],
         "shortname": "ピュアラブ級"
+    },
+    {
+        "id": 94056206,
+        "name": "ゴッド・ラブ・ハント スイートラブ級",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9404980,
+                "name": "ホワイト・ガーデン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6518,
+                "name": "精霊根",
+                "type": "Item",
+                "dropPriority": 8502
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94056104,
+                "name": "ゴッド・ラブポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94056103,
+                "name": "ゴッド・アロー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94056102,
+                "name": "ゴッド・ハープ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "スイートラブ級"
     }
 ]
