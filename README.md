@@ -85,3 +85,20 @@ $ python img2str.py 94056207.jpg --csv
 ```
 $ python make_event_quest.py data/csv/(イベント名).csv
 ```
+
+5. 反映させる
+
+例:
+```
+git commit -a -m "event data upadte"
+git push origin [branch]
+cd ../fgosccalc/
+git submodule update --remote
+git commit -a -m "event data upadte"
+git push origin [branch]
+cd ../fgosccnt/
+git submodule update --remote
+git commit -a -m "event data upadte"
+git push origin [branch]
+
+```
