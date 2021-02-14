@@ -52,28 +52,16 @@ fgosccnt でアイテムデータを認識できるようにする
 $ python make_hash_battle.py
 ```
 ## 4. クエストデータの登録: (イベント名).json の作成
-1. 種火以外埋まった戦利品表のスクショを入手して fgosccalc などで処理させる
-   * または#FGO周回カウンタなどからドロップ情報を得る
-2. クエスト名とidを取得する
+1. questIdを #fgo-updates の投稿などから取得する
+2. 概念礼装と種火以外埋まった戦利品表のスクショを入手してquestId.(jpg|png)と名前をつけ、img2str.pyで処理させる
 ```
-$ python extract_event.py
+$ python img2str.py questId.jpg --csv
 ```
-作成された event_list.csv を見て、作成したいイベントのフリークエストを代表として一つだけ調べる
+3. 出力されたものをdata/csv/(イベント名).csv に追記して、自動生成が反映できない部分を修正する
+- 概念礼装の正式名称(「未ドロップ」となっている)
+- ポイント名称(「所持数無しアイテム」となってる)
 
-3. 2.で調べた id で下記コマンドを実行してフリークエスト一覧を取得・表示する
+4. 処理したデータで (イベント名).csv にドロップリストを追記して(イベント名).jsonを作成
 ```
-$ python get_quest_list.py questId
+$ python make_event_quest.py data/csv/(イベント名).csv
 ```
-
-4. もし戦利品のスクリーンショットが入手できたら下記コマンドでデータを作成する
-なければ手作業で作成する
-
-```
-$ python img2str.py --csv -q questID FILENAME
-```
-
-5. 処理したデータで (イベント名).csv にドロップリストを追記して(イベント名).jsonを作成
-```
-$ python make_event_quest.py 
-```
-* 「ポイント」「礼装」と書くと逆変換ができないので正式な名称で記述する
