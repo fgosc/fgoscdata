@@ -1,5 +1,45 @@
 [
     {
+        "id": 94056601,
+        "name": "古今東西展 初級",
+        "place": "",
+        "chapter": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94056502,
+                "name": "時計塔キーホルダー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94056501,
+                "name": "ボイジャーマグ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "古今東西展 初級"
+    },
+    {
         "id": 94056602,
         "name": "古今東西展 中級",
         "place": "",
