@@ -3238,7 +3238,8 @@
         "phash": "6b16c44b6e199bf9",
         "name": "メジェぐるみ",
         "shortname": "メジェぐるみ",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "2ad4ea2e99e3349b"
     },
     {
         "id": 3,
@@ -4034,7 +4035,8 @@
         "phash": "fc0699cd3a804fd8",
         "name": "時計塔キーホルダー",
         "shortname": "キーホルダー",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "a69349348a4a4d5a"
     },
     {
         "id": 94000301,
@@ -4572,7 +4574,8 @@
         "phash": "341d4c41098d0323",
         "name": "ボイジャーマグ",
         "shortname": "マグ",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "b44c418d05234343"
     },
     {
         "id": 1,
