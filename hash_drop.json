@@ -3217,6 +3217,7 @@
         "rarity": 3,
         "phash": "1e188db3d325874c",
         "name": "スーパーロックオンチョコ〔ブルーベリー〕",
+        "shortname": "〕",
         "dropPriority": 2006
     },
     {
@@ -3226,7 +3227,18 @@
         "rarity": 3,
         "phash": "1e388db3c325874c",
         "name": "スーパーロックオンチョコ〔ストロベリー〕",
+        "shortname": "〕",
         "dropPriority": 2007
+    },
+    {
+        "id": 94056503,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "6b16c44b6e199bf9",
+        "name": "メジェぐるみ",
+        "shortname": "メジェぐるみ",
+        "dropPriority": 2003
     },
     {
         "id": 3,
@@ -4015,6 +4027,16 @@
         "phash_battle": "acb84b4ba4ac0913"
     },
     {
+        "id": 94056502,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "fc0699cd3a804fd8",
+        "name": "時計塔キーホルダー",
+        "shortname": "キーホルダー",
+        "dropPriority": 2002
+    },
+    {
         "id": 94000301,
         "type": "Item",
         "background": "bronze",
@@ -4541,6 +4563,16 @@
         "shortname": "フェザー",
         "dropPriority": 2001,
         "phash_battle": "2c5f63b4cae598a1"
+    },
+    {
+        "id": 94056501,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "341d4c41098d0323",
+        "name": "ボイジャーマグ",
+        "shortname": "マグ",
+        "dropPriority": 2001
     },
     {
         "id": 1,
