@@ -182,5 +182,57 @@
             }
         ],
         "shortname": "彫刻ゾーン"
+    },
+    {
+        "id": 94056605,
+        "name": "古今東西展 模型ゾーン",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 6537,
+                "name": "巨人の指輪",
+                "type": "Item",
+                "dropPriority": 8312
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94056502,
+                "name": "時計塔キーホルダー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94056501,
+                "name": "ボイジャーマグ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "模型ゾーン"
     }
 ]
