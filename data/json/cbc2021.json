@@ -286,5 +286,57 @@
             }
         ],
         "shortname": "王室ゾーン"
+    },
+    {
+        "id": 94056607,
+        "name": "古今東西展 遺跡ゾーン",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94056503,
+                "name": "メジェぐるみ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94056501,
+                "name": "ボイジャーマグ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "遺跡ゾーン"
     }
 ]
