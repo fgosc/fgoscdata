@@ -51,6 +51,12 @@ fgosccnt でアイテムデータを認識できるようにする
 ```
 $ python make_hash_battle.py
 ```
+
+その後以下を実行する
+
+```
+$ python update.py
+```
 ## 4. クエストデータの登録: (イベント名).json の作成
 1. questIdを #fgo-updates の投稿などから取得する
 
