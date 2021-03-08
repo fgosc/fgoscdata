@@ -338,5 +338,63 @@
             }
         ],
         "shortname": "遺跡ゾーン"
+    },
+    {
+        "id": 94056608,
+        "name": "古今東西展 刀剣ゾーン",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6540,
+                "name": "九十九鏡",
+                "type": "Item",
+                "dropPriority": 8506
+            },
+            {
+                "id": 6543,
+                "name": "光銀の冠",
+                "type": "Item",
+                "dropPriority": 8316
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94056503,
+                "name": "メジェぐるみ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94056502,
+                "name": "時計塔キーホルダー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94056501,
+                "name": "ボイジャーマグ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "刀剣ゾーン"
     }
 ]
