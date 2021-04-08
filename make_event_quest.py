@@ -50,8 +50,8 @@ def list2dic(quest_list):
         event_quest = FgoEventQuest(int(quest["id"]), quest["quest"],
                                     "", "", qp, drop, quest["shortname"])
         if quest["quest"] != spotname:
-            logger.warning("場所名が異なります: $s %s %s",
-                           infile, quest["quest"], spotname)
+            logger.warning("場所名が異なります: %s %s",
+                           quest["quest"], spotname)
         
         quest_output.append(dataclasses.asdict(event_quest))
     return quest_output
