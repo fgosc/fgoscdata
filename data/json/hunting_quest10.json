@@ -550,5 +550,213 @@
             }
         ],
         "shortname": "巨人・ハント 典位+級"
+    },
+    {
+        "id": 94058413,
+        "name": "マンティコア・ハント 開位級",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "shortname": "マンティコア・ハント 開位級"
+    },
+    {
+        "id": 94058414,
+        "name": "マンティコア・ハント 祭位級",
+        "place": "",
+        "chapter": "",
+        "qp": 7900,
+        "drop": [
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "shortname": "マンティコア・ハント 祭位級"
+    },
+    {
+        "id": 94058415,
+        "name": "マンティコア・ハント 典位級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "shortname": "マンティコア・ハント 典位級"
+    },
+    {
+        "id": 94058416,
+        "name": "マンティコア・ハント 典位+級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "shortname": "マンティコア・ハント 典位+級"
     }
 ]
