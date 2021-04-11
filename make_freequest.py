@@ -40,6 +40,12 @@ for item in drop_item:
             alias2id[unicodedata.normalize('NFKC', a)] = item["id"]
 
 
+class APIError(Exception):
+    """
+    API 呼び出しが失敗したことを示すエラー
+    """
+
+
 @dataclasses.dataclass(frozen=True)
 class DropItem:
     """
@@ -69,7 +75,11 @@ class FgoFreeQuest(FgoQuest):
     scPriority: int
 
 def questId2quest(questId):
-    r_get = requests.get(url_quest + str(questId) + "/1")
+    endpoint = f"{url_quest}{questId}/1"
+    logger.info("calling HTTP API: %s", endpoint)
+    r_get = requests.get(endpoint)
+    if r_get.status_code != 200:
+        raise APIError(f"status code: {r_get.status_code}, text: {r_get.text}")
     quest = r_get.json()
     return quest
     
