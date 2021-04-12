@@ -966,5 +966,213 @@
             }
         ],
         "shortname": "巨大魔猪・ハント 典位+級"
+    },
+    {
+        "id": 94058421,
+        "name": "ケルベロス・ハント 開位級",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 6544,
+                "name": "煌星のカケラ",
+                "type": "Item",
+                "dropPriority": 8508
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
+                "type": "Exp. UP",
+                "dropPriority": 676
+            }
+        ],
+        "shortname": "ケルベロス・ハント 開位級"
+    },
+    {
+        "id": 94058422,
+        "name": "ケルベロス・ハント 祭位級",
+        "place": "",
+        "chapter": "",
+        "qp": 7900,
+        "drop": [
+            {
+                "id": 6544,
+                "name": "煌星のカケラ",
+                "type": "Item",
+                "dropPriority": 8508
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
+                "type": "Exp. UP",
+                "dropPriority": 676
+            }
+        ],
+        "shortname": "ケルベロス・ハント 祭位級"
+    },
+    {
+        "id": 94058423,
+        "name": "ケルベロス・ハント 典位級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6544,
+                "name": "煌星のカケラ",
+                "type": "Item",
+                "dropPriority": 8508
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
+                "type": "Exp. UP",
+                "dropPriority": 676
+            }
+        ],
+        "shortname": "ケルベロス・ハント 典位級"
+    },
+    {
+        "id": 94058424,
+        "name": "ケルベロス・ハント 典位+級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6544,
+                "name": "煌星のカケラ",
+                "type": "Item",
+                "dropPriority": 8508
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
+                "type": "Exp. UP",
+                "dropPriority": 676
+            }
+        ],
+        "shortname": "ケルベロス・ハント 典位+級"
     }
 ]
