@@ -1,0 +1,48 @@
+[
+    {
+        "id": 94058103,
+        "name": "路上で握手会〔パフォーマンスUP〕",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9405160,
+                "name": "茜の空に咲く",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94057906,
+                "name": "アイドリウムポイント〔パフォーマンス〕",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94057903,
+                "name": "ストーンペンライト",
+                "type": "Item",
+                "dropPriority": 2003
+            }
+        ],
+        "shortname": "路上で握手会"
+    }
+]
