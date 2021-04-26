@@ -517,6 +517,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "錦上添花",
+        "name_eng": "Crowning Beauty, Greater Glory",
         "shortname": "礼装",
         "phash": "07f01e06310ea172",
         "phash_narrow": "a7f80e731fa69193",
@@ -700,6 +701,34 @@
         "dropPriority": 9005
     },
     {
+        "id": 9405080,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "夢の生まれる街",
+        "phash": "89a1e0fb9e06075f",
+        "phash_narrow": "09a1f9f9aca65b1f",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9405110,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "絡繰れぬモノ",
+        "phash": "c1fa3acebcd4dbbc",
+        "phash_narrow": "c13b4328f4e3fceb",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9405160,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "茜の空に咲く",
+        "shortname": "礼装",
+        "phash": "88af833a2f431ea4",
+        "phash_narrow": "988f933c414e7630",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -737,6 +766,15 @@
         "name_eng": "Golden Wings",
         "phash": "61e29d2df2d76bb7",
         "phash_narrow": "61921d38dcabdde6",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9405090,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "ジャンク・ショップ",
+        "phash": "cb3094cc2f5ebc87",
+        "phash_narrow": "6b32d0a75b284ffa",
         "dropPriority": 9004
     },
     {
@@ -914,6 +952,15 @@
         "name_eng": "Nostalgic Form",
         "phash": "a5933f4163006952",
         "phash_narrow": "a493bd43a60d270c",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9405100,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "ハオ・チー？",
+        "phash": "381609463663cc1d",
+        "phash_narrow": "b23b881623e665fd",
         "dropPriority": 9003
     },
     {
@@ -2096,6 +2143,36 @@
         "phash_battle": "1c892382d192a443"
     },
     {
+        "id": 94057906,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "9e68699866469899",
+        "name": "アイドリウムポイント〔パフォーマンス〕",
+        "shortname": "ポイントP",
+        "dropPriority": 3004
+    },
+    {
+        "id": 94057905,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "96c22d3cc9d35c86",
+        "name": "アイドリウムポイント〔ダンス〕",
+        "shortname": "ポイントD",
+        "dropPriority": 3005
+    },
+    {
+        "id": 94057904,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "6ee2998ce1336011",
+        "name": "アイドリウムポイント〔ボーカル〕",
+        "shortname": "ポイントV",
+        "dropPriority": 3006
+    },
+    {
         "id": 94056104,
         "type": "Point",
         "background": "silver",
@@ -2992,6 +3069,7 @@
         "rarity": 3,
         "phash": "1e93c96c12cc2929",
         "name": "ハーミットシェーカー",
+        "name_eng": "Hermit Cocktail Shaker",
         "shortname": "シェーカー",
         "dropPriority": 2003,
         "phash_battle": "96c36c16892509b6"
@@ -3003,6 +3081,7 @@
         "rarity": 3,
         "phash": "4e46b19c82e90df2",
         "name": "花かんざし",
+        "name_eng": "Floral Hairpin",
         "shortname": "かんざし",
         "dropPriority": 2003,
         "phash_battle": "6e719da26d9a4472"
@@ -3217,7 +3296,6 @@
         "rarity": 3,
         "phash": "1e188db3d325874c",
         "name": "スーパーロックオンチョコ〔ブルーベリー〕",
-        "shortname": "〕",
         "dropPriority": 2006
     },
     {
@@ -3227,7 +3305,6 @@
         "rarity": 3,
         "phash": "1e388db3c325874c",
         "name": "スーパーロックオンチョコ〔ストロベリー〕",
-        "shortname": "〕",
         "dropPriority": 2007
     },
     {
@@ -3240,6 +3317,34 @@
         "shortname": "メジェぐるみ",
         "dropPriority": 2003,
         "phash_battle": "2ad4ea2e99e3349b"
+    },
+    {
+        "id": 94057903,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7629d2a448b167cf",
+        "name": "ストーンペンライト",
+        "shortname": "ペンライト",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94057907,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "f306abec0613f84d",
+        "name": "アイドル霊衣開放チケット",
+        "dropPriority": 2007
+    },
+    {
+        "id": 94057908,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "966d4bb06c83713c",
+        "name": "コスモギター",
+        "dropPriority": 2008
     },
     {
         "id": 3,
@@ -3762,6 +3867,7 @@
         "rarity": 2,
         "phash": "460c893260951a2d",
         "name": "トリッキークロス",
+        "name_eng": "Tricky Cloth",
         "shortname": "クロス",
         "dropPriority": 2002,
         "phash_battle": "4e8d6b40593908e4"
@@ -3773,6 +3879,7 @@
         "rarity": 2,
         "phash": "1662ed980becca06",
         "name": "月つやべに",
+        "name_eng": "Lunar Luster Rouge",
         "shortname": "つやべに",
         "dropPriority": 2002,
         "phash_battle": "16ed19a9ec0e5232"
@@ -4037,6 +4144,16 @@
         "shortname": "キーホルダー",
         "dropPriority": 2002,
         "phash_battle": "a69349348a4a4d5a"
+    },
+    {
+        "id": 94057902,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "d7f22d2c5a4b38b1",
+        "name": "エンペラーうちわ",
+        "shortname": "うちわ",
+        "dropPriority": 2002
     },
     {
         "id": 94000301,
@@ -4378,6 +4495,7 @@
         "rarity": 1,
         "phash": "560385c12938094c",
         "name": "バッドコースター",
+        "name_eng": "Spiderweb Coaster",
         "shortname": "コースター",
         "dropPriority": 2001,
         "phash_battle": "560741a939080284"
@@ -4389,6 +4507,7 @@
         "rarity": 1,
         "phash": "6683892813dc248b",
         "name": "雪おしろい",
+        "name_eng": "Snowy Face Powder",
         "shortname": "おしろい",
         "dropPriority": 2001,
         "phash_battle": "26dd2913ac932443"
@@ -4576,6 +4695,16 @@
         "shortname": "マグ",
         "dropPriority": 2001,
         "phash_battle": "b44c418d05234343"
+    },
+    {
+        "id": 94057901,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "fc250bfc2783d007",
+        "name": "マハトマタオル",
+        "shortname": "タオル",
+        "dropPriority": 2001
     },
     {
         "id": 1,
