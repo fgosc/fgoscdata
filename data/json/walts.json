@@ -1,5 +1,57 @@
 [
     {
+        "id": 94058101,
+        "name": "ストリートでダンスバトル〔ダンスUP〕",
+        "place": "",
+        "chapter": "",
+        "qp": 2400,
+        "drop": [
+            {
+                "id": 9405160,
+                "name": "茜の空に咲く",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 94057905,
+                "name": "アイドリウムポイント〔ダンス〕",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94057901,
+                "name": "マハトマタオル",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "ストリートでダンスバトル"
+    },
+    {
         "id": 94058102,
         "name": "野外ステージで発声練習〔ボーカルUP〕",
         "place": "",
