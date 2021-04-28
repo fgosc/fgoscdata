@@ -224,5 +224,75 @@
             }
         ],
         "shortname": "オンエアステージを視察"
+    },
+    {
+        "id": 94058105,
+        "name": "街角でPV撮影〔パフォーマンス＆ボーカルUP〕",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9405160,
+                "name": "茜の空に咲く",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6511,
+                "name": "禁断の頁",
+                "type": "Item",
+                "dropPriority": 8303
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94057904,
+                "name": "アイドリウムポイント〔ボーカル〕",
+                "type": "Point",
+                "dropPriority": 3006
+            },
+            {
+                "id": 94057906,
+                "name": "アイドリウムポイント〔パフォーマンス〕",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94057901,
+                "name": "マハトマタオル",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "街角でPV撮影"
     }
 ]
