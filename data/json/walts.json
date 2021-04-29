@@ -296,6 +296,70 @@
         "shortname": "街角でPV撮影"
     },
     {
+        "id": 94058106,
+        "name": "砂浜で走り込み〔ダンス＆パフォーマンスUP〕",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9405160,
+                "name": "茜の空に咲く",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94057905,
+                "name": "アイドリウムポイント〔ダンス〕",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94057906,
+                "name": "アイドリウムポイント〔パフォーマンス〕",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94057902,
+                "name": "エンペラーうちわ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "砂浜で走り込み"
+    },
+    {
         "id": 94058107,
         "name": "スタジオで振り付け練習〔ボーカル＆ダンスUP〕",
         "place": "",
