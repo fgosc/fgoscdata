@@ -294,5 +294,63 @@
             }
         ],
         "shortname": "街角でPV撮影"
+    },
+    {
+        "id": 94058107,
+        "name": "スタジオで振り付け練習〔ボーカル＆ダンスUP〕",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9405160,
+                "name": "茜の空に咲く",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6543,
+                "name": "光銀の冠",
+                "type": "Item",
+                "dropPriority": 8316
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94057904,
+                "name": "アイドリウムポイント〔ボーカル〕",
+                "type": "Point",
+                "dropPriority": 3006
+            },
+            {
+                "id": 94057905,
+                "name": "アイドリウムポイント〔ダンス〕",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94057903,
+                "name": "ストーンペンライト",
+                "type": "Item",
+                "dropPriority": 2003
+            }
+        ],
+        "shortname": "スタジオで振り付け練習"
     }
 ]
