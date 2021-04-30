@@ -416,5 +416,69 @@
             }
         ],
         "shortname": "スタジオで振り付け練習"
+    },
+    {
+        "id": 94058108,
+        "name": "コーラスリハーサル〔パフォーマンス＆ボーカルUP〕",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405160,
+                "name": "茜の空に咲く",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94057904,
+                "name": "アイドリウムポイント〔ボーカル〕",
+                "type": "Point",
+                "dropPriority": 3006
+            },
+            {
+                "id": 94057906,
+                "name": "アイドリウムポイント〔パフォーマンス〕",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94057901,
+                "name": "マハトマタオル",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "コーラスリハーサル"
     }
 ]
