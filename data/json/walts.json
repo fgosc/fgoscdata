@@ -480,5 +480,133 @@
             }
         ],
         "shortname": "コーラスリハーサル"
+    },
+    {
+        "id": 94058109,
+        "name": "フォーメーションリハーサル〔ダンス＆パフォーマンスUP〕",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405160,
+                "name": "茜の空に咲く",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6546,
+                "name": "悠久の実",
+                "type": "Item",
+                "dropPriority": 8407
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94057905,
+                "name": "アイドリウムポイント〔ダンス〕",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94057906,
+                "name": "アイドリウムポイント〔パフォーマンス〕",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94057902,
+                "name": "エンペラーうちわ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "フォーメーションリハーサル"
+    },
+    {
+        "id": 94058110,
+        "name": "セッティングリハーサル〔ボーカル＆ダンスUP〕",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405160,
+                "name": "茜の空に咲く",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94057904,
+                "name": "アイドリウムポイント〔ボーカル〕",
+                "type": "Point",
+                "dropPriority": 3006
+            },
+            {
+                "id": 94057905,
+                "name": "アイドリウムポイント〔ダンス〕",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94057903,
+                "name": "ストーンペンライト",
+                "type": "Item",
+                "dropPriority": 2003
+            }
+        ],
+        "shortname": "セッティングリハーサル"
     }
 ]
