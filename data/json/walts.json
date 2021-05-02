@@ -666,5 +666,63 @@
             }
         ],
         "shortname": "商店街でゲリラライブ"
+    },
+    {
+        "id": 94058113,
+        "name": "コロッセオで対バンライブ〔ボーカルUP〕",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405160,
+                "name": "茜の空に咲く",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6517,
+                "name": "蛮神の心臓",
+                "type": "Item",
+                "dropPriority": 8500
+            },
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94057904,
+                "name": "アイドリウムポイント〔ボーカル〕",
+                "type": "Point",
+                "dropPriority": 3006
+            },
+            {
+                "id": 94057903,
+                "name": "ストーンペンライト",
+                "type": "Item",
+                "dropPriority": 2003
+            }
+        ],
+        "shortname": "コロッセオで対バンライブ"
     }
 ]
