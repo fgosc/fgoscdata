@@ -1262,7 +1262,8 @@
         "phash": "5658052da1d021d6",
         "name": "夢幻の鱗粉",
         "shortname": "鱗粉",
-        "dropPriority": 8319
+        "dropPriority": 8319,
+        "phash_battle": "6764269b99b99999"
     },
     {
         "id": 6547,
@@ -1532,7 +1533,8 @@
         "phash": "5659258d21d2a152",
         "name": "赦免の小鐘",
         "shortname": "小鐘",
-        "dropPriority": 8106
+        "dropPriority": 8106,
+        "phash_battle": "269b486f22da4625"
     },
     {
         "id": 6534,
