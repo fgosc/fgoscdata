@@ -2430,7 +2430,8 @@
         "name": "真紅の花びら",
         "name_eng": "Crimson Petal",
         "shortname": "花びら",
-        "dropPriority": 2004
+        "dropPriority": 2004,
+        "phash_battle": "1c835364588492c3"
     },
     {
         "id": 94002805,
@@ -2492,7 +2493,8 @@
         "name": "ネロメダル〔金〕",
         "name_eng": "Nero Medal [Gold]",
         "shortname": "金メダル",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "7602f19d94d61189"
     },
     {
         "id": 94000402,
@@ -3330,7 +3332,8 @@
         "name": "ネロメダル〔銀〕",
         "name_eng": "Nero Medal [Silver]",
         "shortname": "銀メダル",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "7622f19d94d2118d"
     },
     {
         "id": 94000401,
@@ -4132,7 +4135,8 @@
         "name": "ネロメダル〔銅〕",
         "name_eng": "Nero Medal [Bronze]",
         "shortname": "銅メダル",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "7603f19d94d2118d"
     },
     {
         "id": 94000501,
