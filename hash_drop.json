@@ -330,11 +330,23 @@
         "dropPriority": 9005
     },
     {
+        "id": 9402650,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "二神三脚",
+        "name_eng": "Divine Three-Legged Race",
+        "shortname": "二神",
+        "phash": "e7e214f4ed459ffc",
+        "phash_narrow": "ee1214bc49037859",
+        "dropPriority": 9005
+    },
+    {
         "id": 9402660,
         "type": "Craft Essence",
         "rarity": 5,
         "name": "チア・フォー・マスター",
         "name_eng": "Cheer for Master",
+        "shortname": "チア",
         "phash": "9963709e944be3b1",
         "phash_narrow": "99635c9c4dc6f859",
         "dropPriority": 9005
