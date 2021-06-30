@@ -210,6 +210,88 @@
         "shortname": "予選 上級"
     },
     {
+        "id": 94060013,
+        "name": "予選 超級 キッチンカルデア2017",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9402650,
+                "name": "二神三脚",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9402660,
+                "name": "チア・フォー・マスター",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94007104,
+                "name": "真紅の花びら",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94000303,
+                "name": "ネロメダル〔金〕",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94000302,
+                "name": "ネロメダル〔銀〕",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "予選 超級"
+    },
+    {
         "id": 94060014,
         "name": "予選 勇者級 大江山ダウンヒル",
         "place": "",
