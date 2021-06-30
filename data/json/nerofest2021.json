@@ -210,6 +210,88 @@
         "shortname": "予選 上級"
     },
     {
+        "id": 94060014,
+        "name": "予選 勇者級 大江山ダウンヒル",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9402650,
+                "name": "二神三脚",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9402660,
+                "name": "チア・フォー・マスター",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6529,
+                "name": "呪獣胆石",
+                "type": "Item",
+                "dropPriority": 8504
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94007104,
+                "name": "真紅の花びら",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94000303,
+                "name": "ネロメダル〔金〕",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94000301,
+                "name": "ネロメダル〔銅〕",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "予選 勇者級"
+    },
+    {
         "id": 94060015,
         "name": "予選 王者級 未知と解析",
         "place": "",
