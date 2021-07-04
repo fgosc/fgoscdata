@@ -812,6 +812,76 @@
         "shortname": "本戦 勇者級"
     },
     {
+        "id": 94060021,
+        "name": "本戦 王者級 勇者の戦い",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9402660,
+                "name": "チア・フォー・マスター",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6531,
+                "name": "奇奇神酒",
+                "type": "Item",
+                "dropPriority": 8505
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94007104,
+                "name": "真紅の花びら",
+                "type": "Item",
+                "dropPriority": 2004
+            }
+        ],
+        "shortname": "本戦 王者級"
+    },
+    {
         "id": 94060051,
         "name": "本戦 覇者級 アンチヒーローズ",
         "place": "",
