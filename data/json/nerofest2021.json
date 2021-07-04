@@ -512,5 +512,291 @@
             }
         ],
         "shortname": "予選 覇者級"
+    },
+    {
+        "id": 94060016,
+        "name": "本戦 初級 美女と闘士",
+        "place": "",
+        "chapter": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 9402650,
+                "name": "二神三脚",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9402660,
+                "name": "チア・フォー・マスター",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94007104,
+                "name": "真紅の花びら",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94000302,
+                "name": "ネロメダル〔銀〕",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94000301,
+                "name": "ネロメダル〔銅〕",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "本戦 初級"
+    },
+    {
+        "id": 94060017,
+        "name": "本戦 中級 フランケンシュタインの家族",
+        "place": "",
+        "chapter": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9402650,
+                "name": "二神三脚",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9402660,
+                "name": "チア・フォー・マスター",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94007104,
+                "name": "真紅の花びら",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94000303,
+                "name": "ネロメダル〔金〕",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94000302,
+                "name": "ネロメダル〔銀〕",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "本戦 中級"
+    },
+    {
+        "id": 94060018,
+        "name": "本戦 上級 L・L・L",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9402650,
+                "name": "二神三脚",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9402660,
+                "name": "チア・フォー・マスター",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94007104,
+                "name": "真紅の花びら",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94000302,
+                "name": "ネロメダル〔銀〕",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94000301,
+                "name": "ネロメダル〔銅〕",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "本戦 上級"
+    },
+    {
+        "id": 94060051,
+        "name": "本戦 覇者級 アンチヒーローズ",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9402660,
+                "name": "チア・フォー・マスター",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6540,
+                "name": "九十九鏡",
+                "type": "Item",
+                "dropPriority": 8506
+            },
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94007104,
+                "name": "真紅の花びら",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94000303,
+                "name": "ネロメダル〔金〕",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94000302,
+                "name": "ネロメダル〔銀〕",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94000301,
+                "name": "ネロメダル〔銅〕",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "本戦 覇者級"
     }
 ]
