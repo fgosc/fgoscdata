@@ -1052,6 +1052,70 @@
         "shortname": "本戦 覇者級"
     },
     {
+        "id": 94060022,
+        "name": "決勝 初級 美しすぎる二人",
+        "place": "",
+        "chapter": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 9402650,
+                "name": "二神三脚",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9402660,
+                "name": "チア・フォー・マスター",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94007104,
+                "name": "真紅の花びら",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94000302,
+                "name": "ネロメダル〔銀〕",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94000301,
+                "name": "ネロメダル〔銅〕",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "決勝 初級"
+    },
+    {
         "id": 94060023,
         "name": "決勝 中級 おにぎり百連発",
         "place": "",
