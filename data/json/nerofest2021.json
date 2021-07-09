@@ -1114,5 +1114,75 @@
             }
         ],
         "shortname": "決勝 中級"
+    },
+    {
+        "id": 94060052,
+        "name": "決勝 覇者級 カルデア指南役",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9402660,
+                "name": "チア・フォー・マスター",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94007104,
+                "name": "真紅の花びら",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94000303,
+                "name": "ネロメダル〔金〕",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94000302,
+                "name": "ネロメダル〔銀〕",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94000301,
+                "name": "ネロメダル〔銅〕",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "決勝 覇者級"
     }
 ]
