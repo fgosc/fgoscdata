@@ -8,7 +8,8 @@ from pathlib import Path
 import csv
 import unicodedata
 from make_freequest import id2name, id2type, id2dropPriority
-from make_freequest import alias2id, DropItem, FgoFreeQuest, questId2qp
+# from make_freequest import alias2id, DropItem, FgoFreeQuest, questId2qp
+from make_freequest import alias2id, DropItem, FgoFreeQuest, questId2quest
 
 logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
 logger = logging.getLogger(__name__)
@@ -42,7 +43,8 @@ def main(args):
 
         drop = sorted(drop, key=lambda x: x.dropPriority, reverse=True)
         questId = int(tmp["id"])
-        qp = questId2qp[questId]
+        quest = questId2quest(questId)
+        qp = quest["qp"]
         logger.debug('drop: %s', drop)
         qname = tmp["shortname"].split(" ")
         event_quest = FgoFreeQuest(int(tmp["id"]), tmp["quest"], qname[1],
