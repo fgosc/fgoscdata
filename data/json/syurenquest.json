@@ -369,6 +369,12 @@
                 "name": "アーチャーピース",
                 "type": "Item",
                 "dropPriority": 5199
+            },
+            {
+                "id": 9703400,
+                "name": "弓猛火",
+                "type": "Exp. UP",
+                "dropPriority": 681
             }
         ],
         "scPriority": 1004
