@@ -8389,10 +8389,58 @@
         "qp": 10140,
         "drop": [
             {
-                "id": 9702400,
-                "name": "槍猛火",
+                "id": 6549,
+                "name": "赦免の小鐘",
+                "type": "Item",
+                "dropPriority": 8106
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
                 "type": "Exp. UP",
-                "dropPriority": 686
+                "dropPriority": 676
+            },
+            {
+                "id": 9705400,
+                "name": "術猛火",
+                "type": "Exp. UP",
+                "dropPriority": 671
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
             }
         ],
         "scPriority": 1214
@@ -8421,10 +8469,52 @@
         "qp": 10140,
         "drop": [
             {
-                "id": 9702400,
-                "name": "槍猛火",
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
                 "type": "Exp. UP",
-                "dropPriority": 686
+                "dropPriority": 691
+            },
+            {
+                "id": 9703400,
+                "name": "弓猛火",
+                "type": "Exp. UP",
+                "dropPriority": 681
+            },
+            {
+                "id": 9705400,
+                "name": "術猛火",
+                "type": "Exp. UP",
+                "dropPriority": 671
             }
         ],
         "scPriority": 1216
@@ -8499,10 +8589,40 @@
         "qp": 10400,
         "drop": [
             {
-                "id": 9702400,
-                "name": "槍猛火",
+                "id": 6518,
+                "name": "精霊根",
+                "type": "Item",
+                "dropPriority": 8502
+            },
+            {
+                "id": 6550,
+                "name": "夢幻の鱗粉",
+                "type": "Item",
+                "dropPriority": 8319
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
                 "type": "Exp. UP",
-                "dropPriority": 686
+                "dropPriority": 691
+            },
+            {
+                "id": 9701500,
+                "name": "剣業火",
+                "type": "Exp. UP",
+                "dropPriority": 690
             }
         ],
         "scPriority": 1219
@@ -8573,10 +8693,34 @@
         "qp": 10660,
         "drop": [
             {
-                "id": 9702400,
-                "name": "槍猛火",
+                "id": 6550,
+                "name": "夢幻の鱗粉",
+                "type": "Item",
+                "dropPriority": 8319
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
                 "type": "Exp. UP",
-                "dropPriority": 686
+                "dropPriority": 691
+            },
+            {
+                "id": 9705400,
+                "name": "術猛火",
+                "type": "Exp. UP",
+                "dropPriority": 671
             }
         ],
         "scPriority": 1221
@@ -8637,10 +8781,76 @@
         "qp": 10920,
         "drop": [
             {
-                "id": 9702400,
-                "name": "槍猛火",
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6549,
+                "name": "赦免の小鐘",
+                "type": "Item",
+                "dropPriority": 8106
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 9703400,
+                "name": "弓猛火",
                 "type": "Exp. UP",
-                "dropPriority": 686
+                "dropPriority": 681
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
+                "type": "Exp. UP",
+                "dropPriority": 676
+            },
+            {
+                "id": 9705400,
+                "name": "術猛火",
+                "type": "Exp. UP",
+                "dropPriority": 671
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
             }
         ],
         "scPriority": 1225
@@ -8653,10 +8863,28 @@
         "qp": 11180,
         "drop": [
             {
-                "id": 9702400,
-                "name": "槍猛火",
-                "type": "Exp. UP",
-                "dropPriority": 686
+                "id": 6537,
+                "name": "巨人の指輪",
+                "type": "Item",
+                "dropPriority": 8312
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
             }
         ],
         "scPriority": 1226
@@ -8761,10 +8989,40 @@
         "qp": 11440,
         "drop": [
             {
-                "id": 9702400,
-                "name": "槍猛火",
+                "id": 6550,
+                "name": "夢幻の鱗粉",
+                "type": "Item",
+                "dropPriority": 8319
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
                 "type": "Exp. UP",
-                "dropPriority": 686
+                "dropPriority": 691
+            },
+            {
+                "id": 9705400,
+                "name": "術猛火",
+                "type": "Exp. UP",
+                "dropPriority": 671
             }
         ],
         "scPriority": 1229
