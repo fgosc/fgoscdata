@@ -8453,10 +8453,40 @@
         "qp": 10400,
         "drop": [
             {
-                "id": 9702400,
-                "name": "槍猛火",
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6549,
+                "name": "赦免の小鐘",
+                "type": "Item",
+                "dropPriority": 8106
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
                 "type": "Exp. UP",
-                "dropPriority": 686
+                "dropPriority": 691
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
             }
         ],
         "scPriority": 1218
