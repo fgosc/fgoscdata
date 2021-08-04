@@ -8380,5 +8380,291 @@
             }
         ],
         "scPriority": 1213
+    },
+    {
+        "id": 93031000,
+        "name": "忘れじの砂浜",
+        "place": "霧の海岸",
+        "chapter": "アヴァロン",
+        "qp": 10140,
+        "drop": [
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1214
+    },
+    {
+        "id": 93031001,
+        "name": "名なしの森",
+        "place": "コーンウォールの村",
+        "chapter": "アヴァロン",
+        "qp": 10140,
+        "drop": [
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1215
+    },
+    {
+        "id": 93031002,
+        "name": "トゥインクルカテドラル",
+        "place": "ソールズベリー",
+        "chapter": "アヴァロン",
+        "qp": 10140,
+        "drop": [
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1216
+    },
+    {
+        "id": 93031003,
+        "name": "フェアリーズオークション",
+        "place": "グロスター",
+        "chapter": "アヴァロン",
+        "qp": 10400,
+        "drop": [
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1217
+    },
+    {
+        "id": 93031004,
+        "name": "願いの淵",
+        "place": "涙の河",
+        "chapter": "アヴァロン",
+        "qp": 10400,
+        "drop": [
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1218
+    },
+    {
+        "id": 93031005,
+        "name": "鉄の街、煤の海",
+        "place": "ノリッジ",
+        "chapter": "アヴァロン",
+        "qp": 10400,
+        "drop": [
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1219
+    },
+    {
+        "id": 93031006,
+        "name": "赦免の城",
+        "place": "キャメロット",
+        "chapter": "アヴァロン",
+        "qp": 10660,
+        "drop": [
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1220
+    },
+    {
+        "id": 93031007,
+        "name": "希望の廃都",
+        "place": "ロンディニウム",
+        "chapter": "アヴァロン",
+        "qp": 10660,
+        "drop": [
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1221
+    },
+    {
+        "id": 93031008,
+        "name": "弱肉強食",
+        "place": "マンチェスター",
+        "chapter": "アヴァロン",
+        "qp": 10660,
+        "drop": [
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1222
+    },
+    {
+        "id": 93031009,
+        "name": "境界の森",
+        "place": "湖水地方",
+        "chapter": "アヴァロン",
+        "qp": 10920,
+        "drop": [
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1223
+    },
+    {
+        "id": 93031010,
+        "name": "大地の果て",
+        "place": "果ての海岸",
+        "chapter": "アヴァロン",
+        "qp": 10920,
+        "drop": [
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1224
+    },
+    {
+        "id": 93031011,
+        "name": "雨の都",
+        "place": "オークニー",
+        "chapter": "アヴァロン",
+        "qp": 10920,
+        "drop": [
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1225
+    },
+    {
+        "id": 93031012,
+        "name": "スイーツキッチン",
+        "place": "エディンバラ",
+        "chapter": "アヴァロン",
+        "qp": 11180,
+        "drop": [
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1226
+    },
+    {
+        "id": 93031013,
+        "name": "カルネージシアター",
+        "place": "ニュー・ダーリントン",
+        "chapter": "アヴァロン",
+        "qp": 11180,
+        "drop": [
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1227
+    },
+    {
+        "id": 93031014,
+        "name": "レストランストリート",
+        "place": "オックスフォード",
+        "chapter": "アヴァロン",
+        "qp": 11440,
+        "drop": [
+            {
+                "id": 6550,
+                "name": "夢幻の鱗粉",
+                "type": "Item",
+                "dropPriority": 8319
+            },
+            {
+                "id": 6549,
+                "name": "赦免の小鐘",
+                "type": "Item",
+                "dropPriority": 8106
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "scPriority": 1228
+    },
+    {
+        "id": 93031015,
+        "name": "ドーバーハウス",
+        "place": "ドーバーハウス",
+        "chapter": "アヴァロン",
+        "qp": 11440,
+        "drop": [
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "scPriority": 1229
     }
 ]
