@@ -8844,6 +8844,86 @@
         "scPriority": 1222
     },
     {
+        "id": 93031012,
+        "name": "スイーツキッチン",
+        "place": "エディンバラ",
+        "chapter": "アヴァロン",
+        "qp": 11180,
+        "drop": [
+            {
+                "id": 6537,
+                "name": "巨人の指輪",
+                "type": "Item",
+                "dropPriority": 8312
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            }
+        ],
+        "scPriority": 1223
+    },
+    {
+        "id": 93031013,
+        "name": "カルネージシアター",
+        "place": "ニュー・ダーリントン",
+        "chapter": "アヴァロン",
+        "qp": 11180,
+        "drop": [
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6549,
+                "name": "赦免の小鐘",
+                "type": "Item",
+                "dropPriority": 8106
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
+                "type": "Exp. UP",
+                "dropPriority": 676
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "scPriority": 1224
+    },
+    {
         "id": 93031009,
         "name": "境界の森",
         "place": "湖水地方",
@@ -8917,7 +8997,7 @@
                 "dropPriority": 661
             }
         ],
-        "scPriority": 1223
+        "scPriority": 1225
     },
     {
         "id": 93031010,
@@ -8993,7 +9073,7 @@
                 "dropPriority": 661
             }
         ],
-        "scPriority": 1224
+        "scPriority": 1226
     },
     {
         "id": 93031011,
@@ -9057,96 +9137,16 @@
                 "dropPriority": 676
             },
             {
-                "id": 9704400,
-                "name": "騎猛火",
+                "id": 9705400,
+                "name": "術猛火",
                 "type": "Exp. UP",
-                "dropPriority": 676
+                "dropPriority": 671
             },
             {
                 "id": 9706400,
                 "name": "殺猛火",
                 "type": "Exp. UP",
                 "dropPriority": 666
-            },
-            {
-                "id": 9707400,
-                "name": "狂猛火",
-                "type": "Exp. UP",
-                "dropPriority": 661
-            }
-        ],
-        "scPriority": 1225
-    },
-    {
-        "id": 93031012,
-        "name": "スイーツキッチン",
-        "place": "エディンバラ",
-        "chapter": "アヴァロン",
-        "qp": 11180,
-        "drop": [
-            {
-                "id": 6537,
-                "name": "巨人の指輪",
-                "type": "Item",
-                "dropPriority": 8312
-            },
-            {
-                "id": 6503,
-                "name": "英雄の証",
-                "type": "Item",
-                "dropPriority": 8100
-            },
-            {
-                "id": 6107,
-                "name": "狂の魔石",
-                "type": "Item",
-                "dropPriority": 6194
-            },
-            {
-                "id": 6003,
-                "name": "槍の輝石",
-                "type": "Item",
-                "dropPriority": 6098
-            }
-        ],
-        "scPriority": 1226
-    },
-    {
-        "id": 93031013,
-        "name": "カルネージシアター",
-        "place": "ニュー・ダーリントン",
-        "chapter": "アヴァロン",
-        "qp": 11180,
-        "drop": [
-            {
-                "id": 6501,
-                "name": "鳳凰の羽根",
-                "type": "Item",
-                "dropPriority": 8306
-            },
-            {
-                "id": 6549,
-                "name": "赦免の小鐘",
-                "type": "Item",
-                "dropPriority": 8106
-            },
-            {
-                "id": 6104,
-                "name": "騎の魔石",
-                "type": "Item",
-                "dropPriority": 6197
-            },
-            {
-                "id": 6007,
-                "name": "狂の輝石",
-                "type": "Item",
-                "dropPriority": 6094
-            },
-            {
-                "id": 9704400,
-                "name": "騎猛火",
-                "type": "Exp. UP",
-                "dropPriority": 676
             },
             {
                 "id": 9707400,
