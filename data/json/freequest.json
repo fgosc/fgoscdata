@@ -609,6 +609,12 @@
                 "name": "キャスターピース",
                 "type": "Item",
                 "dropPriority": 5196
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
+                "type": "Exp. UP",
+                "dropPriority": 676
             }
         ],
         "scPriority": 1017
