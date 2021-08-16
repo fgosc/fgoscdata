@@ -889,6 +889,12 @@
                 "name": "槍の輝石",
                 "type": "Item",
                 "dropPriority": 6098
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
             }
         ],
         "scPriority": 1024
@@ -4505,6 +4511,12 @@
                 "name": "弓の輝石",
                 "type": "Item",
                 "dropPriority": 6099
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
             }
         ],
         "scPriority": 1112
@@ -6761,6 +6773,24 @@
                 "name": "殺の魔石",
                 "type": "Item",
                 "dropPriority": 6195
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            },
+            {
+                "id": 9703400,
+                "name": "弓猛火",
+                "type": "Exp. UP",
+                "dropPriority": 681
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
             }
         ],
         "scPriority": 1169
@@ -6871,6 +6901,12 @@
                 "dropPriority": 6094
             },
             {
+                "id": 9703400,
+                "name": "弓猛火",
+                "type": "Exp. UP",
+                "dropPriority": 681
+            },
+            {
                 "id": 9705400,
                 "name": "術猛火",
                 "type": "Exp. UP",
@@ -6957,10 +6993,16 @@
                 "dropPriority": 6094
             },
             {
-                "id": 9702400,
-                "name": "槍猛火",
+                "id": 9702500,
+                "name": "槍業火",
                 "type": "Exp. UP",
-                "dropPriority": 686
+                "dropPriority": 685
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
             }
         ],
         "scPriority": 1174
@@ -7305,6 +7347,12 @@
                 "name": "弓猛火",
                 "type": "Exp. UP",
                 "dropPriority": 681
+            },
+            {
+                "id": 9703500,
+                "name": "弓業火",
+                "type": "Exp. UP",
+                "dropPriority": 680
             }
         ],
         "scPriority": 1182
@@ -7853,10 +7901,22 @@
                 "dropPriority": 6195
             },
             {
-                "id": 9703400,
-                "name": "弓猛火",
+                "id": 9701400,
+                "name": "剣猛火",
                 "type": "Exp. UP",
-                "dropPriority": 681
+                "dropPriority": 691
+            },
+            {
+                "id": 9703500,
+                "name": "弓業火",
+                "type": "Exp. UP",
+                "dropPriority": 680
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
             }
         ],
         "scPriority": 1194
