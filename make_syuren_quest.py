@@ -8,6 +8,7 @@ from pathlib import Path
 import csv
 import unicodedata
 from make_freequest import id2name, id2type, id2dropPriority
+from make_freequest import questId2dropItemNum
 # from make_freequest import alias2id, DropItem, FgoFreeQuest, questId2qp
 from make_freequest import alias2id, DropItem, FgoFreeQuest, questId2quest
 
@@ -48,7 +49,9 @@ def main(args):
         logger.debug('drop: %s', drop)
         qname = tmp["shortname"].split(" ")
         event_quest = FgoFreeQuest(int(tmp["id"]), tmp["quest"], qname[1],
-                                   qname[0], qp, drop, int(tmp['scPriority']))
+                                   qname[0], qp, drop,
+                                   questId2dropItemNum[questId],
+                                   int(tmp['scPriority']))
 
         quest_output.append(dataclasses.asdict(event_quest))
 

@@ -9,6 +9,7 @@ import csv
 import unicodedata
 from tqdm import tqdm
 from make_freequest import id2name, id2type, id2dropPriority, alias2id
+from make_freequest import questId2dropItemNum
 from make_freequest import DropItem, FgoQuest, questId2quest
 
 logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
@@ -48,7 +49,9 @@ def list2dic(quest_list):
         spotname = q["name"]
         logger.debug('drop: %s', drop)
         event_quest = FgoEventQuest(int(quest["id"]), quest["quest"],
-                                    "", "", qp, drop, quest["shortname"])
+                                    "", "", qp, drop,
+                                    questId2dropItemNum[questId],
+                                    quest["shortname"])
         if quest["quest"] != spotname:
             logger.warning("場所名が異なります: %s %s",
                            quest["quest"], spotname)

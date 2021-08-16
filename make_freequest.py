@@ -23,6 +23,11 @@ url_quest = "https://api.atlasacademy.io/nice/JP/quest/"
 with open(drop_file, encoding='UTF-8') as f:
     drop_item = json.load(f)
 
+FGOData_path = "../FGOData"
+viewQuestInfo_file = Path(FGOData_path) / "JP_tables/quest/viewQuestInfo.json"
+with open(viewQuestInfo_file) as f:
+    quest_info = json.load(f)
+
 name2item = {}
 shortname2name = {item["shortname"]: item["name"] for item in drop_item if "shortname" in item.keys()}
 shortname2id = {item["shortname"]: item["id"] for item in drop_item if "shortname" in item.keys()}
@@ -30,6 +35,7 @@ shortname2dropPriority = {item["shortname"]: item["dropPriority"] for item in dr
 id2name = {item["id"]: item["name"] for item in drop_item if "name" in item.keys()}
 id2type = {item["id"]: item["type"] for item in drop_item if "type" in item.keys()}
 id2dropPriority = {item["id"]: item["dropPriority"] for item in drop_item if "dropPriority" in item.keys()}
+questId2dropItemNum = {quest["questId"]: quest["dropSvtNum"] + quest["dropItemNum"] for quest in quest_info}
 alias2id = {}
 for item in drop_item:
     alias2id[unicodedata.normalize('NFKC', item["name"])] = item["id"]
@@ -68,6 +74,7 @@ class FgoQuest:
     chapter: str
     qp: int
     drop: List[DropItem]
+    dropItemNum: int
 
 
 @dataclasses.dataclass(frozen=True)
@@ -82,7 +89,8 @@ def questId2quest(questId):
         raise APIError(f"status code: {r_get.status_code}, text: {r_get.text}")
     quest = r_get.json()
     return quest
-    
+
+
 def main(args):
 
     with open(freequest_file, encoding='UTF-8') as f:
@@ -103,18 +111,20 @@ def main(args):
                         logger.critical('tmp[item]: %s', tmp[item])
                         exit()
                     name = id2name[item_id]
-                    drop.append(DropItem(item_id, name, id2type[item_id], id2dropPriority[item_id]))
+                    drop.append(DropItem(item_id, name, id2type[item_id],
+                                         id2dropPriority[item_id]))
 
         drop = sorted(drop, key=lambda x: x.dropPriority, reverse=True)
         questId = int(tmp["id"])
         quest = questId2quest(questId)
         qp = quest["qp"]
         freequest = FgoFreeQuest(questId, tmp["quest"], tmp["place"],
-                                 tmp["chapter"], qp, drop, int(tmp['scPriority']))
+                                 tmp["chapter"], qp, drop,
+                                 questId2dropItemNum[questId],
+                                 int(tmp['scPriority']))
         questname = quest["name"]
-##        spotname = unicodedata.normalize('NFKC', spotid2spotname[questId2spotid[questId]])
         if tmp["quest"] != questname:
-            logger.warning("場所名が異なります%s %s", tmp["quest"], spotname)
+            logger.warning("場所名が異なります%s %s", tmp["quest"], questname)
         quest_output.append(dataclasses.asdict(freequest))
 
     with open(freequest_json_file, "w",  encoding='UTF-8') as f:
