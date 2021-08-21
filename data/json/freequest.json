@@ -1797,6 +1797,12 @@
                 "name": "キャスターピース",
                 "type": "Item",
                 "dropPriority": 5196
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
             }
         ],
         "dropItemNum": 14,
@@ -8724,10 +8730,10 @@
                 "dropPriority": 691
             },
             {
-                "id": 9706400,
-                "name": "殺猛火",
+                "id": 9706500,
+                "name": "殺業火",
                 "type": "Exp. UP",
-                "dropPriority": 666
+                "dropPriority": 665
             }
         ],
         "dropItemNum": 7,
@@ -8818,10 +8824,10 @@
                 "dropPriority": 6100
             },
             {
-                "id": 9702400,
-                "name": "槍猛火",
+                "id": 9702500,
+                "name": "槍業火",
                 "type": "Exp. UP",
-                "dropPriority": 686
+                "dropPriority": 685
             }
         ],
         "dropItemNum": 8,
