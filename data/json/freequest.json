@@ -2425,6 +2425,12 @@
                 "name": "弓の輝石",
                 "type": "Item",
                 "dropPriority": 6099
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
             }
         ],
         "dropItemNum": 9,
@@ -6029,6 +6035,12 @@
                 "name": "殺の魔石",
                 "type": "Item",
                 "dropPriority": 6195
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
             }
         ],
         "dropItemNum": 4,
