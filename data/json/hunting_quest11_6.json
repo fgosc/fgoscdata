@@ -1,0 +1,55 @@
+[
+    {
+        "id": 94061824,
+        "name": "ミニクーちゃん・ハント 典位+級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6540,
+                "name": "九十九鏡",
+                "type": "Item",
+                "dropPriority": 8506
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            }
+        ],
+        "dropItemNum": 8,
+        "shortname": "ミニクーちゃん・ハント 典位+級"
+    }
+]
