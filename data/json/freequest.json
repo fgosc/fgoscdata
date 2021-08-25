@@ -2854,6 +2854,12 @@
                 "name": "騎の輝石",
                 "type": "Item",
                 "dropPriority": 6097
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
             }
         ],
         "dropItemNum": 8,
