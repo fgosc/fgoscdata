@@ -2989,6 +2989,12 @@
                 "name": "アサシンピース",
                 "type": "Item",
                 "dropPriority": 5195
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
             }
         ],
         "dropItemNum": 7,
