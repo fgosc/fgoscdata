@@ -4870,6 +4870,12 @@
                 "name": "剣猛火",
                 "type": "Exp. UP",
                 "dropPriority": 691
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
             }
         ],
         "dropItemNum": 9,
@@ -6249,6 +6255,12 @@
                 "dropPriority": 6095
             },
             {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            },
+            {
                 "id": 9706400,
                 "name": "殺猛火",
                 "type": "Exp. UP",
@@ -7056,6 +7068,12 @@
                 "name": "騎の輝石",
                 "type": "Item",
                 "dropPriority": 6097
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
             }
         ],
         "dropItemNum": 7,
