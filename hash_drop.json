@@ -4773,8 +4773,8 @@
         "shortname": "全種火",
         "phash": "f1588eb24ecdee2b",
         "phash_sold": "4bf8f807f4ac06b6",
-        "phash_class": "a1df380f3e29c705",
-        "phash_class_sold": "e0df390f3e290705",
+        "phash_class": "400ff4d13ccd4941",
+        "phash_class_sold": "400ff6d13ccf4941",
         "phash_rarity": "a125b6cdd9d959be",
         "phash_rarity_sold": "0fe09f70d91fe09f"
     },
@@ -4831,8 +4831,8 @@
         "shortname": "剣種火",
         "phash": "f12a2ebb4ffd6eac",
         "phash_sold": "0bf8f80ff4ac0696",
-        "phash_class": "d95fe5313e271e0a",
-        "phash_class_sold": "d8dfe5353e251e08"
+        "phash_class": "30723445ebb412c9",
+        "phash_class_sold": "107a3c45ebbe14c1"
     },
     {
         "id": 9701200,
@@ -4843,9 +4843,7 @@
         "name_eng": "Saber 2-star EXP",
         "shortname": "剣灯火",
         "phash": "f3de2e63cf997eed",
-        "phash_sold": "0bf8f807f4ac0686",
-        "phash_class": "d9dfa7213e231e0a",
-        "phash_class_sold": "d8dfa7313e251e0a"
+        "phash_sold": "0bf8f807f4ac0686"
     },
     {
         "id": 9701300,
@@ -4857,8 +4855,8 @@
         "shortname": "剣大火",
         "phash": "33784e93b6682be6",
         "phash_sold": "07f9f8bfa68f2ef4",
-        "phash_class": "d95be5213a233e0a",
-        "phash_class_sold": "d85be5313a273e0a"
+        "phash_class": "103234c7ef3412c1",
+        "phash_class_sold": "10723485efb616c1"
     },
     {
         "id": 9701400,
@@ -4870,8 +4868,7 @@
         "shortname": "剣猛火",
         "phash": "0b28f4ba9ef3cfa3",
         "phash_sold": "0bf8f89f268fcef0",
-        "phash_class": "d95ff5313e2f1e0a",
-        "phash_class_sold": "d85ff5353e2f1e0a"
+        "phash_class": "305a34c3edb610c1"
     },
     {
         "id": 9701500,
@@ -4881,8 +4878,7 @@
         "name": "剣業火",
         "name_eng": "Saber 5-star EXP",
         "shortname": "剣業火",
-        "phash": "292ffef82f5e7baf",
-        "phash_class": "d9dfa1393e2b1e0a"
+        "phash": "292ffef82f5e7baf"
     },
     {
         "id": 9702100,
@@ -4894,8 +4890,8 @@
         "shortname": "槍種火",
         "phash": "f1f8aeba0ffd4fac",
         "phash_sold": "4bf8f80ff4ac0696",
-        "phash_class": "e333252c78b22b41",
-        "phash_class_sold": "e233252d78312a40"
+        "phash_class": "d4d2e367cf9d1a0c",
+        "phash_class_sold": "d0d2e265cf9e1a09"
     },
     {
         "id": 9702200,
@@ -4906,9 +4902,7 @@
         "name_eng": "Lancer 2-star EXP",
         "shortname": "槍灯火",
         "phash": "f1dc2e63cf1b7ecd",
-        "phash_sold": "8bf8f80774ac0686",
-        "phash_class": "e3f3052c78b22b49",
-        "phash_class_sold": "62b3252d38312a48"
+        "phash_sold": "8bf8f80774ac0686"
     },
     {
         "id": 9702300,
@@ -4920,8 +4914,8 @@
         "shortname": "槍大火",
         "phash": "f3f84a93b66e2fa6",
         "phash_sold": "03f9f8bfa68f2ef4",
-        "phash_class": "e333252c78b22b48",
-        "phash_class_sold": "e233252c78332b48"
+        "phash_class": "d4d2e327cfdd1a0c",
+        "phash_class_sold": "d4d2e265cfdc1a29"
     },
     {
         "id": 9702400,
@@ -4933,8 +4927,8 @@
         "shortname": "槍猛火",
         "phash": "0b28f4ba9ed3cfa3",
         "phash_sold": "0bf8f89f268fcef0",
-        "phash_class": "e123142c783e3b48",
-        "phash_class_sold": "e037152d783f3a48"
+        "phash_class": "d0d3e0676fd59c00",
+        "phash_class_sold": "d0d3e0674dde1818"
     },
     {
         "id": 9702500,
@@ -4944,8 +4938,7 @@
         "name": "槍業火",
         "name_eng": "Lancer 5-star EXP",
         "shortname": "槍業火",
-        "phash": "292ffef82f5e7baf",
-        "phash_class": "e1b3042c783a3b48"
+        "phash": "292ffef82f5e7baf"
     },
     {
         "id": 9703100,
@@ -4957,8 +4950,8 @@
         "shortname": "弓種火",
         "phash": "f1f8aeba4ffd4eac",
         "phash_sold": "4bf8f80ff4ac0696",
-        "phash_class": "733f8935ad2a6a05",
-        "phash_class_sold": "763f89352c2b2a05"
+        "phash_class": "e4cf1912d6d0640d",
+        "phash_class_sold": "e4c61a91d6d26409"
     },
     {
         "id": 9703200,
@@ -4969,9 +4962,7 @@
         "name_eng": "Archer 2-star EXP",
         "shortname": "弓灯火",
         "phash": "f3dc2ee3cf997ecd",
-        "phash_sold": "8bf8f807f4ac0686",
-        "phash_class": "77bf89258d2a6a05",
-        "phash_class_sold": "763f89352c2b2a05"
+        "phash_sold": "8bf8f807f4ac0686"
     },
     {
         "id": 9703300,
@@ -4983,8 +4974,8 @@
         "shortname": "弓大火",
         "phash": "f3f84a93b66a2ba6",
         "phash_sold": "07f9f8bfa68f2ef4",
-        "phash_class": "732d8935ad2a6a05",
-        "phash_class_sold": "723f893dad2a2a05"
+        "phash_class": "e4c759b2d6d06489",
+        "phash_class_sold": "e4c65891d6d22409"
     },
     {
         "id": 9703400,
@@ -4996,8 +4987,8 @@
         "shortname": "弓猛火",
         "phash": "0b28f4ba9ed3cfa3",
         "phash_sold": "0bf8f89f268fcef0",
-        "phash_class": "713798377d2b6a07",
-        "phash_class_sold": "703f993f7c2b2a07"
+        "phash_class": "e4cf3dd2d6d2748d",
+        "phash_class_sold": "e4ce3c93d4d2748d"
     },
     {
         "id": 9703500,
@@ -5007,8 +4998,7 @@
         "name": "弓業火",
         "name_eng": "Archer 5-star EXP",
         "shortname": "弓業火",
-        "phash": "29affef82f5e7baf",
-        "phash_class": "73bf883f2d2a2a05"
+        "phash": "29affef82f5e7baf"
     },
     {
         "id": 9704100,
@@ -5020,8 +5010,8 @@
         "shortname": "騎種火",
         "phash": "f12b2ebb4ff9eeac",
         "phash_sold": "0bf8f80ff4ac0696",
-        "phash_class": "996f1616e6233f08",
-        "phash_class_sold": "986f1616e6233e08"
+        "phash_class": "50dbc303e76571f2",
+        "phash_class_sold": "50dbc243e5737172"
     },
     {
         "id": 9704200,
@@ -5032,9 +5022,7 @@
         "name_eng": "Rider 2-star EXP",
         "shortname": "騎灯火",
         "phash": "735e2e63cf99feed",
-        "phash_sold": "0bf8f807f4ac0686",
-        "phash_class": "996f1616e6233b08",
-        "phash_class_sold": "986f1616a6233a08"
+        "phash_sold": "0bf8f807f4ac0686"
     },
     {
         "id": 9704300,
@@ -5046,8 +5034,8 @@
         "shortname": "騎大火",
         "phash": "33780e93b6682be6",
         "phash_sold": "07f9f8bfa68f2ef4",
-        "phash_class": "b969163ce6233f08",
-        "phash_class_sold": "b96f363ee6233f08"
+        "phash_class": "509bc323eff161f0",
+        "phash_class_sold": "50dbc203e7737370"
     },
     {
         "id": 9704400,
@@ -5059,8 +5047,8 @@
         "shortname": "騎猛火",
         "phash": "0b2afcba9ef3cfa1",
         "phash_sold": "0bf8f89f2687cef0",
-        "phash_class": "d96d1636ee2b3f08",
-        "phash_class_sold": "d96f1636ee233a08"
+        "phash_class": "50dbc143e5f77162",
+        "phash_class_sold": "50dbc143e5f37160"
     },
     {
         "id": 9704500,
@@ -5081,8 +5069,8 @@
         "shortname": "術種火",
         "phash": "f1282ebb0ffd6eac",
         "phash_sold": "4bf8f80ff4ac0696",
-        "phash_class": "d59d27233c563a8d",
-        "phash_class_sold": "5c9d27233c571a0d"
+        "phash_class": "74793906f67719c9",
+        "phash_class_sold": "70783c05e77619c9"
     },
     {
         "id": 9705200,
@@ -5093,9 +5081,7 @@
         "name_eng": "Caster 2-star EXP",
         "shortname": "術灯火",
         "phash": "f3de2e63cf997eed",
-        "phash_sold": "8bf8f90774ac0686",
-        "phash_class": "dd9d27233c563a0d",
-        "phash_class_sold": "1c9f27233c571a0d"
+        "phash_sold": "8bf8f90774ac0686"
     },
     {
         "id": 9705300,
@@ -5107,8 +5093,8 @@
         "shortname": "術大火",
         "phash": "33784a93b66e2be6",
         "phash_sold": "03f9f8bfa68f2ef4",
-        "phash_class": "958d2633bc563a8d",
-        "phash_class_sold": "9c8d26333c563a0d"
+        "phash_class": "74793906e7771989",
+        "phash_class_sold": "70793805f77619c9"
     },
     {
         "id": 9705400,
@@ -5120,8 +5106,8 @@
         "shortname": "術猛火",
         "phash": "0b28f4ba9ef3cfa3",
         "phash_sold": "0bf8f89f268fcef0",
-        "phash_class": "51dd26233c561a8d",
-        "phash_class_sold": "5dfd272b3c561a0d"
+        "phash_class": "707a3d06e6f71989",
+        "phash_class_sold": "707a3c07e6f61989"
     },
     {
         "id": 9705500,
@@ -5131,8 +5117,7 @@
         "name": "術業火",
         "name_eng": "Caster 5-star EXP",
         "shortname": "術業火",
-        "phash": "292ffef82f5e7baf",
-        "phash_class": "11fd262b3c521a8d"
+        "phash": "292ffef82f5e7baf"
     },
     {
         "id": 9706100,
@@ -5144,8 +5129,8 @@
         "shortname": "殺種火",
         "phash": "f12a2eba6ff9eeac",
         "phash_sold": "0bf8f90ff4ac0696",
-        "phash_class": "f9361639b129274a",
-        "phash_class_sold": "f9361639b829270a"
+        "phash_class": "d0d3cc35cfcd3434",
+        "phash_class_sold": "d0d3ccb5cfce343c"
     },
     {
         "id": 9706200,
@@ -5156,9 +5141,7 @@
         "name_eng": "Assassin 2-star EXP",
         "shortname": "殺灯火",
         "phash": "f3de2ee3cfb9feed",
-        "phash_sold": "8bf8f907f4ac0686",
-        "phash_class": "f9361639b029274a",
-        "phash_class_sold": "f9361639b829260a"
+        "phash_sold": "8bf8f907f4ac0686"
     },
     {
         "id": 9706300,
@@ -5170,8 +5153,8 @@
         "shortname": "殺大火",
         "phash": "33784e93b6682be6",
         "phash_sold": "03f9f8bfa68f2ef4",
-        "phash_class": "f9261639f829374a",
-        "phash_class_sold": "f9261639b829370a"
+        "phash_class": "d0d3cc33cfcd3434",
+        "phash_class_sold": "50d3cc35cfce3434"
     },
     {
         "id": 9706400,
@@ -5183,8 +5166,8 @@
         "shortname": "殺猛火",
         "phash": "0b28f4babef3cfa1",
         "phash_sold": "0bf8f89f268fcef0",
-        "phash_class": "f9275639f42b274a",
-        "phash_class_sold": "f9365639f82b270a"
+        "phash_class": "d0cbe497cdce3c34",
+        "phash_class_sold": "d0dbcc93edce3434"
     },
     {
         "id": 9706500,
@@ -5194,8 +5177,7 @@
         "name": "殺業火",
         "name_eng": "Assassin 5-star EXP",
         "shortname": "殺業火",
-        "phash": "292feef82fde7baf",
-        "phash_class": "a9b61639fe2b374a"
+        "phash": "292feef82fde7baf"
     },
     {
         "id": 9707100,
@@ -5207,8 +5189,8 @@
         "shortname": "狂種火",
         "phash": "f12b2ebb6ff9eea8",
         "phash_sold": "0bf8f90ff4ac0696",
-        "phash_class": "49a7f61e3a19f721",
-        "phash_class_sold": "4927f61e3a193721"
+        "phash_class": "300bed31eff61c09",
+        "phash_class_sold": "300bee31cd7e2cc9"
     },
     {
         "id": 9707200,
@@ -5219,9 +5201,7 @@
         "name_eng": "Berserker 2-star EXP",
         "shortname": "狂灯火",
         "phash": "7b5e2e63cfb9f6ed",
-        "phash_sold": "0bf8f907f4ac0686",
-        "phash_class": "49a7f61e2a19f721",
-        "phash_class_sold": "49a7f61e3a19f721"
+        "phash_sold": "0bf8f907f4ac0686"
     },
     {
         "id": 9707300,
@@ -5233,8 +5213,8 @@
         "shortname": "狂大火",
         "phash": "33780e93b6e829e6",
         "phash_sold": "07f9f8bfa68faef4",
-        "phash_class": "49a7f65e3a1bff21",
-        "phash_class_sold": "4927f63e3a1b7f21"
+        "phash_class": "300be533cf7e0e81",
+        "phash_class_sold": "301bec31cff60609"
     },
     {
         "id": 9707400,
@@ -5246,8 +5226,8 @@
         "shortname": "狂猛火",
         "phash": "0b2afcba9ef3cfa0",
         "phash_sold": "0b7af89f2687cef0",
-        "phash_class": "5927f65e3a1b7721",
-        "phash_class_sold": "5927f61e3a1b1721"
+        "phash_class": "301be533edf67c81",
+        "phash_class_sold": "300be413edf67ec1"
     },
     {
         "id": 9707500,
@@ -5257,7 +5237,6 @@
         "name": "狂業火",
         "name_eng": "Berserker 5-star EXP",
         "shortname": "狂業火",
-        "phash": "292fbef82fde73a0",
-        "phash_class": "49a7f67e3a1b7720"
+        "phash": "292fbef82fde73a0"
     }
 ]
