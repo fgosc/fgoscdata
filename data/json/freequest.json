@@ -4461,6 +4461,12 @@
                 "name": "剣の輝石",
                 "type": "Item",
                 "dropPriority": 6100
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
             }
         ],
         "dropItemNum": 9,
