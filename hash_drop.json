@@ -1320,6 +1320,7 @@
         "rarity": 2,
         "phash": "6f6ee69eda999bd9",
         "name": "夢幻の鱗粉",
+        "name_eng": "Scales of Phantasy",
         "shortname": "鱗粉",
         "dropPriority": 8319,
         "phash_battle": "6764269b99b99999"
@@ -1591,6 +1592,7 @@
         "rarity": 1,
         "phash": "64b39a486d640059",
         "name": "赦免の小鐘",
+        "name_eng": "Small Bells of Amnesty",
         "shortname": "小鐘",
         "dropPriority": 8106,
         "phash_battle": "269b486f22da4625"
