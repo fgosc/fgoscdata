@@ -4566,6 +4566,12 @@
                 "name": "殺の魔石",
                 "type": "Item",
                 "dropPriority": 6195
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
             }
         ],
         "dropItemNum": 5,
@@ -4595,6 +4601,12 @@
                 "name": "殺の魔石",
                 "type": "Item",
                 "dropPriority": 6195
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
             }
         ],
         "dropItemNum": 5,
@@ -4691,10 +4703,10 @@
                 "dropPriority": 6097
             },
             {
-                "id": 9703400,
-                "name": "弓猛火",
+                "id": 9703500,
+                "name": "弓業火",
                 "type": "Exp. UP",
-                "dropPriority": 681
+                "dropPriority": 680
             }
         ],
         "dropItemNum": 7,
@@ -4953,6 +4965,12 @@
                 "name": "剣猛火",
                 "type": "Exp. UP",
                 "dropPriority": 691
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
             }
         ],
         "dropItemNum": 7,
@@ -8534,10 +8552,16 @@
                 "dropPriority": 6196
             },
             {
-                "id": 9704400,
-                "name": "騎猛火",
+                "id": 9704500,
+                "name": "騎業火",
                 "type": "Exp. UP",
-                "dropPriority": 676
+                "dropPriority": 675
+            },
+            {
+                "id": 9705400,
+                "name": "術猛火",
+                "type": "Exp. UP",
+                "dropPriority": 671
             }
         ],
         "dropItemNum": 7,
@@ -8620,6 +8644,12 @@
                 "name": "殺の魔石",
                 "type": "Item",
                 "dropPriority": 6195
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
             }
         ],
         "dropItemNum": 4,
@@ -8810,10 +8840,10 @@
                 "dropPriority": 6196
             },
             {
-                "id": 9706400,
-                "name": "殺猛火",
+                "id": 9706500,
+                "name": "殺業火",
                 "type": "Exp. UP",
-                "dropPriority": 666
+                "dropPriority": 665
             }
         ],
         "dropItemNum": 7,
@@ -9049,6 +9079,12 @@
                 "name": "狂猛火",
                 "type": "Exp. UP",
                 "dropPriority": 661
+            },
+            {
+                "id": 9707500,
+                "name": "狂業火",
+                "type": "Exp. UP",
+                "dropPriority": 660
             }
         ],
         "dropItemNum": 9,
