@@ -5102,10 +5102,16 @@
                 "dropPriority": 691
             },
             {
-                "id": 9702400,
-                "name": "槍猛火",
+                "id": 9702500,
+                "name": "槍業火",
                 "type": "Exp. UP",
-                "dropPriority": 686
+                "dropPriority": 685
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
             }
         ],
         "dropItemNum": 9,
@@ -5259,6 +5265,12 @@
                 "name": "殺猛火",
                 "type": "Exp. UP",
                 "dropPriority": 666
+            },
+            {
+                "id": 9706500,
+                "name": "殺業火",
+                "type": "Exp. UP",
+                "dropPriority": 665
             }
         ],
         "dropItemNum": 7,
