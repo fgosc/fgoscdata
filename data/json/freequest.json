@@ -8569,6 +8569,12 @@
                 "name": "騎業火",
                 "type": "Exp. UP",
                 "dropPriority": 675
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
             }
         ],
         "dropItemNum": 7,
