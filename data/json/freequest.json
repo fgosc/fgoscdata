@@ -7930,10 +7930,16 @@
                 "dropPriority": 6200
             },
             {
-                "id": 9705400,
-                "name": "術猛火",
+                "id": 9701400,
+                "name": "剣猛火",
                 "type": "Exp. UP",
-                "dropPriority": 671
+                "dropPriority": 691
+            },
+            {
+                "id": 9705500,
+                "name": "術業火",
+                "type": "Exp. UP",
+                "dropPriority": 670
             }
         ],
         "dropItemNum": 7,
