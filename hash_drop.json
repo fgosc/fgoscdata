@@ -3466,7 +3466,8 @@
         "phash": "1f4da3cc18b2c51a",
         "name": "海賊サーベル",
         "shortname": "サーベル",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "1ee3c438c31cf08f"
     },
     {
         "id": 94060407,
@@ -3476,7 +3477,8 @@
         "phash": "5e49211881c27033",
         "name": "海賊の宝箱〔金〕",
         "shortname": "宝箱金",
-        "dropPriority": 2007
+        "dropPriority": 2007,
+        "phash_battle": "5e253983c2333498"
     },
     {
         "id": 3,
@@ -4302,7 +4304,8 @@
         "phash": "ec4b5d21ab920383",
         "name": "海賊ジョッキ",
         "shortname": "ジョッキ",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "ac5d29a3835b54a1"
     },
     {
         "id": 94060406,
@@ -4312,7 +4315,8 @@
         "phash": "5e69211881c67037",
         "name": "海賊の宝箱〔銀〕",
         "shortname": "宝箱銀",
-        "dropPriority": 2006
+        "dropPriority": 2006,
+        "phash_battle": "5e251983c2733410"
     },
     {
         "id": 94000301,
@@ -4880,7 +4884,8 @@
         "phash": "56a52959580393a4",
         "name": "海賊バンダナ",
         "shortname": "バンダナ",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "56a569425384867c"
     },
     {
         "id": 94060405,
@@ -4890,7 +4895,8 @@
         "phash": "d64d211981c24073",
         "name": "海賊の宝箱〔銅〕",
         "shortname": "宝箱銅",
-        "dropPriority": 2005
+        "dropPriority": 2005,
+        "phash_battle": "5e253983c2733410"
     },
     {
         "id": 1,
