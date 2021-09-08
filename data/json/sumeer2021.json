@@ -1,0 +1,185 @@
+[
+    {
+        "id": 94060601,
+        "name": "カルデア探検隊！ 漂流してきた宝を探せ！",
+        "place": "",
+        "chapter": "",
+        "qp": 2400,
+        "drop": [
+            {
+                "id": 9405300,
+                "name": "オーシャン・フライヤー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94060406,
+                "name": "海賊の宝箱〔銀〕",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94060405,
+                "name": "海賊の宝箱〔銅〕",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94060402,
+                "name": "海賊ジョッキ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94060401,
+                "name": "海賊バンダナ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 8,
+        "shortname": "漂流してきた宝を探せ！"
+    },
+    {
+        "id": 94060602,
+        "name": "カルデア探検隊！ 海賊達と飲みニケーション！",
+        "place": "",
+        "chapter": "",
+        "qp": 3400,
+        "drop": [
+            {
+                "id": 9405310,
+                "name": "シンク・ディーパー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 94060407,
+                "name": "海賊の宝箱〔金〕",
+                "type": "Item",
+                "dropPriority": 2007
+            },
+            {
+                "id": 94060406,
+                "name": "海賊の宝箱〔銀〕",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94060403,
+                "name": "海賊サーベル",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94060402,
+                "name": "海賊ジョッキ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": 8,
+        "shortname": "海賊達と飲みニケーション！"
+    },
+    {
+        "id": 94060603,
+        "name": "カルデア探検隊！ 秘境に隠れし宝を探せ！",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9405300,
+                "name": "オーシャン・フライヤー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94060407,
+                "name": "海賊の宝箱〔金〕",
+                "type": "Item",
+                "dropPriority": 2007
+            },
+            {
+                "id": 94060405,
+                "name": "海賊の宝箱〔銅〕",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94060403,
+                "name": "海賊サーベル",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94060401,
+                "name": "海賊バンダナ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 9,
+        "shortname": "秘境に隠れし宝を探せ！"
+    }
+]
