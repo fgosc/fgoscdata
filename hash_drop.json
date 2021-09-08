@@ -581,6 +581,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "シーニック・ビューティー",
+        "name_eng": "Scenic Beauty",
         "shortname": "礼装",
         "phash": "1b79c9ca1153c136",
         "phash_narrow": "1a39cdae19d91f03",
@@ -727,6 +728,44 @@
         "dropPriority": 9005
     },
     {
+        "id": 9405240,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "エンジェル・ハート",
+        "phash": "b48f68eb78e3485a",
+        "phash_narrow": "b4954ffab9e4ccca",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9405270,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "トレジャー・オブ・カリビアン",
+        "phash": "3d19c6041bfec173",
+        "phash_narrow": "3ddb84031fc036cc",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9405300,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "オーシャン・フライヤー",
+        "shortname": "礼装",
+        "phash": "82631d50319a58b9",
+        "phash_narrow": "c2a75c71015431f1",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9405310,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "シンク・ディーパー",
+        "shortname": "礼装",
+        "phash": "876061acd9cdd5bb",
+        "phash_narrow": "8760663a6cdd4dca",
+        "dropPriority": 9005
+    },
+    {
         "id": 9405320,
         "type": "Craft Essence",
         "rarity": 5,
@@ -742,6 +781,15 @@
         "name": "サマー・アニバーサリー",
         "phash": "f90f292ca6e0e638",
         "phash_narrow": "f9135d9f83c69aec",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9405490,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "妙なる帳の中へ",
+        "phash": "9c6742e90f01f0e9",
+        "phash_narrow": "9c67c0ce0f10e303",
         "dropPriority": 9005
     },
     {
@@ -791,6 +839,24 @@
         "name": "2018年のグロスター",
         "phash": "1a874b0b3058243b",
         "phash_narrow": "96c74b23c0043965",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9405250,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "ピンキー・ビーチ",
+        "phash": "94bc642f88d94ced",
+        "phash_narrow": "9cb4652f1a0f8071",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9405280,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "黄金の軌跡",
+        "phash": "89fd5c06234bb4d0",
+        "phash_narrow": "89fc5c274baf507c",
         "dropPriority": 9004
     },
     {
@@ -978,6 +1044,24 @@
         "name_eng": "Nostalgic Form",
         "phash": "a5933f4163006952",
         "phash_narrow": "a493bd43a60d270c",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9405260,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "パイレーツ・オブ・ジャングル",
+        "phash": "886f131653d83016",
+        "phash_narrow": "a8eb0607c9627884",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9405290,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "彩る海の街角で",
+        "phash": "1c3f84664b12219b",
+        "phash_narrow": "3cbfb4cf0660bf26",
         "dropPriority": 9003
     },
     {
@@ -2326,6 +2410,7 @@
         "rarity": 2,
         "phash": "fc920fe8e8585e8c",
         "name": "AUOくじ2019",
+        "name_eng": "KoH Lottery Ticket 2021",
         "shortname": "くじ",
         "dropPriority": 2005
     },
@@ -3186,6 +3271,7 @@
         "rarity": 3,
         "phash": "5601254909e15152",
         "name": "Ｗマッスルバーガー",
+        "name_eng": "Double Muscle Burger",
         "shortname": "バーガー",
         "dropPriority": 2003
     },
@@ -3373,13 +3459,24 @@
         "phash_battle": "360b8c78130eb0cb"
     },
     {
-        "id": 94061501,
+        "id": 94060403,
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "fd0643f886877878",
-        "name": "FGO 6th Anniversary 英霊巡遊チケット",
-        "dropPriority": 2001
+        "phash": "1f4da3cc18b2c51a",
+        "name": "海賊サーベル",
+        "shortname": "サーベル",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94060407,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5e49211881c27033",
+        "name": "海賊の宝箱〔金〕",
+        "shortname": "宝箱金",
+        "dropPriority": 2007
     },
     {
         "id": 3,
@@ -3963,6 +4060,7 @@
         "rarity": 2,
         "phash": "560aa7482938190e",
         "name": "ストロングドッグZERO",
+        "name_eng": "Strong Dog ZERO",
         "shortname": "ドッグ",
         "dropPriority": 2002
     },
@@ -4195,6 +4293,26 @@
         "shortname": "うちわ",
         "dropPriority": 2002,
         "phash_battle": "d6a62d4a28b31e38"
+    },
+    {
+        "id": 94060402,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "ec4b5d21ab920383",
+        "name": "海賊ジョッキ",
+        "shortname": "ジョッキ",
+        "dropPriority": 2002
+    },
+    {
+        "id": 94060406,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5e69211881c67037",
+        "name": "海賊の宝箱〔銀〕",
+        "shortname": "宝箱銀",
+        "dropPriority": 2006
     },
     {
         "id": 94000301,
@@ -4597,6 +4715,7 @@
         "rarity": 1,
         "phash": "36c1891044202184",
         "name": "ワイルドポテトV",
+        "name_eng": "Wild Fries V",
         "shortname": "ポテト",
         "dropPriority": 2001
     },
@@ -4752,6 +4871,26 @@
         "shortname": "タオル",
         "dropPriority": 2001,
         "phash_battle": "fc0b7c378006c0a3"
+    },
+    {
+        "id": 94060401,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "56a52959580393a4",
+        "name": "海賊バンダナ",
+        "shortname": "バンダナ",
+        "dropPriority": 2001
+    },
+    {
+        "id": 94060405,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "d64d211981c24073",
+        "name": "海賊の宝箱〔銅〕",
+        "shortname": "宝箱銅",
+        "dropPriority": 2005
     },
     {
         "id": 1,
