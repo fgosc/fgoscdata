@@ -240,5 +240,64 @@
         ],
         "dropItemNum": 8,
         "shortname": "部族と交流を試みよ！"
+    },
+    {
+        "id": 94060605,
+        "name": "カルデア探検隊！ 崩れた遺跡を掘り起こせ！",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9405300,
+                "name": "オーシャン・フライヤー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94060407,
+                "name": "海賊の宝箱〔金〕",
+                "type": "Item",
+                "dropPriority": 2007
+            },
+            {
+                "id": 94060406,
+                "name": "海賊の宝箱〔銀〕",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94060403,
+                "name": "海賊サーベル",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94060402,
+                "name": "海賊ジョッキ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": 8,
+        "shortname": "崩れた遺跡を掘り起こせ！"
     }
 ]
