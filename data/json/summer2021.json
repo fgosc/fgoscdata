@@ -299,5 +299,76 @@
         ],
         "dropItemNum": 8,
         "shortname": "崩れた遺跡を掘り起こせ！"
+    },
+    {
+        "id": 94060606,
+        "name": "カルデア探検隊！ 海底洞窟にお宝が！？",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9405310,
+                "name": "シンク・ディーパー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94060407,
+                "name": "海賊の宝箱〔金〕",
+                "type": "Item",
+                "dropPriority": 2007
+            },
+            {
+                "id": 94060405,
+                "name": "海賊の宝箱〔銅〕",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94060403,
+                "name": "海賊サーベル",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94060401,
+                "name": "海賊バンダナ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 10,
+        "shortname": "海底洞窟にお宝が！？"
     }
 ]
