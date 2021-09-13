@@ -441,5 +441,76 @@
         ],
         "dropItemNum": 10,
         "shortname": "神秘の山には秘密がたくさん！"
+    },
+    {
+        "id": 94060608,
+        "name": "カルデア探検隊！ 巨大墳墓に眠る謎！",
+        "place": "",
+        "chapter": "",
+        "qp": 8900,
+        "drop": [
+            {
+                "id": 9405310,
+                "name": "シンク・ディーパー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94060407,
+                "name": "海賊の宝箱〔金〕",
+                "type": "Item",
+                "dropPriority": 2007
+            },
+            {
+                "id": 94060406,
+                "name": "海賊の宝箱〔銀〕",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94060403,
+                "name": "海賊サーベル",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94060402,
+                "name": "海賊ジョッキ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": 10,
+        "shortname": "巨大墳墓に眠る謎！"
     }
 ]
