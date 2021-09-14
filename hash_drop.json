@@ -750,7 +750,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "オーシャン・フライヤー",
-        "shortname": "礼装",
+        "shortname": "特攻礼装",
         "phash": "82631d50319a58b9",
         "phash_narrow": "c2a75c71015431f1",
         "dropPriority": 9005
@@ -760,7 +760,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "シンク・ディーパー",
-        "shortname": "礼装",
+        "shortname": "ボーナス礼装",
         "phash": "876061acd9cdd5bb",
         "phash_narrow": "8760663a6cdd4dca",
         "dropPriority": 9005
@@ -3479,6 +3479,168 @@
         "shortname": "宝箱金",
         "dropPriority": 2007,
         "phash_battle": "5e253983c2333498"
+    },
+    {
+        "id": 94060411,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔ドクロ島の財宝〕",
+        "dropPriority": 2002
+    },
+    {
+        "id": 94060412,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔サカズキ島の財宝〕",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94060413,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔トクガワ島の財宝〕",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94060414,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔ミズウミ島の財宝〕",
+        "dropPriority": 2005
+    },
+    {
+        "id": 94060415,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔スリスリ島の財宝〕",
+        "dropPriority": 2006
+    },
+    {
+        "id": 94060416,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔海底城の財宝〕",
+        "dropPriority": 2007
+    },
+    {
+        "id": 94060417,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔海蛇の巣の財宝〕",
+        "dropPriority": 2008
+    },
+    {
+        "id": 94060418,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔グツグツ島の財宝〕",
+        "dropPriority": 2009
+    },
+    {
+        "id": 94060419,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔滝つぼの財宝〕",
+        "dropPriority": 2000
+    },
+    {
+        "id": 94060420,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔雲の上の財宝〕",
+        "dropPriority": 2001
+    },
+    {
+        "id": 94060421,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔大海原の財宝〕",
+        "dropPriority": 2002
+    },
+    {
+        "id": 94060422,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔幽霊船の財宝〕",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94060423,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔果ての財宝〕",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94060424,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔北の財宝〕",
+        "dropPriority": 2005
+    },
+    {
+        "id": 94060425,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔南の財宝〕",
+        "dropPriority": 2006
+    },
+    {
+        "id": 94060426,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔東の財宝〕",
+        "dropPriority": 2007
+    },
+    {
+        "id": 94060427,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔西の財宝〕",
+        "dropPriority": 2008
+    },
+    {
+        "id": 94060428,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6ed32728c365bbb",
+        "name": "秘密の地図〔最後の財宝〕",
+        "dropPriority": 2009
     },
     {
         "id": 3,

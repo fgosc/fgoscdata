@@ -512,5 +512,94 @@
         ],
         "dropItemNum": 10,
         "shortname": "巨大墳墓に眠る謎！"
+    },
+    {
+        "id": 94060610,
+        "name": "カルデア探検隊！最終回！ 神秘はいつも足元に！？",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405300,
+                "name": "オーシャン・フライヤー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9405310,
+                "name": "シンク・ディーパー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6541,
+                "name": "禍罪の矢尻",
+                "type": "Item",
+                "dropPriority": 8315
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94060407,
+                "name": "海賊の宝箱〔金〕",
+                "type": "Item",
+                "dropPriority": 2007
+            },
+            {
+                "id": 94060406,
+                "name": "海賊の宝箱〔銀〕",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94060405,
+                "name": "海賊の宝箱〔銅〕",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94060403,
+                "name": "海賊サーベル",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94060402,
+                "name": "海賊ジョッキ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94060401,
+                "name": "海賊バンダナ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 13,
+        "shortname": "神秘はいつも足元に！？"
     }
 ]
