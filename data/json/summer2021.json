@@ -514,6 +514,77 @@
         "shortname": "巨大墳墓に眠る謎！"
     },
     {
+        "id": 94060609,
+        "name": "カルデア探検隊！ 座礁船に群がる巨大生物の謎！",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405300,
+                "name": "オーシャン・フライヤー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6544,
+                "name": "煌星のカケラ",
+                "type": "Item",
+                "dropPriority": 8508
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94060407,
+                "name": "海賊の宝箱〔金〕",
+                "type": "Item",
+                "dropPriority": 2007
+            },
+            {
+                "id": 94060405,
+                "name": "海賊の宝箱〔銅〕",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94060403,
+                "name": "海賊サーベル",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94060401,
+                "name": "海賊バンダナ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 10,
+        "shortname": "座礁船に群がる巨大生物の謎！"
+    },
+    {
         "id": 94060610,
         "name": "カルデア探検隊！最終回！ 神秘はいつも足元に！？",
         "place": "",
