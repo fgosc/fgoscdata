@@ -24,6 +24,8 @@ with open(drop_file, encoding='UTF-8') as f:
     drop_item = json.load(f)
 
 FGOData_path = "../FGOData"
+if Path(FGOData_path).exists() is False:
+    FGOData_path = "../../FGOData"
 viewQuestInfo_file = Path(FGOData_path) / "JP_tables/quest/viewQuestInfo.json"
 with open(viewQuestInfo_file) as f:
     quest_info = json.load(f)

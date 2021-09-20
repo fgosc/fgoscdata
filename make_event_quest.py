@@ -24,6 +24,23 @@ class FgoEventQuest(FgoQuest):
     shortname: str
 
 
+def open_file_with_utf8(filename):
+    '''utf-8 のファイルを BOM ありかどうかを自動判定して読み込む
+    '''
+    is_with_bom = is_utf8_file_with_bom(filename)
+
+    encoding = 'utf-8-sig' if is_with_bom else 'utf-8'
+
+    return open(filename, encoding=encoding)
+
+
+def is_utf8_file_with_bom(filename):
+    '''utf-8 ファイルが BOM ありかどうかを判定する
+    '''
+    line_first = open(filename, encoding='utf-8').readline()
+    return (line_first[0] == '\ufeff')
+
+
 def list2dic(quest_list):
     quest_output = []
     for quest in quest_list:
@@ -65,7 +82,7 @@ def main(args):
         logger.critical("File not found: %s", file)
         exit(1)
 
-    with open(file, encoding='UTF-8') as f:
+    with open_file_with_utf8(file) as f:
         reader = csv.DictReader(f)
         quest_list = [row for row in reader]
 
