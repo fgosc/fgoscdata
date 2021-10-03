@@ -53,7 +53,7 @@ def list2dic(quest_list):
                     if quest[item] in alias2id.keys():
                         item_id = alias2id[quest[item]]
                     else:
-                        logger.warning("Error: 変換できません: %s", quest[item])
+                        logger.error("Error: 変換できません: %s", quest[item])
                         exit(1)
                     name = id2name[alias2id[quest[item]]]
                     drop.append(DropItem(item_id, name, id2type[item_id],
