@@ -592,6 +592,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "双つ星の歌姫",
+        "name_eng": "Binary Star Songstresses",
         "shortname": "礼装",
         "phash": "a1f8acadba8f66cc",
         "phash_narrow": "b138e5f82b274945",
@@ -602,6 +603,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ベスティア・デル・ソル",
+        "name_eng": "Bestia del Sol",
         "shortname": "礼装",
         "phash": "d238c76e84633cce",
         "phash_narrow": "3299678c237366b0",
@@ -728,24 +730,6 @@
         "dropPriority": 9005
     },
     {
-        "id": 9405240,
-        "type": "Craft Essence",
-        "rarity": 5,
-        "name": "エンジェル・ハート",
-        "phash": "b48f68eb78e3485a",
-        "phash_narrow": "b4954ffab9e4ccca",
-        "dropPriority": 9005
-    },
-    {
-        "id": 9405270,
-        "type": "Craft Essence",
-        "rarity": 5,
-        "name": "トレジャー・オブ・カリビアン",
-        "phash": "3d19c6041bfec173",
-        "phash_narrow": "3ddb84031fc036cc",
-        "dropPriority": 9005
-    },
-    {
         "id": 9405300,
         "type": "Craft Essence",
         "rarity": 5,
@@ -766,30 +750,33 @@
         "dropPriority": 9005
     },
     {
-        "id": 9405320,
+        "id": 9405540,
         "type": "Craft Essence",
         "rarity": 5,
-        "name": "魔道元帥",
-        "phash": "a487907a59a6a951",
-        "phash_narrow": "ad87b259b3a810e5",
+        "name": "翡翠の髪状",
+        "shortname": "髪状",
+        "phash": "81d465adb0f1f907",
+        "phash_narrow": "9154ef8cf3fdc7bf",
         "dropPriority": 9005
     },
     {
-        "id": 9405330,
+        "id": 9405550,
         "type": "Craft Essence",
         "rarity": 5,
-        "name": "サマー・アニバーサリー",
-        "phash": "f90f292ca6e0e638",
-        "phash_narrow": "f9135d9f83c69aec",
+        "name": "小人の仕立て屋さん",
+        "shortname": "仕立て屋",
+        "phash": "233249f4cc4fb879",
+        "phash_narrow": "230373e44fbcdd96",
         "dropPriority": 9005
     },
     {
-        "id": 9405490,
+        "id": 9405560,
         "type": "Craft Essence",
         "rarity": 5,
-        "name": "妙なる帳の中へ",
-        "phash": "9c6742e90f01f0e9",
-        "phash_narrow": "9c67c0ce0f10e303",
+        "name": "ベア・キングス",
+        "shortname": "キングス",
+        "phash": "f1123ec2e96c9475",
+        "phash_narrow": "d11e1e936bc63bda",
         "dropPriority": 9005
     },
     {
@@ -830,42 +817,6 @@
         "name_eng": "Golden Wings",
         "phash": "61e29d2df2d76bb7",
         "phash_narrow": "61921db8dcabdde6",
-        "dropPriority": 9004
-    },
-    {
-        "id": 9405230,
-        "type": "Craft Essence",
-        "rarity": 4,
-        "name": "2018年のグロスター",
-        "phash": "1a874b0b3058243b",
-        "phash_narrow": "96c74b23c0043965",
-        "dropPriority": 9004
-    },
-    {
-        "id": 9405250,
-        "type": "Craft Essence",
-        "rarity": 4,
-        "name": "ピンキー・ビーチ",
-        "phash": "94bc642f88d94ced",
-        "phash_narrow": "9cb4652f1a0f8071",
-        "dropPriority": 9004
-    },
-    {
-        "id": 9405280,
-        "type": "Craft Essence",
-        "rarity": 4,
-        "name": "黄金の軌跡",
-        "phash": "89fd5c06234bb4d0",
-        "phash_narrow": "89fc5c274baf507c",
-        "dropPriority": 9004
-    },
-    {
-        "id": 9405340,
-        "type": "Craft Essence",
-        "rarity": 4,
-        "name": "リーディング・ホリデー",
-        "phash": "7a129c895adea42e",
-        "phash_narrow": "7316ad5b59a906b4",
         "dropPriority": 9004
     },
     {
@@ -973,6 +924,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：はじめてのカレー",
+        "name_eng": "CE EXP Card: First Curry",
         "shortname": "★4EXP礼装",
         "phash": "3f00f85e67aea3a2",
         "phash_narrow": "3f60d8541eed6b52",
@@ -1044,33 +996,6 @@
         "name_eng": "Nostalgic Form",
         "phash": "a5933f4163006952",
         "phash_narrow": "a493bd43a60d270c",
-        "dropPriority": 9003
-    },
-    {
-        "id": 9405260,
-        "type": "Craft Essence",
-        "rarity": 3,
-        "name": "パイレーツ・オブ・ジャングル",
-        "phash": "886f131653d83016",
-        "phash_narrow": "a8eb0607c9627884",
-        "dropPriority": 9003
-    },
-    {
-        "id": 9405290,
-        "type": "Craft Essence",
-        "rarity": 3,
-        "name": "彩る海の街角で",
-        "phash": "1c3f84664b12219b",
-        "phash_narrow": "3cbfb4cf0660bf26",
-        "dropPriority": 9003
-    },
-    {
-        "id": 9405350,
-        "type": "Craft Essence",
-        "rarity": 3,
-        "name": "ゴッフ・スペシャル",
-        "phash": "48416fbc821fe803",
-        "phash_narrow": "89437c8015c846bd",
         "dropPriority": 9003
     },
     {
@@ -1148,6 +1073,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "概念礼装EXPカード：謎の物質γ",
+        "name_eng": "CE EXP Card: Mysterious Substance γ",
         "shortname": "★3EXP礼装",
         "phash": "89f4cc1c9e3e35e9",
         "phash_narrow": "a1e4edce1e0f05fd",
@@ -2278,6 +2204,36 @@
         "phash_battle": "1c892382d192a443"
     },
     {
+        "id": 94062806,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "8e48511c09446111",
+        "name": "メルヘンポイント〔赤ずきん〕",
+        "shortname": "赤ずきんP",
+        "dropPriority": 3004
+    },
+    {
+        "id": 94062805,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "efee5b1899ebaee4",
+        "name": "メルヘンポイント〔白雪姫〕",
+        "shortname": "白雪姫P",
+        "dropPriority": 3005
+    },
+    {
+        "id": 94062804,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5ee0a398181ca340",
+        "name": "メルヘンポイント〔シンデレラ〕",
+        "shortname": "シンデレラP",
+        "dropPriority": 3006
+    },
+    {
         "id": 94057906,
         "type": "Point",
         "background": "silver",
@@ -3282,6 +3238,7 @@
         "rarity": 3,
         "phash": "3649094289b65886",
         "name": "金のセイバーバッヂ",
+        "name_eng": "Gold Saber Badge",
         "shortname": "金バッヂ",
         "dropPriority": 2003,
         "phash_battle": "768949a5d2802141"
@@ -3487,6 +3444,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔ドクロ島の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2002
     },
     {
@@ -3496,6 +3454,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔サカズキ島の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2003
     },
     {
@@ -3505,6 +3464,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔トクガワ島の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2004
     },
     {
@@ -3514,6 +3474,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔ミズウミ島の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2005
     },
     {
@@ -3523,6 +3484,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔スリスリ島の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2006
     },
     {
@@ -3532,6 +3494,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔海底城の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2007
     },
     {
@@ -3541,6 +3504,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔海蛇の巣の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2008
     },
     {
@@ -3550,6 +3514,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔グツグツ島の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2009
     },
     {
@@ -3559,6 +3524,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔滝つぼの財宝〕",
+        "shortname": "〕",
         "dropPriority": 2000
     },
     {
@@ -3568,6 +3534,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔雲の上の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2001
     },
     {
@@ -3577,6 +3544,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔大海原の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2002
     },
     {
@@ -3586,6 +3554,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔幽霊船の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2003
     },
     {
@@ -3595,6 +3564,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔果ての財宝〕",
+        "shortname": "〕",
         "dropPriority": 2004
     },
     {
@@ -3604,6 +3574,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔北の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2005
     },
     {
@@ -3613,6 +3584,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔南の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2006
     },
     {
@@ -3622,6 +3594,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔東の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2007
     },
     {
@@ -3631,6 +3604,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔西の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2008
     },
     {
@@ -3640,7 +3614,18 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔最後の財宝〕",
+        "shortname": "〕",
         "dropPriority": 2009
+    },
+    {
+        "id": 94062803,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5623076081594119",
+        "name": "毒リンゴ",
+        "shortname": "毒リンゴ",
+        "dropPriority": 2003
     },
     {
         "id": 3,
@@ -4235,6 +4220,7 @@
         "rarity": 2,
         "phash": "7629c948a5928cd3",
         "name": "銀のセイバーバッヂ",
+        "name_eng": "Silver Saber Badge",
         "shortname": "銀バッヂ",
         "dropPriority": 2002,
         "phash_battle": "76a9c98789c07042"
@@ -4479,6 +4465,16 @@
         "shortname": "宝箱銀",
         "dropPriority": 2006,
         "phash_battle": "5e251983c2733410"
+    },
+    {
+        "id": 94062802,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "7e9139a8e6d25cca",
+        "name": "お菓子の家",
+        "shortname": "家",
+        "dropPriority": 2002
     },
     {
         "id": 94000301,
@@ -4892,6 +4888,7 @@
         "rarity": 1,
         "phash": "76210d15c863151c",
         "name": "銅のセイバーバッヂ",
+        "name_eng": "Bronze Saber Badge",
         "shortname": "銅バッヂ",
         "dropPriority": 2001,
         "phash_battle": "662d8dc255d10018"
@@ -5059,6 +5056,16 @@
         "shortname": "宝箱銅",
         "dropPriority": 2005,
         "phash_battle": "5e253983c2733410"
+    },
+    {
+        "id": 94062801,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "d62742891643092c",
+        "name": "まじないのゴマ",
+        "shortname": "ゴマ",
+        "dropPriority": 2001
     },
     {
         "id": 1,
