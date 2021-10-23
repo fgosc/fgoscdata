@@ -501,5 +501,82 @@
         ],
         "dropItemNum": 15,
         "shortname": "おかしなりんご屋さん"
+    },
+    {
+        "id": 94063009,
+        "name": "世界名作童話 女神と野獣",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9405550,
+                "name": "小人の仕立て屋さん",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94062804,
+                "name": "メルヘンポイント〔シンデレラ〕",
+                "type": "Point",
+                "dropPriority": 3006
+            },
+            {
+                "id": 94062806,
+                "name": "メルヘンポイント〔赤ずきん〕",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94062803,
+                "name": "毒リンゴ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94062802,
+                "name": "お菓子の家",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": 11,
+        "shortname": "女神と野獣"
     }
 ]
