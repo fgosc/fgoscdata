@@ -63,5 +63,443 @@
         ],
         "dropItemNum": 9,
         "shortname": "運のない婦人"
+    },
+    {
+        "id": 94063002,
+        "name": "世界名作童話 おおきな瓢箪酒",
+        "place": "",
+        "chapter": "",
+        "qp": 3400,
+        "drop": [
+            {
+                "id": 9405550,
+                "name": "小人の仕立て屋さん",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 94062804,
+                "name": "メルヘンポイント〔シンデレラ〕",
+                "type": "Point",
+                "dropPriority": 3006
+            },
+            {
+                "id": 94062806,
+                "name": "メルヘンポイント〔赤ずきん〕",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94062803,
+                "name": "毒リンゴ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94062802,
+                "name": "お菓子の家",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": 8,
+        "shortname": "おおきな瓢箪酒"
+    },
+    {
+        "id": 94063003,
+        "name": "世界名作童話 ほら穴の怪物",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9405560,
+                "name": "ベア・キングス",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94062805,
+                "name": "メルヘンポイント〔白雪姫〕",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94062806,
+                "name": "メルヘンポイント〔赤ずきん〕",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94062803,
+                "name": "毒リンゴ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94062801,
+                "name": "まじないのゴマ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 9,
+        "shortname": "ほら穴の怪物"
+    },
+    {
+        "id": 94063004,
+        "name": "世界名作童話 蛇の足",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 9405540,
+                "name": "翡翠の髪状",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6543,
+                "name": "光銀の冠",
+                "type": "Item",
+                "dropPriority": 8316
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94062804,
+                "name": "メルヘンポイント〔シンデレラ〕",
+                "type": "Point",
+                "dropPriority": 3006
+            },
+            {
+                "id": 94062805,
+                "name": "メルヘンポイント〔白雪姫〕",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94062802,
+                "name": "お菓子の家",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94062801,
+                "name": "まじないのゴマ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 10,
+        "shortname": "蛇の足"
+    },
+    {
+        "id": 94063005,
+        "name": "世界名作童話 待ち人来たらず",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9405550,
+                "name": "小人の仕立て屋さん",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94062804,
+                "name": "メルヘンポイント〔シンデレラ〕",
+                "type": "Point",
+                "dropPriority": 3006
+            },
+            {
+                "id": 94062806,
+                "name": "メルヘンポイント〔赤ずきん〕",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94062803,
+                "name": "毒リンゴ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94062802,
+                "name": "お菓子の家",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": 10,
+        "shortname": "待ち人来たらず"
+    },
+    {
+        "id": 94063006,
+        "name": "世界名作童話 森の守り人",
+        "place": "",
+        "chapter": "",
+        "qp": 6900,
+        "drop": [
+            {
+                "id": 9405560,
+                "name": "ベア・キングス",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94062805,
+                "name": "メルヘンポイント〔白雪姫〕",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94062806,
+                "name": "メルヘンポイント〔赤ずきん〕",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94062803,
+                "name": "毒リンゴ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94062801,
+                "name": "まじないのゴマ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 10,
+        "shortname": "森の守り人"
+    },
+    {
+        "id": 94063007,
+        "name": "世界名作童話 おかしなりんご屋さん",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9405540,
+                "name": "翡翠の髪状",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9405550,
+                "name": "小人の仕立て屋さん",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9405560,
+                "name": "ベア・キングス",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
+                "type": "Item",
+                "dropPriority": 8104
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94062804,
+                "name": "メルヘンポイント〔シンデレラ〕",
+                "type": "Point",
+                "dropPriority": 3006
+            },
+            {
+                "id": 94062805,
+                "name": "メルヘンポイント〔白雪姫〕",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94062806,
+                "name": "メルヘンポイント〔赤ずきん〕",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94062803,
+                "name": "毒リンゴ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94062802,
+                "name": "お菓子の家",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94062801,
+                "name": "まじないのゴマ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 15,
+        "shortname": "おかしなりんご屋さん"
     }
 ]
