@@ -738,5 +738,106 @@
         ],
         "dropItemNum": 12,
         "shortname": "九つの得物"
+    },
+    {
+        "id": 94063011,
+        "name": "世界名作童話 燕は偲ぶ",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405540,
+                "name": "翡翠の髪状",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9405550,
+                "name": "小人の仕立て屋さん",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9405560,
+                "name": "ベア・キングス",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94062804,
+                "name": "メルヘンポイント〔シンデレラ〕",
+                "type": "Point",
+                "dropPriority": 3006
+            },
+            {
+                "id": 94062805,
+                "name": "メルヘンポイント〔白雪姫〕",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94062806,
+                "name": "メルヘンポイント〔赤ずきん〕",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94062803,
+                "name": "毒リンゴ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94062802,
+                "name": "お菓子の家",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94062801,
+                "name": "まじないのゴマ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 15,
+        "shortname": "燕は偲ぶ"
     }
 ]
