@@ -839,5 +839,165 @@
         ],
         "dropItemNum": 15,
         "shortname": "燕は偲ぶ"
+    },
+    {
+        "id": 94063012,
+        "name": "世界名作童話 勇士のお詫び",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405540,
+                "name": "翡翠の髪状",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6518,
+                "name": "精霊根",
+                "type": "Item",
+                "dropPriority": 8502
+            },
+            {
+                "id": 6543,
+                "name": "光銀の冠",
+                "type": "Item",
+                "dropPriority": 8316
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94062804,
+                "name": "メルヘンポイント〔シンデレラ〕",
+                "type": "Point",
+                "dropPriority": 3006
+            },
+            {
+                "id": 94062805,
+                "name": "メルヘンポイント〔白雪姫〕",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94062802,
+                "name": "お菓子の家",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94062801,
+                "name": "まじないのゴマ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 11,
+        "shortname": "勇士のお詫び"
+    },
+    {
+        "id": 94063014,
+        "name": "世界名作童話 おどろいた王様",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405560,
+                "name": "ベア・キングス",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94062805,
+                "name": "メルヘンポイント〔白雪姫〕",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94062806,
+                "name": "メルヘンポイント〔赤ずきん〕",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94062803,
+                "name": "毒リンゴ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94062801,
+                "name": "まじないのゴマ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 12,
+        "shortname": "おどろいた王様"
     }
 ]
