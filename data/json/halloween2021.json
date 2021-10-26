@@ -918,6 +918,89 @@
         "shortname": "勇士のお詫び"
     },
     {
+        "id": 94063013,
+        "name": "世界名作童話 鬼の大あくび",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405550,
+                "name": "小人の仕立て屋さん",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94062804,
+                "name": "メルヘンポイント〔シンデレラ〕",
+                "type": "Point",
+                "dropPriority": 3006
+            },
+            {
+                "id": 94062806,
+                "name": "メルヘンポイント〔赤ずきん〕",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94062803,
+                "name": "毒リンゴ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94062802,
+                "name": "お菓子の家",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": 12,
+        "shortname": "鬼の大あくび"
+    },
+    {
         "id": 94063014,
         "name": "世界名作童話 おどろいた王様",
         "place": "",
