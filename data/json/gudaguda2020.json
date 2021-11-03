@@ -1,0 +1,2026 @@
+[
+    {
+        "id": 94049401,
+        "name": "資材採集 集落内で資材を集める",
+        "place": "",
+        "chapter": "",
+        "qp": 2400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 94049104,
+                "name": "芳しい茅束",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "shortname": "資材採集 集落内で資材を集める"
+    },
+    {
+        "id": 94049402,
+        "name": "資材採集 近場の川で資材を集める",
+        "place": "",
+        "chapter": "",
+        "qp": 3900,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "資材採集 近場の川で資材を集める"
+    },
+    {
+        "id": 94049403,
+        "name": "資材採集 近場の野原で資材を集める",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94049106,
+                "name": "寝かせた粘土",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "shortname": "資材採集 近場の野原で資材を集める"
+    },
+    {
+        "id": 94049404,
+        "name": "資材採集 古い森で資材を集める",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6537,
+                "name": "巨人の指輪",
+                "type": "Item",
+                "dropPriority": 8312
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94049106,
+                "name": "寝かせた粘土",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049104,
+                "name": "芳しい茅束",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "shortname": "資材採集 古い森で資材を集める"
+    },
+    {
+        "id": 94049405,
+        "name": "資材採集 大蛇の神殿で資材を集める",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94049104,
+                "name": "芳しい茅束",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "shortname": "資材採集 大蛇の神殿で資材を集める"
+    },
+    {
+        "id": 94049406,
+        "name": "資材採集 光輝の神殿で資材を集める",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6546,
+                "name": "悠久の実",
+                "type": "Item",
+                "dropPriority": 8407
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "資材採集 光輝の神殿で資材を集める"
+    },
+    {
+        "id": 94049407,
+        "name": "資材採集 旧邪馬台国神殿で資材を集める",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6525,
+                "name": "智慧のスカラベ",
+                "type": "Item",
+                "dropPriority": 8503
+            },
+            {
+                "id": 6541,
+                "name": "禍罪の矢尻",
+                "type": "Item",
+                "dropPriority": 8315
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94049106,
+                "name": "寝かせた粘土",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "shortname": "資材採集 旧邪馬台国神殿で資材を集める"
+    },
+    {
+        "id": 94049408,
+        "name": "資材採集 闇の新選組屯所で資材を集める",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94049106,
+                "name": "寝かせた粘土",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049104,
+                "name": "芳しい茅束",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "shortname": "資材採集 闇の新選組屯所で資材を集める"
+    },
+    {
+        "id": 94049301,
+        "name": "凶つ神「炎ノブ」撃退戦 邪念級",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6518,
+                "name": "精霊根",
+                "type": "Item",
+                "dropPriority": 8502
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "凶つ神「炎ノブ」撃退戦 邪念級"
+    },
+    {
+        "id": 94049302,
+        "name": "凶つ神「炎ノブ」撃退戦 呪念級",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6518,
+                "name": "精霊根",
+                "type": "Item",
+                "dropPriority": 8502
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "凶つ神「炎ノブ」撃退戦 呪念級"
+    },
+    {
+        "id": 94049303,
+        "name": "凶つ神「炎ノブ」撃退戦 怨念級",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6518,
+                "name": "精霊根",
+                "type": "Item",
+                "dropPriority": 8502
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "凶つ神「炎ノブ」撃退戦 怨念級"
+    },
+    {
+        "id": 94049304,
+        "name": "凶つ神「地ノブ」撃退戦 邪念級",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "凶つ神「地ノブ」撃退戦 邪念級"
+    },
+    {
+        "id": 94049305,
+        "name": "凶つ神「地ノブ」撃退戦 呪念級",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "凶つ神「地ノブ」撃退戦 呪念級"
+    },
+    {
+        "id": 94049306,
+        "name": "凶つ神「地ノブ」撃退戦 怨念級",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "凶つ神「地ノブ」撃退戦 怨念級"
+    },
+    {
+        "id": 94049307,
+        "name": "凶つ神「水ノブ」撃退戦 邪念級",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 94049104,
+                "name": "芳しい茅束",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "shortname": "凶つ神「水ノブ」撃退戦 邪念級"
+    },
+    {
+        "id": 94049308,
+        "name": "凶つ神「水ノブ」撃退戦 呪念級",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 94049104,
+                "name": "芳しい茅束",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "shortname": "凶つ神「水ノブ」撃退戦 呪念級"
+    },
+    {
+        "id": 94049309,
+        "name": "凶つ神「水ノブ」撃退戦 怨念級",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 94049104,
+                "name": "芳しい茅束",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "shortname": "凶つ神「水ノブ」撃退戦 怨念級"
+    },
+    {
+        "id": 94049310,
+        "name": "凶つ神「嵐ノブ」撃退戦 邪念級",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6542,
+                "name": "真理の卵",
+                "type": "Item",
+                "dropPriority": 8507
+            },
+            {
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
+                "type": "Item",
+                "dropPriority": 8104
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "shortname": "凶つ神「嵐ノブ」撃退戦 邪念級"
+    },
+    {
+        "id": 94049311,
+        "name": "凶つ神「嵐ノブ」撃退戦 呪念級",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6542,
+                "name": "真理の卵",
+                "type": "Item",
+                "dropPriority": 8507
+            },
+            {
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
+                "type": "Item",
+                "dropPriority": 8104
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "shortname": "凶つ神「嵐ノブ」撃退戦 呪念級"
+    },
+    {
+        "id": 94049312,
+        "name": "凶つ神「嵐ノブ」撃退戦 怨念級",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6542,
+                "name": "真理の卵",
+                "type": "Item",
+                "dropPriority": 8507
+            },
+            {
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
+                "type": "Item",
+                "dropPriority": 8104
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "shortname": "凶つ神「嵐ノブ」撃退戦 怨念級"
+    },
+    {
+        "id": 94049313,
+        "name": "凶つ神「光ノブ」撃退戦 邪念級",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6529,
+                "name": "呪獣胆石",
+                "type": "Item",
+                "dropPriority": 8504
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 94049104,
+                "name": "芳しい茅束",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "凶つ神「光ノブ」撃退戦 邪念級"
+    },
+    {
+        "id": 94049314,
+        "name": "凶つ神「光ノブ」撃退戦 呪念級",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6529,
+                "name": "呪獣胆石",
+                "type": "Item",
+                "dropPriority": 8504
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 94049104,
+                "name": "芳しい茅束",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "凶つ神「光ノブ」撃退戦 呪念級"
+    },
+    {
+        "id": 94049315,
+        "name": "凶つ神「光ノブ」撃退戦 怨念級",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6529,
+                "name": "呪獣胆石",
+                "type": "Item",
+                "dropPriority": 8504
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 94049104,
+                "name": "芳しい茅束",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "shortname": "凶つ神「光ノブ」撃退戦 怨念級"
+    },
+    {
+        "id": 94049316,
+        "name": "凶つ神「闇ノブ」撃退戦 邪念級",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6543,
+                "name": "光銀の冠",
+                "type": "Item",
+                "dropPriority": 8316
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 94049106,
+                "name": "寝かせた粘土",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "shortname": "凶つ神「闇ノブ」撃退戦 邪念級"
+    },
+    {
+        "id": 94049317,
+        "name": "凶つ神「闇ノブ」撃退戦 呪念級",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6543,
+                "name": "光銀の冠",
+                "type": "Item",
+                "dropPriority": 8316
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 94049106,
+                "name": "寝かせた粘土",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "shortname": "凶つ神「闇ノブ」撃退戦 呪念級"
+    },
+    {
+        "id": 94049318,
+        "name": "凶つ神「闇ノブ」撃退戦 怨念級",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6543,
+                "name": "光銀の冠",
+                "type": "Item",
+                "dropPriority": 8316
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 94049106,
+                "name": "寝かせた粘土",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "shortname": "凶つ神「闇ノブ」撃退戦 怨念級"
+    },
+    {
+        "id": 94049319,
+        "name": "凶つ神「狂ノブ」撃退戦 邪念級",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 94049106,
+                "name": "寝かせた粘土",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "凶つ神「狂ノブ」撃退戦 邪念級"
+    },
+    {
+        "id": 94049320,
+        "name": "凶つ神「狂ノブ」撃退戦 呪念級",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 94049106,
+                "name": "寝かせた粘土",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "凶つ神「狂ノブ」撃退戦 呪念級"
+    },
+    {
+        "id": 94049321,
+        "name": "凶つ神「狂ノブ」撃退戦 怨念級",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 94049106,
+                "name": "寝かせた粘土",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "shortname": "凶つ神「狂ノブ」撃退戦 怨念級"
+    }
+]
