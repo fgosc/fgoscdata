@@ -1,0 +1,393 @@
+[
+    {
+        "id": 94062601,
+        "name": "資材採集 集落内で資材を集める",
+        "place": "",
+        "chapter": "",
+        "qp": 2400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 94049104,
+                "name": "芳しい茅束",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "dropItemNum": 10,
+        "shortname": "資材採集 集落内で資材を集める"
+    },
+    {
+        "id": 94062602,
+        "name": "資材採集 近場の川で資材を集める",
+        "place": "",
+        "chapter": "",
+        "qp": 3900,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 10,
+        "shortname": "資材採集 近場の川で資材を集める"
+    },
+    {
+        "id": 94062603,
+        "name": "資材採集 近場の野原で資材を集める",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94049106,
+                "name": "寝かせた粘土",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "dropItemNum": 11,
+        "shortname": "資材採集 近場の野原で資材を集める"
+    },
+    {
+        "id": 94062604,
+        "name": "資材採集 古い森で資材を集める",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6537,
+                "name": "巨人の指輪",
+                "type": "Item",
+                "dropPriority": 8312
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94049106,
+                "name": "寝かせた粘土",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049104,
+                "name": "芳しい茅束",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "dropItemNum": 14,
+        "shortname": "資材採集 古い森で資材を集める"
+    },
+    {
+        "id": 94062605,
+        "name": "資材採集 大蛇の神殿で資材を集める",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9807660,
+                "name": "概念礼装EXPカード：猛者と無敵",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94049104,
+                "name": "芳しい茅束",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "dropItemNum": 11,
+        "shortname": "資材採集 大蛇の神殿で資材を集める"
+    }
+]
