@@ -460,5 +460,88 @@
         ],
         "dropItemNum": 10,
         "shortname": "資材採集 光輝の神殿で資材を集める"
+    },
+    {
+        "id": 94062607,
+        "name": "資材採集 旧邪馬台国神殿で資材を集める",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6525,
+                "name": "智慧のスカラベ",
+                "type": "Item",
+                "dropPriority": 8503
+            },
+            {
+                "id": 6541,
+                "name": "禍罪の矢尻",
+                "type": "Item",
+                "dropPriority": 8315
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94049106,
+                "name": "寝かせた粘土",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "dropItemNum": 12,
+        "shortname": "資材採集 旧邪馬台国神殿で資材を集める"
     }
 ]
