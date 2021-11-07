@@ -543,5 +543,106 @@
         ],
         "dropItemNum": 12,
         "shortname": "資材採集 旧邪馬台国神殿で資材を集める"
+    },
+    {
+        "id": 94062608,
+        "name": "資材採集 闇の新選組屯所で資材を集める",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9404740,
+                "name": "姫巫女の寸暇",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807650,
+                "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94049106,
+                "name": "寝かせた粘土",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94049105,
+                "name": "丈夫な丸太",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94049104,
+                "name": "芳しい茅束",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94049103,
+                "name": "おおぶり蛤",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94049102,
+                "name": "おてがる銅鏡",
+                "type": "Item",
+                "dropPriority": 2001
+            },
+            {
+                "id": 94049101,
+                "name": "ミニ銅鐸",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "dropItemNum": 15,
+        "shortname": "資材採集 闇の新選組屯所で資材を集める"
     }
 ]
