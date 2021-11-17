@@ -128,5 +128,76 @@
         ],
         "dropItemNum": 9,
         "shortname": "中級"
+    },
+    {
+        "id": 94063903,
+        "name": "聞き込み調査 上級",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9405600,
+                "name": "花と舞う妓",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807990,
+                "name": "概念礼装EXPカード：阿国座カルデア公演",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9808000,
+                "name": "概念礼装EXPカード：謎の蘭丸X飛来！",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 94063703,
+                "name": "維新まんじゅう",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94063701,
+                "name": "ＭＩＳＯポテト",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 10,
+        "shortname": "上級"
     }
 ]
