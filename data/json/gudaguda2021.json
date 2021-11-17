@@ -1,0 +1,132 @@
+[
+    {
+        "id": 94063901,
+        "name": "聞き込み調査 初級",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9405600,
+                "name": "花と舞う妓",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808000,
+                "name": "概念礼装EXPカード：謎の蘭丸X飛来！",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94063702,
+                "name": "ＦＵＫＡＹＡネギ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94063701,
+                "name": "ＭＩＳＯポテト",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 9,
+        "shortname": "初級"
+    },
+    {
+        "id": 94063902,
+        "name": "聞き込み調査 中級",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9405600,
+                "name": "花と舞う妓",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808000,
+                "name": "概念礼装EXPカード：謎の蘭丸X飛来！",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94063703,
+                "name": "維新まんじゅう",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94063702,
+                "name": "ＦＵＫＡＹＡネギ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": 9,
+        "shortname": "中級"
+    }
+]
