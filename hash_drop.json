@@ -3669,7 +3669,8 @@
         "phash": "5621bf582396d926",
         "name": "維新まんじゅう",
         "shortname": "まんじゅう",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "42ff4c23d867308e"
     },
     {
         "id": 94063704,
@@ -4538,7 +4539,8 @@
         "phash": "5612f98db195dc23",
         "name": "ＦＵＫＡＹＡネギ",
         "shortname": "ネギ",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "16128d95dc298d11"
     },
     {
         "id": 94000301,
@@ -5140,7 +5142,8 @@
         "phash": "5c3dad0271e40b1f",
         "name": "ＭＩＳＯポテト",
         "shortname": "ＭＩＳＯポテト",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "1efd0370661f8c31"
     },
     {
         "id": 1,
