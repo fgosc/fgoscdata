@@ -780,6 +780,16 @@
         "dropPriority": 9005
     },
     {
+        "id": 9405600,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "花と舞う妓",
+        "shortname": "礼装",
+        "phash": "043307669907cde0",
+        "phash_narrow": "0c3146f0175fff03",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -959,6 +969,16 @@
         "dropPriority": 9004
     },
     {
+        "id": 9807990,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "概念礼装EXPカード：阿国座カルデア公演",
+        "shortname": "★4EXP礼装",
+        "phash": "e3587d2bb123bc06",
+        "phash_narrow": "e35c4d2fe1b7b13e",
+        "dropPriority": 9004
+    },
+    {
         "id": 9400500,
         "type": "Craft Essence",
         "rarity": 3,
@@ -1087,6 +1107,16 @@
         "shortname": "★3EXP礼装",
         "phash": "4613b8c5c99a4682",
         "phash_narrow": "461334ed18d20205",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9808000,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "概念礼装EXPカード：謎の蘭丸X飛来！",
+        "shortname": "★3EXP礼装",
+        "phash": "a1702ea6f1db6966",
+        "phash_narrow": "8178aef6bbeadc71",
         "dropPriority": 9003
     },
     {
@@ -3632,6 +3662,25 @@
         "phash_battle": "762706816110100c"
     },
     {
+        "id": 94063703,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5621bf582396d926",
+        "name": "維新まんじゅう",
+        "shortname": "まんじゅう",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94063704,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d60725a00b5d13a1",
+        "name": "謎の物質RX",
+        "dropPriority": 2004
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -4482,6 +4531,16 @@
         "phash_battle": "36112cf2184ae999"
     },
     {
+        "id": 94063702,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5612f98db195dc23",
+        "name": "ＦＵＫＡＹＡネギ",
+        "shortname": "ネギ",
+        "dropPriority": 2002
+    },
+    {
         "id": 94000301,
         "type": "Item",
         "background": "bronze",
@@ -5072,6 +5131,16 @@
         "shortname": "ゴマ",
         "dropPriority": 2001,
         "phash_battle": "96538c73092c8483"
+    },
+    {
+        "id": 94063701,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "5c3dad0271e40b1f",
+        "name": "ＭＩＳＯポテト",
+        "shortname": "ＭＩＳＯポテト",
+        "dropPriority": 2001
     },
     {
         "id": 1,
