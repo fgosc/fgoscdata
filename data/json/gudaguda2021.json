@@ -199,5 +199,76 @@
         ],
         "dropItemNum": 10,
         "shortname": "上級"
+    },
+    {
+        "id": 94063904,
+        "name": "ＳＡＩＴＡＭＡバレー",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9405600,
+                "name": "花と舞う妓",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807990,
+                "name": "概念礼装EXPカード：阿国座カルデア公演",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9808000,
+                "name": "概念礼装EXPカード：謎の蘭丸X飛来！",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6537,
+                "name": "巨人の指輪",
+                "type": "Item",
+                "dropPriority": 8312
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94063702,
+                "name": "ＦＵＫＡＹＡネギ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94063701,
+                "name": "ＭＩＳＯポテト",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 10,
+        "shortname": "ＳＡＩＴＡＭＡバレー"
     }
 ]
