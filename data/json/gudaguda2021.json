@@ -270,5 +270,360 @@
         ],
         "dropItemNum": 10,
         "shortname": "ＳＡＩＴＡＭＡバレー"
+    },
+    {
+        "id": 94063905,
+        "name": "ノブノブの森",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9405600,
+                "name": "花と舞う妓",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807990,
+                "name": "概念礼装EXPカード：阿国座カルデア公演",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9808000,
+                "name": "概念礼装EXPカード：謎の蘭丸X飛来！",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94063703,
+                "name": "維新まんじゅう",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94063702,
+                "name": "ＦＵＫＡＹＡネギ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": 10,
+        "shortname": "ノブノブの森"
+    },
+    {
+        "id": 94063906,
+        "name": "軍用地下通路",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9405600,
+                "name": "花と舞う妓",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807990,
+                "name": "概念礼装EXPカード：阿国座カルデア公演",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9808000,
+                "name": "概念礼装EXPカード：謎の蘭丸X飛来！",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94063703,
+                "name": "維新まんじゅう",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94063701,
+                "name": "ＭＩＳＯポテト",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 10,
+        "shortname": "軍用地下通路"
+    },
+    {
+        "id": 94063907,
+        "name": "ノーッブ☆動物公園",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405600,
+                "name": "花と舞う妓",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807990,
+                "name": "概念礼装EXPカード：阿国座カルデア公演",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9808000,
+                "name": "概念礼装EXPカード：謎の蘭丸X飛来！",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94063702,
+                "name": "ＦＵＫＡＹＡネギ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94063701,
+                "name": "ＭＩＳＯポテト",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 10,
+        "shortname": "ノーッブ☆動物公園"
+    },
+    {
+        "id": 94063909,
+        "name": "勤王まんじゅう市",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405600,
+                "name": "花と舞う妓",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807990,
+                "name": "概念礼装EXPカード：阿国座カルデア公演",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9808000,
+                "name": "概念礼装EXPカード：謎の蘭丸X飛来！",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94063703,
+                "name": "維新まんじゅう",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94063701,
+                "name": "ＭＩＳＯポテト",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 9,
+        "shortname": "勤王まんじゅう市"
+    },
+    {
+        "id": 94063910,
+        "name": "小江戸散歩",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405600,
+                "name": "花と舞う妓",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9807990,
+                "name": "概念礼装EXPカード：阿国座カルデア公演",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6529,
+                "name": "呪獣胆石",
+                "type": "Item",
+                "dropPriority": 8504
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94063703,
+                "name": "維新まんじゅう",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94063702,
+                "name": "ＦＵＫＡＹＡネギ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94063701,
+                "name": "ＭＩＳＯポテト",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 11,
+        "shortname": "小江戸散歩"
     }
 ]
