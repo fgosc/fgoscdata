@@ -3711,7 +3711,8 @@
         "phash": "764bad94439c718e",
         "name": "リッチバター",
         "shortname": "バター",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "2aad5442758f20ab"
     },
     {
         "id": 94064304,
@@ -3740,7 +3741,8 @@
         "phash": "5b52328d6d815d59",
         "name": "ツリースプーン",
         "shortname": "スプーン",
-        "dropPriority": 2006
+        "dropPriority": 2006,
+        "phash_battle": "5a12bc655943b436"
     },
     {
         "id": 94064308,
@@ -4620,7 +4622,8 @@
         "phash": "d62935dacb24789c",
         "name": "スイートエッグ",
         "shortname": "エッグ",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "ce215d4a7488c794"
     },
     {
         "id": 94000301,
@@ -5233,7 +5236,8 @@
         "phash": "5601857028145206",
         "name": "シュガーフルーツ",
         "shortname": "フルーツ",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "7285e1085616a129"
     },
     {
         "id": 1,
