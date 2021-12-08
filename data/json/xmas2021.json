@@ -1,0 +1,161 @@
+[
+    {
+        "id": 94064401,
+        "name": "パーティー食材集め 初級",
+        "place": "",
+        "chapter": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 9405670,
+                "name": "ライク・ア・レディ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94064306,
+                "name": "ツリースプーン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94064302,
+                "name": "スイートエッグ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94064301,
+                "name": "シュガーフルーツ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 7,
+        "shortname": "初級"
+    },
+    {
+        "id": 94064402,
+        "name": "パーティー食材集め 中級",
+        "place": "",
+        "chapter": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9405670,
+                "name": "ライク・ア・レディ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 94064306,
+                "name": "ツリースプーン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94064303,
+                "name": "リッチバター",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94064302,
+                "name": "スイートエッグ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": 7,
+        "shortname": "中級"
+    },
+    {
+        "id": 94064403,
+        "name": "パーティー食材集め 上級",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9405670,
+                "name": "ライク・ア・レディ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94064306,
+                "name": "ツリースプーン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94064303,
+                "name": "リッチバター",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94064301,
+                "name": "シュガーフルーツ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 7,
+        "shortname": "上級"
+    }
+]
