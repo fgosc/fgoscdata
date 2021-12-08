@@ -790,6 +790,25 @@
         "dropPriority": 9005
     },
     {
+        "id": 9405630,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "悠久の果てを求めて",
+        "phash": "219aceaed255aca6",
+        "phash_narrow": "29daacee537ddd97",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9405670,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ライク・ア・レディ",
+        "shortname": "礼装",
+        "phash": "613dc00fb08235f2",
+        "phash_narrow": "69bc4e7d8a3d723d",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -945,6 +964,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：窮鼠",
+        "name_eng": "CE EXP Card: Cornered Mice",
         "phash": "694287995a63e689",
         "phash_narrow": "6966879c716688b3",
         "dropPriority": 9004
@@ -1148,6 +1168,7 @@
         "rarity": 3,
         "phash": "3611a5cc5b844926",
         "name": "煌星のカケラ",
+        "name_eng": "Fragment of a Twinkling Star",
         "shortname": "カケラ",
         "alias": [
             "煌星の欠片",
@@ -1396,6 +1417,7 @@
         "rarity": 2,
         "phash": "ef881df6a99576a9",
         "name": "光銀の冠",
+        "name_eng": "Crown of Silvery Light",
         "shortname": "冠",
         "alias": [
             "光銀"
@@ -3682,6 +3704,54 @@
         "dropPriority": 2004
     },
     {
+        "id": 94064303,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "764bad94439c718e",
+        "name": "リッチバター",
+        "shortname": "バター",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94064304,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "9643298ef085f11b",
+        "name": "メリーサイダー",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94064305,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "b608534e2c90c93f",
+        "name": "聖女見習いの交換券",
+        "shortname": "券",
+        "dropPriority": 2005
+    },
+    {
+        "id": 94064306,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5b52328d6d815d59",
+        "name": "ツリースプーン",
+        "shortname": "スプーン",
+        "dropPriority": 2006
+    },
+    {
+        "id": 94064308,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "f0f0f2271f1fe3c3",
+        "name": "おたまステッキ",
+        "dropPriority": 2008
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -4543,6 +4613,16 @@
         "phash_battle": "16128d95dc298d11"
     },
     {
+        "id": 94064302,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "d62935dacb24789c",
+        "name": "スイートエッグ",
+        "shortname": "エッグ",
+        "dropPriority": 2002
+    },
+    {
         "id": 94000301,
         "type": "Item",
         "background": "bronze",
@@ -5144,6 +5224,16 @@
         "shortname": "ＭＩＳＯポテト",
         "dropPriority": 2001,
         "phash_battle": "1efd0370661f8c31"
+    },
+    {
+        "id": 94064301,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "5601857028145206",
+        "name": "シュガーフルーツ",
+        "shortname": "フルーツ",
+        "dropPriority": 2001
     },
     {
         "id": 1,
