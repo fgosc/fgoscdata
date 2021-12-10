@@ -228,5 +228,105 @@
         ],
         "dropItemNum": 10,
         "shortname": "フィッシュ級"
+    },
+    {
+        "id": 94064405,
+        "name": "パーティー食材集め ベジタブル級",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9405670,
+                "name": "ライク・ア・レディ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6546,
+                "name": "悠久の実",
+                "type": "Item",
+                "dropPriority": 8407
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94064306,
+                "name": "ツリースプーン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94064302,
+                "name": "スイートエッグ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94064301,
+                "name": "シュガーフルーツ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 9,
+        "shortname": "ベジタブル級"
+    },
+    {
+        "id": 94064430,
+        "name": "パーティー食材集め アイス級",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 94064303,
+                "name": "リッチバター",
+                "type": "Item",
+                "dropPriority": 2003
+            }
+        ],
+        "dropItemNum": 4,
+        "shortname": "アイス級"
     }
 ]
