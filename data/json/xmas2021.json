@@ -366,6 +366,71 @@
         "shortname": "ミート級"
     },
     {
+        "id": 94064407,
+        "name": "パーティー食材集め チーズ級",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9405670,
+                "name": "ライク・ア・レディ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94064306,
+                "name": "ツリースプーン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94064303,
+                "name": "リッチバター",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94064301,
+                "name": "シュガーフルーツ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 9,
+        "shortname": "チーズ級"
+    },
+    {
         "id": 94064430,
         "name": "パーティー食材集め アイス級",
         "place": "",
