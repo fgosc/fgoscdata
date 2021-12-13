@@ -431,6 +431,136 @@
         "shortname": "チーズ級"
     },
     {
+        "id": 94064408,
+        "name": "パーティー食材集め ヌードル級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405670,
+                "name": "ライク・ア・レディ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6542,
+                "name": "真理の卵",
+                "type": "Item",
+                "dropPriority": 8507
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94064306,
+                "name": "ツリースプーン",
+                "type": "Item",
+                "dropPriority": 2006
+            }
+        ],
+        "dropItemNum": 8,
+        "shortname": "ヌードル級"
+    },
+    {
+        "id": 94064409,
+        "name": "パーティー食材集め 後片づけ級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405670,
+                "name": "ライク・ア・レディ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6543,
+                "name": "光銀の冠",
+                "type": "Item",
+                "dropPriority": 8316
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94064306,
+                "name": "ツリースプーン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94064303,
+                "name": "リッチバター",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94064302,
+                "name": "スイートエッグ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94064301,
+                "name": "シュガーフルーツ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": 10,
+        "shortname": "後片づけ級"
+    },
+    {
         "id": 94064430,
         "name": "パーティー食材集め アイス級",
         "place": "",
