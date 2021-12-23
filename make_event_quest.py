@@ -65,9 +65,14 @@ def list2dic(quest_list):
         qp = q["qp"]
         spotname = q["name"]
         logger.debug('drop: %s', drop)
+        try:
+            dropItemNum = questId2dropItemNum[questId]
+        except:
+            logger.warning("ドロップ枠数が取得できません")
+            dropItemNum = -1
         event_quest = FgoEventQuest(int(quest["id"]), quest["quest"],
                                     "", "", qp, drop,
-                                    questId2dropItemNum[questId],
+                                    dropItemNum,
                                     quest["shortname"])
         if quest["quest"] != spotname:
             logger.warning("場所名が異なります: %s %s",
