@@ -104,5 +104,46 @@
         ],
         "dropItemNum": -1,
         "shortname": "R-36M2-Voevoda 迎撃戦 神獣級"
+    },
+    {
+        "id": 94065112,
+        "name": "眷属Ⅳ 迎撃戦",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6541,
+                "name": "禍罪の矢尻",
+                "type": "Item",
+                "dropPriority": 8315
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "眷属Ⅳ 迎撃戦"
     }
 ]
