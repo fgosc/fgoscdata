@@ -165,6 +165,47 @@
         "shortname": "迎撃戦"
     },
     {
+        "id": 94065116,
+        "name": "眷属Ⅲ 迎撃戦",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "迎撃戦"
+    },
+    {
         "id": 94065112,
         "name": "眷属Ⅳ 迎撃戦",
         "place": "",
