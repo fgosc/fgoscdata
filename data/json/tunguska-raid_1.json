@@ -145,5 +145,46 @@
         ],
         "dropItemNum": -1,
         "shortname": "眷属Ⅳ 迎撃戦"
+    },
+    {
+        "id": 94065119,
+        "name": "眷属Ⅴ 迎撃戦",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6544,
+                "name": "煌星のカケラ",
+                "type": "Item",
+                "dropPriority": 8508
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "迎撃戦"
     }
 ]
