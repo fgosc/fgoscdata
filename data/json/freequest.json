@@ -6926,6 +6926,12 @@
                 "dropPriority": 6095
             },
             {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            },
+            {
                 "id": 9706500,
                 "name": "殺業火",
                 "type": "Exp. UP",
