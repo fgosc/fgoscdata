@@ -68,7 +68,7 @@
             }
         ],
         "dropItemNum": 13,
-        "scPriority": 1028
+        "scPriority": 1075
     },
     {
         "id": 94006802,
@@ -139,7 +139,7 @@
             }
         ],
         "dropItemNum": 13,
-        "scPriority": 1027
+        "scPriority": 1074
     },
     {
         "id": 94006803,
@@ -228,7 +228,7 @@
             }
         ],
         "dropItemNum": 16,
-        "scPriority": 1026
+        "scPriority": 1073
     },
     {
         "id": 94006804,
@@ -317,7 +317,7 @@
             }
         ],
         "dropItemNum": 16,
-        "scPriority": 1025
+        "scPriority": 1072
     },
     {
         "id": 94006805,
@@ -382,7 +382,7 @@
             }
         ],
         "dropItemNum": 12,
-        "scPriority": 1004
+        "scPriority": 1015
     },
     {
         "id": 94006806,
@@ -465,7 +465,7 @@
             }
         ],
         "dropItemNum": 15,
-        "scPriority": 1003
+        "scPriority": 1014
     },
     {
         "id": 94006807,
@@ -548,7 +548,7 @@
             }
         ],
         "dropItemNum": 15,
-        "scPriority": 1002
+        "scPriority": 1013
     },
     {
         "id": 94006808,
@@ -631,7 +631,7 @@
             }
         ],
         "dropItemNum": 15,
-        "scPriority": 1001
+        "scPriority": 1012
     },
     {
         "id": 94006809,
@@ -690,7 +690,7 @@
             }
         ],
         "dropItemNum": 11,
-        "scPriority": 1008
+        "scPriority": 1025
     },
     {
         "id": 94006810,
@@ -761,7 +761,7 @@
             }
         ],
         "dropItemNum": 13,
-        "scPriority": 1007
+        "scPriority": 1024
     },
     {
         "id": 94006811,
@@ -844,7 +844,7 @@
             }
         ],
         "dropItemNum": 15,
-        "scPriority": 1006
+        "scPriority": 1023
     },
     {
         "id": 94006812,
@@ -927,7 +927,7 @@
             }
         ],
         "dropItemNum": 15,
-        "scPriority": 1005
+        "scPriority": 1022
     },
     {
         "id": 94006813,
@@ -980,7 +980,7 @@
             }
         ],
         "dropItemNum": 10,
-        "scPriority": 1012
+        "scPriority": 1035
     },
     {
         "id": 94006814,
@@ -1045,7 +1045,7 @@
             }
         ],
         "dropItemNum": 12,
-        "scPriority": 1011
+        "scPriority": 1034
     },
     {
         "id": 94006815,
@@ -1116,7 +1116,7 @@
             }
         ],
         "dropItemNum": 13,
-        "scPriority": 1010
+        "scPriority": 1033
     },
     {
         "id": 94006816,
@@ -1187,7 +1187,7 @@
             }
         ],
         "dropItemNum": 13,
-        "scPriority": 1009
+        "scPriority": 1032
     },
     {
         "id": 94006817,
@@ -1240,7 +1240,7 @@
             }
         ],
         "dropItemNum": 10,
-        "scPriority": 1016
+        "scPriority": 1045
     },
     {
         "id": 94006818,
@@ -1299,7 +1299,7 @@
             }
         ],
         "dropItemNum": 11,
-        "scPriority": 1015
+        "scPriority": 1044
     },
     {
         "id": 94006819,
@@ -1370,7 +1370,7 @@
             }
         ],
         "dropItemNum": 13,
-        "scPriority": 1014
+        "scPriority": 1043
     },
     {
         "id": 94006820,
@@ -1441,7 +1441,7 @@
             }
         ],
         "dropItemNum": 13,
-        "scPriority": 1013
+        "scPriority": 1042
     },
     {
         "id": 94006821,
@@ -1500,7 +1500,7 @@
             }
         ],
         "dropItemNum": 10,
-        "scPriority": 1020
+        "scPriority": 1055
     },
     {
         "id": 94006822,
@@ -1559,7 +1559,7 @@
             }
         ],
         "dropItemNum": 10,
-        "scPriority": 1019
+        "scPriority": 1054
     },
     {
         "id": 94006823,
@@ -1630,7 +1630,7 @@
             }
         ],
         "dropItemNum": 12,
-        "scPriority": 1018
+        "scPriority": 1053
     },
     {
         "id": 94006824,
@@ -1701,7 +1701,7 @@
             }
         ],
         "dropItemNum": 12,
-        "scPriority": 1017
+        "scPriority": 1052
     },
     {
         "id": 94006825,
@@ -1760,7 +1760,7 @@
             }
         ],
         "dropItemNum": 11,
-        "scPriority": 1024
+        "scPriority": 1065
     },
     {
         "id": 94006826,
@@ -1831,7 +1831,7 @@
             }
         ],
         "dropItemNum": 13,
-        "scPriority": 1023
+        "scPriority": 1064
     },
     {
         "id": 94006827,
@@ -1914,7 +1914,7 @@
             }
         ],
         "dropItemNum": 15,
-        "scPriority": 1022
+        "scPriority": 1063
     },
     {
         "id": 94006828,
@@ -1997,6 +1997,89 @@
             }
         ],
         "dropItemNum": 15,
-        "scPriority": 1021
+        "scPriority": 1062
+    },
+    {
+        "id": 94066106,
+        "name": "土曜 殺の修練場 極級",
+        "place": "極級",
+        "chapter": "殺の修練場",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1061
     }
 ]

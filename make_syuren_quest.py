@@ -21,7 +21,7 @@ outfile = Path(__file__).resolve().parent / "data/json" \
 
 
 def main(args):
-    with open(syurenquest_file, encoding='UTF-8') as f:
+    with open(syurenquest_file, encoding='utf-8-sig') as f:
         reader = csv.DictReader(f)
         tmps = [row for row in reader]
 
@@ -48,9 +48,14 @@ def main(args):
         qp = quest["qp"]
         logger.debug('drop: %s', drop)
         qname = tmp["shortname"].split(" ")
+        try:
+            dropitemnum = questId2dropItemNum[questId]
+        except Exception:
+            logger.warning("ドロップ枠数が取得できません")
+            dropitemnum = -1
         event_quest = FgoFreeQuest(int(tmp["id"]), tmp["quest"], qname[1],
                                    qname[0], qp, drop,
-                                   questId2dropItemNum[questId],
+                                   dropitemnum,
                                    int(tmp['scPriority']))
 
         quest_output.append(dataclasses.asdict(event_quest))
