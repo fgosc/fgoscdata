@@ -723,6 +723,89 @@
         "scPriority": 1012
     },
     {
+        "id": 94066101,
+        "name": "月曜 弓の修練場 極級",
+        "place": "極級",
+        "chapter": "弓の修練場",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 6531,
+                "name": "奇奇神酒",
+                "type": "Item",
+                "dropPriority": 8505
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            },
+            {
+                "id": 9703400,
+                "name": "弓猛火",
+                "type": "Exp. UP",
+                "dropPriority": 681
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1011
+    },
+    {
         "id": 94006809,
         "name": "火曜 槍の修練場 初級",
         "place": "初級",
