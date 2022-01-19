@@ -819,5 +819,70 @@
         ],
         "dropItemNum": -1,
         "shortname": "管制室 バルバトス 制圧戦"
+    },
+    {
+        "id": 94065552,
+        "name": "魔眼オークションの招待状",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9403860,
+                "name": "次期当主会議",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94036603,
+                "name": "ノーヴル・クロック",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94036602,
+                "name": "ダンディ・ラビット",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94036601,
+                "name": "フォーマル・リーブス",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "魔眼オークションの招待状"
     }
 ]
