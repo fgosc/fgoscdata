@@ -3397,7 +3397,7 @@
         "name_eng": "Dream Chip",
         "shortname": "チップ",
         "dropPriority": 2003,
-        "phash_battle": "2e43f8044453a00c"
+        "phash_battle": "f227a527585a9487"
     },
     {
         "id": 94040903,
@@ -5402,7 +5402,8 @@
         "phash": "fc03d92c24044150",
         "name": "カカオチップ",
         "shortname": "カカオチップ",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "2e43f8044453a00c"
     },
     {
         "id": 1,
