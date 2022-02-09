@@ -33,7 +33,6 @@ name_alias_file = Path(__file__).resolve().parent / Path("name_alias.csv")
 ##Item_output_file = Path(__file__).resolve().parent / Path("hash_item.csv")
 ##Drop_output_file = Path(__file__).resolve().parent / Path("hash_drop.csv")
 Drop_json_file = Path(__file__).resolve().parent / Path("hash_drop.json")
-mstItem_url = "https://raw.githubusercontent.com/FZFalzar/FGOData/master/JP_tables/item/mstItem.json"
 if not Image_dir.is_dir():
     Image_dir.mkdir(parents=True)
 if not Image_dir_ce.is_dir():
@@ -346,12 +345,10 @@ def make_item_data():
     """
     r_get = requests.get(url_item)
     item_list = r_get.json()
-    r_get2 = requests.get(mstItem_url)
-    mstItem_list = r_get2.json()
     r_get3 = requests.get(url_item_na)
     item_list_na = r_get3.json()
 
-    id2dropPriority ={ item["id"]:item["dropPriority"] for item in mstItem_list}
+    id2dropPriority ={ item["id"]:item["dropPriority"] for item in item_list}
     id2name_eng ={ item["id"]:item["name"] for item in item_list_na}
     
     with open(Item_blacklist_file, encoding='UTF-8') as f:

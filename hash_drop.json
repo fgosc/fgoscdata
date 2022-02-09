@@ -7,7 +7,7 @@
         "name": "クエストクリア報酬QP",
         "name_eng": "Quest Clear Reward QP",
         "shortname": "報酬QP",
-        "dropPriority": 9012
+        "dropPriority": 9013
     },
     {
         "id": 9400410,
@@ -614,6 +614,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "クリスマスの軌跡",
+        "name_eng": "Traces of Christmases Past",
         "shortname": "礼装",
         "phash": "8d34a0fcd5c4f7d8",
         "phash_narrow": "ad2528fd85fff8f7",
@@ -624,6 +625,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ニット・ザ・ラブ",
+        "name_eng": "Knitting Love",
         "shortname": "礼装",
         "phash": "cfcc6cfafe69a7f2",
         "phash_narrow": "c70ce8de5daf76d7",
@@ -809,6 +811,43 @@
         "dropPriority": 9005
     },
     {
+        "id": 9405680,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "冬の聖女",
+        "phash": "3c297815715ba408",
+        "phash_narrow": "3c6b94bddb666213",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9405710,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "エンプティ・ガーデン",
+        "phash": "38e6c429a6d714ec",
+        "phash_narrow": "3bc689a9f31e6c8c",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9405740,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ファースト・ドローイング",
+        "phash": "c9e0accc5622a976",
+        "phash_narrow": "d1a3acdc7ad966a9",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9405800,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "お疲れ様です！",
+        "shortname": "礼装",
+        "phash": "b6e56726cabb4530",
+        "phash_narrow": "96e525c69b4d0125",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -846,6 +885,42 @@
         "name_eng": "Golden Wings",
         "phash": "61e29d2df2d76bb7",
         "phash_narrow": "61921db8dcabdde6",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9405690,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "庭園の守り人",
+        "phash": "59784e9285f44fda",
+        "phash_narrow": "516cfa97f5e5da7a",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9405720,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "一陽来復",
+        "phash": "16cf6b4645126926",
+        "phash_narrow": "1ecbee4411e76707",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9405750,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "心尽くしの",
+        "phash": "2bc8fcad6848f8f6",
+        "phash_narrow": "2bc8bda7c95878e6",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9405950,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "無尽の塵山",
+        "phash": "99568d02799ea9d6",
+        "phash_narrow": "9a5c07629f22cd21",
         "dropPriority": 9004
     },
     {
@@ -999,6 +1074,15 @@
         "dropPriority": 9004
     },
     {
+        "id": 9808010,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "概念礼装EXPカード：虎と遭難",
+        "phash": "70378d01e9e21410",
+        "phash_narrow": "722f8c51eb8d13a1",
+        "dropPriority": 9004
+    },
+    {
         "id": 9400500,
         "type": "Craft Essence",
         "rarity": 3,
@@ -1036,6 +1120,33 @@
         "name_eng": "Nostalgic Form",
         "phash": "a5933f4163006952",
         "phash_narrow": "a493bd43a60d270c",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9405700,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "穂群原学園生徒会長",
+        "phash": "ee42b42549cd9393",
+        "phash_narrow": "ee5eb6696ca7cfce",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9405730,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "眠り続ける街",
+        "phash": "79991ed62ad7a5be",
+        "phash_narrow": "f919d60a5bad8eaa",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9405760,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "マキシマムオーバードライヴ",
+        "phash": "996698bc5adc4feb",
+        "phash_narrow": "23438c7efc5ebf3d",
         "dropPriority": 9003
     },
     {
@@ -2256,6 +2367,16 @@
         "phash_battle": "1c892382d192a443"
     },
     {
+        "id": 94066404,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "e6996964884c6192",
+        "name": "用心棒ポイント",
+        "shortname": "用心棒P",
+        "dropPriority": 3004
+    },
+    {
         "id": 94062806,
         "type": "Point",
         "background": "silver",
@@ -2399,6 +2520,7 @@
         "rarity": 2,
         "phash": "3ca08b5871364c8c",
         "name": "キラキラポイント",
+        "name_eng": "Sparkle Points",
         "shortname": "ポイント",
         "dropPriority": 3004,
         "phash_battle": "3c89c9724c86d994"
@@ -2410,6 +2532,7 @@
         "rarity": 2,
         "phash": "7c0279aca7d86628",
         "name": "聖夜の絆創膏",
+        "name_eng": "Bandage of the Holy Night",
         "shortname": "絆創膏",
         "dropPriority": 2005,
         "phash_battle": "16d32d856826a820"
@@ -3305,6 +3428,7 @@
         "rarity": 3,
         "phash": "5352a4ac4bd651b5",
         "name": "真心の枕",
+        "name_eng": "Pillow of Devotion",
         "shortname": "枕",
         "dropPriority": 2003,
         "phash_battle": "53b6ad4ad235a8ae"
@@ -3316,6 +3440,7 @@
         "rarity": 3,
         "phash": "dc03836c699c4996",
         "name": "夜すがらの扇",
+        "name_eng": "Fan of All-Nighters",
         "shortname": "扇",
         "dropPriority": 2003,
         "phash_battle": "dc03602d0d12ee02"
@@ -3327,6 +3452,7 @@
         "rarity": 3,
         "phash": "d64329e619268968",
         "name": "フレチョコ",
+        "name_eng": "Friend Chocolate",
         "dropPriority": 4006
     },
     {
@@ -3721,6 +3847,7 @@
         "rarity": 3,
         "phash": "9643298ef085f11b",
         "name": "メリーサイダー",
+        "shortname": "メリーサイダー",
         "dropPriority": 2004
     },
     {
@@ -3751,7 +3878,18 @@
         "rarity": 3,
         "phash": "f0f0f2271f1fe3c3",
         "name": "おたまステッキ",
+        "shortname": "ステッキ",
         "dropPriority": 2008
+    },
+    {
+        "id": 94066403,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "fc780303a3e0731c",
+        "name": "スパイシーショコラトル",
+        "shortname": "ショコラトル",
+        "dropPriority": 2003
     },
     {
         "id": 3,
@@ -4358,6 +4496,7 @@
         "rarity": 2,
         "phash": "dfd2784ce03d8cf5",
         "name": "奉仕の体温計",
+        "name_eng": "Thermometer of Service",
         "shortname": "体温計",
         "dropPriority": 2002,
         "phash_battle": "d25a6d25b5b4b5e9"
@@ -4369,6 +4508,7 @@
         "rarity": 2,
         "phash": "5e0925520976d214",
         "name": "集いの手毬",
+        "name_eng": "Temari of Gathering",
         "shortname": "手毬",
         "dropPriority": 2002,
         "phash_battle": "5a3503aad2192c43"
@@ -4624,6 +4764,16 @@
         "shortname": "エッグ",
         "dropPriority": 2002,
         "phash_battle": "ce215d4a7488c794"
+    },
+    {
+        "id": 94066402,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "56210958c91681a4",
+        "name": "ビターパウダー",
+        "shortname": "パウダー",
+        "dropPriority": 2002
     },
     {
         "id": 94000301,
@@ -5049,6 +5199,7 @@
         "rarity": 1,
         "phash": "f20d488728b65869",
         "name": "慈愛の包帯",
+        "name_eng": "Gauze of Benevolence",
         "shortname": "包帯",
         "dropPriority": 2001,
         "phash_battle": "d24d29b64834d269"
@@ -5060,6 +5211,7 @@
         "rarity": 1,
         "phash": "565309aca4939425",
         "name": "出会いの風車",
+        "name_eng": "Pinwheel of Encounters",
         "shortname": "風車",
         "dropPriority": 2001,
         "phash_battle": "565badb31234c114"
@@ -5240,13 +5392,23 @@
         "phash_battle": "7285e1085616a129"
     },
     {
+        "id": 94066401,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "fc03d92c24044150",
+        "name": "カカオチップ",
+        "shortname": "チップ",
+        "dropPriority": 2001
+    },
+    {
         "id": 1,
         "type": "Item",
         "background": "zero",
         "phash": "f61389b4292f4806",
         "name": "QP",
         "name_eng": "QP",
-        "dropPriority": 510,
+        "dropPriority": 511,
         "phash_battle": "561be42b2814a00b"
     },
     {
