@@ -2374,7 +2374,8 @@
         "phash": "e6996964884c6192",
         "name": "用心棒ポイント",
         "shortname": "用心棒P",
-        "dropPriority": 3004
+        "dropPriority": 3004,
+        "phash_battle": "86790d886cf3511c"
     },
     {
         "id": 94062806,
@@ -3396,7 +3397,7 @@
         "name_eng": "Dream Chip",
         "shortname": "チップ",
         "dropPriority": 2003,
-        "phash_battle": "f227a527585a9487"
+        "phash_battle": "2e43f8044453a00c"
     },
     {
         "id": 94040903,
@@ -3889,7 +3890,8 @@
         "phash": "fc780303a3e0731c",
         "name": "スパイシーショコラトル",
         "shortname": "ショコラトル",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "fc0303a0623cec0c"
     },
     {
         "id": 3,
@@ -4773,7 +4775,8 @@
         "phash": "56210958c91681a4",
         "name": "ビターパウダー",
         "shortname": "パウダー",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "7621695a17b42444"
     },
     {
         "id": 94000301,
