@@ -13,22 +13,22 @@
                 "dropPriority": 9005
             },
             {
-                "id": 6530,
-                "name": "魔術髄液",
+                "id": 6502,
+                "name": "世界樹の種",
                 "type": "Item",
-                "dropPriority": 8103
+                "dropPriority": 8203
             },
             {
-                "id": 6005,
-                "name": "術の輝石",
+                "id": 6006,
+                "name": "殺の輝石",
                 "type": "Item",
-                "dropPriority": 6096
+                "dropPriority": 6095
             },
             {
-                "id": 7005,
-                "name": "キャスターピース",
+                "id": 7006,
+                "name": "アサシンピース",
                 "type": "Item",
-                "dropPriority": 5196
+                "dropPriority": 5195
             },
             {
                 "id": 94066404,
@@ -37,10 +37,10 @@
                 "dropPriority": 3004
             },
             {
-                "id": 94066403,
-                "name": "スパイシーショコラトル",
+                "id": 94066402,
+                "name": "ビターパウダー",
                 "type": "Item",
-                "dropPriority": 2003
+                "dropPriority": 2002
             },
             {
                 "id": 94066401,
