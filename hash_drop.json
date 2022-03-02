@@ -3929,7 +3929,8 @@
         "phash": "575259cd653185bd",
         "name": "スマートペン",
         "shortname": "ペン",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "46124925b585b194"
     },
     {
         "id": 94067004,
@@ -4843,7 +4844,8 @@
         "phash": "1ce969b60986c186",
         "name": "クールバインダー",
         "shortname": "バインダー",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "3c69068206838362"
     },
     {
         "id": 94000301,
@@ -5481,7 +5483,8 @@
         "phash": "780732ad126c9048",
         "name": "インテリペーパー",
         "shortname": "ペーパー",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "0857ac0f0086c4e3"
     },
     {
         "id": 1,
