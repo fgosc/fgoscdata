@@ -848,6 +848,15 @@
         "dropPriority": 9005
     },
     {
+        "id": 9406010,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "狼のはなし",
+        "phash": "0bf3f416f9b6e81f",
+        "phash_narrow": "0bf3365ef770b6e6",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -915,12 +924,30 @@
         "dropPriority": 9004
     },
     {
+        "id": 9405830,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "探偵ヱドモン～最後の事件編～",
+        "phash": "f95e5a55f51a2db6",
+        "phash_narrow": "e95a5af55a8d56b9",
+        "dropPriority": 9004
+    },
+    {
         "id": 9405950,
         "type": "Craft Essence",
         "rarity": 4,
         "name": "無尽の塵山",
         "phash": "99568d02799ea9d6",
         "phash_narrow": "9a5c07629f22cd21",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9405960,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "荒兇の骨塚",
+        "phash": "d8328d36c9362976",
+        "phash_narrow": "52521c91d7adb34d",
         "dropPriority": 9004
     },
     {
@@ -3463,6 +3490,7 @@
         "rarity": 3,
         "phash": "4609b94e0d945bc3",
         "name": "疑惑のハチミツ",
+        "name_eng": "Dubious Honey",
         "shortname": "ハチミツ",
         "dropPriority": 2003,
         "phash_battle": "46b1ec9491432ca7"
@@ -3892,6 +3920,34 @@
         "shortname": "ショコラトル",
         "dropPriority": 2003,
         "phash_battle": "fc0303a0623cec0c"
+    },
+    {
+        "id": 94067003,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "575259cd653185bd",
+        "name": "スマートペン",
+        "shortname": "ペン",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94067004,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7c1823c9d16625e6",
+        "name": "ホワイトデー・スペクタクルズ入館証",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94067005,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "e71259cc263bc956",
+        "name": "ホワイトデー・スペクタクルズ霊衣開放チケット",
+        "dropPriority": 2005
     },
     {
         "id": 3,
@@ -4522,6 +4578,7 @@
         "rarity": 2,
         "phash": "1606f11cc03986f9",
         "name": "不気味な薬草",
+        "name_eng": "Creepy Medicinal Herb",
         "shortname": "薬草",
         "dropPriority": 2002,
         "phash_battle": "16e395c1a4902908"
@@ -4777,6 +4834,16 @@
         "shortname": "パウダー",
         "dropPriority": 2002,
         "phash_battle": "7621695a17b42444"
+    },
+    {
+        "id": 94067002,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "1ce969b60986c186",
+        "name": "クールバインダー",
+        "shortname": "バインダー",
+        "dropPriority": 2002
     },
     {
         "id": 94000301,
@@ -5226,6 +5293,7 @@
         "rarity": 1,
         "phash": "d60d84a369508318",
         "name": "怪しい麦袋",
+        "name_eng": "Suspicious Bag of Wheat",
         "shortname": "麦袋",
         "dropPriority": 2001,
         "phash_battle": "f605a349d12b3412"
@@ -5404,6 +5472,16 @@
         "shortname": "カカオチップ",
         "dropPriority": 2001,
         "phash_battle": "2e43f8044453a00c"
+    },
+    {
+        "id": 94067001,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "780732ad126c9048",
+        "name": "インテリペーパー",
+        "shortname": "ペーパー",
+        "dropPriority": 2001
     },
     {
         "id": 1,
