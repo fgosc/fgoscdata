@@ -162,5 +162,52 @@
         ],
         "dropItemNum": -1,
         "shortname": "ブルーアラート級"
+    },
+    {
+        "id": 94067105,
+        "name": "謎の施設探索 イエローアラート級",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6511,
+                "name": "禁断の頁",
+                "type": "Item",
+                "dropPriority": 8303
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 94067002,
+                "name": "クールバインダー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94067001,
+                "name": "インテリペーパー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "イエローアラート級"
     }
 ]
