@@ -209,5 +209,52 @@
         ],
         "dropItemNum": -1,
         "shortname": "イエローアラート級"
+    },
+    {
+        "id": 94067106,
+        "name": "実験棟探索 オレンジアラート級",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 94067003,
+                "name": "スマートペン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94067002,
+                "name": "クールバインダー",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "オレンジアラート級"
     }
 ]
