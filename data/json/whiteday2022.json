@@ -256,5 +256,52 @@
         ],
         "dropItemNum": -1,
         "shortname": "オレンジアラート級"
+    },
+    {
+        "id": 94067107,
+        "name": "実験棟探索 レッドアラート級",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 94067003,
+                "name": "スマートペン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94067001,
+                "name": "インテリペーパー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "レッドアラート級"
     }
 ]
