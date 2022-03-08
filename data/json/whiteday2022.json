@@ -356,5 +356,64 @@
         ],
         "dropItemNum": -1,
         "shortname": "パープルアラート級"
+    },
+    {
+        "id": 94067109,
+        "name": "実験棟探索 レインボーアラート級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6542,
+                "name": "真理の卵",
+                "type": "Item",
+                "dropPriority": 8507
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 94067003,
+                "name": "スマートペン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94067002,
+                "name": "クールバインダー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94067001,
+                "name": "インテリペーパー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "レインボーアラート級"
     }
 ]
