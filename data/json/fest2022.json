@@ -1,5 +1,70 @@
 [
     {
+        "id": 94067620,
+        "name": "第一リーグ アイランド級 黄金！メカクレ！ぽんぽこ！",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9405940,
+                "name": "コスモカルデア高等学園",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94067605,
+                "name": "AUOくじ2022",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94067602,
+                "name": "ギャラクシードッグ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94067601,
+                "name": "スペースポテト",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "第一リーグ アイランド級"
+    },
+    {
         "id": 94067621,
         "name": "第一リーグ コンティネント級 ＶＲ戦士ＴＯＭＯＥ",
         "place": "",
