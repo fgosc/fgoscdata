@@ -848,6 +848,26 @@
         "dropPriority": 9005
     },
     {
+        "id": 9405930,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "チェック・レディ",
+        "shortname": "特攻礼装",
+        "phash": "9c5353264c4611b3",
+        "phash_narrow": "9c5932aa4c02d360",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9405940,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "コスモカルデア高等学園",
+        "shortname": "泥礼装",
+        "phash": "f1b0668d94c0f8ee",
+        "phash_narrow": "f1706f3f9651c4b3",
+        "dropPriority": 9005
+    },
+    {
         "id": 9406010,
         "type": "Craft Essence",
         "rarity": 5,
@@ -3951,6 +3971,35 @@
         "dropPriority": 2005
     },
     {
+        "id": 94067603,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6012d02b1dc0b8d",
+        "name": "メテオバーガー",
+        "shortname": "メテオバーガー",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94067604,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "36c90532b150a14b",
+        "name": "コズミックメダリオン",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94067605,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7c0603a3015c4c0c",
+        "name": "AUOくじ2022",
+        "shortname": "AUOくじ2022",
+        "dropPriority": 2005
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -4848,6 +4897,16 @@
         "phash_battle": "3c69068206838362"
     },
     {
+        "id": 94067602,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "d60a035c41a42826",
+        "name": "ギャラクシードッグ",
+        "shortname": "ギャラクシードッグ",
+        "dropPriority": 2002
+    },
+    {
         "id": 94000301,
         "type": "Item",
         "background": "bronze",
@@ -5485,6 +5544,16 @@
         "shortname": "ペーパー",
         "dropPriority": 2001,
         "phash_battle": "0857ac0f0086c4e3"
+    },
+    {
+        "id": 94067601,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "1649a993000c6188",
+        "name": "スペースポテト",
+        "shortname": "スペースポテト",
+        "dropPriority": 2001
     },
     {
         "id": 1,
