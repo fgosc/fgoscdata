@@ -335,5 +335,277 @@
         ],
         "dropItemNum": -1,
         "shortname": "第一リーグ スペース級"
+    },
+    {
+        "id": 94067630,
+        "name": "第二リーグ アイランド級 ひみつ会社アサシン",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9405940,
+                "name": "コスモカルデア高等学園",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94067605,
+                "name": "AUOくじ2022",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94067602,
+                "name": "ギャラクシードッグ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94067601,
+                "name": "スペースポテト",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "第二リーグ アイランド級"
+    },
+    {
+        "id": 94067631,
+        "name": "第二リーグ コンティネント級 カルデア三本鎗",
+        "place": "",
+        "chapter": "",
+        "qp": 7900,
+        "drop": [
+            {
+                "id": 9405940,
+                "name": "コスモカルデア高等学園",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94067605,
+                "name": "AUOくじ2022",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94067603,
+                "name": "メテオバーガー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94067602,
+                "name": "ギャラクシードッグ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "第二リーグ コンティネント級"
+    },
+    {
+        "id": 94067632,
+        "name": "第二リーグ プラネット級 銀河の残り火",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9405940,
+                "name": "コスモカルデア高等学園",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6546,
+                "name": "悠久の実",
+                "type": "Item",
+                "dropPriority": 8407
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94067605,
+                "name": "AUOくじ2022",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94067603,
+                "name": "メテオバーガー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94067601,
+                "name": "スペースポテト",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "第二リーグ プラネット級"
+    },
+    {
+        "id": 94067634,
+        "name": "第二リーグ スペース級 カルデア研究室",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9405940,
+                "name": "コスモカルデア高等学園",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6525,
+                "name": "智慧のスカラベ",
+                "type": "Item",
+                "dropPriority": 8503
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94067605,
+                "name": "AUOくじ2022",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94067603,
+                "name": "メテオバーガー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94067602,
+                "name": "ギャラクシードッグ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94067601,
+                "name": "スペースポテト",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "第二リーグ スペース級"
     }
 ]
