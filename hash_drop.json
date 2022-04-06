@@ -868,6 +868,16 @@
         "dropPriority": 9005
     },
     {
+        "id": 9406000,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "スタァの休日",
+        "shortname": "礼装",
+        "phash": "ccc7cc23fb2c0964",
+        "phash_narrow": "44c704e37c03a42b",
+        "dropPriority": 9005
+    },
+    {
         "id": 9406010,
         "type": "Craft Essence",
         "rarity": 5,
@@ -968,6 +978,15 @@
         "name": "荒兇の骨塚",
         "phash": "d8328d36c9362976",
         "phash_narrow": "52521c91d7adb34d",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406090,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "蛮竜の牙床",
+        "phash": "89a87e7afc1ccc13",
+        "phash_narrow": "81867af3fcacb3fb",
         "dropPriority": 9004
     },
     {
@@ -1315,6 +1334,7 @@
         "rarity": 3,
         "phash": "7c030316c16c3b4e",
         "name": "悠久の実",
+        "name_eng": "Fruit of Eternity",
         "shortname": "実",
         "dropPriority": 8407,
         "phash_battle": "7e0b92e12c0bc91c"
@@ -1561,6 +1581,7 @@
         "rarity": 2,
         "phash": "f682077829194b97",
         "name": "神脈霊子",
+        "name_eng": "Divine Leyline Spiritron",
         "shortname": "霊子",
         "alias": [
             "神脈"
@@ -4002,6 +4023,16 @@
         "phash_battle": "2c57a3117c0c43a2"
     },
     {
+        "id": 94068803,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "1c01e20e31660cc3",
+        "name": "魔生木",
+        "shortname": "木",
+        "dropPriority": 2003
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -4910,6 +4941,46 @@
         "phash_battle": "de0351a1ac2e5442"
     },
     {
+        "id": 94068802,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "76a1035e1106b966",
+        "name": "万能岩",
+        "shortname": "岩",
+        "dropPriority": 2002
+    },
+    {
+        "id": 94068804,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "9b6d4b9c96e96b33",
+        "name": "元気なコン",
+        "shortname": "元コン",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94068805,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5b42fc9ec62bbd73",
+        "name": "陽気なコン",
+        "shortname": "陽コン",
+        "dropPriority": 2005
+    },
+    {
+        "id": 94068806,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "fbea4e5e7c396951",
+        "name": "健気なコン",
+        "shortname": "健コン",
+        "dropPriority": 2006
+    },
+    {
         "id": 94000301,
         "type": "Item",
         "background": "bronze",
@@ -5558,6 +5629,16 @@
         "shortname": "スペースポテト",
         "dropPriority": 2001,
         "phash_battle": "56c9854629c10023"
+    },
+    {
+        "id": 94068801,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "7c25030b0141f091",
+        "name": "神秘蔦",
+        "shortname": "蔦",
+        "dropPriority": 2001
     },
     {
         "id": 1,
