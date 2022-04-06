@@ -134,5 +134,76 @@
         ],
         "dropItemNum": -1,
         "shortname": "カルデアレスキュー！ 中級"
+    },
+    {
+        "id": 94068903,
+        "name": "カルデアレスキュー！ 上級",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9406000,
+                "name": "スタァの休日",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94068806,
+                "name": "健気なコン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94068804,
+                "name": "元気なコン",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94068803,
+                "name": "魔生木",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94068801,
+                "name": "神秘蔦",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "カルデアレスキュー！ 上級"
     }
 ]
