@@ -1,0 +1,138 @@
+[
+    {
+        "id": 94068901,
+        "name": "カルデアレスキュー！ 初級",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9406000,
+                "name": "スタァの休日",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 94068805,
+                "name": "陽気なコン",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94068804,
+                "name": "元気なコン",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94068802,
+                "name": "万能岩",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94068801,
+                "name": "神秘蔦",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "カルデアレスキュー！ 初級"
+    },
+    {
+        "id": 94068902,
+        "name": "カルデアレスキュー！ 中級",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9406000,
+                "name": "スタァの休日",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 94068806,
+                "name": "健気なコン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94068805,
+                "name": "陽気なコン",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94068803,
+                "name": "魔生木",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94068802,
+                "name": "万能岩",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "カルデアレスキュー！ 中級"
+    }
+]
