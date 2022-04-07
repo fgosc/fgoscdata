@@ -205,5 +205,76 @@
         ],
         "dropItemNum": -1,
         "shortname": "カルデアレスキュー！ 上級"
+    },
+    {
+        "id": 94068904,
+        "name": "カルデアレスキュー！ 大口からの救出",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9406000,
+                "name": "スタァの休日",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6541,
+                "name": "禍罪の矢尻",
+                "type": "Item",
+                "dropPriority": 8315
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94068805,
+                "name": "陽気なコン",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94068804,
+                "name": "元気なコン",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94068802,
+                "name": "万能岩",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94068801,
+                "name": "神秘蔦",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "大口からの救出"
     }
 ]
