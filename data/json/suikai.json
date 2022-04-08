@@ -276,5 +276,76 @@
         ],
         "dropItemNum": -1,
         "shortname": "大口からの救出"
+    },
+    {
+        "id": 94068905,
+        "name": "カルデアレスキュー！ 鉱山災害からの救出",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9406000,
+                "name": "スタァの休日",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6544,
+                "name": "煌星のカケラ",
+                "type": "Item",
+                "dropPriority": 8508
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94068806,
+                "name": "健気なコン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94068805,
+                "name": "陽気なコン",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94068803,
+                "name": "魔生木",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94068802,
+                "name": "万能岩",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "鉱山災害からの救出"
     }
 ]
