@@ -347,5 +347,76 @@
         ],
         "dropItemNum": -1,
         "shortname": "鉱山災害からの救出"
+    },
+    {
+        "id": 94068906,
+        "name": "カルデアレスキュー！ 敵陣からの救出",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9406000,
+                "name": "スタァの休日",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6546,
+                "name": "悠久の実",
+                "type": "Item",
+                "dropPriority": 8407
+            },
+            {
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
+                "type": "Item",
+                "dropPriority": 8104
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94068806,
+                "name": "健気なコン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94068804,
+                "name": "元気なコン",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94068803,
+                "name": "魔生木",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94068801,
+                "name": "神秘蔦",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "敵陣からの救出"
     }
 ]
