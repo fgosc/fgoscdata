@@ -418,5 +418,70 @@
         ],
         "dropItemNum": -1,
         "shortname": "敵陣からの救出"
+    },
+    {
+        "id": 94068907,
+        "name": "カルデアレスキュー！ 水難からの救出",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9406000,
+                "name": "スタァの休日",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94068805,
+                "name": "陽気なコン",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94068804,
+                "name": "元気なコン",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94068802,
+                "name": "万能岩",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94068801,
+                "name": "神秘蔦",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "水難からの救出"
     }
 ]
