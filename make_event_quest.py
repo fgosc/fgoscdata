@@ -9,7 +9,7 @@ import csv
 import unicodedata
 from tqdm import tqdm
 from make_freequest import id2name, id2type, id2dropPriority, alias2id
-from make_freequest import questId2dropItemNum
+# from make_freequest import questId2dropItemNum
 from make_freequest import DropItem, FgoQuest, questId2quest
 
 logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
@@ -65,11 +65,12 @@ def list2dic(quest_list):
         qp = q["qp"]
         spotname = q["name"]
         logger.debug('drop: %s', drop)
-        try:
-            dropItemNum = questId2dropItemNum[questId]
-        except:
-            logger.warning("ドロップ枠数が取得できません")
-            dropItemNum = -1
+        # try:
+        #     dropItemNum = questId2dropItemNum[questId]
+        # except:
+        #     logger.warning("ドロップ枠数が取得できません")
+        #     dropItemNum = -1
+        dropItemNum = -1
         event_quest = FgoEventQuest(int(quest["id"]), quest["quest"],
                                     "", "", qp, drop,
                                     dropItemNum,
