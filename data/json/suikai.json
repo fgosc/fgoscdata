@@ -483,5 +483,76 @@
         ],
         "dropItemNum": -1,
         "shortname": "水難からの救出"
+    },
+    {
+        "id": 94068908,
+        "name": "カルデアレスキュー！ 洞窟遭難からの救出",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9406000,
+                "name": "スタァの休日",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6550,
+                "name": "夢幻の鱗粉",
+                "type": "Item",
+                "dropPriority": 8319
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94068806,
+                "name": "健気なコン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94068805,
+                "name": "陽気なコン",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94068803,
+                "name": "魔生木",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94068802,
+                "name": "万能岩",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "洞窟遭難からの救出"
     }
 ]
