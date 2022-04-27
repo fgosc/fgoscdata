@@ -887,6 +887,16 @@
         "dropPriority": 9005
     },
     {
+        "id": 9406050,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "クランクイン",
+        "shortname": "泥礼装",
+        "phash": "d1c315939b0a1df6",
+        "phash_narrow": "c9e175d383ab863d",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -987,6 +997,24 @@
         "name": "蛮竜の牙床",
         "phash": "89a87e7afc1ccc13",
         "phash_narrow": "81867af3fcacb3fb",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406100,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "群雄の証跡",
+        "phash": "70fb39f6b183600e",
+        "phash_narrow": "7413447413150464",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406110,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "八百土の晶洞",
+        "phash": "99bfa40ec9aa99ea",
+        "phash_narrow": "58b726c70597e49f",
         "dropPriority": 9004
     },
     {
@@ -1149,6 +1177,16 @@
         "dropPriority": 9004
     },
     {
+        "id": 9808330,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "概念礼装EXPカード：Ｓバニヤン降臨",
+        "shortname": "★3EXP礼装",
+        "phash": "3e03884249b5f0b5",
+        "phash_narrow": "7e2bca4a0f92dd80",
+        "dropPriority": 9004
+    },
+    {
         "id": 9400500,
         "type": "Craft Essence",
         "rarity": 3,
@@ -1204,15 +1242,6 @@
         "name": "眠り続ける街",
         "phash": "79991ed62ad7a5be",
         "phash_narrow": "f919d60a5bad8eaa",
-        "dropPriority": 9003
-    },
-    {
-        "id": 9405760,
-        "type": "Craft Essence",
-        "rarity": 3,
-        "name": "マキシマムオーバードライヴ",
-        "phash": "996698bc5adc4feb",
-        "phash_narrow": "23438c7efc5ebf3d",
         "dropPriority": 9003
     },
     {
@@ -1314,6 +1343,16 @@
         "shortname": "★3EXP礼装",
         "phash": "a1702ea6f1db6966",
         "phash_narrow": "8178aef6bbeadc71",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9808340,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "概念礼装EXPカード：大黒天＆アニング降臨",
+        "shortname": "★4EXP礼装",
+        "phash": "f49c0f05d1410de1",
+        "phash_narrow": "f49e2ebe031cc20d",
         "dropPriority": 9003
     },
     {
@@ -2433,6 +2472,15 @@
         ],
         "dropPriority": 5194,
         "phash_battle": "1c892382d192a443"
+    },
+    {
+        "id": 94069607,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "b67849dc711496e4",
+        "name": "バニペイポイント",
+        "dropPriority": 3007
     },
     {
         "id": 94066404,
@@ -4034,6 +4082,25 @@
         "phash_battle": "1cc386390689f28b"
     },
     {
+        "id": 94068807,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "4682a9304e3394c7",
+        "name": "ファン１号の証",
+        "dropPriority": 2007
+    },
+    {
+        "id": 94069603,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "769a07d461ada323",
+        "name": "アンティークリール",
+        "shortname": "リール",
+        "dropPriority": 2003
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -4986,6 +5053,46 @@
         "phash_battle": "9bcb5ebc296bb95b"
     },
     {
+        "id": 94069602,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "fc0229ec175866b0",
+        "name": "シガースティック（偽）",
+        "shortname": "シガー",
+        "dropPriority": 2002
+    },
+    {
+        "id": 94069604,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "fcac030f48c38acc",
+        "name": "ドカドカハンマー",
+        "shortname": "ハンマー",
+        "dropPriority": 2005
+    },
+    {
+        "id": 94069605,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "56ac5b9761c1ed6d",
+        "name": "ガツガツピッケル",
+        "shortname": "ピッケル",
+        "dropPriority": 2006
+    },
+    {
+        "id": 94069606,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "dc9318dc056535d5",
+        "name": "ザクザクシャベル",
+        "shortname": "シャベル",
+        "dropPriority": 2004
+    },
+    {
         "id": 94000301,
         "type": "Item",
         "background": "bronze",
@@ -5645,6 +5752,16 @@
         "shortname": "蔦",
         "dropPriority": 2001,
         "phash_battle": "7c070b01c4912110"
+    },
+    {
+        "id": 94069601,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "720b0d51c9ac0744",
+        "name": "来福おにぎり",
+        "shortname": "おにぎり",
+        "dropPriority": 2001
     },
     {
         "id": 1,
