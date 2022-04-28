@@ -1,0 +1,381 @@
+[
+    {
+        "id": 94069701,
+        "name": "カルデアシアター メイキング 初級",
+        "place": "",
+        "chapter": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 9406050,
+                "name": "クランクイン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808340,
+                "name": "概念礼装EXPカード：大黒天＆アニング降臨",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            },
+            {
+                "id": 94069604,
+                "name": "ドカドカハンマー",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94069606,
+                "name": "ザクザクシャベル",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94069602,
+                "name": "シガースティック（偽）",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94069601,
+                "name": "来福おにぎり",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "カルデアシアター メイキング 初級"
+    },
+    {
+        "id": 94069702,
+        "name": "カルデアシアター メイキング 中級",
+        "place": "",
+        "chapter": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9406050,
+                "name": "クランクイン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808340,
+                "name": "概念礼装EXPカード：大黒天＆アニング降臨",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94069605,
+                "name": "ガツガツピッケル",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94069604,
+                "name": "ドカドカハンマー",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94069603,
+                "name": "アンティークリール",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94069602,
+                "name": "シガースティック（偽）",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "カルデアシアター メイキング 中級"
+    },
+    {
+        "id": 94069703,
+        "name": "カルデアシアター メイキング 上級",
+        "place": "",
+        "chapter": "",
+        "qp": 3900,
+        "drop": [
+            {
+                "id": 9406050,
+                "name": "クランクイン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808330,
+                "name": "概念礼装EXPカード：Ｓバニヤン降臨",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9808340,
+                "name": "概念礼装EXPカード：大黒天＆アニング降臨",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94069605,
+                "name": "ガツガツピッケル",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94069606,
+                "name": "ザクザクシャベル",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94069603,
+                "name": "アンティークリール",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94069601,
+                "name": "来福おにぎり",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "カルデアシアター メイキング 上級"
+    },
+    {
+        "id": 94069704,
+        "name": "カルデアシアター クランクアップ級",
+        "place": "",
+        "chapter": "",
+        "qp": 4900,
+        "drop": [
+            {
+                "id": 9406050,
+                "name": "クランクイン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808330,
+                "name": "概念礼装EXPカード：Ｓバニヤン降臨",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9808340,
+                "name": "概念礼装EXPカード：大黒天＆アニング降臨",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 94069605,
+                "name": "ガツガツピッケル",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94069604,
+                "name": "ドカドカハンマー",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94069606,
+                "name": "ザクザクシャベル",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94069603,
+                "name": "アンティークリール",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94069602,
+                "name": "シガースティック（偽）",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94069601,
+                "name": "来福おにぎり",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "クランクアップ級"
+    },
+    {
+        "id": 94069705,
+        "name": "カルデアシアター 完成披露試写会級",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 9406050,
+                "name": "クランクイン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808330,
+                "name": "概念礼装EXPカード：Ｓバニヤン降臨",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9808340,
+                "name": "概念礼装EXPカード：大黒天＆アニング降臨",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6537,
+                "name": "巨人の指輪",
+                "type": "Item",
+                "dropPriority": 8312
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 94069604,
+                "name": "ドカドカハンマー",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94069606,
+                "name": "ザクザクシャベル",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94069602,
+                "name": "シガースティック（偽）",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94069601,
+                "name": "来福おにぎり",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "完成披露試写会級"
+    }
+]
