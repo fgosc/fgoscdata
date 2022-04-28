@@ -349,6 +349,7 @@ def make_item_data():
     item_list_na = r_get3.json()
 
     id2dropPriority ={ item["id"]:item["dropPriority"] for item in item_list}
+    id2dropPriority[4] = 512  # マナプリズムのDropPriorityをQPの前くらいに下げる
     id2name_eng ={ item["id"]:item["name"] for item in item_list_na}
     
     with open(Item_blacklist_file, encoding='UTF-8') as f:
