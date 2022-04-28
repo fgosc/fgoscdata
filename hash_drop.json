@@ -5093,6 +5093,16 @@
         "dropPriority": 2004
     },
     {
+        "id": 4,
+        "type": "Item",
+        "background": "zero",
+        "phash": "5c19879361214940",
+        "name": "フレンドポイント",
+        "name_eng": "Friend Point",
+        "shortname": "FP",
+        "dropPriority": 9012
+    },
+    {
         "id": 94000301,
         "type": "Item",
         "background": "bronze",

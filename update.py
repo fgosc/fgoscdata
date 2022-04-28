@@ -393,7 +393,7 @@ def make_item_data():
     for item in tqdm(item_list):
 
         name = item["name"]
-        if item["type"] not in ["qp", "mana", "questRewardQp", "skillLvUp", "tdLvUp", "eventItem", "eventPoint", "boostItem", "dice"]:
+        if item["type"] not in ["qp", "mana", "friendPoint", "questRewardQp", "skillLvUp", "tdLvUp", "eventItem", "eventPoint", "boostItem", "dice"]:
             continue
         # 除外アイテムは読み込まない
         if name in bl_item:
