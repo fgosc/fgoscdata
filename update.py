@@ -41,6 +41,7 @@ if not Misc_dir .is_dir():
     Misc_dir .mkdir(parents=True)
 
 ID_QP = 1
+ID_FP = 4
 ID_QUEST_REWARD = 5
 
 url_ce = "https://api.atlasacademy.io/export/JP/nice_equip.json"
@@ -413,6 +414,8 @@ def make_item_data():
                 tmp["type"] = "Item"
 
             tmp["background"] = item["background"]
+            if item["background"] == "zero":
+                tmp["background"] = "silver"
             if item["background"] == "gold":
                 tmp["rarity"] = 3
             elif item["background"] == "silver":

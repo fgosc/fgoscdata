@@ -5100,7 +5100,7 @@
     {
         "id": 4,
         "type": "Item",
-        "background": "zero",
+        "background": "silver",
         "phash": "5c19879361214940",
         "name": "フレンドポイント",
         "name_eng": "Friend Point",
@@ -5783,7 +5783,7 @@
     {
         "id": 1,
         "type": "Item",
-        "background": "zero",
+        "background": "silver",
         "phash": "f61389b4292f4806",
         "name": "QP",
         "name_eng": "QP",
