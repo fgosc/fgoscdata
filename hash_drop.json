@@ -1181,7 +1181,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：Ｓバニヤン降臨",
-        "shortname": "★3EXP礼装",
+        "shortname": "★4EXP礼装",
         "phash": "3e03884249b5f0b5",
         "phash_narrow": "7e2bca4a0f92dd80",
         "dropPriority": 9004
@@ -1350,7 +1350,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "概念礼装EXPカード：大黒天＆アニング降臨",
-        "shortname": "★4EXP礼装",
+        "shortname": "★3EXP礼装",
         "phash": "f49c0f05d1410de1",
         "phash_narrow": "f49e2ebe031cc20d",
         "dropPriority": 9003
