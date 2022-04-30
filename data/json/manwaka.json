@@ -537,5 +537,100 @@
         ],
         "dropItemNum": -1,
         "shortname": "大人気御礼級"
+    },
+    {
+        "id": 94069708,
+        "name": "カルデアシアター 各方面から絶賛の嵐級",
+        "place": "",
+        "chapter": "",
+        "qp": 6900,
+        "drop": [
+            {
+                "id": 9406050,
+                "name": "クランクイン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808330,
+                "name": "概念礼装EXPカード：Ｓバニヤン降臨",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9808340,
+                "name": "概念礼装EXPカード：大黒天＆アニング降臨",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94069605,
+                "name": "ガツガツピッケル",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94069604,
+                "name": "ドカドカハンマー",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94069606,
+                "name": "ザクザクシャベル",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94069603,
+                "name": "アンティークリール",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94069602,
+                "name": "シガースティック（偽）",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94069601,
+                "name": "来福おにぎり",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "各方面から絶賛の嵐級"
     }
 ]
