@@ -709,5 +709,159 @@
         ],
         "dropItemNum": -1,
         "shortname": "異例ロングラン級"
+    },
+    {
+        "id": 94069710,
+        "name": "カルデアシアター 全カルデアが泣いた級",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9406050,
+                "name": "クランクイン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808330,
+                "name": "概念礼装EXPカード：Ｓバニヤン降臨",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94069605,
+                "name": "ガツガツピッケル",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94069604,
+                "name": "ドカドカハンマー",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94069603,
+                "name": "アンティークリール",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94069602,
+                "name": "シガースティック（偽）",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "全カルデアが泣いた級"
+    },
+    {
+        "id": 94069711,
+        "name": "カルデアシアター レッドカーペット級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9406050,
+                "name": "クランクイン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808330,
+                "name": "概念礼装EXPカード：Ｓバニヤン降臨",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6542,
+                "name": "真理の卵",
+                "type": "Item",
+                "dropPriority": 8507
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94069605,
+                "name": "ガツガツピッケル",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94069606,
+                "name": "ザクザクシャベル",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94069603,
+                "name": "アンティークリール",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94069601,
+                "name": "来福おにぎり",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "レッドカーペット級"
     }
 ]
