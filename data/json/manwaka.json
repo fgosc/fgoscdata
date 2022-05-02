@@ -863,5 +863,94 @@
         ],
         "dropItemNum": -1,
         "shortname": "レッドカーペット級"
+    },
+    {
+        "id": 94069712,
+        "name": "カルデアシアター 映画って本っ当に素晴らしいもの級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9406050,
+                "name": "クランクイン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808330,
+                "name": "概念礼装EXPカード：Ｓバニヤン降臨",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6517,
+                "name": "蛮神の心臓",
+                "type": "Item",
+                "dropPriority": 8500
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94069605,
+                "name": "ガツガツピッケル",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94069604,
+                "name": "ドカドカハンマー",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94069606,
+                "name": "ザクザクシャベル",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94069603,
+                "name": "アンティークリール",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94069602,
+                "name": "シガースティック（偽）",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94069601,
+                "name": "来福おにぎり",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "映画って本っ当に素晴らしいもの級"
     }
 ]
