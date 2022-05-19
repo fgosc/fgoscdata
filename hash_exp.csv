@@ -33,7 +33,7 @@ id,dropPriority,type,rarity,name,name_eng,shortname,phash,phash_sold,phash_battl
 9706200,668,Exp. UP,2,殺灯火,Assassin 2-star EXP,殺灯火,f3de2ee3cfb9feed,8bf8f907f4ac0686,,,,,
 9706300,667,Exp. UP,3,殺大火,Assassin 3-star EXP,殺大火,33784e93b6682be6,03f9f8bfa68f2ef4,,d0d3cc33cfcd3434,50d3cc35cfce3434,,
 9706400,666,Exp. UP,4,殺猛火,Assassin 4-star EXP,殺猛火,0b28f4babef3cfa1,0bf8f89f268fcef0,,d0cbe497cdce3c34,d0dbcc93edce3434,,
-9706500,665,Exp. UP,5,殺業火,Assassin 5-star EXP,殺業火,292feef82fde7baf,,,,,,
+9706500,665,Exp. UP,5,殺業火,Assassin 5-star EXP,殺業火,292feef82fde7baf,,,507be4106fe59414,,,
 9707100,664,Exp. UP,1,狂種火,Berserker 1-star EXP,狂種火,f12b2ebb6ff9eea8,0bf8f90ff4ac0696,,300bed31eff61c09,300bee31cd7e2cc9,,
 9707200,663,Exp. UP,2,狂灯火,Berserker 2-star EXP,狂灯火,7b5e2e63cfb9f6ed,0bf8f907f4ac0686,,,,,
 9707300,662,Exp. UP,3,狂大火,Berserker 3-star EXP,狂大火,33780e93b6e829e6,07f9f8bfa68faef4,,300be533cf7e0e81,301bec31cff60609,,

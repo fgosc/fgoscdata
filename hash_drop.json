@@ -7,7 +7,7 @@
         "name": "クエストクリア報酬QP",
         "name_eng": "Quest Clear Reward QP",
         "shortname": "報酬QP",
-        "dropPriority": 9013
+        "dropPriority": 9015
     },
     {
         "id": 9400410,
@@ -15,8 +15,8 @@
         "rarity": 5,
         "name": "不夜の薔薇",
         "name_eng": "Nightless Rose",
-        "phash": "0b0abe94fefcf566",
-        "phash_narrow": "092a1c0ffab5fc7a",
+        "phash": "0b0abe94defcf56e",
+        "phash_narrow": "092a1c07fab5fc7a",
         "dropPriority": 9005
     },
     {
@@ -25,8 +25,8 @@
         "rarity": 5,
         "name": "ムーンライト・フェスト",
         "name_eng": "Moonlight Fest",
-        "phash": "d77118b930b8ffff",
-        "phash_narrow": "d750880330707ef1",
+        "phash": "d77118b930b8ffef",
+        "phash_narrow": "d750880330707ff1",
         "dropPriority": 9005
     },
     {
@@ -35,8 +35,8 @@
         "rarity": 5,
         "name": "ハロウィン・プリンセス",
         "name_eng": "Halloween Princess",
-        "phash": "e9b80e24df74f4f4",
-        "phash_narrow": "e9f8248fcee3f87c",
+        "phash": "e9b80e24de74f4f4",
+        "phash_narrow": "e9f8248fcfe3f87c",
         "dropPriority": 9005
     },
     {
@@ -46,7 +46,7 @@
         "name": "ぐだお",
         "name_eng": "GUDA-O",
         "phash": "dc0d0390621d9420",
-        "phash_narrow": "9c2311e2638400a6",
+        "phash_narrow": "9c2b11e2638440a6",
         "dropPriority": 9005
     },
     {
@@ -55,8 +55,8 @@
         "rarity": 5,
         "name": "ホーリーナイト・サイン",
         "name_eng": "Holy Night Sign",
-        "phash": "a9e8c04e4ec87672",
-        "phash_narrow": "a8a8245ec84e132e",
+        "phash": "a9e8c04e4eca7672",
+        "phash_narrow": "a8a8645ec84e12ae",
         "dropPriority": 9005
     },
     {
@@ -66,7 +66,7 @@
         "name": "ピュアリー・ブルーム",
         "name_eng": "Purely Bloom",
         "phash": "f41b3a25f09246e6",
-        "phash_narrow": "d41b2df4b9245c50",
+        "phash_narrow": "d41b2df4b9265c50",
         "dropPriority": 9005
     },
     {
@@ -75,7 +75,7 @@
         "rarity": 5,
         "name": "アルトリアの星",
         "name_eng": "Star of Altria",
-        "phash": "adb2d1ba32535c6d",
+        "phash": "adb2d1ba32533c6d",
         "phash_narrow": "adf0d9ac93b252b3",
         "dropPriority": 9005
     },
@@ -96,7 +96,7 @@
         "name": "首切りバニー2016",
         "name_eng": "Decapitating Bunny 2018",
         "phash": "7c3c436191c1b54c",
-        "phash_narrow": "3c1e470d91238c33",
+        "phash_narrow": "3c1e470d9123cc33",
         "dropPriority": 9005
     },
     {
@@ -105,7 +105,7 @@
         "rarity": 5,
         "name": "三重結界",
         "name_eng": "Threefold Barrier",
-        "phash": "f89d3c0ba7726927",
+        "phash": "f89d3809a7726927",
         "phash_narrow": "d8b4582592e00f2e",
         "dropPriority": 9005
     },
@@ -115,7 +115,7 @@
         "rarity": 5,
         "name": "カルデアの顕学",
         "name_eng": "The Scholars of Chaldea",
-        "phash": "38232f0199f7407c",
+        "phash": "38232f0599f7407c",
         "phash_narrow": "3833078db7c349e9",
         "dropPriority": 9005
     },
@@ -125,8 +125,8 @@
         "rarity": 5,
         "name": "カルデアを導く乙女",
         "name_eng": "Maiden Leading Chaldea",
-        "phash": "935accb69366eff2",
-        "phash_narrow": "135bac9164cee3f6",
+        "phash": "935accb69366aff2",
+        "phash_narrow": "135bac9164cef3f6",
         "dropPriority": 9005
     },
     {
@@ -146,7 +146,7 @@
         "name": "至るべき場所",
         "name_eng": "His Rightful Place",
         "phash": "ccf9c0429e2f4a96",
-        "phash_narrow": "ccb941922d6b1c3e",
+        "phash_narrow": "ccb941d22d7b1c3e",
         "dropPriority": 9005
     },
     {
@@ -156,7 +156,7 @@
         "name": "遮那王流離譚",
         "name_eng": "The Wandering Tales of Shana-oh",
         "phash": "0a4771f9938e8d04",
-        "phash_narrow": "0a477979b39b4400",
+        "phash_narrow": "0a477979b38b4400",
         "dropPriority": 9005
     },
     {
@@ -165,8 +165,8 @@
         "rarity": 5,
         "name": "ゴールデン捕鯉魚図",
         "name_eng": "Golden Captures the Carp",
-        "phash": "cbdf0539a22c7aba",
-        "phash_narrow": "ca8e15f6246cac7a",
+        "phash": "cbde0539a22c7aba",
+        "phash_narrow": "ca8e15f6246dac7a",
         "dropPriority": 9005
     },
     {
@@ -176,7 +176,7 @@
         "name": "風雲仙姫",
         "name_eng": "Divine Princess of the Storm",
         "phash": "56d998b64068cd76",
-        "phash_narrow": "46d99e166ac9db61",
+        "phash_narrow": "46d99e166a89db61",
         "dropPriority": 9005
     },
     {
@@ -186,7 +186,7 @@
         "name": "九首牛魔羅王",
         "name_eng": "Ox-Demon King",
         "phash": "19d59587f19681ba",
-        "phash_narrow": "595d873934c373a6",
+        "phash_narrow": "5959873934c373a6",
         "dropPriority": 9005
     },
     {
@@ -225,7 +225,7 @@
         "rarity": 5,
         "name": "カルデア・ライフセーバーズ",
         "name_eng": "Chaldea Lifesavers",
-        "phash": "e160f2f3e21efe76",
+        "phash": "e160f2f7e25efe76",
         "phash_narrow": "e120bbe1cbdd75ff",
         "dropPriority": 9005
     },
@@ -235,7 +235,7 @@
         "rarity": 5,
         "name": "ジョイント・リサイタル",
         "name_eng": "Joint Recital",
-        "phash": "e38832f6b17b1db2",
+        "phash": "e38032f6b57b1db2",
         "phash_narrow": "e7824eb4f39df354",
         "dropPriority": 9005
     },
@@ -255,8 +255,8 @@
         "rarity": 5,
         "name": "スイート・クリスタル",
         "name_eng": "Sweet Crystal",
-        "phash": "f17ec69cf6e76cde",
-        "phash_narrow": "b9760b9ce77ccefc",
+        "phash": "f97ec69cf6e76cde",
+        "phash_narrow": "b976099ce77ccefc",
         "dropPriority": 9005
     },
     {
@@ -265,7 +265,7 @@
         "rarity": 5,
         "name": "聖夜の晩餐",
         "name_eng": "Holy Night Supper",
-        "phash": "6b4af4e3d9a61996",
+        "phash": "6b4ab4e3d9a61996",
         "phash_narrow": "4b5ee4db6659c631",
         "dropPriority": 9005
     },
@@ -275,8 +275,8 @@
         "rarity": 5,
         "name": "フォンダン・オ・ショコラ",
         "name_eng": "Fondant au Chocolat",
-        "phash": "8e3473c386078078",
-        "phash_narrow": "8c3c5bd80fa4f907",
+        "phash": "8e3473c38607c078",
+        "phash_narrow": "8c3c5bf80fa4f907",
         "dropPriority": 9005
     },
     {
@@ -295,8 +295,8 @@
         "rarity": 5,
         "name": "壬生狼",
         "name_eng": "Wolves of Mibu",
-        "phash": "e0261a3e9f076122",
-        "phash_narrow": "e00632de9e53ed45",
+        "phash": "e0261e369f076122",
+        "phash_narrow": "e00632de9e53cd45",
         "dropPriority": 9005
     },
     {
@@ -305,7 +305,7 @@
         "rarity": 5,
         "name": "いつかの夏",
         "name_eng": "One Summer",
-        "phash": "42299b518d2569b4",
+        "phash": "42299b518d2529b4",
         "phash_narrow": "42ab53914d498515",
         "dropPriority": 9005
     },
@@ -315,7 +315,7 @@
         "rarity": 5,
         "name": "シーサイド・ラグジュアリー",
         "name_eng": "Seaside Luxury",
-        "phash": "1787287a9cf8d9fe",
+        "phash": "1787287a9cf8d1fe",
         "phash_narrow": "47876b361c1b3ee9",
         "dropPriority": 9005
     },
@@ -337,7 +337,7 @@
         "name_eng": "Divine Three-Legged Race",
         "shortname": "二神",
         "phash": "e7e214f4ed459ffc",
-        "phash_narrow": "ee1214bc49037859",
+        "phash_narrow": "ea3214bc49037859",
         "dropPriority": 9005
     },
     {
@@ -348,7 +348,7 @@
         "name_eng": "Cheer for Master",
         "shortname": "チア",
         "phash": "9963709e944be3b1",
-        "phash_narrow": "89635cbc4dc6e859",
+        "phash_narrow": "99635c9c4dc6e859",
         "dropPriority": 9005
     },
     {
@@ -358,7 +358,7 @@
         "name": "エアリアル・ドライブ",
         "name_eng": "Aerial Drive",
         "phash": "bc86d368aad144e4",
-        "phash_narrow": "3c96452e9b5bc400",
+        "phash_narrow": "bc96452e9b5bc400",
         "dropPriority": 9005
     },
     {
@@ -368,7 +368,7 @@
         "name": "メリー・シープ",
         "name_eng": "Merry Sheep",
         "phash": "690ae169db925e73",
-        "phash_narrow": "69026d79b0bffbf6",
+        "phash_narrow": "69026d79b0bffbe6",
         "dropPriority": 9005
     },
     {
@@ -388,7 +388,7 @@
         "rarity": 5,
         "name": "トゥリファスにて",
         "name_eng": "At Trifas",
-        "phash": "c0199fe61b7ca64e",
+        "phash": "c0199fe61b78a64e",
         "phash_narrow": "c119cdd379b39f27",
         "dropPriority": 9005
     },
@@ -399,7 +399,7 @@
         "name": "城塞の午後",
         "name_eng": "An Afternoon at the Fortress",
         "phash": "0a1dd97266339140",
-        "phash_narrow": "0a0dd14c2d904d30",
+        "phash_narrow": "0a1df14c2d904d32",
         "dropPriority": 9005
     },
     {
@@ -418,8 +418,8 @@
         "rarity": 5,
         "name": "ペインティング・サマー",
         "name_eng": "Painting Summer",
-        "phash": "7776c4190c26fd73",
-        "phash_narrow": "73d6d09804ef167d",
+        "phash": "7776c4992c26ff73",
+        "phash_narrow": "73d6d09804ef1675",
         "dropPriority": 9005
     },
     {
@@ -439,7 +439,7 @@
         "name": "ウォーター・シャイン",
         "name_eng": "Water Shine",
         "phash": "777c930f46c3dc4d",
-        "phash_narrow": "76f0bb2ea2d24d82",
+        "phash_narrow": "76f0bb2ea2d24f82",
         "dropPriority": 9005
     },
     {
@@ -448,8 +448,8 @@
         "rarity": 5,
         "name": "リターン・マッチ",
         "name_eng": "Grudge Match",
-        "phash": "88bb085eb44bd286",
-        "phash_narrow": "8b3b58b619d0a64f",
+        "phash": "88bb085eb44bd206",
+        "phash_narrow": "8a3b58b619d0a64d",
         "dropPriority": 9005
     },
     {
@@ -468,8 +468,8 @@
         "rarity": 5,
         "name": "ロイヤル・アイシング",
         "name_eng": "Royal Icing",
-        "phash": "b6951267a6b98864",
-        "phash_narrow": "3a9c5126939b0e1e",
+        "phash": "b6951267a6990864",
+        "phash_narrow": "3a9c5126939b061e",
         "dropPriority": 9005
     },
     {
@@ -509,8 +509,8 @@
         "rarity": 5,
         "name": "銀雪の女神たち",
         "name_eng": "Goddesses of the Glittering Snow",
-        "phash": "32f6d67adf51ccac",
-        "phash_narrow": "28a6646a53d0f764",
+        "phash": "32f6d67adf51ccae",
+        "phash_narrow": "28a6646a53d0d774",
         "dropPriority": 9005
     },
     {
@@ -520,7 +520,7 @@
         "name": "ビューティフル・ドリーマー",
         "name_eng": "Beautiful Dreamer",
         "shortname": "礼装",
-        "phash": "ba376d42d90a0172",
+        "phash": "ba376d42d90a0152",
         "phash_narrow": "bab76dd12c036409",
         "dropPriority": 9005
     },
@@ -542,8 +542,8 @@
         "name": "次期当主会議",
         "name_eng": "Meeting of the Heirs",
         "shortname": "礼装",
-        "phash": "4887d7a5b5780f12",
-        "phash_narrow": "4847c7a5f0a952ce",
+        "phash": "488757a5b5780f12",
+        "phash_narrow": "4847c7a5f1a952ce",
         "dropPriority": 9005
     },
     {
@@ -563,7 +563,7 @@
         "name": "天鬼姫",
         "name_eng": "Demonic Sun-Princess",
         "phash": "09e0e89ef69ce7ec",
-        "phash_narrow": "19e008ffbefdfcf5",
+        "phash_narrow": "19e008ffbefdf8f5",
         "dropPriority": 9005
     },
     {
@@ -583,8 +583,8 @@
         "name": "シーニック・ビューティー",
         "name_eng": "Scenic Beauty",
         "shortname": "礼装",
-        "phash": "1b79c9ca1153c136",
-        "phash_narrow": "1a39cdae19d91f03",
+        "phash": "1b79e9ca1953c036",
+        "phash_narrow": "1a39cdae19c95f03",
         "dropPriority": 9005
     },
     {
@@ -636,9 +636,10 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "見上げた空の星に",
+        "name_eng": "Looking up at the Starry Sky",
         "shortname": "礼装",
-        "phash": "872899e2f9529df5",
-        "phash_narrow": "8738aee9dbdc657d",
+        "phash": "872899e2f9529d75",
+        "phash_narrow": "8738ace9dbcc657d",
         "dropPriority": 9005
     },
     {
@@ -647,7 +648,7 @@
         "rarity": 5,
         "name": "ハイド・ハンター",
         "shortname": "礼装",
-        "phash": "a1fc07eb5a7b3d69",
+        "phash": "a1fc07ea5a7b3d69",
         "phash_narrow": "a1b5a5ce1ab86dfc",
         "dropPriority": 9005
     },
@@ -668,7 +669,7 @@
         "name": "掲げるは我が心",
         "shortname": "礼装",
         "phash": "a90ffcd0d596c9f7",
-        "phash_narrow": "892f7a659449fdb0",
+        "phash_narrow": "892f7a659449ddb0",
         "dropPriority": 9005
     },
     {
@@ -678,7 +679,7 @@
         "name": "姫巫女の寸暇",
         "shortname": "礼装",
         "phash": "6ccf6a1ec68edd61",
-        "phash_narrow": "6cef38628edb78c6",
+        "phash_narrow": "2cef38628edb79c6",
         "dropPriority": 9005
     },
     {
@@ -688,7 +689,7 @@
         "name": "ライク・ア・バード",
         "shortname": "礼装",
         "phash": "59e7f57d9670f54a",
-        "phash_narrow": "59a37d8f13b506d4",
+        "phash_narrow": "59a37d8f13b526d4",
         "dropPriority": 9005
     },
     {
@@ -698,7 +699,7 @@
         "name": "チェリー・アイシクル",
         "shortname": "礼装",
         "phash": "84a5c97393231912",
-        "phash_narrow": "04ad4c50e1739321",
+        "phash_narrow": "04ad4c50e1639321",
         "dropPriority": 9005
     },
     {
@@ -717,8 +718,8 @@
         "rarity": 5,
         "name": "ホワイト・ガーデン",
         "shortname": "礼装",
-        "phash": "1d3dec8d32aab455",
-        "phash_narrow": "1e75cc95bb888d15",
+        "phash": "1d3dec8d33aab455",
+        "phash_narrow": "1e75cc95ba8a8d15",
         "dropPriority": 9005
     },
     {
@@ -728,7 +729,7 @@
         "name": "茜の空に咲く",
         "shortname": "礼装",
         "phash": "88af833a2f431ea4",
-        "phash_narrow": "988f933c415e7631",
+        "phash_narrow": "988f933c415e7630",
         "dropPriority": 9005
     },
     {
@@ -747,8 +748,8 @@
         "rarity": 5,
         "name": "シンク・ディーパー",
         "shortname": "ボーナス礼装",
-        "phash": "876061acd9cdd5bb",
-        "phash_narrow": "8760663a6cdd4dca",
+        "phash": "876061acd9cd95bb",
+        "phash_narrow": "8760663a6ddd4dca",
         "dropPriority": 9005
     },
     {
@@ -767,7 +768,7 @@
         "rarity": 5,
         "name": "小人の仕立て屋さん",
         "shortname": "仕立て屋",
-        "phash": "233249f4cc4fb879",
+        "phash": "233249f4cc4fb87d",
         "phash_narrow": "230373e44fbcdd96",
         "dropPriority": 9005
     },
@@ -806,8 +807,8 @@
         "rarity": 5,
         "name": "ライク・ア・レディ",
         "shortname": "礼装",
-        "phash": "613dc00fb08235f2",
-        "phash_narrow": "69bc4e7d8a3d723d",
+        "phash": "613dc00fb0023df2",
+        "phash_narrow": "69bc4e7d823d723d",
         "dropPriority": 9005
     },
     {
@@ -815,8 +816,8 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "冬の聖女",
-        "phash": "3c297815715ba408",
-        "phash_narrow": "3c6b94bddb666213",
+        "phash": "3c297895715be418",
+        "phash_narrow": "3c2b94bddbe66213",
         "dropPriority": 9005
     },
     {
@@ -854,7 +855,7 @@
         "name": "チェック・レディ",
         "shortname": "特攻礼装",
         "phash": "9c5353264c4611b3",
-        "phash_narrow": "9c5932aa4c02d360",
+        "phash_narrow": "9c5932ea4c02d360",
         "dropPriority": 9005
     },
     {
@@ -874,7 +875,7 @@
         "name": "スタァの休日",
         "shortname": "礼装",
         "phash": "ccc7cc23fb2c0964",
-        "phash_narrow": "44c704e37c03a42b",
+        "phash_narrow": "c4c704e37c03a42b",
         "dropPriority": 9005
     },
     {
@@ -882,8 +883,8 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "狼のはなし",
-        "phash": "0bf3f416f9b6e81f",
-        "phash_narrow": "0bf3365ef770b6e6",
+        "phash": "0bf3b416f9b6e81f",
+        "phash_narrow": "0bf3365ef770b6f6",
         "dropPriority": 9005
     },
     {
@@ -892,8 +893,8 @@
         "rarity": 5,
         "name": "クランクイン",
         "shortname": "泥礼装",
-        "phash": "d1c315939b0a1df6",
-        "phash_narrow": "c9e175d383ab863d",
+        "phash": "d1c315939b0a1db6",
+        "phash_narrow": "c9e155d3838b863d",
         "dropPriority": 9005
     },
     {
@@ -903,7 +904,7 @@
         "name": "カレイドサファイア",
         "name_eng": "Kaleid Sapphire",
         "phash": "96e9e3846bfc1863",
-        "phash_narrow": "96eb9243ef98692e",
+        "phash_narrow": "96eb9243ef986b2e",
         "dropPriority": 9004
     },
     {
@@ -912,7 +913,7 @@
         "rarity": 4,
         "name": "カレイドルビー",
         "name_eng": "Kaleid Ruby",
-        "phash": "6178ceeed634f1eb",
+        "phash": "6178ceeed634f1ab",
         "phash_narrow": "6159ceca1cd3d7dc",
         "dropPriority": 9004
     },
@@ -933,7 +934,7 @@
         "name": "黄金の翼",
         "name_eng": "Golden Wings",
         "phash": "61e29d2df2d76bb7",
-        "phash_narrow": "61921db8dcabdde6",
+        "phash_narrow": "61921d38dcabdce6",
         "dropPriority": 9004
     },
     {
@@ -960,7 +961,7 @@
         "rarity": 4,
         "name": "心尽くしの",
         "phash": "2bc8fcad6848f8f6",
-        "phash_narrow": "2bc8bda7c95878e6",
+        "phash_narrow": "2be8bda7c95878e6",
         "dropPriority": 9004
     },
     {
@@ -969,7 +970,7 @@
         "rarity": 4,
         "name": "探偵ヱドモン～最後の事件編～",
         "phash": "f95e5a55f51a2db6",
-        "phash_narrow": "e95a5af55a8d56b9",
+        "phash_narrow": "e95a5af55a8d76b9",
         "dropPriority": 9004
     },
     {
@@ -978,7 +979,7 @@
         "rarity": 4,
         "name": "無尽の塵山",
         "phash": "99568d02799ea9d6",
-        "phash_narrow": "9a5c07629f22cd21",
+        "phash_narrow": "9a5c07629f22cc20",
         "dropPriority": 9004
     },
     {
@@ -987,7 +988,7 @@
         "rarity": 4,
         "name": "荒兇の骨塚",
         "phash": "d8328d36c9362976",
-        "phash_narrow": "52521c91d7adb34d",
+        "phash_narrow": "12521c91d7bdb34d",
         "dropPriority": 9004
     },
     {
@@ -1004,8 +1005,8 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "群雄の証跡",
-        "phash": "70fb39f6b183600e",
-        "phash_narrow": "7413447413150464",
+        "phash": "f0fb39f6b18b600e",
+        "phash_narrow": "7413747413150460",
         "dropPriority": 9004
     },
     {
@@ -1013,8 +1014,8 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "八百土の晶洞",
-        "phash": "99bfa40ec9aa99ea",
-        "phash_narrow": "58b726c70597e49f",
+        "phash": "99bfa40ec9aa99e2",
+        "phash_narrow": "58b726ce8595e49f",
         "dropPriority": 9004
     },
     {
@@ -1023,8 +1024,8 @@
         "rarity": 4,
         "name": "概念礼装EXPカード：ノッブ",
         "name_eng": "CE EXP Card: Nobbu",
-        "phash": "3ea7cc2ba1380d46",
-        "phash_narrow": "3eb54ce3b0292680",
+        "phash": "3e27cc2ba1380d46",
+        "phash_narrow": "3eb54ce3b0290600",
         "dropPriority": 9004
     },
     {
@@ -1043,7 +1044,7 @@
         "rarity": 4,
         "name": "概念礼装EXPカード：ぐだぐだ明治維新",
         "name_eng": "CE EXP Card: GUDAGUDA Meiji Restoration",
-        "phash": "d70cb5336cf2e3f8",
+        "phash": "d70cb5336ce2e3f8",
         "phash_narrow": "d78c333c246364fb",
         "dropPriority": 9004
     },
@@ -1054,7 +1055,7 @@
         "name": "概念礼装EXPカード：ＢＢショット！",
         "name_eng": "CE EXP Card: BB Shot!",
         "phash": "625e2a05f3c85738",
-        "phash_narrow": "465e0b37c9473077",
+        "phash_narrow": "465e0b37c8473077",
         "dropPriority": 9004
     },
     {
@@ -1063,7 +1064,7 @@
         "rarity": 4,
         "name": "概念礼装EXPカード：宇宙犬",
         "name_eng": "CE EXP Card: Dogs in Space",
-        "phash": "cfe2bc3efde6a192",
+        "phash": "4fe2bc3efde6c192",
         "phash_narrow": "43803c7cfeecd4cf",
         "dropPriority": 9004
     },
@@ -1073,8 +1074,8 @@
         "rarity": 4,
         "name": "概念礼装EXPカード：フランの花",
         "name_eng": "CE EXP Card: Fran's Flower",
-        "phash": "5647c7a19930efe5",
-        "phash_narrow": "36474789105c3629",
+        "phash": "4647c7a19930efe5",
+        "phash_narrow": "36474789115c3629",
         "dropPriority": 9004
     },
     {
@@ -1083,7 +1084,7 @@
         "rarity": 4,
         "name": "概念礼装EXPカード：ぐだぐだまじんさん",
         "name_eng": "CE EXP Card: GUDAGUDA Miss Majin",
-        "phash": "465358ae89524d26",
+        "phash": "465358ae99524d26",
         "phash_narrow": "8653f0a510db0a1b",
         "dropPriority": 9004
     },
@@ -1093,8 +1094,8 @@
         "rarity": 4,
         "name": "概念礼装EXPカード：ドルセント・ショップ",
         "name_eng": "CE EXP Card: Moolah's Shop",
-        "phash": "3ce3cbd2b0323953",
-        "phash_narrow": "2cefcec68620c042",
+        "phash": "3de3cbd2b0323953",
+        "phash_narrow": "2cefcec686204242",
         "dropPriority": 9004
     },
     {
@@ -1113,7 +1114,7 @@
         "rarity": 4,
         "name": "概念礼装EXPカード：ぐだぐだ天魔王×３",
         "name_eng": "CE EXP Card: GUDAGUDA Demon King × 3",
-        "phash": "5a03e4f2195eac73",
+        "phash": "5a03e4f0195eac73",
         "phash_narrow": "5a87e4f109bc316f",
         "dropPriority": 9004
     },
@@ -1125,7 +1126,7 @@
         "name_eng": "CE EXP Card: First Curry",
         "shortname": "★4EXP礼装",
         "phash": "3f00f85e67aea3a2",
-        "phash_narrow": "3f60d8541eed6b52",
+        "phash_narrow": "1f60d8541eed6b52",
         "dropPriority": 9004
     },
     {
@@ -1135,7 +1136,7 @@
         "name": "概念礼装EXPカード：窮鼠",
         "name_eng": "CE EXP Card: Cornered Mice",
         "phash": "694287995a63e689",
-        "phash_narrow": "6966879c716688b3",
+        "phash_narrow": "6966879c516688b3",
         "dropPriority": 9004
     },
     {
@@ -1144,7 +1145,7 @@
         "rarity": 4,
         "name": "概念礼装EXPカード：ようこそ邪馬台国！",
         "shortname": "★4EXP礼装",
-        "phash": "46374cda9789713d",
+        "phash": "56374cda9789713d",
         "phash_narrow": "52354cb686f28f00",
         "dropPriority": 9004
     },
@@ -1153,8 +1154,8 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：ロデオ",
-        "phash": "762349b185572ccc",
-        "phash_narrow": "f64b788d532dcd52",
+        "phash": "762349b185532ccc",
+        "phash_narrow": "f64b788d532dcf52",
         "dropPriority": 9004
     },
     {
@@ -1163,8 +1164,8 @@
         "rarity": 4,
         "name": "概念礼装EXPカード：阿国座カルデア公演",
         "shortname": "★4EXP礼装",
-        "phash": "e3587d2bb123bc06",
-        "phash_narrow": "e35c4d2fe1b7b13e",
+        "phash": "e3507d2bb123bc06",
+        "phash_narrow": "e35c4d3fe1b7b13e",
         "dropPriority": 9004
     },
     {
@@ -1173,7 +1174,7 @@
         "rarity": 4,
         "name": "概念礼装EXPカード：虎と遭難",
         "phash": "70378d01e9e21410",
-        "phash_narrow": "722f8c51eb8d13a1",
+        "phash_narrow": "722f8c51eb8d13a9",
         "dropPriority": 9004
     },
     {
@@ -1183,7 +1184,7 @@
         "name": "概念礼装EXPカード：Ｓバニヤン降臨",
         "shortname": "★4EXP礼装",
         "phash": "3e03884249b5f0b5",
-        "phash_narrow": "7e2bca4a0f92dd80",
+        "phash_narrow": "7e2bca4a0f82dd80",
         "dropPriority": 9004
     },
     {
@@ -1193,7 +1194,7 @@
         "name": "トリック・オア・トリート",
         "name_eng": "Trick or Treat",
         "phash": "9df0ccbc30d3e4f5",
-        "phash_narrow": "bf40ccbc13a9f0da",
+        "phash_narrow": "bf40ccbc13e9f0da",
         "dropPriority": 9003
     },
     {
@@ -1203,7 +1204,7 @@
         "name": "概念礼装EXPカード：マジカルルビー",
         "name_eng": "CE EXP Card: Magical Ruby",
         "phash": "3ee132a57a6d729d",
-        "phash_narrow": "4fd322946c23ccf0",
+        "phash_narrow": "0fd322946c23ccf0",
         "dropPriority": 9003
     },
     {
@@ -1232,7 +1233,7 @@
         "rarity": 3,
         "name": "穂群原学園生徒会長",
         "phash": "ee42b42549cd9393",
-        "phash_narrow": "ee5eb6696ca7cfce",
+        "phash_narrow": "ee56b6696ca7cfce",
         "dropPriority": 9003
     },
     {
@@ -1241,7 +1242,7 @@
         "rarity": 3,
         "name": "眠り続ける街",
         "phash": "79991ed62ad7a5be",
-        "phash_narrow": "f919d60a5bad8eaa",
+        "phash_narrow": "f119d60a5bad8eaa",
         "dropPriority": 9003
     },
     {
@@ -1261,7 +1262,7 @@
         "name": "概念礼装EXPカード：謎の物質β",
         "name_eng": "CE EXP Card: Mysterious Substance β",
         "phash": "ee5d353b528528c3",
-        "phash_narrow": "ce552d5a2439c020",
+        "phash_narrow": "ce552d522439c020",
         "dropPriority": 9003
     },
     {
@@ -1271,7 +1272,7 @@
         "name": "概念礼装EXPカード：九字兼定",
         "name_eng": "CE EXP Card: Kuji Kanesada",
         "phash": "dbe1c30b969428db",
-        "phash_narrow": "7af1c30b9528c221",
+        "phash_narrow": "7af1430b9528c321",
         "dropPriority": 9003
     },
     {
@@ -1280,7 +1281,7 @@
         "rarity": 3,
         "name": "概念礼装EXPカード：刻印虫",
         "name_eng": "CE EXP Card: Crest Worms",
-        "phash": "a163e68a66dadbf1",
+        "phash": "a163e68a66da9bf1",
         "phash_narrow": "b167cd6fe68aedb7",
         "dropPriority": 9003
     },
@@ -1291,7 +1292,7 @@
         "name": "概念礼装EXPカード：ぐだぐだウェルカム",
         "name_eng": "CE EXP Card: GUDAGUDA Recruitment",
         "phash": "ce6565f909c69566",
-        "phash_narrow": "8a65f70928994e48",
+        "phash_narrow": "8a67f70928994e48",
         "dropPriority": 9003
     },
     {
@@ -1300,8 +1301,8 @@
         "rarity": 3,
         "name": "概念礼装EXPカード：ぐだぐだ土佐同盟",
         "name_eng": "CE EXP Card: GUDAGUDA Tosa Alliance",
-        "phash": "c4570f866c6fe22a",
-        "phash_narrow": "d4f3839445840e56",
+        "phash": "c4578f866c6fe22a",
+        "phash_narrow": "d4b3839445840e56",
         "dropPriority": 9003
     },
     {
@@ -1331,7 +1332,7 @@
         "rarity": 3,
         "name": "概念礼装EXPカード：猛者と無敵",
         "shortname": "★3EXP礼装",
-        "phash": "4613b8c5c99a4682",
+        "phash": "4653b8c5c99a4682",
         "phash_narrow": "461334ed18d20205",
         "dropPriority": 9003
     },
@@ -1352,7 +1353,7 @@
         "name": "概念礼装EXPカード：大黒天＆アニング降臨",
         "shortname": "★3EXP礼装",
         "phash": "f49c0f05d1410de1",
-        "phash_narrow": "f49e2ebe031cc20d",
+        "phash_narrow": "f49e2ebe031cc00d",
         "dropPriority": 9003
     },
     {
@@ -1360,7 +1361,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "76030d6321d0413e",
+        "phash": "76030d6321d0617e",
         "name": "鬼炎鬼灯",
         "shortname": "鬼灯",
         "dropPriority": 8509,
@@ -1371,7 +1372,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "7c030316c16c3b4e",
+        "phash": "7c030116c16c3b4e",
         "name": "悠久の実",
         "name_eng": "Fruit of Eternity",
         "shortname": "実",
@@ -1399,7 +1400,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "2632698c59c13143",
+        "phash": "2632698c59e13143",
         "name": "真理の卵",
         "name_eng": "Egg of Truth",
         "shortname": "卵",
@@ -1411,7 +1412,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "76c3358c2483caa4",
+        "phash": "76c3358c2683caa5",
         "name": "九十九鏡",
         "name_eng": "Tsukumo Mirror",
         "shortname": "鏡",
@@ -1423,7 +1424,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "5633ad9c4323598c",
+        "phash": "56338d9c4323598c",
         "name": "暁光炉心",
         "name_eng": "Reactor Core of Dawn",
         "shortname": "炉心",
@@ -1451,7 +1452,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "5601a94c43163cb1",
+        "phash": "5601894c63163c91",
         "name": "呪獣胆石",
         "name_eng": "Cursed Beast Gallstone",
         "shortname": "胆石",
@@ -1478,7 +1479,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "740b898643f07338",
+        "phash": "740b898643f47338",
         "name": "智慧のスカラベ",
         "name_eng": "Scarab of Wisdom",
         "shortname": "スカラベ",
@@ -1502,7 +1503,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "9720e99633c93693",
+        "phash": "9f20e9d633c93693",
         "name": "戦馬の幼角",
         "name_eng": "Warhorse's Young Horn",
         "shortname": "幼角",
@@ -1565,7 +1566,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "564c095349005354",
+        "phash": "564c090349005354",
         "name": "黒獣脂",
         "name_eng": "Black Beast Grease",
         "shortname": "脂",
@@ -1581,7 +1582,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "2641c9900704c924",
+        "phash": "2641c9920704c924",
         "name": "血の涙石",
         "name_eng": "Tearstone of Blood",
         "shortname": "涙石",
@@ -1596,7 +1597,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "6f6ee69eda999bd9",
+        "phash": "6f6e669e9a999bd9",
         "name": "夢幻の鱗粉",
         "shortname": "鱗粉",
         "dropPriority": 8319,
@@ -1633,7 +1634,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "ef881df6a99576a9",
+        "phash": "ef081df6eb9576a9",
         "name": "光銀の冠",
         "name_eng": "Crown of Silvery Light",
         "shortname": "冠",
@@ -1664,7 +1665,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "5e238d349368b15c",
+        "phash": "5e230d349368b15c",
         "name": "閑古鈴",
         "name_eng": "Soundless Bell",
         "shortname": "鈴",
@@ -1739,7 +1740,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "36b292dc4969a925",
+        "phash": "36b2d2dc4969a925",
         "name": "大騎士勲章",
         "name_eng": "Great Knight Medal",
         "shortname": "勲章",
@@ -1763,7 +1764,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "9c584d87d2e93067",
+        "phash": "9c584d87c2f93067",
         "name": "蛇の宝玉",
         "name_eng": "Serpent Jewel",
         "shortname": "蛇玉",
@@ -1794,7 +1795,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "9683c3580c846332",
+        "phash": "96a3c3580c846332",
         "name": "ホムンクルスベビー",
         "name_eng": "Homunculus Baby",
         "shortname": "ホム",
@@ -1821,7 +1822,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "b7284fd06a37e04c",
+        "phash": "b7284fd06a37e24c",
         "name": "禁断の頁",
         "name_eng": "Forbidden Page",
         "shortname": "頁",
@@ -1857,7 +1858,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "5e208d5861161384",
+        "phash": "5e20855861161384",
         "name": "世界樹の種",
         "name_eng": "Seed of Yggdrasil",
         "shortname": "種",
@@ -1908,7 +1909,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "7409b2e6c8920011",
+        "phash": "7409b2e6c8920811",
         "name": "魔術髄液",
         "name_eng": "Mystic Spinal Fluid",
         "shortname": "髄液",
@@ -1983,7 +1984,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "5607a96179181604",
+        "phash": "5607896179181604",
         "name": "英雄の証",
         "name_eng": "Proof of Hero",
         "shortname": "証",
@@ -1995,8 +1996,8 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "6b029626c3332ff8",
-        "phash_class": "4de150be49b0f041",
+        "phash": "6b029626c3132ff8",
+        "phash_class": "4de158be49b0f041",
         "name": "剣の秘石",
         "name_eng": "Secret Gem of Saber",
         "shortname": "剣秘",
@@ -2008,8 +2009,8 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "fb022682c2776ff8",
-        "phash_class": "1df066faf2ad19c4",
+        "phash": "fb002682c2376ff8",
+        "phash_class": "1df0e6baf2ad19c4",
         "name": "弓の秘石",
         "name_eng": "Secret Gem of Archer",
         "shortname": "弓秘",
@@ -2022,7 +2023,7 @@
         "background": "gold",
         "rarity": 3,
         "phash": "fb08a622c29c3f78",
-        "phash_class": "79fc52776e9bb46e",
+        "phash_class": "79fcd2f76e9bb46e",
         "name": "槍の秘石",
         "name_eng": "Secret Gem of Lancer",
         "shortname": "槍秘",
@@ -2034,8 +2035,8 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "7b009e26425d27f8",
-        "phash_class": "c731d872399c98c6",
+        "phash": "7b009ea6425d27f8",
+        "phash_class": "c731d87a319c98c6",
         "name": "騎の秘石",
         "name_eng": "Secret Gem of Rider",
         "shortname": "騎秘",
@@ -2047,8 +2048,8 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "fb028e88e2373df8",
-        "phash_class": "5b76b0bcd6690cc6",
+        "phash": "fb028e88e2363df8",
+        "phash_class": "5b76b0bcd6690ce6",
         "name": "術の秘石",
         "name_eng": "Secret Gem of Caster",
         "shortname": "術秘",
@@ -2060,8 +2061,8 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "fb009666c6333bf8",
-        "phash_class": "1df149ee14acb451",
+        "phash": "fb029666c6133bf8",
+        "phash_class": "1df149ee54acb451",
         "name": "殺の秘石",
         "name_eng": "Secret Gem of Assassin",
         "shortname": "殺秘",
@@ -2073,8 +2074,8 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "ff129666c6132ff8",
-        "phash_class": "5cb109ee01a49050",
+        "phash": "ff109666c6132ff8",
+        "phash_class": "5cb109ee05a49050",
         "name": "狂の秘石",
         "name_eng": "Secret Gem of Berserker",
         "shortname": "狂秘",
@@ -2087,7 +2088,7 @@
         "background": "silver",
         "rarity": 2,
         "phash": "96c265716918591c",
-        "phash_class": "3bb64eeffeefaef4",
+        "phash_class": "3bbe4eeffe6faed4",
         "name": "剣の魔石",
         "name_eng": "Magic Gem of Saber",
         "shortname": "剣魔",
@@ -2100,7 +2101,7 @@
         "background": "silver",
         "rarity": 2,
         "phash": "16c2a5716918191c",
-        "phash_class": "e35a1867adf2e639",
+        "phash_class": "e37a18e78df2e639",
         "name": "弓の魔石",
         "name_eng": "Magic Gem of Archer",
         "shortname": "弓魔",
@@ -2112,7 +2113,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "16e2a5d96933499c",
+        "phash": "16e2a5d96931499c",
         "phash_class": "83027cf8f8e54a91",
         "name": "槍の魔石",
         "name_eng": "Magic Gem of Lancer",
@@ -2138,8 +2139,8 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "16c2a5716919491c",
-        "phash_class": "a9b846623c96f219",
+        "phash": "96c2a5714919491c",
+        "phash_class": "a9b84e627c96f219",
         "name": "術の魔石",
         "name_eng": "Magic Gem of Caster",
         "shortname": "術魔",
@@ -2151,8 +2152,8 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "16c2e5716958491c",
-        "phash_class": "ebe6bebbeffbebac",
+        "phash": "96c265716958491c",
+        "phash_class": "ebee3ebbeffbebac",
         "name": "殺の魔石",
         "name_eng": "Magic Gem of Assassin",
         "shortname": "殺魔",
@@ -2164,7 +2165,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "96c2a5396958091c",
+        "phash": "96c2a5316958091c",
         "phash_class": "abeefebafffbeeed",
         "name": "狂の魔石",
         "name_eng": "Magic Gem of Berserker",
@@ -2191,7 +2192,7 @@
         "background": "bronze",
         "rarity": 1,
         "phash": "1483812959921004",
-        "phash_class": "e02b1e450f70e639",
+        "phash_class": "e02b1e450f706639",
         "name": "弓の輝石",
         "name_eng": "Gem of Archer",
         "shortname": "弓輝",
@@ -2203,7 +2204,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "1423810959125984",
+        "phash": "1423810959125184",
         "phash_class": "000b7e5cba654b91",
         "name": "槍の輝石",
         "name_eng": "Gem of Lancer",
@@ -2230,7 +2231,7 @@
         "background": "bronze",
         "rarity": 1,
         "phash": "1c83a32959921004",
-        "phash_class": "b0bb4e463a96f219",
+        "phash_class": "b0bb5e463a96f219",
         "name": "術の輝石",
         "name_eng": "Gem of Caster",
         "shortname": "術輝",
@@ -2243,7 +2244,7 @@
         "background": "bronze",
         "rarity": 1,
         "phash": "1483e13959961004",
-        "phash_class": "40ef3e112e51412e",
+        "phash_class": "40ef3e112e5149ae",
         "name": "殺の輝石",
         "name_eng": "Gem of Assassin",
         "shortname": "殺輝",
@@ -2256,7 +2257,7 @@
         "background": "bronze",
         "rarity": 1,
         "phash": "1443a13959961804",
-        "phash_class": "01effe107e114eaf",
+        "phash_class": "01effe107e914caf",
         "name": "狂の輝石",
         "name_eng": "Gem of Berserker",
         "shortname": "狂輝",
@@ -2283,7 +2284,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "9618394bc6848792",
+        "phash": "9618394bc684c712",
         "name": "アーチャーモニュメント",
         "name_eng": "Archer Monument",
         "shortname": "弓モ",
@@ -2298,7 +2299,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "a649639233894c38",
+        "phash": "864963923389cc38",
         "name": "ランサーモニュメント",
         "name_eng": "Lancer Monument",
         "shortname": "槍モ",
@@ -2343,7 +2344,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "0641b918d631ed1e",
+        "phash": "0641b9189633ed9e",
         "name": "アサシンモニュメント",
         "name_eng": "Assassin Monument",
         "shortname": "殺モ",
@@ -2388,7 +2389,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "a6583d4bc284e696",
+        "phash": "86583d4bc284e696",
         "name": "アーチャーピース",
         "name_eng": "Archer Piece",
         "shortname": "弓ピ",
@@ -2403,7 +2404,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "a65963d83299c238",
+        "phash": "a65963d83299ca38",
         "name": "ランサーピース",
         "name_eng": "Lancer Piece",
         "shortname": "槍ピ",
@@ -2418,7 +2419,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "a648a119328dc532",
+        "phash": "a648a119128cc532",
         "name": "ライダーピース",
         "name_eng": "Rider Piece",
         "shortname": "騎ピ",
@@ -2433,7 +2434,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "a6c933187224ccb3",
+        "phash": "a6c973187224ccb1",
         "name": "キャスターピース",
         "name_eng": "Caster Piece",
         "shortname": "術ピ",
@@ -2448,7 +2449,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "2669b918d633e81c",
+        "phash": "2669b918d633ec9c",
         "name": "アサシンピース",
         "name_eng": "Assassin Piece",
         "shortname": "殺ピ",
@@ -2463,7 +2464,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "3648a17042b95313",
+        "phash": "3648a17042b9d313",
         "name": "バーサーカーピース",
         "name_eng": "Berserker Piece",
         "shortname": "狂ピ",
@@ -2478,7 +2479,7 @@
         "type": "Point",
         "background": "silver",
         "rarity": 2,
-        "phash": "b67849dc711496e4",
+        "phash": "b66849dc711696e4",
         "name": "バニペイポイント",
         "dropPriority": 3007
     },
@@ -2509,7 +2510,7 @@
         "type": "Point",
         "background": "silver",
         "rarity": 2,
-        "phash": "efee5b1899ebaee4",
+        "phash": "efec5b3899c9aee4",
         "name": "メルヘンポイント〔白雪姫〕",
         "shortname": "白雪姫P",
         "dropPriority": 3005,
@@ -2520,7 +2521,7 @@
         "type": "Point",
         "background": "silver",
         "rarity": 2,
-        "phash": "5ee0a398181ca340",
+        "phash": "5ee08398181ca340",
         "name": "メルヘンポイント〔シンデレラ〕",
         "shortname": "シンデレラP",
         "dropPriority": 3006,
@@ -2542,7 +2543,7 @@
         "type": "Point",
         "background": "silver",
         "rarity": 2,
-        "phash": "b6c22d3cc9d37c86",
+        "phash": "96c22d3cc9db5c86",
         "name": "アイドリウムポイント〔ダンス〕",
         "shortname": "ポイントD",
         "dropPriority": 3005,
@@ -2553,7 +2554,7 @@
         "type": "Point",
         "background": "silver",
         "rarity": 2,
-        "phash": "6ee2998ce1336011",
+        "phash": "6ee2998ce1316011",
         "name": "アイドリウムポイント〔ボーカル〕",
         "shortname": "ポイントV",
         "dropPriority": 3006,
@@ -2575,8 +2576,9 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "5649a51061c30b14",
+        "phash": "5649a51a61d20b14",
         "name": "3ゾロダイス",
+        "name_eng": "Three-Only Die",
         "dropPriority": 4108,
         "phash_battle": "7a0534e10b2ef040"
     },
@@ -2585,8 +2587,9 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "7649a55061d20914",
+        "phash": "7649a55061d24914",
         "name": "2ゾロダイス",
+        "name_eng": "Two-Only Die",
         "dropPriority": 4107,
         "phash_battle": "7a0525e3093cf040"
     },
@@ -2597,6 +2600,7 @@
         "rarity": 2,
         "phash": "5649a518319b4804",
         "name": "1ゾロダイス",
+        "name_eng": "One-Only Die",
         "dropPriority": 4106,
         "phash_battle": "7e0530b1092ca440"
     },
@@ -2605,8 +2609,9 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "5649a53081c2691e",
+        "phash": "5649a530c1c2691e",
         "name": "456ダイス",
+        "name_eng": "456 Die",
         "dropPriority": 4105,
         "phash_battle": "7e0524c3491af04a"
     },
@@ -2617,6 +2622,7 @@
         "rarity": 2,
         "phash": "5649251221584904",
         "name": "123ダイス",
+        "name_eng": "123 Die",
         "dropPriority": 4104,
         "phash_battle": "760d05714b2c5040"
     },
@@ -2627,6 +2633,7 @@
         "rarity": 2,
         "phash": "7ec8a59843479cb4",
         "name": "ノーマルダイス",
+        "name_eng": "Normal Die",
         "dropPriority": 4103,
         "phash_battle": "7ec5b84b84b81268"
     },
@@ -2692,7 +2699,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "de4229f4d24f60b4",
+        "phash": "de6229f4d24f60b4",
         "name": "アミーゴタオル",
         "name_eng": "Amigo Towel",
         "shortname": "タオル",
@@ -2853,7 +2860,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "ef047a991393b6a6",
+        "phash": "6f047a999393b6a6",
         "name": "アルトリウム",
         "name_eng": "Altrium",
         "dropPriority": 3004,
@@ -2884,7 +2891,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "760603f11d9594d2",
+        "phash": "760603f19d9594d2",
         "name": "ネロメダル〔金〕",
         "name_eng": "Nero Medal [Gold]",
         "shortname": "金メダル",
@@ -3555,7 +3562,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "dc03836c699c4996",
+        "phash": "dc03836c69944996",
         "name": "夜すがらの扇",
         "name_eng": "Fan of All-Nighters",
         "shortname": "扇",
@@ -3567,7 +3574,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "d64329e619268968",
+        "phash": "d64329a619268968",
         "name": "フレチョコ",
         "name_eng": "Friend Chocolate",
         "dropPriority": 4006
@@ -3591,6 +3598,7 @@
         "rarity": 3,
         "phash": "d601ad900d60631e",
         "name": "ライフカウンター",
+        "name_eng": "Life Counter",
         "dropPriority": 2003,
         "phash_battle": "562d94a92352c008"
     },
@@ -3610,7 +3618,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "12856d6e91020c71",
+        "phash": "12856d6e91021c71",
         "name": "ミニチェーンソー",
         "shortname": "チェーンソー",
         "dropPriority": 2003,
@@ -3643,7 +3651,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "564325b0abcc4a19",
+        "phash": "56432db0abcc4a19",
         "name": "虚数トロ",
         "shortname": "トロ",
         "dropPriority": 2003,
@@ -3654,7 +3662,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "b80807e3cfdf8719",
+        "phash": "f80807e3cfdf8719",
         "name": "ホーリーバナナ",
         "shortname": "バナナ",
         "dropPriority": 2003,
@@ -3665,7 +3673,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "7e30031761044188",
+        "phash": "7e30071761044188",
         "name": "ブラックプレゼント",
         "dropPriority": 2006,
         "phash_battle": "fe03272745404840"
@@ -3708,7 +3716,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "7629d2a448b167cf",
+        "phash": "3629d2a448b163cf",
         "name": "ストーンペンライト",
         "shortname": "ペンライト",
         "dropPriority": 2003,
@@ -3719,7 +3727,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "1f4da3cc18b2c51a",
+        "phash": "1f4da3cc1832c51a",
         "name": "海賊サーベル",
         "shortname": "サーベル",
         "dropPriority": 2003,
@@ -3932,7 +3940,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "5621bf582396d926",
+        "phash": "d621bf582396d926",
         "name": "維新まんじゅう",
         "shortname": "まんじゅう",
         "dropPriority": 2003,
@@ -3943,7 +3951,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "d60725a00b5d13a1",
+        "phash": "d60725a00b5d13a9",
         "name": "謎の物質RX",
         "dropPriority": 2004
     },
@@ -3963,7 +3971,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "9643298ef085f11b",
+        "phash": "9643298ef485f15b",
         "name": "メリーサイダー",
         "shortname": "メリーサイダー",
         "dropPriority": 2004
@@ -3973,7 +3981,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "b608534e2c90c93f",
+        "phash": "b608d34e2c90c93f",
         "name": "聖女見習いの交換券",
         "shortname": "券",
         "dropPriority": 2005
@@ -3994,7 +4002,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "f0f0f2271f1fe3c3",
+        "phash": "70f0e2271f1fe3c3",
         "name": "おたまステッキ",
         "shortname": "ステッキ",
         "dropPriority": 2008
@@ -4035,7 +4043,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "e71259cc263bc956",
+        "phash": "e71259cc26bbc956",
         "name": "ホワイトデー・スペクタクルズ霊衣開放チケット",
         "dropPriority": 2005
     },
@@ -4044,7 +4052,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "d6012d02b1dc0b8d",
+        "phash": "d6212d02b1d4038d",
         "name": "メテオバーガー",
         "shortname": "メテオバーガー",
         "dropPriority": 2003,
@@ -4055,7 +4063,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "36c90532b150a14b",
+        "phash": "36c90532b150814b",
         "name": "コズミックメダリオン",
         "dropPriority": 2004
     },
@@ -4064,7 +4072,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "7c0603a3015c4c0c",
+        "phash": "7e0603a3015c4e0c",
         "name": "AUOくじ2022",
         "shortname": "AUOくじ2022",
         "dropPriority": 2005,
@@ -4075,7 +4083,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "1c01e20e31660cc3",
+        "phash": "1c01e20e31260cc1",
         "name": "魔生木",
         "shortname": "木",
         "dropPriority": 2003,
@@ -4086,7 +4094,7 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "4682a9304e3394c7",
+        "phash": "4682a9b04e3394c7",
         "name": "ファン１号の証",
         "dropPriority": 2007
     },
@@ -4095,11 +4103,29 @@
         "type": "Item",
         "background": "gold",
         "rarity": 3,
-        "phash": "769a07d461ada323",
+        "phash": "769a07d461ada303",
         "name": "アンティークリール",
         "shortname": "リール",
         "dropPriority": 2003,
         "phash_battle": "f69f5729a1822470"
+    },
+    {
+        "id": 94071601,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "fc0223fc46033587",
+        "name": "2500万DL記念チケット〔サーヴァント〕",
+        "dropPriority": 9001
+    },
+    {
+        "id": 94071602,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "fc0223fc46033587",
+        "name": "2500万DL記念チケット〔概念礼装〕",
+        "dropPriority": 9001
     },
     {
         "id": 3,
@@ -4499,7 +4525,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "ec12d9f80ef0483f",
+        "phash": "ec12d9f80ef0003f",
         "name": "コープスベル",
         "name_eng": "Corpse Bell",
         "shortname": "ベル",
@@ -4577,7 +4603,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "dc3205cca37c510d",
+        "phash": "dc3205cca37c532f",
         "name": "ムーチョダンベル",
         "name_eng": "Mucho Dumbbell",
         "shortname": "ダンベル",
@@ -4634,7 +4660,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "1662ed980becca06",
+        "phash": "1662ed980bec4a0e",
         "name": "月つやべに",
         "name_eng": "Lunar Luster Rouge",
         "shortname": "つやべに",
@@ -4658,7 +4684,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "dc31073ee146d9c4",
+        "phash": "dc31073ee14ed9c4",
         "name": "無縁塩",
         "name_eng": "Unbiased Salt",
         "shortname": "塩",
@@ -4728,7 +4754,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "1606f11cc03986f9",
+        "phash": "5606f11cc03986f9",
         "name": "不気味な薬草",
         "name_eng": "Creepy Medicinal Herb",
         "shortname": "薬草",
@@ -4742,6 +4768,7 @@
         "rarity": 2,
         "phash": "168d71a887608d62",
         "name": "ポイントジェム",
+        "name_eng": "Point Gems",
         "dropPriority": 2002,
         "phash_battle": "16e5a925ac43731c"
     },
@@ -4761,7 +4788,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "fc03f9ec97d86f00",
+        "phash": "fc03b9e497d86f00",
         "name": "芳しい茅束",
         "shortname": "茅束",
         "dropPriority": 2003,
@@ -4772,7 +4799,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "d612d92c9dcd71ad",
+        "phash": "d612d92c9dc571ad",
         "name": "丈夫な丸太",
         "shortname": "丸太",
         "dropPriority": 2004,
@@ -4783,7 +4810,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "5e0981dc29164384",
+        "phash": "5e0981dc69164384",
         "name": "寝かせた粘土",
         "shortname": "粘土",
         "dropPriority": 2005,
@@ -4838,7 +4865,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "6799cc7649b458a7",
+        "phash": "6799cc7249b458a7",
         "name": "眩いヒレ",
         "shortname": "ヒレ",
         "dropPriority": 2005,
@@ -4860,7 +4887,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "fd03b96c32997203",
+        "phash": "fd03b96c32997207",
         "name": "セイントバー",
         "shortname": "バー",
         "dropPriority": 2002,
@@ -4871,7 +4898,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "f6a50b2e48239983",
+        "phash": "f6a50b2e48339983",
         "name": "太陽のバンテージ",
         "shortname": "バンテージ",
         "dropPriority": 2005,
@@ -4882,7 +4909,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "d41369a6936c27cc",
+        "phash": "d41369a6b36c278c",
         "name": "山伏団子",
         "shortname": "団子",
         "dropPriority": 2002,
@@ -4893,7 +4920,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "cfb88e4b27d8a494",
+        "phash": "cfb88e4b07d8ac94",
         "name": "ゴッド・ハープ",
         "shortname": "ハープ",
         "dropPriority": 2002,
@@ -4937,7 +4964,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "5e69211881c67037",
+        "phash": "de69211881c67037",
         "name": "海賊の宝箱〔銀〕",
         "shortname": "宝箱銀",
         "dropPriority": 2006,
@@ -4948,7 +4975,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "7e9139a8e6d25cca",
+        "phash": "7e9129a8e6d25cca",
         "name": "お菓子の家",
         "shortname": "家",
         "dropPriority": 2002,
@@ -4959,7 +4986,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "5612f98db195dc23",
+        "phash": "5612f98db195dc21",
         "name": "ＦＵＫＡＹＡネギ",
         "shortname": "ネギ",
         "dropPriority": 2002,
@@ -4981,7 +5008,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "56210958c91681a4",
+        "phash": "56210958491681a4",
         "name": "ビターパウダー",
         "shortname": "パウダー",
         "dropPriority": 2002,
@@ -5003,7 +5030,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "d60a035c41a42826",
+        "phash": "d60a035c41a42806",
         "name": "ギャラクシードッグ",
         "shortname": "ギャラクシードッグ",
         "dropPriority": 2002,
@@ -5036,7 +5063,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "5b42fc9ec62bbd73",
+        "phash": "5b43fc9ec62bbd73",
         "name": "陽気なコン",
         "shortname": "陽コン",
         "dropPriority": 2005,
@@ -5047,7 +5074,7 @@
         "type": "Item",
         "background": "silver",
         "rarity": 2,
-        "phash": "fbea4e5e7c396951",
+        "phash": "fbea465e7c396951",
         "name": "健気なコン",
         "shortname": "健コン",
         "dropPriority": 2006,
@@ -5295,7 +5322,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "542780a910536081",
+        "phash": "5c2780a910534081",
         "name": "サクラチップ",
         "name_eng": "Sakura Chip",
         "dropPriority": 2001
@@ -5325,7 +5352,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "6699cc6319261880",
+        "phash": "6699cc6319261884",
         "name": "ホロウキャンドル",
         "name_eng": "Hollow Candle",
         "shortname": "キャンドル",
@@ -5542,7 +5569,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "565309aca4939425",
+        "phash": "565309aca4938425",
         "name": "出会いの風車",
         "name_eng": "Pinwheel of Encounters",
         "shortname": "風車",
@@ -5554,7 +5581,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "d60d84a369508318",
+        "phash": "d60d84a369508b18",
         "name": "怪しい麦袋",
         "name_eng": "Suspicious Bag of Wheat",
         "shortname": "麦袋",
@@ -5566,8 +5593,9 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "fc91070c4327980d",
+        "phash": "fc91070c43279805",
         "name": "マーカーハウス",
+        "name_eng": "House Markers",
         "dropPriority": 2001,
         "phash_battle": "f8270f6791086080"
     },
@@ -5576,7 +5604,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "368d694361508998",
+        "phash": "368d694361508990",
         "name": "ミニ銅鐸",
         "shortname": "銅鐸",
         "dropPriority": 2000,
@@ -5587,7 +5615,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "740389f1596c0a88",
+        "phash": "740789f1596c0a88",
         "name": "よく乾いた薪",
         "shortname": "薪",
         "dropPriority": 2001,
@@ -5598,7 +5626,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "76070171889d2080",
+        "phash": "76070171889c2180",
         "name": "スカサハコイン〔銅〕",
         "shortname": "コイン銅",
         "dropPriority": 2001,
@@ -5609,7 +5637,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "5c67a5a10389c950",
+        "phash": "5c67a5a10b89c950",
         "name": "虚数ゲソ",
         "shortname": "ゲソ",
         "dropPriority": 2001,
@@ -5620,7 +5648,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "1e6701a9331a4881",
+        "phash": "1e6701a9321a4891",
         "name": "クールガム",
         "shortname": "ガム",
         "dropPriority": 2001,
@@ -5653,7 +5681,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "349d4c41898d0323",
+        "phash": "341d4c41098d0323",
         "name": "ボイジャーマグ",
         "shortname": "マグ",
         "dropPriority": 2001,
@@ -5664,7 +5692,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "fc250bfc2783d807",
+        "phash": "fc250bfc2383d807",
         "name": "マハトマタオル",
         "shortname": "タオル",
         "dropPriority": 2001,
@@ -5697,7 +5725,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "d62742891643092c",
+        "phash": "d62742893643092c",
         "name": "まじないのゴマ",
         "shortname": "ゴマ",
         "dropPriority": 2001,
@@ -5730,7 +5758,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "fc03d92c24044150",
+        "phash": "fc03d92c24044151",
         "name": "カカオチップ",
         "shortname": "カカオチップ",
         "dropPriority": 2001,
@@ -5741,7 +5769,7 @@
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
-        "phash": "780732ad126c9048",
+        "phash": "781732ad126c9048",
         "name": "インテリペーパー",
         "shortname": "ペーパー",
         "dropPriority": 2001,
@@ -5787,7 +5815,7 @@
         "phash": "f61389b4292f4806",
         "name": "QP",
         "name_eng": "QP",
-        "dropPriority": 511,
+        "dropPriority": 513,
         "phash_battle": "561be42b2814a00b"
     },
     {
@@ -6204,7 +6232,8 @@
         "name": "殺業火",
         "name_eng": "Assassin 5-star EXP",
         "shortname": "殺業火",
-        "phash": "292feef82fde7baf"
+        "phash": "292feef82fde7baf",
+        "phash_class": "507be4106fe59414"
     },
     {
         "id": 9707100,
