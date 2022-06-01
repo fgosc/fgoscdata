@@ -1019,6 +1019,24 @@
         "dropPriority": 9004
     },
     {
+        "id": 9406120,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "砂上の貝楼",
+        "phash": "3be792d3f5b26dee",
+        "phash_narrow": "2bef9ad3b2956214",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406130,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "天寵の尾羽",
+        "phash": "6699e93c7206f7e1",
+        "phash_narrow": "86d9ad78075e2112",
+        "dropPriority": 9004
+    },
+    {
         "id": 9800400,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1363,6 +1381,7 @@
         "rarity": 3,
         "phash": "76030d6321d0617e",
         "name": "鬼炎鬼灯",
+        "name_eng": "Flaming Oni Lantern Plant",
         "shortname": "鬼灯",
         "dropPriority": 8509,
         "phash_battle": "564f238174620e29"
@@ -1599,6 +1618,7 @@
         "rarity": 2,
         "phash": "6f6e669e9a999bd9",
         "name": "夢幻の鱗粉",
+        "name_eng": "Scale of Fantasy",
         "shortname": "鱗粉",
         "dropPriority": 8319,
         "phash_battle": "6764269b99b99999"
@@ -1610,6 +1630,7 @@
         "rarity": 2,
         "phash": "5768acf649bed28c",
         "name": "虹の糸玉",
+        "name_eng": "Ball of Rainbow Thread",
         "shortname": "糸玉",
         "dropPriority": 8318,
         "phash_battle": "5badfe18968e64c5"
@@ -1866,12 +1887,33 @@
         "phash_battle": "768509495310b48c"
     },
     {
+        "id": 6552,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "f6272c9343231948",
+        "name": "忘れじの灰",
+        "shortname": "灰",
+        "dropPriority": 8108
+    },
+    {
+        "id": 6551,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "f4f970a60f17275f",
+        "name": "黄昏の儀式剣",
+        "shortname": "剣",
+        "dropPriority": 8107
+    },
+    {
         "id": 6549,
         "type": "Item",
         "background": "bronze",
         "rarity": 1,
         "phash": "64b39a486d640059",
         "name": "赦免の小鐘",
+        "name_eng": "Small Bell of Absolution",
         "shortname": "小鐘",
         "dropPriority": 8106,
         "phash_battle": "269b486f22da4625"
