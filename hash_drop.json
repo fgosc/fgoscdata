@@ -898,6 +898,24 @@
         "dropPriority": 9005
     },
     {
+        "id": 9406140,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "五大元素使い",
+        "phash": "d91e87e71d43e94e",
+        "phash_narrow": "d93ae6ae13e348d7",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9406200,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "碧空に立つ",
+        "phash": "cf68c404299ad292",
+        "phash_narrow": "2e69c46c694c0cb1",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1034,6 +1052,42 @@
         "name": "天寵の尾羽",
         "phash": "6699e93c7206f7e1",
         "phash_narrow": "86d9ad78075e2112",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406150,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "投影装填",
+        "phash": "1e076fe8414b200a",
+        "phash_narrow": "1c07ec64c304c121",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406160,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "悲願の継承",
+        "phash": "86c750200bb2294e",
+        "phash_narrow": "8ec7a46f92300620",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406170,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "代償魔術",
+        "phash": "ba60868745f26db4",
+        "phash_narrow": "7b788f0d922c15c2",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406190,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "燈る祈りを胸に掲げて",
+        "phash": "89fecb5a3c8d7ca7",
+        "phash_narrow": "81b6c37a9f1c3d58",
         "dropPriority": 9004
     },
     {
@@ -1261,6 +1315,15 @@
         "name": "眠り続ける街",
         "phash": "79991ed62ad7a5be",
         "phash_narrow": "f119d60a5bad8eaa",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9406180,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "枯れない花",
+        "phash": "591c078f6981d66d",
+        "phash_narrow": "781c876d33850de3",
         "dropPriority": 9003
     },
     {
@@ -1894,7 +1957,8 @@
         "phash": "f6272c9343231948",
         "name": "忘れじの灰",
         "shortname": "灰",
-        "dropPriority": 8108
+        "dropPriority": 8108,
+        "phash_battle": "f62d83c33148e9c2"
     },
     {
         "id": 6551,
@@ -1904,7 +1968,8 @@
         "phash": "f4f970a60f17275f",
         "name": "黄昏の儀式剣",
         "shortname": "剣",
-        "dropPriority": 8107
+        "dropPriority": 8107,
+        "phash_battle": "e579060f2fd7ff7e"
     },
     {
         "id": 6549,
