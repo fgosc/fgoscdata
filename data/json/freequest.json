@@ -10358,6 +10358,59 @@
         "scPriority": 1232
     },
     {
+        "id": 93031208,
+        "name": "傀儡の根城",
+        "place": "アツァガウク砦",
+        "chapter": "トラオム",
+        "qp": 10660,
+        "drop": [
+            {
+                "id": 6540,
+                "name": "九十九鏡",
+                "type": "Item",
+                "dropPriority": 8506
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 9705400,
+                "name": "術猛火",
+                "type": "Exp. UP",
+                "dropPriority": 671
+            },
+            {
+                "id": 9706500,
+                "name": "殺業火",
+                "type": "Exp. UP",
+                "dropPriority": 665
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1233
+    },
+    {
         "id": 93031212,
         "name": "空赤き大地",
         "place": "門前の平原",
