@@ -10299,6 +10299,65 @@
         "scPriority": 1231
     },
     {
+        "id": 93031203,
+        "name": "三界分立",
+        "place": "中つ森",
+        "chapter": "トラオム",
+        "qp": 10140,
+        "drop": [
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            },
+            {
+                "id": 9705400,
+                "name": "術猛火",
+                "type": "Exp. UP",
+                "dropPriority": 671
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1232
+    },
+    {
         "id": 93031204,
         "name": "隠者の逃げ道",
         "place": "薄暮れの森",
@@ -10355,7 +10414,166 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1232
+        "scPriority": 1233
+    },
+    {
+        "id": 93031205,
+        "name": "要害の砦",
+        "place": "天嶮山脈",
+        "chapter": "トラオム",
+        "qp": 10400,
+        "drop": [
+            {
+                "id": 6531,
+                "name": "奇奇神酒",
+                "type": "Item",
+                "dropPriority": 8505
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 9702500,
+                "name": "槍業火",
+                "type": "Exp. UP",
+                "dropPriority": 685
+            },
+            {
+                "id": 9705400,
+                "name": "術猛火",
+                "type": "Exp. UP",
+                "dropPriority": 671
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1234
+    },
+    {
+        "id": 93031206,
+        "name": "遍歴の都",
+        "place": "王道界域拠点",
+        "chapter": "トラオム",
+        "qp": 10400,
+        "drop": [
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1235
+    },
+    {
+        "id": 93031207,
+        "name": "月光大砲増幅装置",
+        "place": "クサンテンの塔",
+        "chapter": "トラオム",
+        "qp": 10660,
+        "drop": [
+            {
+                "id": 6552,
+                "name": "忘れじの灰",
+                "type": "Item",
+                "dropPriority": 8108
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 9703400,
+                "name": "弓猛火",
+                "type": "Exp. UP",
+                "dropPriority": 681
+            },
+            {
+                "id": 9705400,
+                "name": "術猛火",
+                "type": "Exp. UP",
+                "dropPriority": 671
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1236
     },
     {
         "id": 93031208,
@@ -10408,7 +10626,148 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1233
+        "scPriority": 1237
+    },
+    {
+        "id": 93031209,
+        "name": "柔らかな残響",
+        "place": "湖畔の平原",
+        "chapter": "トラオム",
+        "qp": 10660,
+        "drop": [
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 9703400,
+                "name": "弓猛火",
+                "type": "Exp. UP",
+                "dropPriority": 681
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
+                "type": "Exp. UP",
+                "dropPriority": 676
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1238
+    },
+    {
+        "id": 93031210,
+        "name": "一夜要塞",
+        "place": "シルミウム",
+        "chapter": "トラオム",
+        "qp": 10920,
+        "drop": [
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
+                "type": "Exp. UP",
+                "dropPriority": 676
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1239
+    },
+    {
+        "id": 93031211,
+        "name": "贖罪の都",
+        "place": "復権界域拠点",
+        "chapter": "トラオム",
+        "qp": 10920,
+        "drop": [
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 9703400,
+                "name": "弓猛火",
+                "type": "Exp. UP",
+                "dropPriority": 681
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
+                "type": "Exp. UP",
+                "dropPriority": 676
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1240
     },
     {
         "id": 93031212,
@@ -10479,7 +10838,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1233
+        "scPriority": 1241
     },
     {
         "id": 93031213,
@@ -10531,14 +10890,14 @@
                 "dropPriority": 671
             },
             {
-                "id": 9706400,
-                "name": "殺猛火",
+                "id": 9707400,
+                "name": "狂猛火",
                 "type": "Exp. UP",
-                "dropPriority": 666
+                "dropPriority": 661
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1234
+        "scPriority": 1242
     },
     {
         "id": 93031214,
@@ -10585,7 +10944,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1235
+        "scPriority": 1243
     },
     {
         "id": 93031216,
@@ -10638,6 +10997,6 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1236
+        "scPriority": 1245
     }
 ]
