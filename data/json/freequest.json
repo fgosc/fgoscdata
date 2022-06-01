@@ -19,7 +19,7 @@
                 "dropPriority": 6100
             }
         ],
-        "dropItemNum": 4,
+        "dropItemNum": -1,
         "scPriority": 1001
     },
     {
@@ -48,7 +48,7 @@
                 "dropPriority": 6098
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1002
     },
     {
@@ -77,7 +77,7 @@
                 "dropPriority": 6098
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1003
     },
     {
@@ -106,7 +106,7 @@
                 "dropPriority": 6099
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1004
     },
     {
@@ -147,7 +147,7 @@
                 "dropPriority": 5197
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1005
     },
     {
@@ -194,7 +194,7 @@
                 "dropPriority": 5195
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "scPriority": 1006
     },
     {
@@ -229,7 +229,7 @@
                 "dropPriority": 6098
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1007
     },
     {
@@ -276,7 +276,7 @@
                 "dropPriority": 5200
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "scPriority": 1008
     },
     {
@@ -305,7 +305,7 @@
                 "dropPriority": 6098
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1009
     },
     {
@@ -340,7 +340,7 @@
                 "dropPriority": 6097
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1010
     },
     {
@@ -375,7 +375,7 @@
                 "dropPriority": 6097
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1011
     },
     {
@@ -434,7 +434,7 @@
                 "dropPriority": 5197
             }
         ],
-        "dropItemNum": 13,
+        "dropItemNum": -1,
         "scPriority": 1012
     },
     {
@@ -475,7 +475,7 @@
                 "dropPriority": 5195
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1013
     },
     {
@@ -504,7 +504,7 @@
                 "dropPriority": 6098
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1014
     },
     {
@@ -539,7 +539,7 @@
                 "dropPriority": 5194
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1015
     },
     {
@@ -574,7 +574,7 @@
                 "dropPriority": 6095
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1016
     },
     {
@@ -633,7 +633,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 12,
+        "dropItemNum": -1,
         "scPriority": 1017
     },
     {
@@ -704,7 +704,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 13,
+        "dropItemNum": -1,
         "scPriority": 1018
     },
     {
@@ -751,7 +751,7 @@
                 "dropPriority": 5194
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "scPriority": 1019
     },
     {
@@ -780,7 +780,7 @@
                 "dropPriority": 6098
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1020
     },
     {
@@ -803,7 +803,7 @@
                 "dropPriority": 6095
             }
         ],
-        "dropItemNum": 4,
+        "dropItemNum": -1,
         "scPriority": 1021
     },
     {
@@ -838,7 +838,7 @@
                 "dropPriority": 6098
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1022
     },
     {
@@ -867,7 +867,7 @@
                 "dropPriority": 6098
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1023
     },
     {
@@ -920,7 +920,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "scPriority": 1024
     },
     {
@@ -967,7 +967,7 @@
                 "dropPriority": 5194
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "scPriority": 1025
     },
     {
@@ -1020,7 +1020,7 @@
                 "dropPriority": 5200
             }
         ],
-        "dropItemNum": 12,
+        "dropItemNum": -1,
         "scPriority": 1026
     },
     {
@@ -1055,7 +1055,7 @@
                 "dropPriority": 6095
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1027
     },
     {
@@ -1096,7 +1096,7 @@
                 "dropPriority": 5194
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1028
     },
     {
@@ -1149,7 +1149,7 @@
                 "dropPriority": 5194
             }
         ],
-        "dropItemNum": 12,
+        "dropItemNum": -1,
         "scPriority": 1029
     },
     {
@@ -1178,7 +1178,7 @@
                 "dropPriority": 6099
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1030
     },
     {
@@ -1225,7 +1225,7 @@
                 "dropPriority": 5197
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "scPriority": 1031
     },
     {
@@ -1272,7 +1272,7 @@
                 "dropPriority": 5194
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "scPriority": 1032
     },
     {
@@ -1319,7 +1319,7 @@
                 "dropPriority": 5194
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "scPriority": 1033
     },
     {
@@ -1366,7 +1366,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1034
     },
     {
@@ -1407,7 +1407,7 @@
                 "dropPriority": 6094
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1035
     },
     {
@@ -1442,7 +1442,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1036
     },
     {
@@ -1477,7 +1477,7 @@
                 "dropPriority": 6097
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1037
     },
     {
@@ -1500,7 +1500,7 @@
                 "dropPriority": 6095
             }
         ],
-        "dropItemNum": 5,
+        "dropItemNum": -1,
         "scPriority": 1038
     },
     {
@@ -1559,7 +1559,7 @@
                 "dropPriority": 5194
             }
         ],
-        "dropItemNum": 12,
+        "dropItemNum": -1,
         "scPriority": 1039
     },
     {
@@ -1594,7 +1594,7 @@
                 "dropPriority": 691
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1040
     },
     {
@@ -1641,7 +1641,7 @@
                 "dropPriority": 6098
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "scPriority": 1041
     },
     {
@@ -1664,7 +1664,7 @@
                 "dropPriority": 6095
             }
         ],
-        "dropItemNum": 4,
+        "dropItemNum": -1,
         "scPriority": 1042
     },
     {
@@ -1711,7 +1711,7 @@
                 "dropPriority": 5195
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1043
     },
     {
@@ -1734,7 +1734,7 @@
                 "dropPriority": 6098
             }
         ],
-        "dropItemNum": 4,
+        "dropItemNum": -1,
         "scPriority": 1044
     },
     {
@@ -1805,7 +1805,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 14,
+        "dropItemNum": -1,
         "scPriority": 1045
     },
     {
@@ -1858,7 +1858,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "scPriority": 1046
     },
     {
@@ -1899,7 +1899,7 @@
                 "dropPriority": 6096
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1047
     },
     {
@@ -1952,7 +1952,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "scPriority": 1048
     },
     {
@@ -1999,7 +1999,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1049
     },
     {
@@ -2052,7 +2052,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "scPriority": 1050
     },
     {
@@ -2075,7 +2075,7 @@
                 "dropPriority": 6099
             }
         ],
-        "dropItemNum": 4,
+        "dropItemNum": -1,
         "scPriority": 1051
     },
     {
@@ -2128,7 +2128,7 @@
                 "dropPriority": 5198
             }
         ],
-        "dropItemNum": 12,
+        "dropItemNum": -1,
         "scPriority": 1052
     },
     {
@@ -2175,7 +2175,7 @@
                 "dropPriority": 5198
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1053
     },
     {
@@ -2210,7 +2210,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1054
     },
     {
@@ -2239,7 +2239,7 @@
                 "dropPriority": 6098
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1055
     },
     {
@@ -2286,7 +2286,7 @@
                 "dropPriority": 5194
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "scPriority": 1056
     },
     {
@@ -2345,7 +2345,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "scPriority": 1057
     },
     {
@@ -2386,7 +2386,7 @@
                 "dropPriority": 5199
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1058
     },
     {
@@ -2433,7 +2433,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1059
     },
     {
@@ -2486,7 +2486,7 @@
                 "dropPriority": 681
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "scPriority": 1060
     },
     {
@@ -2533,7 +2533,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1061
     },
     {
@@ -2598,7 +2598,7 @@
                 "dropPriority": 5194
             }
         ],
-        "dropItemNum": 15,
+        "dropItemNum": -1,
         "scPriority": 1062
     },
     {
@@ -2657,7 +2657,7 @@
                 "dropPriority": 690
             }
         ],
-        "dropItemNum": 13,
+        "dropItemNum": -1,
         "scPriority": 1063
     },
     {
@@ -2698,7 +2698,7 @@
                 "dropPriority": 681
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1064
     },
     {
@@ -2751,7 +2751,7 @@
                 "dropPriority": 670
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "scPriority": 1065
     },
     {
@@ -2792,7 +2792,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1066
     },
     {
@@ -2821,7 +2821,7 @@
                 "dropPriority": 6094
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1067
     },
     {
@@ -2862,7 +2862,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1068
     },
     {
@@ -2921,7 +2921,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "scPriority": 1069
     },
     {
@@ -2956,7 +2956,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1070
     },
     {
@@ -2997,7 +2997,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1071
     },
     {
@@ -3044,7 +3044,7 @@
                 "dropPriority": 681
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1072
     },
     {
@@ -3097,7 +3097,7 @@
                 "dropPriority": 681
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1073
     },
     {
@@ -3162,7 +3162,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 12,
+        "dropItemNum": -1,
         "scPriority": 1074
     },
     {
@@ -3209,7 +3209,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1075
     },
     {
@@ -3256,7 +3256,7 @@
                 "dropPriority": 691
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1076
     },
     {
@@ -3321,7 +3321,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 14,
+        "dropItemNum": -1,
         "scPriority": 1077
     },
     {
@@ -3368,7 +3368,7 @@
                 "dropPriority": 670
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1078
     },
     {
@@ -3397,7 +3397,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 4,
+        "dropItemNum": -1,
         "scPriority": 1079
     },
     {
@@ -3444,7 +3444,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1080
     },
     {
@@ -3485,7 +3485,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1081
     },
     {
@@ -3532,7 +3532,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1082
     },
     {
@@ -3573,7 +3573,7 @@
                 "dropPriority": 681
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1083
     },
     {
@@ -3620,7 +3620,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1084
     },
     {
@@ -3655,7 +3655,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1085
     },
     {
@@ -3690,7 +3690,7 @@
                 "dropPriority": 691
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1086
     },
     {
@@ -3719,7 +3719,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 5,
+        "dropItemNum": -1,
         "scPriority": 1087
     },
     {
@@ -3754,7 +3754,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1088
     },
     {
@@ -3801,7 +3801,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1089
     },
     {
@@ -3848,7 +3848,7 @@
                 "dropPriority": 675
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1090
     },
     {
@@ -3895,7 +3895,7 @@
                 "dropPriority": 660
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1091
     },
     {
@@ -3936,7 +3936,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1092
     },
     {
@@ -3965,7 +3965,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 5,
+        "dropItemNum": -1,
         "scPriority": 1093
     },
     {
@@ -4006,7 +4006,7 @@
                 "dropPriority": 681
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1094
     },
     {
@@ -4041,7 +4041,7 @@
                 "dropPriority": 681
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1095
     },
     {
@@ -4088,7 +4088,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1096
     },
     {
@@ -4129,7 +4129,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1097
     },
     {
@@ -4158,7 +4158,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 4,
+        "dropItemNum": -1,
         "scPriority": 1098
     },
     {
@@ -4217,7 +4217,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1099
     },
     {
@@ -4264,7 +4264,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1100
     },
     {
@@ -4311,7 +4311,7 @@
                 "dropPriority": 670
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1101
     },
     {
@@ -4370,7 +4370,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "scPriority": 1102
     },
     {
@@ -4411,7 +4411,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1103
     },
     {
@@ -4458,7 +4458,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1104
     },
     {
@@ -4505,7 +4505,7 @@
                 "dropPriority": 691
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1105
     },
     {
@@ -4546,7 +4546,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1106
     },
     {
@@ -4581,7 +4581,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1107
     },
     {
@@ -4616,7 +4616,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 5,
+        "dropItemNum": -1,
         "scPriority": 1108
     },
     {
@@ -4651,7 +4651,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 5,
+        "dropItemNum": -1,
         "scPriority": 1109
     },
     {
@@ -4710,7 +4710,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 13,
+        "dropItemNum": -1,
         "scPriority": 1110
     },
     {
@@ -4751,7 +4751,7 @@
                 "dropPriority": 680
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1111
     },
     {
@@ -4798,7 +4798,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1112
     },
     {
@@ -4833,7 +4833,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1113
     },
     {
@@ -4868,7 +4868,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1114
     },
     {
@@ -4915,7 +4915,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1115
     },
     {
@@ -4968,7 +4968,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1116
     },
     {
@@ -5015,7 +5015,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1117
     },
     {
@@ -5044,7 +5044,7 @@
                 "dropPriority": 691
             }
         ],
-        "dropItemNum": 4,
+        "dropItemNum": -1,
         "scPriority": 1118
     },
     {
@@ -5097,7 +5097,7 @@
                 "dropPriority": 681
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1119
     },
     {
@@ -5156,7 +5156,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1120
     },
     {
@@ -5209,7 +5209,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1121
     },
     {
@@ -5268,7 +5268,7 @@
                 "dropPriority": 660
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1122
     },
     {
@@ -5315,7 +5315,7 @@
                 "dropPriority": 665
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1123
     },
     {
@@ -5338,7 +5338,7 @@
                 "dropPriority": 6097
             }
         ],
-        "dropItemNum": 4,
+        "dropItemNum": -1,
         "scPriority": 1124
     },
     {
@@ -5385,7 +5385,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1125
     },
     {
@@ -5414,7 +5414,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 4,
+        "dropItemNum": -1,
         "scPriority": 1126
     },
     {
@@ -5455,7 +5455,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1127
     },
     {
@@ -5490,7 +5490,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1128
     },
     {
@@ -5531,7 +5531,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1129
     },
     {
@@ -5572,7 +5572,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1130
     },
     {
@@ -5613,7 +5613,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1131
     },
     {
@@ -5654,7 +5654,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1132
     },
     {
@@ -5695,7 +5695,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1133
     },
     {
@@ -5736,7 +5736,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1134
     },
     {
@@ -5777,7 +5777,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1135
     },
     {
@@ -5812,7 +5812,7 @@
                 "dropPriority": 691
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1136
     },
     {
@@ -5853,7 +5853,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1137
     },
     {
@@ -5894,7 +5894,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1138
     },
     {
@@ -5935,7 +5935,7 @@
                 "dropPriority": 681
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1139
     },
     {
@@ -5976,7 +5976,7 @@
                 "dropPriority": 691
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1140
     },
     {
@@ -6017,7 +6017,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1141
     },
     {
@@ -6064,7 +6064,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1142
     },
     {
@@ -6111,7 +6111,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1143
     },
     {
@@ -6152,7 +6152,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1144
     },
     {
@@ -6181,7 +6181,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 4,
+        "dropItemNum": -1,
         "scPriority": 1145
     },
     {
@@ -6234,7 +6234,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1146
     },
     {
@@ -6287,7 +6287,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1147
     },
     {
@@ -6334,7 +6334,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1148
     },
     {
@@ -6387,7 +6387,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1149
     },
     {
@@ -6428,7 +6428,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1150
     },
     {
@@ -6457,7 +6457,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 5,
+        "dropItemNum": -1,
         "scPriority": 1151
     },
     {
@@ -6504,7 +6504,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1152
     },
     {
@@ -6545,7 +6545,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1153
     },
     {
@@ -6574,7 +6574,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 4,
+        "dropItemNum": -1,
         "scPriority": 1154
     },
     {
@@ -6621,7 +6621,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1155
     },
     {
@@ -6668,7 +6668,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1156
     },
     {
@@ -6715,7 +6715,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1157
     },
     {
@@ -6756,7 +6756,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1158
     },
     {
@@ -6803,7 +6803,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1159
     },
     {
@@ -6850,7 +6850,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1160
     },
     {
@@ -6891,7 +6891,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1161
     },
     {
@@ -6938,7 +6938,7 @@
                 "dropPriority": 665
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1162
     },
     {
@@ -6991,7 +6991,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1163
     },
     {
@@ -7044,7 +7044,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1164
     },
     {
@@ -7103,7 +7103,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "scPriority": 1165
     },
     {
@@ -7150,7 +7150,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1166
     },
     {
@@ -7191,7 +7191,7 @@
                 "dropPriority": 681
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1167
     },
     {
@@ -7232,7 +7232,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1168
     },
     {
@@ -7291,7 +7291,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1169
     },
     {
@@ -7320,7 +7320,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 4,
+        "dropItemNum": -1,
         "scPriority": 1170
     },
     {
@@ -7361,7 +7361,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1171
     },
     {
@@ -7414,7 +7414,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1172
     },
     {
@@ -7455,7 +7455,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1173
     },
     {
@@ -7508,7 +7508,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1174
     },
     {
@@ -7549,7 +7549,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1175
     },
     {
@@ -7590,7 +7590,7 @@
                 "dropPriority": 685
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1176
     },
     {
@@ -7625,7 +7625,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1177
     },
     {
@@ -7678,7 +7678,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1178
     },
     {
@@ -7731,7 +7731,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1179
     },
     {
@@ -7766,7 +7766,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 5,
+        "dropItemNum": -1,
         "scPriority": 1180
     },
     {
@@ -7813,7 +7813,7 @@
                 "dropPriority": 675
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1181
     },
     {
@@ -7866,7 +7866,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1182
     },
     {
@@ -7901,7 +7901,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1183
     },
     {
@@ -7948,7 +7948,7 @@
                 "dropPriority": 670
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1184
     },
     {
@@ -8001,7 +8001,7 @@
                 "dropPriority": 690
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1185
     },
     {
@@ -8048,7 +8048,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1186
     },
     {
@@ -8107,7 +8107,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "scPriority": 1187
     },
     {
@@ -8154,7 +8154,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1188
     },
     {
@@ -8207,7 +8207,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1189
     },
     {
@@ -8254,7 +8254,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1190
     },
     {
@@ -8289,7 +8289,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 5,
+        "dropItemNum": -1,
         "scPriority": 1191
     },
     {
@@ -8336,7 +8336,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1192
     },
     {
@@ -8389,7 +8389,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1193
     },
     {
@@ -8448,7 +8448,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1194
     },
     {
@@ -8495,7 +8495,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1195
     },
     {
@@ -8542,7 +8542,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1196
     },
     {
@@ -8589,7 +8589,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1197
     },
     {
@@ -8636,7 +8636,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1198
     },
     {
@@ -8695,7 +8695,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1199
     },
     {
@@ -8724,7 +8724,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 4,
+        "dropItemNum": -1,
         "scPriority": 1200
     },
     {
@@ -8771,7 +8771,7 @@
                 "dropPriority": 665
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1201
     },
     {
@@ -8830,7 +8830,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "scPriority": 1202
     },
     {
@@ -8877,7 +8877,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1203
     },
     {
@@ -8918,7 +8918,7 @@
                 "dropPriority": 665
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1204
     },
     {
@@ -8965,7 +8965,7 @@
                 "dropPriority": 660
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1205
     },
     {
@@ -9012,7 +9012,7 @@
                 "dropPriority": 665
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1206
     },
     {
@@ -9059,7 +9059,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1207
     },
     {
@@ -9106,7 +9106,7 @@
                 "dropPriority": 685
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1208
     },
     {
@@ -9159,7 +9159,7 @@
                 "dropPriority": 660
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1209
     },
     {
@@ -9200,7 +9200,7 @@
                 "dropPriority": 665
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1210
     },
     {
@@ -9229,7 +9229,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 4,
+        "dropItemNum": -1,
         "scPriority": 1211
     },
     {
@@ -9270,7 +9270,7 @@
                 "dropPriority": 660
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1212
     },
     {
@@ -9317,7 +9317,7 @@
                 "dropPriority": 660
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1213
     },
     {
@@ -9382,7 +9382,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "scPriority": 1214
     },
     {
@@ -9423,7 +9423,7 @@
                 "dropPriority": 691
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1215
     },
     {
@@ -9482,7 +9482,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1216
     },
     {
@@ -9541,7 +9541,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "scPriority": 1217
     },
     {
@@ -9588,7 +9588,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1218
     },
     {
@@ -9635,7 +9635,7 @@
                 "dropPriority": 690
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1219
     },
     {
@@ -9694,7 +9694,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "scPriority": 1220
     },
     {
@@ -9735,7 +9735,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 6,
+        "dropItemNum": -1,
         "scPriority": 1221
     },
     {
@@ -9788,7 +9788,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1222
     },
     {
@@ -9823,7 +9823,7 @@
                 "dropPriority": 6098
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1223
     },
     {
@@ -9870,7 +9870,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1224
     },
     {
@@ -9947,7 +9947,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 12,
+        "dropItemNum": -1,
         "scPriority": 1225
     },
     {
@@ -10024,7 +10024,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 13,
+        "dropItemNum": -1,
         "scPriority": 1226
     },
     {
@@ -10107,7 +10107,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 13,
+        "dropItemNum": -1,
         "scPriority": 1227
     },
     {
@@ -10154,7 +10154,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 7,
+        "dropItemNum": -1,
         "scPriority": 1228
     },
     {
@@ -10201,7 +10201,390 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 8,
+        "dropItemNum": -1,
         "scPriority": 1229
+    },
+    {
+        "id": 93031201,
+        "name": "陣地作成",
+        "place": "狭間の街",
+        "chapter": "トラオム",
+        "qp": 10140,
+        "drop": [
+            {
+                "id": 6552,
+                "name": "忘れじの灰",
+                "type": "Item",
+                "dropPriority": 8108
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1230
+    },
+    {
+        "id": 93031202,
+        "name": "愚者の分かれ道",
+        "place": "暁の平原",
+        "chapter": "トラオム",
+        "qp": 10140,
+        "drop": [
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6552,
+                "name": "忘れじの灰",
+                "type": "Item",
+                "dropPriority": 8108
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            },
+            {
+                "id": 9705400,
+                "name": "術猛火",
+                "type": "Exp. UP",
+                "dropPriority": 671
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1231
+    },
+    {
+        "id": 93031204,
+        "name": "隠者の逃げ道",
+        "place": "薄暮れの森",
+        "chapter": "トラオム",
+        "qp": 10400,
+        "drop": [
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6552,
+                "name": "忘れじの灰",
+                "type": "Item",
+                "dropPriority": 8108
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1232
+    },
+    {
+        "id": 93031212,
+        "name": "空赤き大地",
+        "place": "門前の平原",
+        "chapter": "トラオム",
+        "qp": 10920,
+        "drop": [
+            {
+                "id": 6529,
+                "name": "呪獣胆石",
+                "type": "Item",
+                "dropPriority": 8504
+            },
+            {
+                "id": 6552,
+                "name": "忘れじの灰",
+                "type": "Item",
+                "dropPriority": 8108
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 9703400,
+                "name": "弓猛火",
+                "type": "Exp. UP",
+                "dropPriority": 681
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            },
+            {
+                "id": 9706500,
+                "name": "殺業火",
+                "type": "Exp. UP",
+                "dropPriority": 665
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1233
+    },
+    {
+        "id": 93031213,
+        "name": "真紅の絢爛と漆黒の狂気",
+        "place": "復讐界域拠点",
+        "chapter": "トラオム",
+        "qp": 11180,
+        "drop": [
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6552,
+                "name": "忘れじの灰",
+                "type": "Item",
+                "dropPriority": 8108
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            },
+            {
+                "id": 9705400,
+                "name": "術猛火",
+                "type": "Exp. UP",
+                "dropPriority": 671
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1234
+    },
+    {
+        "id": 93031214,
+        "name": "失落の滝",
+        "place": "ライヘンバッハ",
+        "chapter": "トラオム",
+        "qp": 11180,
+        "drop": [
+            {
+                "id": 6552,
+                "name": "忘れじの灰",
+                "type": "Item",
+                "dropPriority": 8108
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
+                "type": "Exp. UP",
+                "dropPriority": 676
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1235
+    },
+    {
+        "id": 93031216,
+        "name": "外壁補修中",
+        "place": "ヨウィヌス砦",
+        "chapter": "トラオム",
+        "qp": 11440,
+        "drop": [
+            {
+                "id": 6552,
+                "name": "忘れじの灰",
+                "type": "Item",
+                "dropPriority": 8108
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
+                "type": "Exp. UP",
+                "dropPriority": 676
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1236
     }
 ]
