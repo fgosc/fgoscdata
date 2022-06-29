@@ -920,6 +920,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ハートブレイカー",
+        "shortname": "礼装",
         "phash": "8abc91032cdb67ed",
         "phash_narrow": "8fbcd3241877852d",
         "dropPriority": 9005
