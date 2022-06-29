@@ -1,5 +1,58 @@
 [
     {
+        "id": 94072801,
+        "name": "犬士品評会！ 初級",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9406240,
+                "name": "ハートブレイカー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            },
+            {
+                "id": 94072704,
+                "name": "犬士ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94072702,
+                "name": "噛々縄索",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94072701,
+                "name": "白々御飯",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "犬士品評会！ 初級"
+    },
+    {
         "id": 94072802,
         "name": "犬士品評会！ 中級",
         "place": "",
