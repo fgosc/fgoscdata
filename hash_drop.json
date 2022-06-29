@@ -5288,7 +5288,8 @@
         "phash": "3e12e9a4934c1a4c",
         "name": "噛々縄索",
         "shortname": "縄索",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "164badd34a0b9d25"
     },
     {
         "id": 4,
