@@ -1,0 +1,55 @@
+[
+    {
+        "id": 94072803,
+        "name": "犬士品評会！ 上級",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9406240,
+                "name": "ハートブレイカー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 94072704,
+                "name": "犬士ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94072703,
+                "name": "転々手鞠",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94072701,
+                "name": "白々御飯",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "犬士品評会！ 上級"
+    }
+]

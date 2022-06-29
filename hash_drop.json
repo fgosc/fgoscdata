@@ -2616,7 +2616,8 @@
         "phash": "7e2a86d86178d994",
         "name": "犬士ポイント",
         "shortname": "犬士P",
-        "dropPriority": 3004
+        "dropPriority": 3004,
+        "phash_battle": "fa068d6979593699"
     },
     {
         "id": 94069607,
@@ -4279,7 +4280,8 @@
         "phash": "760985d8a37ea116",
         "name": "転々手鞠",
         "shortname": "手鞠",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "fa1584abb1236332"
     },
     {
         "id": 3,
@@ -5980,7 +5982,8 @@
         "phash": "56c9a57241180096",
         "name": "白々御飯",
         "shortname": "御飯",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "56ad266916d38804"
     },
     {
         "id": 1,
