@@ -157,5 +157,76 @@
         ],
         "dropItemNum": -1,
         "shortname": "犬士品評会！ 上級"
+    },
+    {
+        "id": 94072804,
+        "name": "犬士品評会！ ジュニアチャンピオン級",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9406240,
+                "name": "ハートブレイカー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
+                "type": "Item",
+                "dropPriority": 8104
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94072704,
+                "name": "犬士ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94072703,
+                "name": "転々手鞠",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94072702,
+                "name": "噛々縄索",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94072701,
+                "name": "白々御飯",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ジュニアチャンピオン級"
     }
 ]
