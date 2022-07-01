@@ -228,5 +228,70 @@
         ],
         "dropItemNum": -1,
         "shortname": "ジュニアチャンピオン級"
+    },
+    {
+        "id": 94072806,
+        "name": "犬士品評会！ トレーニングチャンピオン級",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9406240,
+                "name": "ハートブレイカー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6549,
+                "name": "赦免の小鐘",
+                "type": "Item",
+                "dropPriority": 8106
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94072704,
+                "name": "犬士ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94072703,
+                "name": "転々手鞠",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94072702,
+                "name": "噛々縄索",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "トレーニングチャンピオン級"
     }
 ]
