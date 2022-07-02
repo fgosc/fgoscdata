@@ -358,5 +358,70 @@
         ],
         "dropItemNum": -1,
         "shortname": "トレーニングチャンピオン級"
+    },
+    {
+        "id": 94072807,
+        "name": "犬士品評会！ ワーキングチャンピオン級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9406240,
+                "name": "ハートブレイカー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6518,
+                "name": "精霊根",
+                "type": "Item",
+                "dropPriority": 8502
+            },
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94072704,
+                "name": "犬士ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94072703,
+                "name": "転々手鞠",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94072701,
+                "name": "白々御飯",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ワーキングチャンピオン級"
     }
 ]
