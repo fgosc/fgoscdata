@@ -51,5 +51,58 @@
         ],
         "dropItemNum": -1,
         "shortname": "スケルトン・ハント 典位+級"
+    },
+    {
+        "id": 94074408,
+        "name": "ワイバーン・ハント 典位+級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
+                "type": "Exp. UP",
+                "dropPriority": 676
+            },
+            {
+                "id": 9704500,
+                "name": "騎業火",
+                "type": "Exp. UP",
+                "dropPriority": 675
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ワイバーン・ハント 典位+級"
     }
 ]
