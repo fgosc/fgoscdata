@@ -104,5 +104,58 @@
         ],
         "dropItemNum": -1,
         "shortname": "ワイバーン・ハント 典位+級"
+    },
+    {
+        "id": 94074412,
+        "name": "マーマン・ハント 典位+級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            },
+            {
+                "id": 9706500,
+                "name": "殺業火",
+                "type": "Exp. UP",
+                "dropPriority": 665
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "マーマン・ハント 典位+級"
     }
 ]
