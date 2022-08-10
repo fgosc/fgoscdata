@@ -57,5 +57,135 @@
         ],
         "dropItemNum": -1,
         "shortname": "フラワーパークの案内人！"
+    },
+    {
+        "id": 94073802,
+        "name": "キャスト体験！ フラワーパークを手入れしよう！",
+        "place": "",
+        "chapter": "",
+        "qp": 3400,
+        "drop": [
+            {
+                "id": 9406350,
+                "name": "フィスト・オブ・ヘイル",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94073605,
+                "name": "来園者数ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94073604,
+                "name": "北極式天然氷",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94073603,
+                "name": "ワルキューレカチューシャ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94073602,
+                "name": "アークティックドーム",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "フラワーパークを手入れしよう！"
+    },
+    {
+        "id": 94073803,
+        "name": "キャスト体験！ 歩く樹木のパレード整理！",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9406350,
+                "name": "フィスト・オブ・ヘイル",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 94073605,
+                "name": "来園者数ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94073604,
+                "name": "北極式天然氷",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94073603,
+                "name": "ワルキューレカチューシャ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94073601,
+                "name": "オーロラフラッペ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "歩く樹木のパレード整理！"
     }
 ]
