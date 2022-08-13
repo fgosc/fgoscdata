@@ -400,5 +400,76 @@
         ],
         "dropItemNum": -1,
         "shortname": "癒しのプールテーマパーク！"
+    },
+    {
+        "id": 94073807,
+        "name": "キャスト体験！ 激闘のヒーローショー！",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9406350,
+                "name": "フィスト・オブ・ヘイル",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94073605,
+                "name": "来園者数ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94073604,
+                "name": "北極式天然氷",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94073602,
+                "name": "アークティックドーム",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94073601,
+                "name": "オーロラフラッペ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "激闘のヒーローショー！"
     }
 ]
