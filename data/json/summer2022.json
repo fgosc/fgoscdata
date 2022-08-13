@@ -409,8 +409,8 @@
         "qp": 8400,
         "drop": [
             {
-                "id": 9406350,
-                "name": "フィスト・オブ・ヘイル",
+                "id": 9406360,
+                "name": "アイス・ウォーリアー",
                 "type": "Craft Essence",
                 "dropPriority": 9005
             },
