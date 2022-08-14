@@ -471,5 +471,76 @@
         ],
         "dropItemNum": -1,
         "shortname": "激闘のヒーローショー！"
+    },
+    {
+        "id": 94073808,
+        "name": "キャスト体験！ でませい！きょうふのほらーはうす！",
+        "place": "",
+        "chapter": "",
+        "qp": 8900,
+        "drop": [
+            {
+                "id": 9406350,
+                "name": "フィスト・オブ・ヘイル",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6525,
+                "name": "智慧のスカラベ",
+                "type": "Item",
+                "dropPriority": 8503
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94073605,
+                "name": "来園者数ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94073604,
+                "name": "北極式天然氷",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94073603,
+                "name": "ワルキューレカチューシャ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94073602,
+                "name": "アークティックドーム",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "でませい！きょうふのほらーはうす！"
     }
 ]
