@@ -542,5 +542,76 @@
         ],
         "dropItemNum": -1,
         "shortname": "でませい！きょうふのほらーはうす！"
+    },
+    {
+        "id": 94073809,
+        "name": "キャスト体験！ サバフェスの問題解決ならお任せ！",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9406360,
+                "name": "アイス・ウォーリアー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6537,
+                "name": "巨人の指輪",
+                "type": "Item",
+                "dropPriority": 8312
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94073605,
+                "name": "来園者数ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94073604,
+                "name": "北極式天然氷",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94073603,
+                "name": "ワルキューレカチューシャ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94073601,
+                "name": "オーロラフラッペ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "サバフェスの問題解決ならお任せ！"
     }
 ]
