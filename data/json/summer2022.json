@@ -696,5 +696,88 @@
         ],
         "dropItemNum": -1,
         "shortname": "ふれあいタイム！フィッシュショー！"
+    },
+    {
+        "id": 94073811,
+        "name": "キャスト体験！ 潜入！アークティック・タワーの謎！",
+        "place": "",
+        "chapter": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9406350,
+                "name": "フィスト・オブ・ヘイル",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9406360,
+                "name": "アイス・ウォーリアー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6542,
+                "name": "真理の卵",
+                "type": "Item",
+                "dropPriority": 8507
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94073605,
+                "name": "来園者数ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94073604,
+                "name": "北極式天然氷",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94073603,
+                "name": "ワルキューレカチューシャ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94073602,
+                "name": "アークティックドーム",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94073601,
+                "name": "オーロラフラッペ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "潜入！アークティック・タワーの謎！"
     }
 ]
