@@ -10,6 +10,15 @@
         "dropPriority": 9015
     },
     {
+        "id": 9406500,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "夜明け前",
+        "phash": "73d0ac644a3946ec",
+        "phash_narrow": "5390a5623b56ac22",
+        "dropPriority": 9005
+    },
+    {
         "id": 9400410,
         "type": "Craft Essence",
         "rarity": 5,
@@ -669,6 +678,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "掲げるは我が心",
+        "name_eng": "Our Hearts Raised Up High",
         "shortname": "礼装",
         "phash": "a90ffcd0d596c9f7",
         "phash_narrow": "892f7a659449ddb0",
@@ -679,6 +689,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "姫巫女の寸暇",
+        "name_eng": "The Queen Priestess's Spare Moment",
         "shortname": "礼装",
         "phash": "6ccf6a1ec68edd61",
         "phash_narrow": "2cef38628edb79c6",
@@ -957,6 +968,34 @@
         "dropPriority": 9005
     },
     {
+        "id": 9406440,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "黄泉より出づる讐い",
+        "phash": "99734a6985fd70cc",
+        "phash_narrow": "b1d36a0b8b76c826",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9406470,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "旅をもてなす",
+        "shortname": "泥礼装",
+        "phash": "27968373d32ff94f",
+        "phash_narrow": "679ed3d203b60be2",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9406510,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "逆堕つ泥雨",
+        "phash": "23f35d4798239ef1",
+        "phash_narrow": "a3f34ff5294e94b0",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1168,6 +1207,42 @@
         "dropPriority": 9004
     },
     {
+        "id": 9406450,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "是にあらざる",
+        "phash": "d2ede5f270131007",
+        "phash_narrow": "92ade5e871500918",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406480,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "愚王の鎖牢",
+        "phash": "99328c278916cd72",
+        "phash_narrow": "99b8ee23b0f7d783",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406490,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "嘆きの杭園",
+        "phash": "d8564d626c228dc3",
+        "phash_narrow": "d89c197670e02475",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406520,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "免許皆伝",
+        "phash": "cff23c14c9ea04e6",
+        "phash_narrow": "c2e236195918be60",
+        "dropPriority": 9004
+    },
+    {
         "id": 9800400,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1293,6 +1368,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：ようこそ邪馬台国！",
+        "name_eng": "CE EXP Card: Welcome to Yamataikoku!",
         "shortname": "★4EXP礼装",
         "phash": "56374cda9789713d",
         "phash_narrow": "52354cb686f28f00",
@@ -1334,6 +1410,16 @@
         "shortname": "★4EXP礼装",
         "phash": "3e03884249b5f0b5",
         "phash_narrow": "7e2bca4a0f82dd80",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9808350,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "概念礼装EXPカード：茶の湯ティーチャー",
+        "shortname": "★4EXP礼装",
+        "phash": "f4218ff6d817f416",
+        "phash_narrow": "7409aef289d50369",
         "dropPriority": 9004
     },
     {
@@ -1410,6 +1496,15 @@
         "name": "ハロー！アークティック",
         "phash": "f192de4d396827ef",
         "phash_narrow": "a1f2d6d9f8e03c3e",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9406460,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "土の実",
+        "phash": "61f806dfbeec78f6",
+        "phash_narrow": "61f84f972dfff617",
         "dropPriority": 9003
     },
     {
@@ -1498,6 +1593,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "概念礼装EXPカード：猛者と無敵",
+        "name_eng": "CE EXP Card: The Fierce and the Invincible",
         "shortname": "★3EXP礼装",
         "phash": "4653b8c5c99a4682",
         "phash_narrow": "461334ed18d20205",
@@ -1521,6 +1617,16 @@
         "shortname": "★3EXP礼装",
         "phash": "f49c0f05d1410de1",
         "phash_narrow": "f49e2ebe031cc00d",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9808360,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "概念礼装EXPカード：二代目は壱与！",
+        "shortname": "★3EXP礼装",
+        "phash": "13bae6e71d53e997",
+        "phash_narrow": "113ae6ae5aebac5b",
         "dropPriority": 9003
     },
     {
@@ -2666,6 +2772,15 @@
         ],
         "dropPriority": 5194,
         "phash_battle": "1c892382d192a443"
+    },
+    {
+        "id": 94074507,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "2e28d3d8281cd804",
+        "name": "茶の湯ポイント",
+        "dropPriority": 3007
     },
     {
         "id": 94073605,
@@ -3824,6 +3939,7 @@
         "rarity": 3,
         "phash": "a4194b6603a6f504",
         "name": "おおぶり蛤",
+        "name_eng": "Large Clam",
         "shortname": "蛤",
         "dropPriority": 2002,
         "phash_battle": "b4996f03f4068cf9"
@@ -3847,6 +3963,7 @@
         "rarity": 3,
         "phash": "360341719c9c23c6",
         "name": "スカサハコイン〔金〕",
+        "name_eng": "Scáthach Coin (Gold)",
         "shortname": "コイン金",
         "dropPriority": 2003,
         "phash_battle": "be41711c138ec664"
@@ -3858,6 +3975,7 @@
         "rarity": 3,
         "phash": "f40369e01b4883ac",
         "name": "戦士の名札",
+        "name_eng": "Dog Tag",
         "shortname": "名札",
         "dropPriority": 2005,
         "phash_battle": "9603e91b8096646c"
@@ -4391,6 +4509,25 @@
         "phash": "f70229ec169bec66",
         "name": "FGO 7th Anniversary 英霊夢装チケット",
         "dropPriority": 2002
+    },
+    {
+        "id": 94074503,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5e51a55c0307530c",
+        "name": "赤楽茶碗",
+        "shortname": "茶碗",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94074508,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "269869a59933c313",
+        "name": "宵闇の勾玉",
+        "dropPriority": 2008
     },
     {
         "id": 3,
@@ -5044,6 +5181,7 @@
         "rarity": 2,
         "phash": "760b1de627f88964",
         "name": "おてがる銅鏡",
+        "name_eng": "Handy Bronze Mirror",
         "shortname": "銅鏡",
         "dropPriority": 2001,
         "phash_battle": "62dd042788646141"
@@ -5055,6 +5193,7 @@
         "rarity": 2,
         "phash": "fc03b9e497d86f00",
         "name": "芳しい茅束",
+        "name_eng": "Fragrant Thatch",
         "shortname": "茅束",
         "dropPriority": 2003,
         "phash_battle": "561bad974822c822"
@@ -5066,6 +5205,7 @@
         "rarity": 2,
         "phash": "d612d92c9dc571ad",
         "name": "丈夫な丸太",
+        "name_eng": "Sturdy Log",
         "shortname": "丸太",
         "dropPriority": 2004,
         "phash_battle": "1643b9dd41a50905"
@@ -5077,6 +5217,7 @@
         "rarity": 2,
         "phash": "5e0981dc69164384",
         "name": "寝かせた粘土",
+        "name_eng": "Cured Clay",
         "shortname": "粘土",
         "dropPriority": 2005,
         "phash_battle": "7e01fc2a03801428"
@@ -5100,6 +5241,7 @@
         "rarity": 2,
         "phash": "368b41798c9c2284",
         "name": "スカサハコイン〔銀〕",
+        "name_eng": "Scáthach Coin (Silver)",
         "shortname": "コイン銀",
         "dropPriority": 2002,
         "phash_battle": "be01711c108cc660"
@@ -5422,6 +5564,46 @@
         "shortname": "天然氷",
         "dropPriority": 2004,
         "phash_battle": "12b5d92c564b95ca"
+    },
+    {
+        "id": 94074502,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "7c430dd04bbc4a34",
+        "name": "天正大判",
+        "shortname": "大判",
+        "dropPriority": 2002
+    },
+    {
+        "id": 94074504,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "9f62499c86e37837",
+        "name": "グリーン茶葉",
+        "shortname": "緑茶葉",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94074505,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "9fe2491c86e37837",
+        "name": "イエロー茶葉",
+        "shortname": "黄茶葉",
+        "dropPriority": 2005
+    },
+    {
+        "id": 94074506,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "9e62499c86e37837",
+        "name": "レッド茶葉",
+        "shortname": "赤茶葉",
+        "dropPriority": 2006
     },
     {
         "id": 4,
@@ -5905,6 +6087,7 @@
         "rarity": 1,
         "phash": "368d694361508990",
         "name": "ミニ銅鐸",
+        "name_eng": "Mini Bronze Bell",
         "shortname": "銅鐸",
         "dropPriority": 2000,
         "phash_battle": "36ad636118998144"
@@ -5928,6 +6111,7 @@
         "rarity": 1,
         "phash": "76070171889c2180",
         "name": "スカサハコイン〔銅〕",
+        "name_eng": "Scáthach Coin (Bronze)",
         "shortname": "コイン銅",
         "dropPriority": 2001,
         "phash_battle": "3e07719c118c6624"
@@ -6129,6 +6313,16 @@
         "shortname": "フラッペ",
         "dropPriority": 2001,
         "phash_battle": "166db38c24734c4d"
+    },
+    {
+        "id": 94074501,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "069358a5a0216121",
+        "name": "荒穂茶筅",
+        "shortname": "茶筅",
+        "dropPriority": 2001
     },
     {
         "id": 1,
