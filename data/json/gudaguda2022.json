@@ -1,0 +1,197 @@
+[
+    {
+        "id": 94074701,
+        "name": "まつろわぬゴロツキ退治",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9406470,
+                "name": "旅をもてなす",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808360,
+                "name": "概念礼装EXPカード：二代目は壱与！",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94074505,
+                "name": "イエロー茶葉",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94074504,
+                "name": "グリーン茶葉",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94074502,
+                "name": "天正大判",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94074501,
+                "name": "荒穂茶筅",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "まつろわぬゴロツキ退治"
+    },
+    {
+        "id": 94074702,
+        "name": "あやしい麦茶屋調査",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9406470,
+                "name": "旅をもてなす",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808360,
+                "name": "概念礼装EXPカード：二代目は壱与！",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 94074506,
+                "name": "レッド茶葉",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94074505,
+                "name": "イエロー茶葉",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94074503,
+                "name": "赤楽茶碗",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94074502,
+                "name": "天正大判",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "あやしい麦茶屋調査"
+    },
+    {
+        "id": 94074703,
+        "name": "襲来！ 茶花盗賊団",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9406470,
+                "name": "旅をもてなす",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808360,
+                "name": "概念礼装EXPカード：二代目は壱与！",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94074506,
+                "name": "レッド茶葉",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94074504,
+                "name": "グリーン茶葉",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94074503,
+                "name": "赤楽茶碗",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94074501,
+                "name": "荒穂茶筅",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "襲来！ 茶花盗賊団"
+    }
+]
