@@ -193,5 +193,94 @@
         ],
         "dropItemNum": -1,
         "shortname": "襲来！ 茶花盗賊団"
+    },
+    {
+        "id": 94074704,
+        "name": "冥界茶会はいづこ",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9406470,
+                "name": "旅をもてなす",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808350,
+                "name": "概念礼装EXPカード：茶の湯ティーチャー",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9808360,
+                "name": "概念礼装EXPカード：二代目は壱与！",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6541,
+                "name": "禍罪の矢尻",
+                "type": "Item",
+                "dropPriority": 8315
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94074506,
+                "name": "レッド茶葉",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94074505,
+                "name": "イエロー茶葉",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94074504,
+                "name": "グリーン茶葉",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94074502,
+                "name": "天正大判",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94074501,
+                "name": "荒穂茶筅",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "冥界茶会はいづこ"
     }
 ]
