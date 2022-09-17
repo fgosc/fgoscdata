@@ -371,5 +371,94 @@
         ],
         "dropItemNum": -1,
         "shortname": "迷子の案内人"
+    },
+    {
+        "id": 94074706,
+        "name": "暗黒関ヶ原の戦い 東軍",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9406470,
+                "name": "旅をもてなす",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808350,
+                "name": "概念礼装EXPカード：茶の湯ティーチャー",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9808360,
+                "name": "概念礼装EXPカード：二代目は壱与！",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94074506,
+                "name": "レッド茶葉",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94074505,
+                "name": "イエロー茶葉",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94074504,
+                "name": "グリーン茶葉",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94074503,
+                "name": "赤楽茶碗",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94074501,
+                "name": "荒穂茶筅",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "東軍"
     }
 ]
