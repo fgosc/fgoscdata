@@ -460,5 +460,88 @@
         ],
         "dropItemNum": -1,
         "shortname": "暗黒関ヶ原の戦い 東軍"
+    },
+    {
+        "id": 94074707,
+        "name": "暗黒関ヶ原の戦い 西軍",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9406470,
+                "name": "旅をもてなす",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808350,
+                "name": "概念礼装EXPカード：茶の湯ティーチャー",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6518,
+                "name": "精霊根",
+                "type": "Item",
+                "dropPriority": 8502
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94074506,
+                "name": "レッド茶葉",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94074505,
+                "name": "イエロー茶葉",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94074504,
+                "name": "グリーン茶葉",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94074502,
+                "name": "天正大判",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94074501,
+                "name": "荒穂茶筅",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "暗黒関ヶ原の戦い 東軍"
     }
 ]
