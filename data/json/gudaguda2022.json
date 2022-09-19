@@ -543,5 +543,88 @@
         ],
         "dropItemNum": -1,
         "shortname": "暗黒関ヶ原の戦い 西軍"
+    },
+    {
+        "id": 94074708,
+        "name": "暗黒佐和山城・ピラミッドの乱",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9406470,
+                "name": "旅をもてなす",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9808350,
+                "name": "概念礼装EXPカード：茶の湯ティーチャー",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6529,
+                "name": "呪獣胆石",
+                "type": "Item",
+                "dropPriority": 8504
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94074506,
+                "name": "レッド茶葉",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94074505,
+                "name": "イエロー茶葉",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94074504,
+                "name": "グリーン茶葉",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94074503,
+                "name": "赤楽茶碗",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94074502,
+                "name": "天正大判",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "暗黒佐和山城・ピラミッドの乱"
     }
 ]
