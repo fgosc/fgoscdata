@@ -4595,7 +4595,6 @@
         "rarity": 3,
         "phash": "1663a6e9490c1958",
         "name": "天微星の双玉",
-        "shortname": "双玉",
         "dropPriority": 2004
     },
     {
@@ -6415,6 +6414,7 @@
         "rarity": 1,
         "phash": "74b963863d6bc042",
         "name": "高価な巻物",
+        "shortname": "巻物",
         "dropPriority": 2001
     },
     {
