@@ -4586,7 +4586,8 @@
         "phash": "0621d28913304cd7",
         "name": "青龍の置物",
         "shortname": "置物",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "2649c233cc833399"
     },
     {
         "id": 94076204,
@@ -5685,7 +5686,8 @@
         "phash": "27623cd82c8c6c9d",
         "name": "白虎の壷",
         "shortname": "壷",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "b634acac2c18d6d9"
     },
     {
         "id": 4,
@@ -6415,7 +6417,8 @@
         "phash": "74b963863d6bc042",
         "name": "高価な巻物",
         "shortname": "巻物",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "f4e10e7de0c6a316"
     },
     {
         "id": 1,
