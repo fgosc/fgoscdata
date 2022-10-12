@@ -10,15 +10,6 @@
         "dropPriority": 9015
     },
     {
-        "id": 9406500,
-        "type": "Craft Essence",
-        "rarity": 5,
-        "name": "夜明け前",
-        "phash": "73d0ac644a3946ec",
-        "phash_narrow": "5390a5623b56ac22",
-        "dropPriority": 9005
-    },
-    {
         "id": 9400410,
         "type": "Craft Essence",
         "rarity": 5,
@@ -987,12 +978,51 @@
         "dropPriority": 9005
     },
     {
+        "id": 9406500,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "夜明け前",
+        "phash": "73d0ac644a3946ec",
+        "phash_narrow": "5390a5623b56ac22",
+        "dropPriority": 9005
+    },
+    {
         "id": 9406510,
         "type": "Craft Essence",
         "rarity": 5,
         "name": "逆堕つ泥雨",
         "phash": "23f35d4798239ef1",
         "phash_narrow": "a3f34ff5294e94b0",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9406560,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "芙蓉に舞う",
+        "shortname": "芙蓉に舞う",
+        "phash": "4e5ee46cd7531ce7",
+        "phash_narrow": "1e966cacd318e752",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9406570,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "虎狩り行者",
+        "shortname": "虎狩り行者",
+        "phash": "6b929d291346f4c8",
+        "phash_narrow": "6a96ed8b0f774178",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9406580,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "酒池滾々",
+        "shortname": "酒池滾々",
+        "phash": "818e3fe6d1c5e33e",
+        "phash_narrow": "81bf3eb2dd8737c9",
         "dropPriority": 9005
     },
     {
@@ -1240,6 +1270,24 @@
         "name": "免許皆伝",
         "phash": "cff23c14c9ea04e6",
         "phash_narrow": "c2e236195918be60",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406590,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "神樹の蒔種",
+        "phash": "d44c65974b4c912d",
+        "phash_narrow": "9f64a7c34e90f027",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406600,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "死毒の石廟",
+        "phash": "58138902e9531933",
+        "phash_narrow": "f2772eaad64d1c2d",
         "dropPriority": 9004
     },
     {
@@ -4531,6 +4579,26 @@
         "dropPriority": 2008
     },
     {
+        "id": 94076203,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "0621d28913304cd7",
+        "name": "青龍の置物",
+        "shortname": "置物",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94076204,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "1663a6e9490c1958",
+        "name": "天微星の双玉",
+        "shortname": "双玉",
+        "dropPriority": 2004
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -5611,6 +5679,16 @@
         "phash_battle": "b6691cc6e119e421"
     },
     {
+        "id": 94076202,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "27623cd82c8c6c9d",
+        "name": "白虎の壷",
+        "shortname": "壷",
+        "dropPriority": 2002
+    },
+    {
         "id": 4,
         "type": "Item",
         "background": "silver",
@@ -6329,6 +6407,15 @@
         "shortname": "茶筅",
         "dropPriority": 2001,
         "phash_battle": "16538d9501254401"
+    },
+    {
+        "id": 94076201,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "74b963863d6bc042",
+        "name": "高価な巻物",
+        "dropPriority": 2001
     },
     {
         "id": 1,
