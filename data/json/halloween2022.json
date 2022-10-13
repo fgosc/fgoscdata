@@ -163,5 +163,70 @@
         ],
         "dropItemNum": -1,
         "shortname": "隣村からの荒くれ者討伐依頼"
+    },
+    {
+        "id": 94076304,
+        "name": "酒場の乱痴気騒ぎを解決せよ！",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9406560,
+                "name": "芙蓉に舞う",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9406570,
+                "name": "虎狩り行者",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94076202,
+                "name": "白虎の壷",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94076201,
+                "name": "高価な巻物",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "酒場の乱痴気騒ぎを解決せよ！"
     }
 ]
