@@ -66,14 +66,14 @@
         "qp": 7400,
         "drop": [
             {
-                "id": 9406580,
-                "name": "酒池滾々",
+                "id": 9406570,
+                "name": "虎狩り行者",
                 "type": "Craft Essence",
                 "dropPriority": 9005
             },
             {
-                "id": 9406570,
-                "name": "虎狩り行者",
+                "id": 9406580,
+                "name": "酒池滾々",
                 "type": "Craft Essence",
                 "dropPriority": 9005
             },
@@ -237,14 +237,14 @@
         "qp": 8400,
         "drop": [
             {
-                "id": 9406580,
-                "name": "酒池滾々",
+                "id": 9406570,
+                "name": "虎狩り行者",
                 "type": "Craft Essence",
                 "dropPriority": 9005
             },
             {
-                "id": 9406570,
-                "name": "虎狩り行者",
+                "id": 9406580,
+                "name": "酒池滾々",
                 "type": "Craft Essence",
                 "dropPriority": 9005
             },
