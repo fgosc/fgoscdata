@@ -228,5 +228,135 @@
         ],
         "dropItemNum": -1,
         "shortname": "酒場の乱痴気騒ぎを解決せよ！"
+    },
+    {
+        "id": 94076305,
+        "name": "物資供給のため、湖畔ルートを開拓せよ！",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9406580,
+                "name": "酒池滾々",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9406570,
+                "name": "虎狩り行者",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94076203,
+                "name": "青龍の置物",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94076202,
+                "name": "白虎の壷",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "物資供給のため、湖畔ルートを開拓せよ！"
+    },
+    {
+        "id": 94076306,
+        "name": "水利権をかけて、隣町との対抗試合！",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9406560,
+                "name": "芙蓉に舞う",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9406580,
+                "name": "酒池滾々",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94076203,
+                "name": "青龍の置物",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94076201,
+                "name": "高価な巻物",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "水利権をかけて、隣町との対抗試合！"
     }
 ]
