@@ -423,5 +423,70 @@
         ],
         "dropItemNum": -1,
         "shortname": "危険生物の進行を止めろ！"
+    },
+    {
+        "id": 94076308,
+        "name": "荒野の悪徳商人を捕まえろ！",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9406570,
+                "name": "虎狩り行者",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9406580,
+                "name": "酒池滾々",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6525,
+                "name": "智慧のスカラベ",
+                "type": "Item",
+                "dropPriority": 8503
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94076203,
+                "name": "青龍の置物",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94076202,
+                "name": "白虎の壷",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "荒野の悪徳商人を捕まえろ！"
     }
 ]
