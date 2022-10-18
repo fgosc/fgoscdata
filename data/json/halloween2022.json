@@ -553,5 +553,94 @@
         ],
         "dropItemNum": -1,
         "shortname": "隣国からの魔性洞窟調査依頼"
+    },
+    {
+        "id": 94076311,
+        "name": "太極の双子との模擬戦闘！",
+        "place": "",
+        "chapter": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9406560,
+                "name": "芙蓉に舞う",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9406570,
+                "name": "虎狩り行者",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9406580,
+                "name": "酒池滾々",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6544,
+                "name": "煌星のカケラ",
+                "type": "Item",
+                "dropPriority": 8508
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94076203,
+                "name": "青龍の置物",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94076202,
+                "name": "白虎の壷",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94076201,
+                "name": "高価な巻物",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "太極の双子との模擬戦闘！"
     }
 ]
