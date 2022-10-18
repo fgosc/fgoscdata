@@ -555,6 +555,83 @@
         "shortname": "隣国からの魔性洞窟調査依頼"
     },
     {
+        "id": 94076310,
+        "name": "密輸業者を摘発せよ！",
+        "place": "",
+        "chapter": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9406560,
+                "name": "芙蓉に舞う",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9406570,
+                "name": "虎狩り行者",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9406580,
+                "name": "酒池滾々",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6517,
+                "name": "蛮神の心臓",
+                "type": "Item",
+                "dropPriority": 8500
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94076203,
+                "name": "青龍の置物",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94076202,
+                "name": "白虎の壷",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94076201,
+                "name": "高価な巻物",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "密輸業者を摘発せよ！"
+    },
+    {
         "id": 94076311,
         "name": "太極の双子との模擬戦闘！",
         "place": "",
