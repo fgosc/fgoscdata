@@ -1,0 +1,79 @@
+[
+    {
+        "id": 94077807,
+        "name": "第壱関門 ミミクリーパラダイス",
+        "place": "",
+        "chapter": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9406670,
+                "name": "花の解説者",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6542,
+                "name": "真理の卵",
+                "type": "Item",
+                "dropPriority": 8507
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94077705,
+                "name": "明日霊血古ゼッケン",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94077703,
+                "name": "モルガンメダル〔金〕",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94077702,
+                "name": "モルガンメダル〔銀〕",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94077701,
+                "name": "モルガンメダル〔銅〕",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ミミクリーパラダイス"
+    }
+]
