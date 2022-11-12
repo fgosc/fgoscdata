@@ -485,6 +485,83 @@
         "shortname": "第壱関門 ミミクリーパラダイス"
     },
     {
+        "id": 94077808,
+        "name": "第弐関門 デンジャラス鬼ごっこ",
+        "place": "",
+        "chapter": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9406670,
+                "name": "花の解説者",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94077705,
+                "name": "明日霊血古ゼッケン",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94077703,
+                "name": "モルガンメダル〔金〕",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94077702,
+                "name": "モルガンメダル〔銀〕",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94077701,
+                "name": "モルガンメダル〔銅〕",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "第弐関門 デンジャラス鬼ごっこ"
+    },
+    {
         "id": 94077809,
         "name": "第弐関門 クイズ！ ファイト&ガッツ",
         "place": "",
@@ -560,6 +637,89 @@
         ],
         "dropItemNum": -1,
         "shortname": "第弐関門 クイズ！ ファイト&ガッツ"
+    },
+    {
+        "id": 94077810,
+        "name": "第弐関門 アマゾンズＢＩＮＧＯ",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9406670,
+                "name": "花の解説者",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94077705,
+                "name": "明日霊血古ゼッケン",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94077703,
+                "name": "モルガンメダル〔金〕",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94077702,
+                "name": "モルガンメダル〔銀〕",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "第弐関門 アマゾンズＢＩＮＧＯ"
     },
     {
         "id": 94077811,
