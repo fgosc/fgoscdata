@@ -927,5 +927,82 @@
         ],
         "dropItemNum": -1,
         "shortname": "第弐関門 テールハント"
+    },
+    {
+        "id": 94077814,
+        "name": "第弐関門 ぶっちぎりバトルサーキット",
+        "place": "",
+        "chapter": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9406670,
+                "name": "花の解説者",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94077705,
+                "name": "明日霊血古ゼッケン",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94077703,
+                "name": "モルガンメダル〔金〕",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94077702,
+                "name": "モルガンメダル〔銀〕",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94077701,
+                "name": "モルガンメダル〔銅〕",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "第弐関門 ぶっちぎりバトルサーキット"
     }
 ]
