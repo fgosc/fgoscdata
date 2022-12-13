@@ -648,6 +648,7 @@
         ],
         "dropItemNum": -1,
         "shortname": "聖夜の拳闘祭"
+<<<<<<< HEAD
     },
     {
         "id": 94078610,
@@ -731,5 +732,7 @@
         ],
         "dropItemNum": -1,
         "shortname": "ウルトラヘビー級"
+=======
+>>>>>>> 2d13989585d1b75f82abf03de968d8cd463f3baa
     }
 ]
