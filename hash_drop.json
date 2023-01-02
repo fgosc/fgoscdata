@@ -2017,7 +2017,8 @@
         "phash": "7c83eda648299821",
         "name": "太陽皮",
         "shortname": "皮",
-        "dropPriority": 8320
+        "dropPriority": 8320,
+        "phash_battle": "5e03a569a9396310"
     },
     {
         "id": 6550,
@@ -2302,7 +2303,8 @@
         "phash": "6c4353180acc4049",
         "name": "黒曜鋭刃",
         "shortname": "刃",
-        "dropPriority": 8109
+        "dropPriority": 8109,
+        "phash_battle": "2ed31b8ec0494904"
     },
     {
         "id": 6552,
