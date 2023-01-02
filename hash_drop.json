@@ -702,6 +702,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "チェリー・アイシクル",
+        "name_eng": "Cherry Icicle",
         "shortname": "礼装",
         "phash": "84a5c97393231912",
         "phash_narrow": "04ad4c50e1639321",
@@ -1047,6 +1048,15 @@
         "dropPriority": 9005
     },
     {
+        "id": 9406740,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ドリーム・クローゼット",
+        "phash": "b1c959b63ff97ce7",
+        "phash_narrow": "b1c9d827315f783c",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1330,6 +1340,42 @@
         "dropPriority": 9004
     },
     {
+        "id": 9406720,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "天隕の烙印",
+        "phash": "2996dc568d32ed3a",
+        "phash_narrow": "299c56df32c4a0a2",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406730,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "蛮崇の偽神像",
+        "phash": "9daaac276912d9d4",
+        "phash_narrow": "bea88d6532abdcd8",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406750,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "奮励の装薬",
+        "phash": "04507d90bb5289a8",
+        "phash_narrow": "046155b173106198",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406760,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "蛇守の宝庫",
+        "phash": "405fe032950e731b",
+        "phash_narrow": "4fcfe83f8c92e852",
+        "dropPriority": 9004
+    },
+    {
         "id": 9800400,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1466,6 +1512,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：ロデオ",
+        "name_eng": "CE EXP Card: Rodeo",
         "phash": "762349b185532ccc",
         "phash_narrow": "f64b788d532dcf52",
         "dropPriority": 9004
@@ -1507,6 +1554,15 @@
         "shortname": "★4EXP礼装",
         "phash": "f4218ff6d817f416",
         "phash_narrow": "7409aef289d50369",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9808370,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "概念礼装EXPカード：私にだけ見える兎",
+        "phash": "a1bdf52b4d722ce3",
+        "phash_narrow": "a0b4f7a1561e922d",
         "dropPriority": 9004
     },
     {
@@ -1954,6 +2010,16 @@
         "phash_battle": "364998a64846318c"
     },
     {
+        "id": 6553,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "7c83eda648299821",
+        "name": "太陽皮",
+        "shortname": "皮",
+        "dropPriority": 8320
+    },
+    {
         "id": 6550,
         "type": "Item",
         "background": "silver",
@@ -2227,6 +2293,16 @@
         "shortname": "種",
         "dropPriority": 8203,
         "phash_battle": "768509495310b48c"
+    },
+    {
+        "id": 6554,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "6c4353180acc4049",
+        "name": "黒曜鋭刃",
+        "shortname": "刃",
+        "dropPriority": 8109
     },
     {
         "id": 6552,
@@ -4086,6 +4162,7 @@
         "rarity": 3,
         "phash": "f80807e3cfdf8719",
         "name": "ホーリーバナナ",
+        "name_eng": "Holy Banana",
         "shortname": "バナナ",
         "dropPriority": 2003,
         "phash_battle": "b81007cf8733e19a"
@@ -4097,6 +4174,7 @@
         "rarity": 3,
         "phash": "7e30071761044188",
         "name": "ブラックプレゼント",
+        "name_eng": "Black Present",
         "dropPriority": 2006,
         "phash_battle": "fe03272745404840"
     },
@@ -5441,6 +5519,7 @@
         "rarity": 2,
         "phash": "fd03b96c32997207",
         "name": "セイントバー",
+        "name_eng": "Saint Bar",
         "shortname": "バー",
         "dropPriority": 2002,
         "phash_battle": "6c936c96611cc162"
@@ -5452,6 +5531,7 @@
         "rarity": 2,
         "phash": "f6a50b2e48339983",
         "name": "太陽のバンテージ",
+        "name_eng": "Solar Hand Wrap",
         "shortname": "バンテージ",
         "dropPriority": 2005,
         "phash_battle": "b4016f46d1811058"
@@ -6305,6 +6385,7 @@
         "rarity": 1,
         "phash": "1e6701a9321a4891",
         "name": "クールガム",
+        "name_eng": "Cool Gum",
         "shortname": "ガム",
         "dropPriority": 2001,
         "phash_battle": "5603a91b4a9504a2"
