@@ -11045,5 +11045,128 @@
         ],
         "dropItemNum": -1,
         "scPriority": 1245
+    },
+    {
+        "id": 93031305,
+        "name": "実りある大平原",
+        "place": "大平原",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 10400,
+        "drop": [
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6554,
+                "name": "黒曜鋭刃",
+                "type": "Item",
+                "dropPriority": 8109
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1246
+    },
+    {
+        "id": 93031307,
+        "name": "ジャガーフォース",
+        "place": "クラッシュポイント",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 10660,
+        "drop": [
+            {
+                "id": 6554,
+                "name": "黒曜鋭刃",
+                "type": "Item",
+                "dropPriority": 8109
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1247
+    },
+    {
+        "id": 93031316,
+        "name": "神の肉",
+        "place": "焼きモロコシ畑",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 10920,
+        "drop": [
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
+                "type": "Exp. UP",
+                "dropPriority": 676
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1248
     }
 ]
