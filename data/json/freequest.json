@@ -11047,6 +11047,182 @@
         "scPriority": 1245
     },
     {
+        "id": 93031301,
+        "name": "七つの洞窟",
+        "place": "チコモストク",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 10140,
+        "drop": [
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6554,
+                "name": "黒曜鋭刃",
+                "type": "Item",
+                "dropPriority": 8109
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1246
+    },
+    {
+        "id": 93031302,
+        "name": "星詠みの丘",
+        "place": "角のような岩山",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 10140,
+        "drop": [
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 9704400,
+                "name": "騎猛火",
+                "type": "Exp. UP",
+                "dropPriority": 676
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1247
+    },
+    {
+        "id": 93031303,
+        "name": "大いなる太陽の恵み",
+        "place": "トウモロコシ畑",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 10140,
+        "drop": [
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1248
+    },
+    {
+        "id": 93031304,
+        "name": "終わりなき河",
+        "place": "トラトラウキ",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 10400,
+        "drop": [
+            {
+                "id": 6541,
+                "name": "禍罪の矢尻",
+                "type": "Item",
+                "dropPriority": 8315
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1249
+    },
+    {
         "id": 93031305,
         "name": "実りある大平原",
         "place": "大平原",
@@ -11085,7 +11261,48 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1246
+        "scPriority": 1250
+    },
+    {
+        "id": 93031306,
+        "name": "黄金都市",
+        "place": "チチェン・イツァー",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 10400,
+        "drop": [
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6554,
+                "name": "黒曜鋭刃",
+                "type": "Item",
+                "dropPriority": 8109
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1251
     },
     {
         "id": 93031307,
@@ -11126,7 +11343,401 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1247
+        "scPriority": 1252
+    },
+    {
+        "id": 93031308,
+        "name": "刃と風の谷",
+        "place": "イスタウキ",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 10660,
+        "drop": [
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1253
+    },
+    {
+        "id": 93031309,
+        "name": "血と鳥の湖",
+        "place": "メヒコシティ",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 10660,
+        "drop": [
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6554,
+                "name": "黒曜鋭刃",
+                "type": "Item",
+                "dropPriority": 8109
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1254
+    },
+    {
+        "id": 93031310,
+        "name": "神話の王国",
+        "place": "カーンの廃墟",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 10920,
+        "drop": [
+            {
+                "id": 6554,
+                "name": "黒曜鋭刃",
+                "type": "Item",
+                "dropPriority": 8109
+            },
+            {
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
+                "type": "Item",
+                "dropPriority": 8104
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1255
+    },
+    {
+        "id": 93031311,
+        "name": "銀河砂丘",
+        "place": "ソソアウワキ",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 10920,
+        "drop": [
+            {
+                "id": 6531,
+                "name": "奇奇神酒",
+                "type": "Item",
+                "dropPriority": 8505
+            },
+            {
+                "id": 6529,
+                "name": "呪獣胆石",
+                "type": "Item",
+                "dropPriority": 8504
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            },
+            {
+                "id": 9703500,
+                "name": "弓業火",
+                "type": "Exp. UP",
+                "dropPriority": 680
+            },
+            {
+                "id": 9706500,
+                "name": "殺業火",
+                "type": "Exp. UP",
+                "dropPriority": 665
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1256
+    },
+    {
+        "id": 93031312,
+        "name": "歌うイルゥイカ・アトル",
+        "place": "メツィティトラン",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 10920,
+        "drop": [
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6541,
+                "name": "禍罪の矢尻",
+                "type": "Item",
+                "dropPriority": 8315
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1257
+    },
+    {
+        "id": 93031313,
+        "name": "太陽なき地底山脈",
+        "place": "ヤヤウキ",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 11180,
+        "drop": [
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1258
+    },
+    {
+        "id": 93031314,
+        "name": "水の廃都",
+        "place": "カラクムル",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 11180,
+        "drop": [
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 9705500,
+                "name": "術業火",
+                "type": "Exp. UP",
+                "dropPriority": 670
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1259
+    },
+    {
+        "id": 93031315,
+        "name": "コウモリの宮殿",
+        "place": "ティカル遺跡",
+        "chapter": "ナウイ・ミクトラン",
+        "qp": 11440,
+        "drop": [
+            {
+                "id": 6554,
+                "name": "黒曜鋭刃",
+                "type": "Item",
+                "dropPriority": 8109
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 9705500,
+                "name": "術業火",
+                "type": "Exp. UP",
+                "dropPriority": 670
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1260
     },
     {
         "id": 93031316,
@@ -11167,6 +11778,6 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1248
+        "scPriority": 1261
     }
 ]
