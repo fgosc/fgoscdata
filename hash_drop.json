@@ -713,6 +713,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "愛し子を縫う",
+        "name_eng": "Sewing a Beloved Doll",
         "shortname": "礼装",
         "phash": "948dc2246b832c7a",
         "phash_narrow": "94c9c464838c2e63",
@@ -723,6 +724,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ホワイト・ガーデン",
+        "name_eng": "White Garden",
         "shortname": "礼装",
         "phash": "1d3dec8d33aab455",
         "phash_narrow": "1e75cc95ba8a8d15",
@@ -1057,6 +1059,16 @@
         "dropPriority": 9005
     },
     {
+        "id": 9406850,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "後ろの席の可愛い奴",
+        "shortname": "礼装",
+        "phash": "54e7ac961339ba9c",
+        "phash_narrow": "51e1ec95112a5c35",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1373,6 +1385,24 @@
         "name": "蛇守の宝庫",
         "phash": "405fe032950e731b",
         "phash_narrow": "4fcfe83f8c92e852",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406800,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "あの遠い夜の日に",
+        "phash": "eb0250beaad2aeac",
+        "phash_narrow": "eb00522a512acdf7",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9406810,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "霊爛の洋館",
+        "phash": "85bacc66cf533906",
+        "phash_narrow": "3198ecc4d31bdef3",
         "dropPriority": 9004
     },
     {
@@ -2939,6 +2969,16 @@
         "phash_battle": "1c892382d192a443"
     },
     {
+        "id": 94080004,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5c3083c83333d994",
+        "name": "らぶらぶはぁとポイント",
+        "shortname": "ポイント",
+        "dropPriority": 3004
+    },
+    {
         "id": 94074507,
         "type": "Point",
         "background": "silver",
@@ -3062,6 +3102,7 @@
         "rarity": 2,
         "phash": "7e9a8fe96c5c9b94",
         "name": "ゴッド・ラブポイント",
+        "name_eng": "God Love Points",
         "shortname": "ラブポイント",
         "dropPriority": 3004,
         "phash_battle": "5c1da96e18905171"
@@ -4187,6 +4228,7 @@
         "rarity": 3,
         "phash": "5611ad76d12d8e18",
         "name": "合戦最中",
+        "name_eng": "Battle Monaka",
         "shortname": "最中",
         "dropPriority": 2003,
         "phash_battle": "52a91651ae51cf3c"
@@ -4198,6 +4240,7 @@
         "rarity": 3,
         "phash": "fb8c5261051725d2",
         "name": "ゴッド・アロー",
+        "name_eng": "God Arrow",
         "shortname": "アロー",
         "dropPriority": 2003,
         "phash_battle": "bad0610f0f66b29a"
@@ -4748,6 +4791,34 @@
         "shortname": "ゼッケン",
         "dropPriority": 2005,
         "phash_battle": "52a5be4379865298"
+    },
+    {
+        "id": 94080003,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5e1db43b2dd04bb9",
+        "name": "らぶらぶコイン",
+        "shortname": "コイン",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94080007,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "f6520d9c99278349",
+        "name": "祝福ロックオンチョコ〔ストロベリー〕",
+        "dropPriority": 2006
+    },
+    {
+        "id": 94080008,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "76528d9cd9278349",
+        "name": "祝福ロックオンチョコ〔ブルーベリー〕",
+        "dropPriority": 2005
     },
     {
         "id": 3,
@@ -5545,6 +5616,7 @@
         "rarity": 2,
         "phash": "d41369a6b36c278c",
         "name": "山伏団子",
+        "name_eng": "Mountain Priest Dumplings",
         "shortname": "団子",
         "dropPriority": 2002,
         "phash_battle": "5649ac9224855893"
@@ -5556,6 +5628,7 @@
         "rarity": 2,
         "phash": "cfb88e4b07d8ac94",
         "name": "ゴッド・ハープ",
+        "name_eng": "God Harp",
         "shortname": "ハープ",
         "dropPriority": 2002,
         "phash_battle": "acb84b4ba4ac0913"
@@ -5856,6 +5929,16 @@
         "shortname": "銀メダル",
         "dropPriority": 2002,
         "phash_battle": "b20d6dd31d126c27"
+    },
+    {
+        "id": 94080002,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "ce1a4be4983764c9",
+        "name": "らぶらぶペナント",
+        "shortname": "ペナント",
+        "dropPriority": 2002
     },
     {
         "id": 4,
@@ -6399,6 +6482,7 @@
         "rarity": 1,
         "phash": "7c93050423516110",
         "name": "腕白煎餅",
+        "name_eng": "Mischievous Senbei",
         "shortname": "煎餅",
         "dropPriority": 2001,
         "phash_battle": "fc17050301314140"
@@ -6410,6 +6494,7 @@
         "rarity": 1,
         "phash": "562d56433c93c827",
         "name": "ゴッド・フェザー",
+        "name_eng": "God Feather",
         "shortname": "フェザー",
         "dropPriority": 2001,
         "phash_battle": "2c5f63b4cae598a1"
@@ -6600,6 +6685,16 @@
         "shortname": "銅メダル",
         "dropPriority": 2001,
         "phash_battle": "b20d6d9391126c27"
+    },
+    {
+        "id": 94080001,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "5627b099d84b6095",
+        "name": "らぶらぶキーホルダー",
+        "shortname": "キーホルダー",
+        "dropPriority": 2001
     },
     {
         "id": 1,
