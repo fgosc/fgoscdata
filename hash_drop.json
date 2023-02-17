@@ -2976,7 +2976,8 @@
         "phash": "5c3083c83333d994",
         "name": "らぶらぶはぁとポイント",
         "shortname": "ポイント",
-        "dropPriority": 3004
+        "dropPriority": 3004,
+        "phash_battle": "7c23c932e99c2ce2"
     },
     {
         "id": 94074507,
@@ -4800,7 +4801,8 @@
         "phash": "5e1db43b2dd04bb9",
         "name": "らぶらぶコイン",
         "shortname": "コイン",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "1e1429e9499b0313"
     },
     {
         "id": 94080007,
@@ -5938,7 +5940,8 @@
         "phash": "ce1a4be4983764c9",
         "name": "らぶらぶペナント",
         "shortname": "ペナント",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "de0be51c24cc2731"
     },
     {
         "id": 4,
@@ -6694,7 +6697,8 @@
         "phash": "5627b099d84b6095",
         "name": "らぶらぶキーホルダー",
         "shortname": "キーホルダー",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "4633994968959112"
     },
     {
         "id": 1,
