@@ -234,5 +234,64 @@
         ],
         "dropItemNum": -1,
         "shortname": "傭兵団を倒せ！"
+    },
+    {
+        "id": 94080105,
+        "name": "らぶらぶ鎮圧戦 自警団から逃げろ！",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9406850,
+                "name": "後ろの席の可愛い奴",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94080004,
+                "name": "らぶらぶはぁとポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94080002,
+                "name": "らぶらぶペナント",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94080001,
+                "name": "らぶらぶキーホルダー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "自警団から逃げろ！"
     }
 ]
