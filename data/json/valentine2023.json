@@ -293,5 +293,64 @@
         ],
         "dropItemNum": -1,
         "shortname": "自警団から逃げろ！"
+    },
+    {
+        "id": 94080106,
+        "name": "らぶらぶ鎮圧戦 ファンクラブへの勧誘を止めろ！",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9406850,
+                "name": "後ろの席の可愛い奴",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6549,
+                "name": "赦免の小鐘",
+                "type": "Item",
+                "dropPriority": 8106
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94080004,
+                "name": "らぶらぶはぁとポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94080003,
+                "name": "らぶらぶコイン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94080002,
+                "name": "らぶらぶペナント",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ファンクラブへの勧誘を止めろ！"
     }
 ]
