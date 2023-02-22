@@ -470,5 +470,165 @@
         ],
         "dropItemNum": -1,
         "shortname": "黄金式場を破壊せよ！"
+    },
+    {
+        "id": 94080109,
+        "name": "らぶらぶ鎮圧戦 若き富豪の野望を阻止せよ！",
+        "place": "",
+        "chapter": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9406850,
+                "name": "後ろの席の可愛い奴",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6544,
+                "name": "煌星のカケラ",
+                "type": "Item",
+                "dropPriority": 8508
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94080004,
+                "name": "らぶらぶはぁとポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94080003,
+                "name": "らぶらぶコイン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94080002,
+                "name": "らぶらぶペナント",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94080001,
+                "name": "らぶらぶキーホルダー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "若き富豪の野望を阻止せよ！"
+    },
+    {
+        "id": 94080110,
+        "name": "らぶらぶ鎮圧戦 新たな石像の建立を妨害しろ！",
+        "place": "",
+        "chapter": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9406850,
+                "name": "後ろの席の可愛い奴",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6540,
+                "name": "九十九鏡",
+                "type": "Item",
+                "dropPriority": 8506
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94080004,
+                "name": "らぶらぶはぁとポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94080003,
+                "name": "らぶらぶコイン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94080002,
+                "name": "らぶらぶペナント",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94080001,
+                "name": "らぶらぶキーホルダー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "新たな石像の建立を妨害しろ！"
     }
 ]
