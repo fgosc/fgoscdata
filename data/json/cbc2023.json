@@ -1,0 +1,143 @@
+[
+    {
+        "id": 94081901,
+        "name": "企業訪問 『アロンダイト鉄工』",
+        "place": "",
+        "chapter": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94033504,
+                "name": "詩詠みポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94081802,
+                "name": "ＳＡＹＡＭＡ茶",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94081801,
+                "name": "ＺＥＲＹフライ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "アロンダイト鉄工"
+    },
+    {
+        "id": 94081902,
+        "name": "企業訪問 『パイレーツ急便』",
+        "place": "",
+        "chapter": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94033504,
+                "name": "詩詠みポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94081803,
+                "name": "ＷＡＲＡＪＩカツ丼",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94081802,
+                "name": "ＳＡＹＡＭＡ茶",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "パイレーツ急便"
+    },
+    {
+        "id": 94081903,
+        "name": "企業訪問 『えれふぁんと工芸』",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
+                "type": "Item",
+                "dropPriority": 8104
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 94033504,
+                "name": "詩詠みポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94081803,
+                "name": "ＷＡＲＡＪＩカツ丼",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94081801,
+                "name": "ＺＥＲＹフライ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "えれふぁんと工芸"
+    }
+]
