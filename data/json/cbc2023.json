@@ -139,5 +139,70 @@
         ],
         "dropItemNum": -1,
         "shortname": "えれふぁんと工芸"
+    },
+    {
+        "id": 94081904,
+        "name": "企業訪問 『トモエごはん』",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            },
+            {
+                "id": 94081804,
+                "name": "ＴＡＫＡＳＵＧＩポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94081803,
+                "name": "ＷＡＲＡＪＩカツ丼",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94081802,
+                "name": "ＳＡＹＡＭＡ茶",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94081801,
+                "name": "ＺＥＲＹフライ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "トモエごはん"
     }
 ]
