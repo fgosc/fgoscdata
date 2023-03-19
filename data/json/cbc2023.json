@@ -204,5 +204,64 @@
         ],
         "dropItemNum": -1,
         "shortname": "トモエごはん"
+    },
+    {
+        "id": 94081905,
+        "name": "企業訪問 『欧風居酒屋ツェペシュ』",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94081804,
+                "name": "ＴＡＫＡＳＵＧＩポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94081802,
+                "name": "ＳＡＹＡＭＡ茶",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94081801,
+                "name": "ＺＥＲＹフライ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "欧風居酒屋ツェペシュ"
     }
 ]
