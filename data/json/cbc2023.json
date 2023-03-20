@@ -263,5 +263,64 @@
         ],
         "dropItemNum": -1,
         "shortname": "欧風居酒屋ツェペシュ"
+    },
+    {
+        "id": 94081906,
+        "name": "企業訪問 『ひみつ会社アサシン』",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94081804,
+                "name": "ＴＡＫＡＳＵＧＩポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94081803,
+                "name": "ＷＡＲＡＪＩカツ丼",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94081802,
+                "name": "ＳＡＹＡＭＡ茶",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ひみつ会社アサシン"
     }
 ]
