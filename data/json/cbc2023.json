@@ -322,5 +322,58 @@
         ],
         "dropItemNum": -1,
         "shortname": "ひみつ会社アサシン"
+    },
+    {
+        "id": 94081907,
+        "name": "企業訪問 『大江山酒造』",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 6546,
+                "name": "悠久の実",
+                "type": "Item",
+                "dropPriority": 8407
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94081804,
+                "name": "ＴＡＫＡＳＵＧＩポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94081803,
+                "name": "ＷＡＲＡＪＩカツ丼",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94081801,
+                "name": "ＺＥＲＹフライ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "大江山酒造"
     }
 ]
