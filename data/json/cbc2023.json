@@ -375,5 +375,58 @@
         ],
         "dropItemNum": -1,
         "shortname": "大江山酒造"
+    },
+    {
+        "id": 94081908,
+        "name": "企業訪問 『ヘアサロン・ブラックバート』",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6529,
+                "name": "呪獣胆石",
+                "type": "Item",
+                "dropPriority": 8504
+            },
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94081804,
+                "name": "ＴＡＫＡＳＵＧＩポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ヘアサロン・ブラックバート"
     }
 ]
