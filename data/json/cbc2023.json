@@ -428,5 +428,135 @@
         ],
         "dropItemNum": -1,
         "shortname": "ヘアサロン・ブラックバート"
+    },
+    {
+        "id": 94081909,
+        "name": "企業訪問 『アルゴノーツ・トイ OMIYA支店』",
+        "place": "",
+        "chapter": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 6525,
+                "name": "智慧のスカラベ",
+                "type": "Item",
+                "dropPriority": 8503
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94081804,
+                "name": "ＴＡＫＡＳＵＧＩポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94081803,
+                "name": "ＷＡＲＡＪＩカツ丼",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94081802,
+                "name": "ＳＡＹＡＭＡ茶",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94081801,
+                "name": "ＺＥＲＹフライ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "アルゴノーツ・トイ OMIYA支店"
+    },
+    {
+        "id": 94081910,
+        "name": "企業訪問 『アルゴノーツ・トイ URAWA本店』",
+        "place": "",
+        "chapter": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 6542,
+                "name": "真理の卵",
+                "type": "Item",
+                "dropPriority": 8507
+            },
+            {
+                "id": 6550,
+                "name": "夢幻の鱗粉",
+                "type": "Item",
+                "dropPriority": 8319
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94081804,
+                "name": "ＴＡＫＡＳＵＧＩポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94081803,
+                "name": "ＷＡＲＡＪＩカツ丼",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94081802,
+                "name": "ＳＡＹＡＭＡ茶",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94081801,
+                "name": "ＺＥＲＹフライ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "アルゴノーツ・トイ URAWA本店"
     }
 ]
