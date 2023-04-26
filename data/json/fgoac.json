@@ -112,6 +112,59 @@
         "shortname": "傲慢の都"
     },
     {
+        "id": 94082603,
+        "name": "怠惰の都",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9407000,
+                "name": "揺籃の歌",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94082503,
+                "name": "亡国のメダル",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94082501,
+                "name": "死滅の薔薇",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "怠惰の都"
+    },
+    {
         "id": 94082604,
         "name": "色欲の都",
         "place": "",
