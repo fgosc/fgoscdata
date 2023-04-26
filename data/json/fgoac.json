@@ -57,5 +57,70 @@
         ],
         "dropItemNum": -1,
         "shortname": "強欲の都"
+    },
+    {
+        "id": 94082604,
+        "name": "色欲の都",
+        "place": "",
+        "chapter": "",
+        "qp": 4900,
+        "drop": [
+            {
+                "id": 9407000,
+                "name": "揺籃の歌",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6518,
+                "name": "精霊根",
+                "type": "Item",
+                "dropPriority": 8502
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94082503,
+                "name": "亡国のメダル",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94082502,
+                "name": "朽葉の冠",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94082501,
+                "name": "死滅の薔薇",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "色欲の都"
     }
 ]
