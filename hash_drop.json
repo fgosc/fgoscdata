@@ -4895,7 +4895,8 @@
         "phash": "56338dc82112c906",
         "name": "亡国のメダル",
         "shortname": "メダル",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "f6118d23c8441164"
     },
     {
         "id": 94082504,
@@ -6048,7 +6049,8 @@
         "phash": "de9805626b767c8c",
         "name": "朽葉の冠",
         "shortname": "朽葉",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "f81521637c940598"
     },
     {
         "id": 4,
@@ -6828,7 +6830,8 @@
         "phash": "1613e12dac49c234",
         "name": "死滅の薔薇",
         "shortname": "薔薇",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "16c3b50dc2b44970"
     },
     {
         "id": 1,
