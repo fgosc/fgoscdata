@@ -1,0 +1,61 @@
+[
+    {
+        "id": 94082601,
+        "name": "強欲の都",
+        "place": "",
+        "chapter": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94082502,
+                "name": "朽葉の冠",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94082501,
+                "name": "死滅の薔薇",
+                "type": "Item",
+                "dropPriority": 2001
+            },
+            {
+                "id": 94082501,
+                "name": "死滅の薔薇",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "強欲の都"
+    }
+]
