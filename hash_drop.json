@@ -7,7 +7,7 @@
         "name": "クエストクリア報酬QP",
         "name_eng": "Quest Clear Reward QP",
         "shortname": "報酬QP",
-        "dropPriority": 9015
+        "dropPriority": 9016
     },
     {
         "id": 9400410,
@@ -735,6 +735,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "茜の空に咲く",
+        "name_eng": "Blooming in the Crimson Sky",
         "shortname": "礼装",
         "phash": "88af833a2f431ea4",
         "phash_narrow": "988f933c415e7630",
@@ -1075,6 +1076,16 @@
         "name": "カルデアの男",
         "phash": "94a5600e2976dd42",
         "phash_narrow": "95e1e62f296ef40f",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9407000,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "揺籃の歌",
+        "shortname": "礼装",
+        "phash": "2a9fa5634799b7e4",
+        "phash_narrow": "5a9da5675933e885",
         "dropPriority": 9005
     },
     {
@@ -3099,6 +3110,7 @@
         "rarity": 2,
         "phash": "9e6869b864469899",
         "name": "アイドリウムポイント〔パフォーマンス〕",
+        "name_eng": "Idol☆Glo Points (Performance)",
         "shortname": "ポイントP",
         "dropPriority": 3004,
         "phash_battle": "1e61816458995061"
@@ -3110,6 +3122,7 @@
         "rarity": 2,
         "phash": "96c22d3cc9db5c86",
         "name": "アイドリウムポイント〔ダンス〕",
+        "name_eng": "Idol☆Glo Points (Dance)",
         "shortname": "ポイントD",
         "dropPriority": 3005,
         "phash_battle": "96632cc958c62691"
@@ -3121,6 +3134,7 @@
         "rarity": 2,
         "phash": "6ee2998ce1316011",
         "name": "アイドリウムポイント〔ボーカル〕",
+        "name_eng": "Idol☆Glo Points (Vocal)",
         "shortname": "ポイントV",
         "dropPriority": 3006,
         "phash_battle": "e6599da971405190"
@@ -4294,6 +4308,7 @@
         "rarity": 3,
         "phash": "3629d2a448b163cf",
         "name": "ストーンペンライト",
+        "name_eng": "Quartz Penlight",
         "shortname": "ペンライト",
         "dropPriority": 2003,
         "phash_battle": "360b8c78130eb0cb"
@@ -4871,6 +4886,25 @@
         "phash": "7f0623fc8613dcc1",
         "name": "CBC2023特別優待券",
         "dropPriority": 2005
+    },
+    {
+        "id": 94082503,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "56338dc82112c906",
+        "name": "亡国のメダル",
+        "shortname": "メダル",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94082504,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7602d949673495dd",
+        "name": "ケルト式修練武具",
+        "dropPriority": 2004
     },
     {
         "id": 3,
@@ -5704,6 +5738,7 @@
         "rarity": 2,
         "phash": "d7f22dac524b18b1",
         "name": "エンペラーうちわ",
+        "name_eng": "Emperor's Fan",
         "shortname": "うちわ",
         "dropPriority": 2002,
         "phash_battle": "d6a62d4a28b31e38"
@@ -6004,6 +6039,16 @@
         "shortname": "茶",
         "dropPriority": 2002,
         "phash_battle": "e21d0ce85791b324"
+    },
+    {
+        "id": 94082502,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "de9805626b767c8c",
+        "name": "朽葉の冠",
+        "shortname": "朽葉",
+        "dropPriority": 2002
     },
     {
         "id": 4,
@@ -6583,6 +6628,7 @@
         "rarity": 1,
         "phash": "fc250bfc2383d807",
         "name": "マハトマタオル",
+        "name_eng": "Mahatma Towel",
         "shortname": "タオル",
         "dropPriority": 2001,
         "phash_battle": "fc0b7c378006c0a3"
@@ -6775,13 +6821,23 @@
         "phash_battle": "560fa16419a28c09"
     },
     {
+        "id": 94082501,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "1613e12dac49c234",
+        "name": "死滅の薔薇",
+        "shortname": "薔薇",
+        "dropPriority": 2001
+    },
+    {
         "id": 1,
         "type": "Item",
         "background": "silver",
         "phash": "f61389b4292f4806",
         "name": "QP",
         "name_eng": "QP",
-        "dropPriority": 513,
+        "dropPriority": 514,
         "phash_battle": "561be42b2814a00b"
     },
     {
