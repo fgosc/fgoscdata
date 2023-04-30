@@ -634,6 +634,12 @@
                 "dropPriority": 8200
             },
             {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
                 "id": 6103,
                 "name": "槍の魔石",
                 "type": "Item",
