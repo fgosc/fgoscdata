@@ -802,5 +802,64 @@
         ],
         "dropItemNum": -1,
         "shortname": "嵐の遭難者"
+    },
+    {
+        "id": 94082613,
+        "name": "役者はいなくなった",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9407000,
+                "name": "揺籃の歌",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6549,
+                "name": "赦免の小鐘",
+                "type": "Item",
+                "dropPriority": 8106
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94082503,
+                "name": "亡国のメダル",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94082501,
+                "name": "死滅の薔薇",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "役者はいなくなった"
     }
 ]
