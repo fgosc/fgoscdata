@@ -1084,7 +1084,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "安息の館",
-        "shortname": "泥礼装",
+        "shortname": "特攻礼装",
         "phash": "cf78a67299267d8e",
         "phash_narrow": "cb99e6db265aeba4",
         "dropPriority": 9005
@@ -1094,7 +1094,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ウィナーズ・アイ",
-        "shortname": "特攻礼装",
+        "shortname": "泥礼装",
         "phash": "f3e0aee6db7a61cc",
         "phash_narrow": "e1a0a6d7db3fd8ff",
         "dropPriority": 9005
