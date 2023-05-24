@@ -830,15 +830,6 @@
         "dropPriority": 9005
     },
     {
-        "id": 9405710,
-        "type": "Craft Essence",
-        "rarity": 5,
-        "name": "エンプティ・ガーデン",
-        "phash": "38e6c429a6d714ec",
-        "phash_narrow": "3bc689a9f31e6c8c",
-        "dropPriority": 9005
-    },
-    {
         "id": 9405740,
         "type": "Craft Essence",
         "rarity": 5,
@@ -1089,6 +1080,26 @@
         "dropPriority": 9005
     },
     {
+        "id": 9407040,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "安息の館",
+        "shortname": "泥礼装",
+        "phash": "cf78a67299267d8e",
+        "phash_narrow": "cb99e6db265aeba4",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9407050,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ウィナーズ・アイ",
+        "shortname": "特攻礼装",
+        "phash": "f3e0aee6db7a61cc",
+        "phash_narrow": "e1a0a6d7db3fd8ff",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1135,15 +1146,6 @@
         "name": "庭園の守り人",
         "phash": "59784e9285f44fda",
         "phash_narrow": "516cfa97f5e5da7a",
-        "dropPriority": 9004
-    },
-    {
-        "id": 9405720,
-        "type": "Craft Essence",
-        "rarity": 4,
-        "name": "一陽来復",
-        "phash": "16cf6b4645126926",
-        "phash_narrow": "1ecbee4411e76707",
         "dropPriority": 9004
     },
     {
@@ -1671,15 +1673,6 @@
         "name": "穂群原学園生徒会長",
         "phash": "ee42b42549cd9393",
         "phash_narrow": "ee56b6696ca7cfce",
-        "dropPriority": 9003
-    },
-    {
-        "id": 9405730,
-        "type": "Craft Essence",
-        "rarity": 3,
-        "name": "眠り続ける街",
-        "phash": "79991ed62ad7a5be",
-        "phash_narrow": "f119d60a5bad8eaa",
         "dropPriority": 9003
     },
     {
@@ -4908,6 +4901,34 @@
         "dropPriority": 2004
     },
     {
+        "id": 94083603,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "260a51fc9203adff",
+        "name": "からくり水鉄砲",
+        "shortname": "水鉄砲",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94083604,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "9e69b3ec93d26817",
+        "name": "茶運びシトナイ人形",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94083605,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "b612d99286ec252b",
+        "name": "風雲からくりイリヤ城通行手形",
+        "dropPriority": 2005
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -6053,6 +6074,16 @@
         "phash_battle": "f81521637c940598"
     },
     {
+        "id": 94083602,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "d6292d5ed153f9a5",
+        "name": "からくりヘルメット",
+        "shortname": "メット",
+        "dropPriority": 2002
+    },
+    {
         "id": 4,
         "type": "Item",
         "background": "silver",
@@ -6832,6 +6863,16 @@
         "shortname": "薔薇",
         "dropPriority": 2001,
         "phash_battle": "16c3b50dc2b44970"
+    },
+    {
+        "id": 94083601,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "5ead65399a5a1421",
+        "name": "からくりプロテクター",
+        "shortname": "プロテクター",
+        "dropPriority": 2001
     },
     {
         "id": 1,
