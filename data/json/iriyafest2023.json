@@ -136,6 +136,65 @@
         "shortname": "第一関門 けものバスター"
     },
     {
+        "id": 94083703,
+        "name": "第一関門 解放への扉",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9407050,
+                "name": "ウィナーズ・アイ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6549,
+                "name": "赦免の小鐘",
+                "type": "Item",
+                "dropPriority": 8106
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94083605,
+                "name": "風雲からくりイリヤ城通行手形",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94083603,
+                "name": "からくり水鉄砲",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94083602,
+                "name": "からくりヘルメット",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "解放への扉"
+    },
+    {
         "id": 94083706,
         "name": "第一関門 序の関所・陽の道",
         "place": "",
