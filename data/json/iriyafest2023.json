@@ -686,6 +686,77 @@
         "shortname": "第二関門 いっすんボート"
     },
     {
+        "id": 94083711,
+        "name": "第二関門 槍玉ＲＵＮ",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9407050,
+                "name": "ウィナーズ・アイ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94083605,
+                "name": "風雲からくりイリヤ城通行手形",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94083603,
+                "name": "からくり水鉄砲",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94083601,
+                "name": "からくりプロテクター",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "第二関門 槍玉ＲＵＮ"
+    },
+    {
         "id": 94083712,
         "name": "第二関門 さむらいＺＡＮ",
         "place": "",
