@@ -1118,6 +1118,89 @@
         "shortname": "第三関門 サーチ・ザ・ボール"
     },
     {
+        "id": 94083717,
+        "name": "第三関門 ローリングロード",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9407050,
+                "name": "ウィナーズ・アイ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94083605,
+                "name": "風雲からくりイリヤ城通行手形",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94083603,
+                "name": "からくり水鉄砲",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94083602,
+                "name": "からくりヘルメット",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "第三関門 ローリングロード"
+    },
+    {
         "id": 94083719,
         "name": "第三関門 ガーディアンズ・メイズ",
         "place": "",
@@ -1257,7 +1340,7 @@
             }
         ],
         "dropItemNum": -1,
-        "shortname": "急の関所・勇者の道"
+        "shortname": "第三関門 急の関所・勇者の道"
     },
     {
         "id": 94083721,
