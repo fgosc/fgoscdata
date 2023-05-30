@@ -988,6 +988,71 @@
         "shortname": "第二関門 破の関所・戦士の道"
     },
     {
+        "id": 94083715,
+        "name": "第三関門 ゲット・ザ・ボール",
+        "place": "",
+        "chapter": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9407050,
+                "name": "ウィナーズ・アイ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94083605,
+                "name": "風雲からくりイリヤ城通行手形",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94083603,
+                "name": "からくり水鉄砲",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94083602,
+                "name": "からくりヘルメット",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94083601,
+                "name": "からくりプロテクター",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ゲット・ザ・ボール"
+    },
+    {
         "id": 94083719,
         "name": "第三関門 ガーディアンズ・メイズ",
         "place": "",
