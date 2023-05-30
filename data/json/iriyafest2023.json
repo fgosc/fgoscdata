@@ -1053,6 +1053,71 @@
         "shortname": "第三関門 ゲット・ザ・ボール"
     },
     {
+        "id": 94083716,
+        "name": "第三関門 サーチ・ザ・ボール",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9407050,
+                "name": "ウィナーズ・アイ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94083605,
+                "name": "風雲からくりイリヤ城通行手形",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94083602,
+                "name": "からくりヘルメット",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94083601,
+                "name": "からくりプロテクター",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "サーチ・ザ・ボール"
+    },
+    {
         "id": 94083719,
         "name": "第三関門 ガーディアンズ・メイズ",
         "place": "",
