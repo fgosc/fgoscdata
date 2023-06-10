@@ -95,7 +95,7 @@ def questId2quest(questId):
 
 def main(args):
 
-    with open(freequest_file, encoding='UTF-8') as f:
+    with open(freequest_file, encoding='utf-8-sig') as f:
         reader = csv.DictReader(f)
         tmps = [row for row in reader]
 

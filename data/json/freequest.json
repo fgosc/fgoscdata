@@ -11779,5 +11779,103 @@
         ],
         "dropItemNum": -1,
         "scPriority": 1261
+    },
+    {
+        "id": 93040101,
+        "name": "凍土の試練",
+        "place": "ロシアエリア",
+        "chapter": "オーディール・コール",
+        "qp": 270720,
+        "drop": [
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1262
+    },
+    {
+        "id": 93040102,
+        "name": "悪夢のカボチャ",
+        "place": "東欧エリア",
+        "chapter": "オーディール・コール",
+        "qp": 270720,
+        "drop": [
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1263
+    },
+    {
+        "id": 93040103,
+        "name": "常夏の休暇",
+        "place": "ハワイエリア",
+        "chapter": "オーディール・コール",
+        "qp": 270720,
+        "drop": [
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1264
+    },
+    {
+        "id": 93040105,
+        "name": "大堡礁の卵",
+        "place": "オセアニア北部エリア",
+        "chapter": "オーディール・コール",
+        "qp": 270720,
+        "drop": [
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1265
     }
 ]
