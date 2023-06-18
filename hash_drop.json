@@ -7,7 +7,7 @@
         "name": "クエストクリア報酬QP",
         "name_eng": "Quest Clear Reward QP",
         "shortname": "報酬QP",
-        "dropPriority": 9016
+        "dropPriority": 9017
     },
     {
         "id": 9400410,
@@ -1100,6 +1100,15 @@
         "dropPriority": 9005
     },
     {
+        "id": 9407060,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "トワイライト・メディテーション",
+        "phash": "0a17e6da1ca3dc30",
+        "phash_narrow": "0a25e65a238f25ca",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1434,6 +1443,24 @@
         "name": "嬰児のゆりかご",
         "phash": "f4e3dd723133cd86",
         "phash_narrow": "f283dc7031510c89",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9407070,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "混禍の爪飾り",
+        "phash": "483f814611d6791a",
+        "phash_narrow": "4b3faf3301e453be",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9407150,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "イッツ・オンリー・ア・ペーパームーン",
+        "phash": "69dab4219ebc796e",
+        "phash_narrow": "69d261059cb5b79a",
         "dropPriority": 9004
     },
     {
@@ -2062,6 +2089,16 @@
         "phash_battle": "364998a64846318c"
     },
     {
+        "id": 6556,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "97628c58699ce296",
+        "name": "エーテル収光体",
+        "shortname": "エーテル",
+        "dropPriority": 8321
+    },
+    {
         "id": 6553,
         "type": "Item",
         "background": "silver",
@@ -2346,6 +2383,16 @@
         "shortname": "種",
         "dropPriority": 8203,
         "phash_battle": "768509495310b48c"
+    },
+    {
+        "id": 6555,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "56098520e1625119",
+        "name": "狂気の残滓",
+        "shortname": "残滓",
+        "dropPriority": 8110
     },
     {
         "id": 6554,
@@ -3458,6 +3505,33 @@
         "name": "本能寺ポイント",
         "name_eng": "Honnoji Point",
         "dropPriority": 3004
+    },
+    {
+        "id": 51,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7e0394a92778035e",
+        "name": "新星のトーチ",
+        "dropPriority": 8007
+    },
+    {
+        "id": 52,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "2782da99767aeddc",
+        "name": "明星のトーチ",
+        "dropPriority": 8008
+    },
+    {
+        "id": 53,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "2f0394e1267a411c",
+        "name": "極星のトーチ",
+        "dropPriority": 8009
     },
     {
         "id": 94000303,
@@ -4941,6 +5015,15 @@
         "name_eng": "Mana Prism",
         "dropPriority": 1003,
         "phash_battle": "f81427232b290b53"
+    },
+    {
+        "id": 50,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5e18a1b6681ddb0c",
+        "name": "星光の砂",
+        "dropPriority": 8006
     },
     {
         "id": 94000302,
@@ -6886,7 +6969,7 @@
         "phash": "f61389b4292f4806",
         "name": "QP",
         "name_eng": "QP",
-        "dropPriority": 514,
+        "dropPriority": 515,
         "phash_battle": "561be42b2814a00b"
     },
     {
