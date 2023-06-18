@@ -2213,7 +2213,7 @@
         "name_eng": "Aurora Steel",
         "shortname": "オーロラ",
         "dropPriority": 8313,
-        "phash_battle": "5643b436a9312499"
+        "phash_battle": "b3a45869b496a7d8"
     },
     {
         "id": 6535,
@@ -2392,7 +2392,8 @@
         "phash": "56098520e1625119",
         "name": "狂気の残滓",
         "shortname": "残滓",
-        "dropPriority": 8110
+        "dropPriority": 8110,
+        "phash_battle": "720d856141515051"
     },
     {
         "id": 6554,
