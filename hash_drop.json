@@ -2096,7 +2096,8 @@
         "phash": "97628c58699ce296",
         "name": "エーテル収光体",
         "shortname": "エーテル",
-        "dropPriority": 8321
+        "dropPriority": 8321,
+        "phash_battle": "b3a45869b496a7d8"
     },
     {
         "id": 6553,
@@ -2213,7 +2214,7 @@
         "name_eng": "Aurora Steel",
         "shortname": "オーロラ",
         "dropPriority": 8313,
-        "phash_battle": "b3a45869b496a7d8"
+        "phash_battle": "5643b436a9312499"
     },
     {
         "id": 6535,
