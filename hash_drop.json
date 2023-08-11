@@ -1131,7 +1131,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "一衣帯水",
-        "shortname": "泥礼装",
+        "shortname": "特攻礼装",
         "phash": "f2980915e1235165",
         "phash_narrow": "f3a81dddab73a11b",
         "dropPriority": 9005
@@ -1141,7 +1141,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "泡沫の彼方",
-        "shortname": "特攻礼装",
+        "shortname": "泥礼装",
         "phash": "25bcd67fbea1b038",
         "phash_narrow": "25cc557eafc1f8b7",
         "dropPriority": 9005
