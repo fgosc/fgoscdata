@@ -1109,6 +1109,44 @@
         "dropPriority": 9005
     },
     {
+        "id": 9407080,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "スウェット・ブラッド",
+        "phash": "c19c7a76b66a57be",
+        "phash_narrow": "c19c79b4a843de3b",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9407110,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "匠たる心魂",
+        "phash": "1b6296d7c5a6bd3a",
+        "phash_narrow": "1b2896d342e7ee34",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9407290,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "一衣帯水",
+        "shortname": "泥礼装",
+        "phash": "f2980915e1235165",
+        "phash_narrow": "f3a81dddab73a11b",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9407300,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "泡沫の彼方",
+        "shortname": "特攻礼装",
+        "phash": "25bcd67fbea1b038",
+        "phash_narrow": "25cc557eafc1f8b7",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1455,12 +1493,30 @@
         "dropPriority": 9004
     },
     {
+        "id": 9407090,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "太陽の花",
+        "phash": "578852678bd3d85c",
+        "phash_narrow": "2d98766ba7c1f6d9",
+        "dropPriority": 9004
+    },
+    {
         "id": 9407150,
         "type": "Craft Essence",
         "rarity": 4,
         "name": "イッツ・オンリー・ア・ペーパームーン",
         "phash": "69dab4219ebc796e",
         "phash_narrow": "69d261059cb5b79a",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9407160,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "霊樹の宿根",
+        "phash": "38329cb65d0e9199",
+        "phash_narrow": "7349b4f34ed65cda",
         "dropPriority": 9004
     },
     {
@@ -1727,6 +1783,15 @@
         "name": "土の実",
         "phash": "61f806dfbeec78f6",
         "phash_narrow": "61f84f972dfff617",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9407100,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "ビー・シェルヴド",
+        "phash": "8a3225201a6bfcc7",
+        "phash_narrow": "8b9665b41bbdf732",
         "dropPriority": 9003
     },
     {
@@ -3542,7 +3607,7 @@
         "rarity": 3,
         "phash": "760603f19d9594d2",
         "name": "ネロメダル〔金〕",
-        "name_eng": "Nero Medal [Gold]",
+        "name_eng": "Nero Medal (Gold)",
         "shortname": "金メダル",
         "dropPriority": 2003,
         "phash_battle": "7602f19d94d61189"
@@ -5008,6 +5073,34 @@
         "phash_battle": "b6f812c6b4650d13"
     },
     {
+        "id": 94084401,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d61229ec8613b850",
+        "name": "FGO 8th Anniversary 英霊催装チケット",
+        "dropPriority": 2001
+    },
+    {
+        "id": 94087900,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "f807f00c27b09fc1",
+        "name": "ＶＶＶスティック",
+        "dropPriority": 2015
+    },
+    {
+        "id": 94087903,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "770cab5629844ebb",
+        "name": "アルポンド",
+        "shortname": "ポンド",
+        "dropPriority": 2004
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -5034,7 +5127,7 @@
         "rarity": 2,
         "phash": "f6024bf09d9596d2",
         "name": "ネロメダル〔銀〕",
-        "name_eng": "Nero Medal [Silver]",
+        "name_eng": "Nero Medal (Silver)",
         "shortname": "銀メダル",
         "dropPriority": 2002,
         "phash_battle": "7622f19d94d2118d"
@@ -6173,6 +6266,55 @@
         "phash_battle": "962d8e53f1a03604"
     },
     {
+        "id": 94087902,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "de8641e93c51083c",
+        "name": "コナビーンズ",
+        "shortname": "ビーンズ",
+        "dropPriority": 2005
+    },
+    {
+        "id": 94087911,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "163963ce8c583866",
+        "name": "本能のエナドリ",
+        "shortname": "エナドリ",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94087912,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5e81375ac98c2934",
+        "name": "知識のカレー",
+        "shortname": "カレー",
+        "dropPriority": 2002
+    },
+    {
+        "id": 94087913,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5e03a5d2097c0b14",
+        "name": "感情のステーキ",
+        "shortname": "ステーキ",
+        "dropPriority": 2001
+    },
+    {
+        "id": 94087914,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "3dca794c9acfd25d",
+        "name": "ソーダアイス",
+        "dropPriority": 2013
+    },
+    {
         "id": 4,
         "type": "Item",
         "background": "silver",
@@ -6190,7 +6332,7 @@
         "rarity": 1,
         "phash": "760743f09d9594d0",
         "name": "ネロメダル〔銅〕",
-        "name_eng": "Nero Medal [Bronze]",
+        "name_eng": "Nero Medal (Bronze)",
         "shortname": "銅メダル",
         "dropPriority": 2001,
         "phash_battle": "7603f19d94d2118d"
@@ -6963,6 +7105,16 @@
         "shortname": "プロテクター",
         "dropPriority": 2001,
         "phash_battle": "1e65b18b5237a56a"
+    },
+    {
+        "id": 94087901,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "f4c50fadc24b3164",
+        "name": "トロピカルナッツ",
+        "shortname": "ナッツ",
+        "dropPriority": 2006
     },
     {
         "id": 1,
