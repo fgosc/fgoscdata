@@ -78,34 +78,22 @@
                 "dropPriority": 9005
             },
             {
-                "id": 6535,
-                "name": "永遠結氷",
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
                 "type": "Item",
-                "dropPriority": 8311
+                "dropPriority": 8104
             },
             {
-                "id": 6104,
-                "name": "騎の魔石",
+                "id": 6006,
+                "name": "殺の輝石",
                 "type": "Item",
-                "dropPriority": 6197
+                "dropPriority": 6095
             },
             {
-                "id": 6004,
-                "name": "騎の輝石",
+                "id": 7006,
+                "name": "アサシンピース",
                 "type": "Item",
-                "dropPriority": 6097
-            },
-            {
-                "id": 7004,
-                "name": "ライダーピース",
-                "type": "Item",
-                "dropPriority": 5197
-            },
-            {
-                "id": 94087901,
-                "name": "トロピカルナッツ",
-                "type": "Item",
-                "dropPriority": 2006
+                "dropPriority": 5195
             },
             {
                 "id": 94087902,
@@ -114,16 +102,22 @@
                 "dropPriority": 2005
             },
             {
-                "id": 94087911,
-                "name": "本能のエナドリ",
+                "id": 94087903,
+                "name": "アルポンド",
                 "type": "Item",
-                "dropPriority": 2003
+                "dropPriority": 2004
             },
             {
                 "id": 94087912,
                 "name": "知識のカレー",
                 "type": "Item",
                 "dropPriority": 2002
+            },
+            {
+                "id": 94087913,
+                "name": "感情のステーキ",
+                "type": "Item",
+                "dropPriority": 2001
             }
         ],
         "dropItemNum": -1,
