@@ -1,5 +1,70 @@
 [
     {
+        "id": 94088100,
+        "name": "調査せよ！ 華麗なるコスプレ強制紳士！",
+        "place": "",
+        "chapter": "",
+        "qp": 2400,
+        "drop": [
+            {
+                "id": 9407290,
+                "name": "一衣帯水",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94087901,
+                "name": "トロピカルナッツ",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94087902,
+                "name": "コナビーンズ",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94087911,
+                "name": "本能のエナドリ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94087912,
+                "name": "知識のカレー",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "調査せよ！ 華麗なるコスプレ強制紳士！"
+    },
+    {
         "id": 94088101,
         "name": "調査せよ！ 山から響く謎の美声！",
         "place": "",
