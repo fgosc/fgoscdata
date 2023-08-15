@@ -495,5 +495,165 @@
         ],
         "dropItemNum": -1,
         "shortname": "調査せよ！ 魔女の家に住む本の虫？"
+    },
+    {
+        "id": 94088107,
+        "name": "調査せよ！ 高級ホテルの怪奇！",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9407300,
+                "name": "泡沫の彼方",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6546,
+                "name": "悠久の実",
+                "type": "Item",
+                "dropPriority": 8407
+            },
+            {
+                "id": 6550,
+                "name": "夢幻の鱗粉",
+                "type": "Item",
+                "dropPriority": 8319
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94087901,
+                "name": "トロピカルナッツ",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94087902,
+                "name": "コナビーンズ",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94087911,
+                "name": "本能のエナドリ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94087912,
+                "name": "知識のカレー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94087913,
+                "name": "感情のステーキ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "調査せよ！ 高級ホテルの怪奇！"
+    },
+    {
+        "id": 94088108,
+        "name": "調査せよ！ レースに蔓延る闇賭博！",
+        "place": "",
+        "chapter": "",
+        "qp": 8900,
+        "drop": [
+            {
+                "id": 9407290,
+                "name": "一衣帯水",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94087902,
+                "name": "コナビーンズ",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94087903,
+                "name": "アルポンド",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94087911,
+                "name": "本能のエナドリ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94087912,
+                "name": "知識のカレー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94087913,
+                "name": "感情のステーキ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "調査せよ！ レースに蔓延る闇賭博！"
     }
 ]
