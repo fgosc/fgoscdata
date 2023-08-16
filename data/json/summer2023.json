@@ -655,5 +655,76 @@
         ],
         "dropItemNum": -1,
         "shortname": "調査せよ！ レースに蔓延る闇賭博！"
+    },
+    {
+        "id": 94088109,
+        "name": "調査せよ！ ホテルの夜警で大騒動？！",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9407300,
+                "name": "泡沫の彼方",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94087901,
+                "name": "トロピカルナッツ",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94087903,
+                "name": "アルポンド",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94087911,
+                "name": "本能のエナドリ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94087912,
+                "name": "知識のカレー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94087913,
+                "name": "感情のステーキ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "調査せよ！ ホテルの夜警で大騒動？！"
     }
 ]
