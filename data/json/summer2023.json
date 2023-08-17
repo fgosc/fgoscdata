@@ -726,5 +726,112 @@
         ],
         "dropItemNum": -1,
         "shortname": "調査せよ！ ホテルの夜警で大騒動？！"
+    },
+    {
+        "id": 94088110,
+        "name": "夏！ うみ！ 水上の美女！！",
+        "place": "",
+        "chapter": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9407290,
+                "name": "一衣帯水",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9407300,
+                "name": "泡沫の彼方",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94087901,
+                "name": "トロピカルナッツ",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94087902,
+                "name": "コナビーンズ",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94087903,
+                "name": "アルポンド",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94087911,
+                "name": "本能のエナドリ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94087912,
+                "name": "知識のカレー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94087913,
+                "name": "感情のステーキ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "夏！ うみ！"
     }
 ]
