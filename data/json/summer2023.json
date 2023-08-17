@@ -833,5 +833,94 @@
         ],
         "dropItemNum": -1,
         "shortname": "夏！ うみ！水上の美女！！"
+    },
+    {
+        "id": 94088111,
+        "name": "夏！ お祭り！ あなたとヒロイン！？",
+        "place": "",
+        "chapter": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9407290,
+                "name": "一衣帯水",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9407300,
+                "name": "泡沫の彼方",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94087901,
+                "name": "トロピカルナッツ",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94087902,
+                "name": "コナビーンズ",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94087903,
+                "name": "アルポンド",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94087911,
+                "name": "本能のエナドリ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94087912,
+                "name": "知識のカレー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94087913,
+                "name": "感情のステーキ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "夏！ お祭り！ あなたとヒロイン！？"
     }
 ]
