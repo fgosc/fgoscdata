@@ -1,0 +1,267 @@
+[
+    {
+        "id": 94088701,
+        "name": "スケルトン・ハント 開位級",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            },
+            {
+                "id": 9701500,
+                "name": "剣業火",
+                "type": "Exp. UP",
+                "dropPriority": 690
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "スケルトン・ハント 開位級"
+    },
+    {
+        "id": 94088702,
+        "name": "スケルトン・ハント 祭位級",
+        "place": "",
+        "chapter": "",
+        "qp": 7900,
+        "drop": [
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            },
+            {
+                "id": 9701500,
+                "name": "剣業火",
+                "type": "Exp. UP",
+                "dropPriority": 690
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "スケルトン・ハント 祭位級"
+    },
+    {
+        "id": 94088703,
+        "name": "スケルトン・ハント 典位級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            },
+            {
+                "id": 9701500,
+                "name": "剣業火",
+                "type": "Exp. UP",
+                "dropPriority": 690
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "スケルトン・ハント 典位級"
+    },
+    {
+        "id": 94088704,
+        "name": "スケルトン・ハント 典位+級",
+        "place": "",
+        "chapter": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            },
+            {
+                "id": 9701500,
+                "name": "剣業火",
+                "type": "Exp. UP",
+                "dropPriority": 690
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "スケルトン・ハント 典位+級"
+    },
+    {
+        "id": 94088705,
+        "name": "スケルトン・ハント 典位++級",
+        "place": "",
+        "chapter": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            },
+            {
+                "id": 9701500,
+                "name": "剣業火",
+                "type": "Exp. UP",
+                "dropPriority": 690
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "スケルトン・ハント 典位++級"
+    }
+]
