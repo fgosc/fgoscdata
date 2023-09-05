@@ -10,7 +10,7 @@ id,dropPriority,type,rarity,name,name_eng,shortname,phash,phash_sold,phash_battl
 9701400,691,Exp. UP,4,剣猛火,Saber 4-star EXP,剣猛火,0b28f4ba9ef3cfa3,0bf8f89f268fcef0,,305a34c3edb610c1,,,
 9701500,690,Exp. UP,5,剣業火,Saber 5-star EXP,剣業火,292ffef82f5e7baf,,,,,,
 9702100,689,Exp. UP,1,槍種火,Lancer 1-star EXP,槍種火,f1f8aeba0ffd4fac,4bf8f80ff4ac0696,,d4d2e367cf9d1a0c,d0d2e265cf9e1a09,,
-9702200,688,Exp. UP,2,槍灯火,Lancer 2-star EXP,槍灯火,f1dc2e63cf1b7ecd,8bf8f80774ac0686,,,,,
+9702200,688,Exp. UP,2,槍灯火,Lancer 2-star EXP,槍灯火,f1dc2e63cf1b7ecd,8bf8f80774ac0686,,,51b264cfcfac1a3d,,
 9702300,687,Exp. UP,3,槍大火,Lancer 3-star EXP,槍大火,f3f84a93b66e2fa6,03f9f8bfa68f2ef4,,d4d2e327cfdd1a0c,d4d2e265cfdc1a29,,
 9702400,686,Exp. UP,4,槍猛火,Lancer 4-star EXP,槍猛火,0b28f4ba9ed3cfa3,0bf8f89f268fcef0,,d0d3e0676fd59c00,d0d3e0674dde1818,,
 9702500,685,Exp. UP,5,槍業火,Lancer 5-star EXP,槍業火,292ffef82f5e7baf,,,,,,

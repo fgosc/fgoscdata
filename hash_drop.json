@@ -746,6 +746,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "オーシャン・フライヤー",
+        "name_eng": "Ocean Flier",
         "shortname": "特攻礼装",
         "phash": "82631d50319a58b9",
         "phash_narrow": "c2a75c71015431f1",
@@ -756,6 +757,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "シンク・ディーパー",
+        "name_eng": "Sink Deeper",
         "shortname": "ボーナス礼装",
         "phash": "876061acd9cd95bb",
         "phash_narrow": "8760663a6ddd4dca",
@@ -1144,6 +1146,15 @@
         "shortname": "泥礼装",
         "phash": "25bcd67fbea1b038",
         "phash_narrow": "25cc557eafc1f8b7",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9407360,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "プレジデント・オーシャン",
+        "phash": "10e585e69c176598",
+        "phash_narrow": "9131a7ea1b471c66",
         "dropPriority": 9005
     },
     {
@@ -4454,6 +4465,7 @@
         "rarity": 3,
         "phash": "1f4da3cc1832c51a",
         "name": "海賊サーベル",
+        "name_eng": "Pirate Cutlass",
         "shortname": "サーベル",
         "dropPriority": 2003,
         "phash_battle": "1ee3c438c31cf08f"
@@ -4465,6 +4477,7 @@
         "rarity": 3,
         "phash": "5e49211881c27033",
         "name": "海賊の宝箱〔金〕",
+        "name_eng": "Pirate Treasure Chest (Gold)",
         "shortname": "宝箱金",
         "dropPriority": 2007,
         "phash_battle": "5e253983c2333498"
@@ -4476,6 +4489,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔ドクロ島の財宝〕",
+        "name_eng": "Secret Map (Treasure on Skull Island)",
         "shortname": "〕",
         "dropPriority": 2002
     },
@@ -4486,6 +4500,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔サカズキ島の財宝〕",
+        "name_eng": "Secret Map (Treasure on Goblet Island)",
         "shortname": "〕",
         "dropPriority": 2003
     },
@@ -4496,6 +4511,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔トクガワ島の財宝〕",
+        "name_eng": "Secret Map (Treasure on Tokugawa Island)",
         "shortname": "〕",
         "dropPriority": 2004
     },
@@ -4506,6 +4522,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔ミズウミ島の財宝〕",
+        "name_eng": "Secret Map (Treasure on Lake Island)",
         "shortname": "〕",
         "dropPriority": 2005
     },
@@ -4516,6 +4533,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔スリスリ島の財宝〕",
+        "name_eng": "Secret Map (Treasure on Cuddle Island)",
         "shortname": "〕",
         "dropPriority": 2006
     },
@@ -4526,6 +4544,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔海底城の財宝〕",
+        "name_eng": "Secret Map (Treasure in the Seabed Castle)",
         "shortname": "〕",
         "dropPriority": 2007
     },
@@ -4536,6 +4555,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔海蛇の巣の財宝〕",
+        "name_eng": "Secret Map (Treasure in the Sea Serpent's Nest)",
         "shortname": "〕",
         "dropPriority": 2008
     },
@@ -4546,6 +4566,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔グツグツ島の財宝〕",
+        "name_eng": "Secret Map (Treasure on the Boiling Island)",
         "shortname": "〕",
         "dropPriority": 2009
     },
@@ -4556,6 +4577,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔滝つぼの財宝〕",
+        "name_eng": "Secret Map (Treasure under the Waterfall Basin)",
         "shortname": "〕",
         "dropPriority": 2000
     },
@@ -4566,6 +4588,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔雲の上の財宝〕",
+        "name_eng": "Secret Map (Treasure above the Clouds)",
         "shortname": "〕",
         "dropPriority": 2001
     },
@@ -4576,6 +4599,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔大海原の財宝〕",
+        "name_eng": "Secret Map (Treasure at Sea)",
         "shortname": "〕",
         "dropPriority": 2002
     },
@@ -4586,6 +4610,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔幽霊船の財宝〕",
+        "name_eng": "Secret Map (Treasure on the Ghost Ship)",
         "shortname": "〕",
         "dropPriority": 2003
     },
@@ -4596,6 +4621,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔果ての財宝〕",
+        "name_eng": "Secret Map (Distant Treasure)",
         "shortname": "〕",
         "dropPriority": 2004
     },
@@ -4606,6 +4632,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔北の財宝〕",
+        "name_eng": "Secret Map (Northern Treasure)",
         "shortname": "〕",
         "dropPriority": 2005
     },
@@ -4616,6 +4643,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔南の財宝〕",
+        "name_eng": "Secret Map (Southern Treasure)",
         "shortname": "〕",
         "dropPriority": 2006
     },
@@ -4626,6 +4654,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔東の財宝〕",
+        "name_eng": "Secret Map (Eastern Treasure)",
         "shortname": "〕",
         "dropPriority": 2007
     },
@@ -4636,6 +4665,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔西の財宝〕",
+        "name_eng": "Secret Map (Western Treasure)",
         "shortname": "〕",
         "dropPriority": 2008
     },
@@ -4646,6 +4676,7 @@
         "rarity": 3,
         "phash": "d6ed32728c365bbb",
         "name": "秘密の地図〔最後の財宝〕",
+        "name_eng": "Secret Map (Final Treasure)",
         "shortname": "〕",
         "dropPriority": 2009
     },
@@ -5954,6 +5985,7 @@
         "rarity": 2,
         "phash": "ec4b5d21ab920383",
         "name": "海賊ジョッキ",
+        "name_eng": "Pirate Stein",
         "shortname": "ジョッキ",
         "dropPriority": 2002,
         "phash_battle": "ac5d29a3835b54a1"
@@ -5965,6 +5997,7 @@
         "rarity": 2,
         "phash": "de69211881c67037",
         "name": "海賊の宝箱〔銀〕",
+        "name_eng": "Pirate Treasure Chest (Silver)",
         "shortname": "宝箱銀",
         "dropPriority": 2006,
         "phash_battle": "5e251983c2733410"
@@ -6909,6 +6942,7 @@
         "rarity": 1,
         "phash": "56a52959580393a4",
         "name": "海賊バンダナ",
+        "name_eng": "Pirate Bandana",
         "shortname": "バンダナ",
         "dropPriority": 2001,
         "phash_battle": "56a569425384867c"
@@ -6920,6 +6954,7 @@
         "rarity": 1,
         "phash": "d64d211981c24073",
         "name": "海賊の宝箱〔銅〕",
+        "name_eng": "Pirate Treasure Chest (Bronze)",
         "shortname": "宝箱銅",
         "dropPriority": 2005,
         "phash_battle": "5e253983c2733410"
@@ -7271,7 +7306,8 @@
         "name_eng": "Lancer 2-star EXP",
         "shortname": "槍灯火",
         "phash": "f1dc2e63cf1b7ecd",
-        "phash_sold": "8bf8f80774ac0686"
+        "phash_sold": "8bf8f80774ac0686",
+        "phash_class_sold": "51b264cfcfac1a3d"
     },
     {
         "id": 9702300,
