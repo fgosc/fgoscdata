@@ -7546,7 +7546,8 @@
         "name_eng": "Assassin 2-star EXP",
         "shortname": "殺灯火",
         "phash": "f3de2ee3cfb9feed",
-        "phash_sold": "8bf8f907f4ac0686"
+        "phash_sold": "8bf8f907f4ac0686",
+        "phash_class_sold": "d0cbccb3cd0e30bc"
     },
     {
         "id": 9706300,

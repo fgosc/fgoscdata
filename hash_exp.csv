@@ -30,7 +30,7 @@ id,dropPriority,type,rarity,name,name_eng,shortname,phash,phash_sold,phash_battl
 9705400,671,Exp. UP,4,術猛火,Caster 4-star EXP,術猛火,0b28f4ba9ef3cfa3,0bf8f89f268fcef0,,707a3d06e6f71989,707a3c07e6f61989,,
 9705500,670,Exp. UP,5,術業火,Caster 5-star EXP,術業火,292ffef82f5e7baf,,,,,,
 9706100,669,Exp. UP,1,殺種火,Assassin 1-star EXP,殺種火,f12a2eba6ff9eeac,0bf8f90ff4ac0696,,d0d3cc35cfcd3434,d0d3ccb5cfce343c,,
-9706200,668,Exp. UP,2,殺灯火,Assassin 2-star EXP,殺灯火,f3de2ee3cfb9feed,8bf8f907f4ac0686,,,,,
+9706200,668,Exp. UP,2,殺灯火,Assassin 2-star EXP,殺灯火,f3de2ee3cfb9feed,8bf8f907f4ac0686,,,d0cbccb3cd0e30bc,,
 9706300,667,Exp. UP,3,殺大火,Assassin 3-star EXP,殺大火,33784e93b6682be6,03f9f8bfa68f2ef4,,d0d3cc33cfcd3434,50d3cc35cfce3434,,
 9706400,666,Exp. UP,4,殺猛火,Assassin 4-star EXP,殺猛火,0b28f4babef3cfa1,0bf8f89f268fcef0,,d0cbe497cdce3c34,d0dbcc93edce3434,,
 9706500,665,Exp. UP,5,殺業火,Assassin 5-star EXP,殺業火,292feef82fde7baf,,,507be4106fe59414,,,
