@@ -11879,6 +11879,46 @@
         "scPriority": 1265
     },
     {
+        "id": 94086601,
+        "name": "残された神話",
+        "place": "北欧エリア",
+        "chapter": "オーディール・コール",
+        "qp": 270720,
+        "drop": [
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6537,
+                "name": "巨人の指輪",
+                "type": "Item",
+                "dropPriority": 8312
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1266
+    },
+    {
+        "id": 94086602,
+        "name": "高貴なる海賊",
+        "place": "カリブ海エリア",
+        "chapter": "オーディール・コール",
+        "qp": 270720,
+        "drop": [
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1267
+    },
+    {
         "id": 93040201,
         "name": "隔離施設",
         "place": "修理部郊外",
@@ -11917,7 +11957,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1266
+        "scPriority": 1268
     },
     {
         "id": 93040202,
@@ -11958,7 +11998,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1267
+        "scPriority": 1269
     },
     {
         "id": 93040203,
@@ -12005,7 +12045,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1268
+        "scPriority": 1270
     },
     {
         "id": 93040204,
@@ -12046,7 +12086,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1269
+        "scPriority": 1271
     },
     {
         "id": 93040205,
@@ -12087,7 +12127,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1270
+        "scPriority": 1272
     },
     {
         "id": 93040206,
@@ -12134,7 +12174,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1271
+        "scPriority": 1273
     },
     {
         "id": 93040209,
@@ -12175,7 +12215,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1272
+        "scPriority": 1274
     },
     {
         "id": 93040210,
@@ -12204,7 +12244,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1273
+        "scPriority": 1275
     },
     {
         "id": 93040207,
@@ -12257,7 +12297,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1274
+        "scPriority": 1276
     },
     {
         "id": 93040208,
@@ -12298,7 +12338,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1275
+        "scPriority": 1277
     },
     {
         "id": 93040211,
@@ -12351,6 +12391,6 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1276
+        "scPriority": 1278
     }
 ]
