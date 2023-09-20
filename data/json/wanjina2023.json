@@ -1,0 +1,61 @@
+[
+    {
+        "id": 94088904,
+        "name": "現地調査！ 闇夜の訪れ！",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 9407400,
+                "name": "ほしの歩き方",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94088802,
+                "name": "カンガルーブーメラン",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94088801,
+                "name": "カモノハシクッキー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "現地調査！ 闇夜の訪れ！"
+    }
+]
