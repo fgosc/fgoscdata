@@ -10,6 +10,15 @@
         "dropPriority": 9017
     },
     {
+        "id": 9406500,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "夜明け前",
+        "phash": "73d0ac644a3946ec",
+        "phash_narrow": "5390a5623b56ac22",
+        "dropPriority": 9005
+    },
+    {
         "id": 9400410,
         "type": "Craft Essence",
         "rarity": 5,
@@ -976,15 +985,6 @@
         "dropPriority": 9005
     },
     {
-        "id": 9406500,
-        "type": "Craft Essence",
-        "rarity": 5,
-        "name": "夜明け前",
-        "phash": "73d0ac644a3946ec",
-        "phash_narrow": "5390a5623b56ac22",
-        "dropPriority": 9005
-    },
-    {
         "id": 9406510,
         "type": "Craft Essence",
         "rarity": 5,
@@ -1155,6 +1155,16 @@
         "name": "プレジデント・オーシャン",
         "phash": "10e585e69c176598",
         "phash_narrow": "9131a7ea1b471c66",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9407400,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ほしの歩き方",
+        "shortname": "特攻礼装",
+        "phash": "bd2dc7f17e8ae1ff",
+        "phash_narrow": "3d0fc17c1ea15fc8",
         "dropPriority": 9005
     },
     {
@@ -3612,6 +3622,15 @@
         "dropPriority": 8009
     },
     {
+        "id": 200,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "76290bdcc7b4432c",
+        "name": "Ｕピース〔火〕",
+        "dropPriority": 2000
+    },
+    {
         "id": 94000303,
         "type": "Item",
         "background": "gold",
@@ -5133,6 +5152,16 @@
         "phash_battle": "728d5ba54cb3a649"
     },
     {
+        "id": 94088803,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "3cf30b31a44631c8",
+        "name": "ダッココアラ",
+        "shortname": "コアラ",
+        "dropPriority": 2003
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -6353,6 +6382,16 @@
         "dropPriority": 2013
     },
     {
+        "id": 94088802,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "fc0e83f119f98c26",
+        "name": "カンガルーブーメラン",
+        "shortname": "ブーメラン",
+        "dropPriority": 2002
+    },
+    {
         "id": 4,
         "type": "Item",
         "background": "silver",
@@ -7156,6 +7195,16 @@
         "shortname": "ナッツ",
         "dropPriority": 2006,
         "phash_battle": "e40fafc613a4f03c"
+    },
+    {
+        "id": 94088801,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "56c30b2979411116",
+        "name": "カモノハシクッキー",
+        "shortname": "カモノハシ",
+        "dropPriority": 2001
     },
     {
         "id": 1,
