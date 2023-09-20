@@ -5159,7 +5159,8 @@
         "phash": "3cf30b31a44631c8",
         "name": "ダッココアラ",
         "shortname": "コアラ",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "b40319a619a539e0"
     },
     {
         "id": 3,
@@ -6389,7 +6390,8 @@
         "phash": "fc0e83f119f98c26",
         "name": "カンガルーブーメラン",
         "shortname": "ブーメラン",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "7c0643b9a926321a"
     },
     {
         "id": 4,
@@ -7204,7 +7206,8 @@
         "phash": "56c30b2979411116",
         "name": "カモノハシクッキー",
         "shortname": "カモノハシ",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "568ba979311b2196"
     },
     {
         "id": 1,
