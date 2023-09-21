@@ -204,5 +204,64 @@
         ],
         "dropItemNum": -1,
         "shortname": "現地調査！ 闇夜の訪れ！"
+    },
+    {
+        "id": 94088905,
+        "name": "世界旅行！ 灼熱の常夏ビーチ！",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9407400,
+                "name": "ほしの歩き方",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94088803,
+                "name": "ダッココアラ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94088802,
+                "name": "カンガルーブーメラン",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "世界旅行！ 灼熱の常夏ビーチ！"
     }
 ]
