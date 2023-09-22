@@ -263,5 +263,64 @@
         ],
         "dropItemNum": -1,
         "shortname": "世界旅行！ 灼熱の常夏ビーチ！"
+    },
+    {
+        "id": 94088906,
+        "name": "世界旅行！ キャンプ地の怨霊！",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9407400,
+                "name": "ほしの歩き方",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
+                "type": "Item",
+                "dropPriority": 8104
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94088803,
+                "name": "ダッココアラ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94088801,
+                "name": "カモノハシクッキー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "世界旅行！ キャンプ地の怨霊！"
     }
 ]
