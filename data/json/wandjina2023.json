@@ -381,5 +381,64 @@
         ],
         "dropItemNum": -1,
         "shortname": "世界旅行！ 砂塵舞う砂漠にて！"
+    },
+    {
+        "id": 94088908,
+        "name": "世界旅行！ ハロウィンの騒動！",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9407400,
+                "name": "ほしの歩き方",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94088803,
+                "name": "ダッココアラ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94088802,
+                "name": "カンガルーブーメラン",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ハロウィンの騒動！"
     }
 ]
