@@ -11919,6 +11919,58 @@
         "scPriority": 1267
     },
     {
+        "id": 94089601,
+        "name": "天下の飛将軍",
+        "place": "東アジアエリア",
+        "chapter": "オーディール・コール",
+        "qp": 270720,
+        "drop": [
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1268
+    },
+    {
+        "id": 94089602,
+        "name": "蘇る太古のロマン",
+        "place": "アメリカ南部エリア",
+        "chapter": "オーディール・コール",
+        "qp": 270720,
+        "drop": [
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1269
+    },
+    {
         "id": 93040201,
         "name": "隔離施設",
         "place": "修理部郊外",
@@ -11957,7 +12009,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1268
+        "scPriority": 1270
     },
     {
         "id": 93040202,
@@ -11998,7 +12050,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1269
+        "scPriority": 1271
     },
     {
         "id": 93040203,
@@ -12045,7 +12097,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1270
+        "scPriority": 1272
     },
     {
         "id": 93040204,
@@ -12086,7 +12138,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1271
+        "scPriority": 1273
     },
     {
         "id": 93040205,
@@ -12127,7 +12179,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1272
+        "scPriority": 1274
     },
     {
         "id": 93040206,
@@ -12174,7 +12226,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1273
+        "scPriority": 1275
     },
     {
         "id": 93040209,
@@ -12215,7 +12267,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1274
+        "scPriority": 1276
     },
     {
         "id": 93040210,
@@ -12244,7 +12296,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1275
+        "scPriority": 1277
     },
     {
         "id": 93040207,
@@ -12297,7 +12349,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1276
+        "scPriority": 1278
     },
     {
         "id": 93040208,
@@ -12338,7 +12390,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1277
+        "scPriority": 1279
     },
     {
         "id": 93040211,
@@ -12391,6 +12443,6 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1278
+        "scPriority": 1280
     }
 ]
