@@ -1,5 +1,64 @@
 [
     {
+        "id": 94087101,
+        "name": "不動たる信仰の末",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9407220,
+                "name": "砂盤の残映",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94086903,
+                "name": "名も無き宝剣",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94086902,
+                "name": "尖兵の籠手",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94086901,
+                "name": "鍵守りの松明",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "不動たる信仰の末"
+    },
+    {
         "id": 94087102,
         "name": "確固たる決意の果て",
         "place": "",
