@@ -287,5 +287,70 @@
         ],
         "dropItemNum": -1,
         "shortname": "愚かな儀式の痕"
+    },
+    {
+        "id": 94087106,
+        "name": "黒き感情の揺らぎ",
+        "place": "",
+        "chapter": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9407220,
+                "name": "砂盤の残映",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6529,
+                "name": "呪獣胆石",
+                "type": "Item",
+                "dropPriority": 8504
+            },
+            {
+                "id": 6541,
+                "name": "禍罪の矢尻",
+                "type": "Item",
+                "dropPriority": 8315
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94086902,
+                "name": "尖兵の籠手",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94086901,
+                "name": "鍵守りの松明",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "黒き感情の揺らぎ"
     }
 ]
