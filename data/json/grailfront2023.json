@@ -352,5 +352,64 @@
         ],
         "dropItemNum": -1,
         "shortname": "黒き感情の揺らぎ"
+    },
+    {
+        "id": 94087107,
+        "name": "血塗れた残響",
+        "place": "",
+        "chapter": "",
+        "qp": 8900,
+        "drop": [
+            {
+                "id": 9407220,
+                "name": "砂盤の残映",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6540,
+                "name": "九十九鏡",
+                "type": "Item",
+                "dropPriority": 8506
+            },
+            {
+                "id": 6550,
+                "name": "夢幻の鱗粉",
+                "type": "Item",
+                "dropPriority": 8319
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94086903,
+                "name": "名も無き宝剣",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94086902,
+                "name": "尖兵の籠手",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "血塗れた残響"
     }
 ]
