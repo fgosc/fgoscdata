@@ -470,5 +470,135 @@
         ],
         "dropItemNum": -1,
         "shortname": "悪戯な支配の跡"
+    },
+    {
+        "id": 94087109,
+        "name": "燃える情念の裏",
+        "place": "",
+        "chapter": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9407220,
+                "name": "砂盤の残映",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94086903,
+                "name": "名も無き宝剣",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94086902,
+                "name": "尖兵の籠手",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94086901,
+                "name": "鍵守りの松明",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "燃える情念の裏"
+    },
+    {
+        "id": 94087110,
+        "name": "敢え無き文明の終わり",
+        "place": "",
+        "chapter": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9407220,
+                "name": "砂盤の残映",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6554,
+                "name": "黒曜鋭刃",
+                "type": "Item",
+                "dropPriority": 8109
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94086903,
+                "name": "名も無き宝剣",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94086902,
+                "name": "尖兵の籠手",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94086901,
+                "name": "鍵守りの松明",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "敢え無き文明の終わり"
     }
 ]
