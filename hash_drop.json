@@ -3234,7 +3234,8 @@
         "phash": "5e08011c98656110",
         "name": "魔甲斐レージポイント",
         "shortname": "ポイント",
-        "dropPriority": 3004
+        "dropPriority": 3004,
+        "phash_battle": "5601851865501111"
     },
     {
         "id": 94081804,
@@ -5307,7 +5308,8 @@
         "phash": "56239506b4e125d9",
         "name": "武田ハンドル",
         "shortname": "ハンドル",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "6edb06a4e5f03911"
     },
     {
         "id": 94090005,
@@ -6571,7 +6573,8 @@
         "phash": "9d43cc6492dc07f0",
         "name": "毘天ステッカー",
         "shortname": "ステッカー",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "1ecb6492cc3396d2"
     },
     {
         "id": 4,
@@ -7410,7 +7413,8 @@
         "phash": "9e117162891c420c",
         "name": "今魔川焼",
         "shortname": "今川焼",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "0e716389540c0286"
     },
     {
         "id": 1,
