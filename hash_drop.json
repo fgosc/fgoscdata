@@ -801,6 +801,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "花と舞う妓",
+        "name_eng": "Dancing Like a Flower",
         "shortname": "礼装",
         "phash": "043307669907cde0",
         "phash_narrow": "0c3146f0175fff03",
@@ -811,6 +812,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "悠久の果てを求めて",
+        "name_eng": "Seeking the End of Permanence",
         "phash": "219aceaed255aca6",
         "phash_narrow": "29daacee537ddd97",
         "dropPriority": 9005
@@ -1187,6 +1189,16 @@
         "shortname": "特攻礼装",
         "phash": "bd2dc7f17e8ae1ff",
         "phash_narrow": "3d0fc17c1ea15fc8",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9407440,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ハウ・トゥ・ライフ",
+        "shortname": "礼装",
+        "phash": "1e2f4e40556284ba",
+        "phash_narrow": "be2f425553642a98",
         "dropPriority": 9005
     },
     {
@@ -1572,6 +1584,33 @@
         "dropPriority": 9004
     },
     {
+        "id": 9407450,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "空白の男",
+        "phash": "a525c633c97b0de4",
+        "phash_narrow": "a5a416bd7b9bc45a",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9407460,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "天性の捕食者",
+        "phash": "7932ec6e01b2fc44",
+        "phash_narrow": "5a93ee0d13ba61a3",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9407470,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "霧の情景",
+        "phash": "5156c57c9bb93eb3",
+        "phash_narrow": "51d6ecdce975977d",
+        "dropPriority": 9004
+    },
+    {
         "id": 9800400,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1718,6 +1757,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：阿国座カルデア公演",
+        "name_eng": "CE EXP Card: Okuni Troupe's Performance in Chaldea",
         "shortname": "★4EXP礼装",
         "phash": "e3507d2bb123bc06",
         "phash_narrow": "e35c4d3fe1b7b13e",
@@ -1759,6 +1799,16 @@
         "name": "概念礼装EXPカード：私にだけ見える兎",
         "phash": "a1bdf52b4d722ce3",
         "phash_narrow": "a0b4f7a1561e922d",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9808890,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "概念礼装EXPカード：ナイス甲斐",
+        "shortname": "★4EXP礼装",
+        "phash": "92338c0eb9fb0940",
+        "phash_narrow": "32f30c04fb891933",
         "dropPriority": 9004
     },
     {
@@ -1952,6 +2002,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "概念礼装EXPカード：謎の蘭丸X飛来！",
+        "name_eng": "CE EXP Card: Mysterious Ranmaru X Lands!",
         "shortname": "★3EXP礼装",
         "phash": "a1702ea6f1db6966",
         "phash_narrow": "8178aef6bbeadc71",
@@ -1975,6 +2026,16 @@
         "shortname": "★3EXP礼装",
         "phash": "13bae6e71d53e997",
         "phash_narrow": "113ae6ae5aebac5b",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9808900,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "概念礼装EXPカード：雑賀にお任せ",
+        "shortname": "★3EXP礼装",
+        "phash": "5e17c41281a4a499",
+        "phash_narrow": "5a4f545300728a04",
         "dropPriority": 9003
     },
     {
@@ -3164,6 +3225,16 @@
         ],
         "dropPriority": 5194,
         "phash_battle": "1c892382d192a443"
+    },
+    {
+        "id": 94090004,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5e08011c98656110",
+        "name": "魔甲斐レージポイント",
+        "shortname": "ポイント",
+        "dropPriority": 3004
     },
     {
         "id": 94081804,
@@ -4761,6 +4832,7 @@
         "rarity": 3,
         "phash": "d621bf582396d926",
         "name": "維新まんじゅう",
+        "name_eng": "Restoration Manjyu",
         "shortname": "まんじゅう",
         "dropPriority": 2003,
         "phash_battle": "42ff4c23d867308e"
@@ -4772,6 +4844,7 @@
         "rarity": 3,
         "phash": "d60725a00b5d13a9",
         "name": "謎の物質RX",
+        "name_eng": "Mysterious Substance RX",
         "dropPriority": 2004
     },
     {
@@ -5225,6 +5298,26 @@
         "phash": "3f06f35c06e169c6",
         "name": "リリース3000日突破記念特別チケット",
         "dropPriority": 2001
+    },
+    {
+        "id": 94090003,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "56239506b4e125d9",
+        "name": "武田ハンドル",
+        "shortname": "ハンドル",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94090005,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d60121d0c06d3c81",
+        "name": "Ｍ５１チケット",
+        "shortname": "チケット",
+        "dropPriority": 2005
     },
     {
         "id": 3,
@@ -6115,6 +6208,7 @@
         "rarity": 2,
         "phash": "5612f98db195dc21",
         "name": "ＦＵＫＡＹＡネギ",
+        "name_eng": "FUKAYA Green Onion",
         "shortname": "ネギ",
         "dropPriority": 2002,
         "phash_battle": "16128d95dc298d11"
@@ -6468,6 +6562,16 @@
         "shortname": "ブーメラン",
         "dropPriority": 2002,
         "phash_battle": "7c0643b9a926321a"
+    },
+    {
+        "id": 94090002,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "9d43cc6492dc07f0",
+        "name": "毘天ステッカー",
+        "shortname": "ステッカー",
+        "dropPriority": 2002
     },
     {
         "id": 4,
@@ -7095,6 +7199,7 @@
         "rarity": 1,
         "phash": "5c3dad0271e40b1f",
         "name": "ＭＩＳＯポテト",
+        "name_eng": "MISO Potato",
         "shortname": "ＭＩＳＯポテト",
         "dropPriority": 2001,
         "phash_battle": "1efd0370661f8c31"
@@ -7296,6 +7401,16 @@
         "shortname": "カモノハシ",
         "dropPriority": 2001,
         "phash_battle": "568ba979311b2196"
+    },
+    {
+        "id": 94090001,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "9e117162891c420c",
+        "name": "今魔川焼",
+        "shortname": "今川焼",
+        "dropPriority": 2001
     },
     {
         "id": 1,
