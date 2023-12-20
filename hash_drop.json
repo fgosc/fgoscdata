@@ -822,6 +822,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ライク・ア・レディ",
+        "name_eng": "Like a Lady",
         "shortname": "礼装",
         "phash": "613dc00fb0023df2",
         "phash_narrow": "69bc4e7d823d723d",
@@ -1199,6 +1200,25 @@
         "shortname": "礼装",
         "phash": "1e2f4e40556284ba",
         "phash_narrow": "be2f425553642a98",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9407480,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ＮＦＦから愛をこめて",
+        "phash": "723f68c49a896416",
+        "phash_narrow": "463f64d69950ba41",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9407520,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "聖しこの青",
+        "shortname": "礼装",
+        "phash": "01fbfb26fac6e6a9",
+        "phash_narrow": "05fb713855e6ae5f",
         "dropPriority": 9005
     },
     {
@@ -4855,6 +4875,7 @@
         "rarity": 3,
         "phash": "764bad94439c718e",
         "name": "リッチバター",
+        "name_eng": "Rich Butter",
         "shortname": "バター",
         "dropPriority": 2003,
         "phash_battle": "2aad5442758f20ab"
@@ -4866,6 +4887,7 @@
         "rarity": 3,
         "phash": "9643298ef485f15b",
         "name": "メリーサイダー",
+        "name_eng": "Merry Cider",
         "shortname": "メリーサイダー",
         "dropPriority": 2004
     },
@@ -4876,6 +4898,7 @@
         "rarity": 3,
         "phash": "b608d34e2c90c93f",
         "name": "聖女見習いの交換券",
+        "name_eng": "Holy Maiden Apprenticeship Exchange Ticket",
         "shortname": "券",
         "dropPriority": 2005
     },
@@ -4886,6 +4909,7 @@
         "rarity": 3,
         "phash": "5b52328d6d815d59",
         "name": "ツリースプーン",
+        "name_eng": "Tree Spoon",
         "shortname": "スプーン",
         "dropPriority": 2006,
         "phash_battle": "5a12bc655943b436"
@@ -4897,6 +4921,7 @@
         "rarity": 3,
         "phash": "70f0e2271f1fe3c3",
         "name": "おたまステッキ",
+        "name_eng": "Ladle Wand",
         "shortname": "ステッキ",
         "dropPriority": 2008
     },
@@ -5320,6 +5345,44 @@
         "name": "Ｍ５１チケット",
         "shortname": "チケット",
         "dropPriority": 2005
+    },
+    {
+        "id": 94090903,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5609fcc217602458",
+        "name": "シャークパイ",
+        "shortname": "パイ",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94090904,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "dc8903b6610c7986",
+        "name": "ノーチラスオーナメント",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94090905,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "ec0313bc825b46a3",
+        "name": "クリスマスハッピーチケット",
+        "shortname": "くじ",
+        "dropPriority": 2005
+    },
+    {
+        "id": 94090907,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "568ca9b3c34a3c93",
+        "name": "サンタボンバーハット",
+        "dropPriority": 2007
     },
     {
         "id": 3,
@@ -6222,6 +6285,7 @@
         "rarity": 2,
         "phash": "d62935dacb24789c",
         "name": "スイートエッグ",
+        "name_eng": "Sweet Egg",
         "shortname": "エッグ",
         "dropPriority": 2002,
         "phash_battle": "ce215d4a7488c794"
@@ -6575,6 +6639,16 @@
         "shortname": "ステッカー",
         "dropPriority": 2002,
         "phash_battle": "1ecb6492cc3396d2"
+    },
+    {
+        "id": 94090902,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "97b2294c52b321d9",
+        "name": "サンゴケイン",
+        "shortname": "サンゴ",
+        "dropPriority": 2002
     },
     {
         "id": 4,
@@ -7214,6 +7288,7 @@
         "rarity": 1,
         "phash": "5601857028145206",
         "name": "シュガーフルーツ",
+        "name_eng": "Candied Fruit",
         "shortname": "フルーツ",
         "dropPriority": 2001,
         "phash_battle": "7285e1085616a129"
@@ -7415,6 +7490,16 @@
         "shortname": "今川焼",
         "dropPriority": 2001,
         "phash_battle": "0e716389540c0286"
+    },
+    {
+        "id": 94090901,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "d60769d130336889",
+        "name": "シェルクラッカー",
+        "shortname": "クラッカー",
+        "dropPriority": 2001
     },
     {
         "id": 1,
