@@ -266,6 +266,12 @@
                 "name": "クリスマスハッピーチケット",
                 "type": "Item",
                 "dropPriority": 2005
+            },
+            {
+                "id": 94090903,
+                "name": "シャークパイ",
+                "type": "Item",
+                "dropPriority": 2003
             }
         ],
         "dropItemNum": -1,
@@ -331,6 +337,12 @@
                 "name": "クリスマスハッピーチケット",
                 "type": "Item",
                 "dropPriority": 2005
+            },
+            {
+                "id": 94090901,
+                "name": "シェルクラッカー",
+                "type": "Item",
+                "dropPriority": 2001
             }
         ],
         "dropItemNum": -1,
