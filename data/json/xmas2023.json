@@ -278,6 +278,35 @@
         "shortname": "ルート整備大作戦！ 超級"
     },
     {
+        "id": 94091101,
+        "name": "ルート整備大作戦！ スノークリスタル級",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 94090903,
+                "name": "シャークパイ",
+                "type": "Item",
+                "dropPriority": 2003
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ルート整備大作戦！ スノークリスタル級"
+    },
+    {
         "id": 94091011,
         "name": "【日替わり】ルート整備大作戦！ パウダーダスト級（1日目）",
         "place": "",
