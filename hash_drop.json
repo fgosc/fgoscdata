@@ -5354,7 +5354,8 @@
         "phash": "5609fcc217602458",
         "name": "シャークパイ",
         "shortname": "パイ",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "4669d2f720580285"
     },
     {
         "id": 94090904,
@@ -5373,7 +5374,8 @@
         "phash": "ec0313bc825b46a3",
         "name": "クリスマスハッピーチケット",
         "shortname": "くじ",
-        "dropPriority": 2005
+        "dropPriority": 2005,
+        "phash_battle": "e60bb49266c03996"
     },
     {
         "id": 94090907,
@@ -6648,7 +6650,8 @@
         "phash": "97b2294c52b321d9",
         "name": "サンゴケイン",
         "shortname": "サンゴ",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "96b96d52b1589962"
     },
     {
         "id": 4,
@@ -7499,7 +7502,8 @@
         "phash": "d60769d130336889",
         "name": "シェルクラッカー",
         "shortname": "クラッカー",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "d66fc93361208598"
     },
     {
         "id": 1,
