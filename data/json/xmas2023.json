@@ -595,5 +595,147 @@
         ],
         "dropItemNum": -1,
         "shortname": "【日替わり】ルート整備大作戦！ フレークダスト級（2日目）"
+    },
+    {
+        "id": 94091031,
+        "name": "【日替わり】ルート整備大作戦！ パウダーダスト級（3日目）",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9407520,
+                "name": "聖しこの青",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94090905,
+                "name": "クリスマスハッピーチケット",
+                "type": "Item",
+                "dropPriority": 2005
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【日替わり】ルート整備大作戦！ パウダーダスト級（3日目）"
+    },
+    {
+        "id": 94091032,
+        "name": "【日替わり】ルート整備大作戦！ フレークダスト級（3日目）",
+        "place": "",
+        "chapter": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9407520,
+                "name": "聖しこの青",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6546,
+                "name": "悠久の実",
+                "type": "Item",
+                "dropPriority": 8407
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94090905,
+                "name": "クリスマスハッピーチケット",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94090903,
+                "name": "シャークパイ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94090902,
+                "name": "サンゴケイン",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94090901,
+                "name": "シェルクラッカー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【日替わり】ルート整備大作戦！ フレークダスト級（3日目）"
     }
 ]
