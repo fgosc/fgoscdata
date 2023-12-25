@@ -1009,5 +1009,141 @@
         ],
         "dropItemNum": -1,
         "shortname": "【日替わり】ルート整備大作戦！ フレークダスト級（5日目）"
+    },
+    {
+        "id": 94091061,
+        "name": "【日替わり】ルート整備大作戦！ パウダーダスト級（6日目）",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9407520,
+                "name": "聖しこの青",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94090905,
+                "name": "クリスマスハッピーチケット",
+                "type": "Item",
+                "dropPriority": 2005
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【日替わり】ルート整備大作戦！ パウダーダスト級（6日目）"
+    },
+    {
+        "id": 94091062,
+        "name": "【日替わり】ルート整備大作戦！ フレークダスト級（6日目）",
+        "place": "",
+        "chapter": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9407520,
+                "name": "聖しこの青",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6511,
+                "name": "禁断の頁",
+                "type": "Item",
+                "dropPriority": 8303
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94090905,
+                "name": "クリスマスハッピーチケット",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94090903,
+                "name": "シャークパイ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94090902,
+                "name": "サンゴケイン",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94090901,
+                "name": "シェルクラッカー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【日替わり】ルート整備大作戦！ フレークダスト級（6日目）"
     }
 ]
