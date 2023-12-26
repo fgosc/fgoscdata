@@ -1145,5 +1145,224 @@
         ],
         "dropItemNum": -1,
         "shortname": "【日替わり】ルート整備大作戦！ フレークダスト級（6日目）"
+    },
+    {
+        "id": 94091071,
+        "name": "ルート整備大作戦！ パウダーダスト級",
+        "place": "",
+        "chapter": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9407520,
+                "name": "聖しこの青",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94090905,
+                "name": "クリスマスハッピーチケット",
+                "type": "Item",
+                "dropPriority": 2005
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ルート整備大作戦！ パウダーダスト級"
+    },
+    {
+        "id": 94091072,
+        "name": "ルート整備大作戦！ フレークダスト級",
+        "place": "",
+        "chapter": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9407520,
+                "name": "聖しこの青",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94090905,
+                "name": "クリスマスハッピーチケット",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94090903,
+                "name": "シャークパイ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94090902,
+                "name": "サンゴケイン",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94090901,
+                "name": "シェルクラッカー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ルート整備大作戦！ フレークダスト級"
+    },
+    {
+        "id": 94091073,
+        "name": "ルート整備大作戦！ ダイヤモンドダスト級",
+        "place": "",
+        "chapter": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9407520,
+                "name": "聖しこの青",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6542,
+                "name": "真理の卵",
+                "type": "Item",
+                "dropPriority": 8507
+            },
+            {
+                "id": 6525,
+                "name": "智慧のスカラベ",
+                "type": "Item",
+                "dropPriority": 8503
+            },
+            {
+                "id": 6556,
+                "name": "エーテル収光体",
+                "type": "Item",
+                "dropPriority": 8321
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 94090905,
+                "name": "クリスマスハッピーチケット",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94090903,
+                "name": "シャークパイ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94090902,
+                "name": "サンゴケイン",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94090901,
+                "name": "シェルクラッカー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ルート整備大作戦！ ダイヤモンドダスト級"
     }
 ]
