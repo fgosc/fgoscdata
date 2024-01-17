@@ -833,6 +833,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "冬の聖女",
+        "name_eng": "Holy Maiden of Winter",
         "phash": "3c297895715be418",
         "phash_narrow": "3c2b94bddbe66213",
         "dropPriority": 9005
@@ -842,6 +843,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ファースト・ドローイング",
+        "name_eng": "First Drawing",
         "phash": "c9e0accc5622a976",
         "phash_narrow": "d1a3acdc7ad966a9",
         "dropPriority": 9005
@@ -1222,6 +1224,25 @@
         "dropPriority": 9005
     },
     {
+        "id": 9407530,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "女神の御籤",
+        "phash": "60939c69cb49d29f",
+        "phash_narrow": "6392b4eb49cb8b78",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9407590,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "月より団子",
+        "shortname": "礼装",
+        "phash": "1a16e4c6cb29b1d2",
+        "phash_narrow": "1a36c4c629add91b",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1266,6 +1287,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "庭園の守り人",
+        "name_eng": "Guardians of the Garden",
         "phash": "59784e9285f44fda",
         "phash_narrow": "516cfa97f5e5da7a",
         "dropPriority": 9004
@@ -1275,6 +1297,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "心尽くしの",
+        "name_eng": "A Thoughtful Meal",
         "phash": "2bc8fcad6848f8f6",
         "phash_narrow": "2be8bda7c95878e6",
         "dropPriority": 9004
@@ -1595,6 +1618,15 @@
         "dropPriority": 9004
     },
     {
+        "id": 9407170,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "緋毛の燎原",
+        "phash": "e91ba03cd42652eb",
+        "phash_narrow": "6b9ba87db47cb063",
+        "dropPriority": 9004
+    },
+    {
         "id": 9407200,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1628,6 +1660,15 @@
         "name": "霧の情景",
         "phash": "5156c57c9bb93eb3",
         "phash_narrow": "51d6ecdce975977d",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9407540,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "咲初めに鶴",
+        "phash": "16cda53431235919",
+        "phash_narrow": "56cdcc9c25724563",
         "dropPriority": 9004
     },
     {
@@ -1788,6 +1829,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：虎と遭難",
+        "name_eng": "CE EXP Card: Life of Olga",
         "phash": "70378d01e9e21410",
         "phash_narrow": "722f8c51eb8d13a9",
         "dropPriority": 9004
@@ -1829,6 +1871,15 @@
         "shortname": "★4EXP礼装",
         "phash": "92338c0eb9fb0940",
         "phash_narrow": "32f30c04fb891933",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9808910,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "概念礼装EXPカード：おせちもいいんですけど",
+        "phash": "22155d29a7520300",
+        "phash_narrow": "021d5dadf52307e6",
         "dropPriority": 9004
     },
     {
@@ -1876,6 +1927,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "穂群原学園生徒会長",
+        "name_eng": "Homurabara Academy Student Council President",
         "phash": "ee42b42549cd9393",
         "phash_narrow": "ee56b6696ca7cfce",
         "dropPriority": 9003
@@ -1923,6 +1975,15 @@
         "name": "きみのぼうけん",
         "phash": "680b3ee2955a28a5",
         "phash_narrow": "681d7ae5df5abd4a",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9407550,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "環太平洋地帯にて",
+        "phash": "621b1df8919c6f26",
+        "phash_narrow": "62071d71b8e9a176",
         "dropPriority": 9003
     },
     {
@@ -5387,6 +5448,25 @@
         "dropPriority": 2007
     },
     {
+        "id": 94091503,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "6e02c551232e59c4",
+        "name": "武蔵うどん",
+        "shortname": "うどん",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94091504,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "762b86d10e729178",
+        "name": "水引根付",
+        "dropPriority": 2004
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -6654,6 +6734,16 @@
         "phash_battle": "96b96d52b1589962"
     },
     {
+        "id": 94091502,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "cea3b1580fdc438e",
+        "name": "江戸むすび",
+        "shortname": "むすび",
+        "dropPriority": 2002
+    },
+    {
         "id": 4,
         "type": "Item",
         "background": "silver",
@@ -7504,6 +7594,16 @@
         "shortname": "クラッカー",
         "dropPriority": 2001,
         "phash_battle": "d66fc93361208598"
+    },
+    {
+        "id": 94091501,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "fce917260316c384",
+        "name": "東干し柿",
+        "shortname": "干し柿",
+        "dropPriority": 2001
     },
     {
         "id": 1,
