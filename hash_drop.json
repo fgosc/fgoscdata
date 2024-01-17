@@ -5455,7 +5455,8 @@
         "phash": "6e02c551232e59c4",
         "name": "武蔵うどん",
         "shortname": "うどん",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "ae0559235ac11498"
     },
     {
         "id": 94091504,
@@ -6741,7 +6742,8 @@
         "phash": "cea3b1580fdc438e",
         "name": "江戸むすび",
         "shortname": "むすび",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "8eb128cec0ae403e"
     },
     {
         "id": 4,
@@ -7603,7 +7605,8 @@
         "phash": "fce917260316c384",
         "name": "東干し柿",
         "shortname": "干し柿",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "f85daf034285280a"
     },
     {
         "id": 1,
