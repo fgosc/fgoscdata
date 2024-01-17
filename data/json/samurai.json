@@ -53,6 +53,59 @@
         "shortname": "怪異退治 浅草 お邪魔虫駆除"
     },
     {
+        "id": 94091601,
+        "name": "怪異退治 浅草 猛獣夜行",
+        "place": "",
+        "chapter": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9407590,
+                "name": "月より団子",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 94091503,
+                "name": "武蔵うどん",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94091502,
+                "name": "江戸むすび",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "怪異退治 浅草 猛獣夜行"
+    },
+    {
         "id": 94091602,
         "name": "怪異退治 浅草 月下の鬼宴",
         "place": "",
