@@ -1,0 +1,108 @@
+[
+    {
+        "id": 94091600,
+        "name": "怪異退治 浅草 お邪魔虫駆除",
+        "place": "",
+        "chapter": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 9407590,
+                "name": "月より団子",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6541,
+                "name": "禍罪の矢尻",
+                "type": "Item",
+                "dropPriority": 8315
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 94091502,
+                "name": "江戸むすび",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94091501,
+                "name": "東干し柿",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "怪異退治 浅草 お邪魔虫駆除"
+    },
+    {
+        "id": 94091602,
+        "name": "怪異退治 浅草 月下の鬼宴",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9407590,
+                "name": "月より団子",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 94091503,
+                "name": "武蔵うどん",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94091501,
+                "name": "東干し柿",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "怪異退治 浅草 月下の鬼宴"
+    }
+]
