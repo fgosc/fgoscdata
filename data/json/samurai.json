@@ -275,5 +275,58 @@
         ],
         "dropItemNum": -1,
         "shortname": "増怪異退治 増上寺 消えた禁呪書寺"
+    },
+    {
+        "id": 94091605,
+        "name": "怪異退治 赤坂 乱世の軍勢",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9407590,
+                "name": "月より団子",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94091503,
+                "name": "武蔵うどん",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94091502,
+                "name": "江戸むすび",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "怪異退治 赤坂 乱世の軍勢"
     }
 ]
