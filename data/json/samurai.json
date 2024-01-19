@@ -222,5 +222,58 @@
         ],
         "dropItemNum": -1,
         "shortname": "怪異退治 吉原 遊女の恩讐"
+    },
+    {
+        "id": 94091604,
+        "name": "怪異退治 増上寺 消えた禁呪書",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9407590,
+                "name": "月より団子",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6511,
+                "name": "禁断の頁",
+                "type": "Item",
+                "dropPriority": 8303
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94091502,
+                "name": "江戸むすび",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94091501,
+                "name": "東干し柿",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "増怪異退治 増上寺 消えた禁呪書寺"
     }
 ]
