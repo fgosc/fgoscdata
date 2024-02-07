@@ -12017,6 +12017,46 @@
         "scPriority": 1271
     },
     {
+        "id": 94093201,
+        "name": "光糸導く迷宮",
+        "place": "北大西洋エリア",
+        "chapter": "オーディール・コール",
+        "qp": 270720,
+        "drop": [
+            {
+                "id": 6544,
+                "name": "煌星のカケラ",
+                "type": "Item",
+                "dropPriority": 8508
+            },
+            {
+                "id": 6543,
+                "name": "光銀の冠",
+                "type": "Item",
+                "dropPriority": 8316
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1272
+    },
+    {
+        "id": 94093202,
+        "name": "久遠の微笑",
+        "place": "北大西洋エリア",
+        "chapter": "オーディール・コール",
+        "qp": 324870,
+        "drop": [
+            {
+                "id": 6546,
+                "name": "悠久の実",
+                "type": "Item",
+                "dropPriority": 8407
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 1273
+    },
+    {
         "id": 93040201,
         "name": "隔離施設",
         "place": "修理部郊外",
@@ -12055,7 +12095,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1272
+        "scPriority": 1274
     },
     {
         "id": 93040202,
@@ -12096,7 +12136,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1273
+        "scPriority": 1275
     },
     {
         "id": 93040203,
@@ -12143,7 +12183,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1274
+        "scPriority": 1276
     },
     {
         "id": 93040204,
@@ -12184,7 +12224,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1275
+        "scPriority": 1277
     },
     {
         "id": 93040205,
@@ -12225,7 +12265,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1276
+        "scPriority": 1278
     },
     {
         "id": 93040206,
@@ -12272,7 +12312,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1277
+        "scPriority": 1279
     },
     {
         "id": 93040209,
@@ -12313,7 +12353,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1278
+        "scPriority": 1280
     },
     {
         "id": 93040210,
@@ -12342,7 +12382,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1279
+        "scPriority": 1281
     },
     {
         "id": 93040207,
@@ -12395,7 +12435,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1280
+        "scPriority": 1282
     },
     {
         "id": 93040208,
@@ -12436,59 +12476,6 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 1281
-    },
-    {
-        "id": 93040211,
-        "name": "ビッグストレージ",
-        "place": "生産部本部",
-        "chapter": "ペーパームーン",
-        "qp": 11310,
-        "drop": [
-            {
-                "id": 6544,
-                "name": "煌星のカケラ",
-                "type": "Item",
-                "dropPriority": 8508
-            },
-            {
-                "id": 6556,
-                "name": "エーテル収光体",
-                "type": "Item",
-                "dropPriority": 8321
-            },
-            {
-                "id": 6204,
-                "name": "騎の秘石",
-                "type": "Item",
-                "dropPriority": 6297
-            },
-            {
-                "id": 6104,
-                "name": "騎の魔石",
-                "type": "Item",
-                "dropPriority": 6197
-            },
-            {
-                "id": 6005,
-                "name": "術の輝石",
-                "type": "Item",
-                "dropPriority": 6096
-            },
-            {
-                "id": 9704400,
-                "name": "騎猛火",
-                "type": "Exp. UP",
-                "dropPriority": 676
-            },
-            {
-                "id": 9704500,
-                "name": "騎業火",
-                "type": "Exp. UP",
-                "dropPriority": 675
-            }
-        ],
-        "dropItemNum": -1,
-        "scPriority": 1282
+        "scPriority": 1283
     }
 ]
