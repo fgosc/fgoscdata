@@ -242,6 +242,71 @@
         "shortname": "岩集め 石の上にも三年"
     },
     {
+        "id": 94092804,
+        "name": "岩集め 或る戦争の記録",
+        "place": "",
+        "chapter": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9407630,
+                "name": "ご褒美は勉強の後で",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94092704,
+                "name": "ストーンチョコポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94092702,
+                "name": "フォンデュマシュマロ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94092701,
+                "name": "フォンデュビスケット",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "岩集め 或る戦争の記録"
+    },
+    {
         "id": 94092806,
         "name": "岩集め チョコっとグルメ日和",
         "place": "",
