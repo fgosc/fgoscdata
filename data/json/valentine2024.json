@@ -177,6 +177,71 @@
         "shortname": "岩集め 謎の巨大爆破跡"
     },
     {
+        "id": 94092803,
+        "name": "岩集め 石の上にも三年",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 9407630,
+                "name": "ご褒美は勉強の後で",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94092704,
+                "name": "ストーンチョコポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94092703,
+                "name": "フォンデュイチゴ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94092702,
+                "name": "フォンデュマシュマロ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94092701,
+                "name": "フォンデュビスケット",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "岩集め 石の上にも三年"
+    },
+    {
         "id": 94092806,
         "name": "岩集め チョコっとグルメ日和",
         "place": "",
