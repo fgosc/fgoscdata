@@ -853,6 +853,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "お疲れ様です！",
+        "name_eng": "Thank You For Your Hard Work!",
         "shortname": "礼装",
         "phash": "b6e56726cabb4530",
         "phash_narrow": "96e525c69b4d0125",
@@ -1243,6 +1244,16 @@
         "dropPriority": 9005
     },
     {
+        "id": 9407630,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ご褒美は勉強の後で",
+        "shortname": "礼装",
+        "phash": "1ea3668f9a2be006",
+        "phash_narrow": "1e63679808f8224e",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1316,6 +1327,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "無尽の塵山",
+        "name_eng": "Inexhaustible Mound of Dust",
         "phash": "99568d02799ea9d6",
         "phash_narrow": "9a5c07629f22cc20",
         "dropPriority": 9004
@@ -3308,6 +3320,16 @@
         "phash_battle": "1c892382d192a443"
     },
     {
+        "id": 94092704,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "96e2691c4ae4d986",
+        "name": "ストーンチョコポイント",
+        "shortname": "ポイント",
+        "dropPriority": 3004
+    },
+    {
         "id": 94090004,
         "type": "Point",
         "background": "silver",
@@ -3387,6 +3409,7 @@
         "rarity": 2,
         "phash": "e6996964884c6192",
         "name": "用心棒ポイント",
+        "name_eng": "Bodyguard Points",
         "shortname": "用心棒P",
         "dropPriority": 3004,
         "phash_battle": "86790d886cf3511c"
@@ -4993,6 +5016,7 @@
         "rarity": 3,
         "phash": "fc780303a3e0731c",
         "name": "スパイシーショコラトル",
+        "name_eng": "Spicy Xocolatl",
         "shortname": "ショコラトル",
         "dropPriority": 2003,
         "phash_battle": "fc0303a0623cec0c"
@@ -5466,6 +5490,25 @@
         "phash": "762b86d10e729178",
         "name": "水引根付",
         "dropPriority": 2004
+    },
+    {
+        "id": 94092703,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "f40329c4db349388",
+        "name": "フォンデュイチゴ",
+        "shortname": "イチゴ",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94093701,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5609a15658b54e1b",
+        "name": "Fate/stay night 20th記念特別交換チケット",
+        "dropPriority": 2001
     },
     {
         "id": 3,
@@ -6380,6 +6423,7 @@
         "rarity": 2,
         "phash": "56210958491681a4",
         "name": "ビターパウダー",
+        "name_eng": "Bitter Powder",
         "shortname": "パウダー",
         "dropPriority": 2002,
         "phash_battle": "7621695a17b42444"
@@ -6744,6 +6788,16 @@
         "shortname": "むすび",
         "dropPriority": 2002,
         "phash_battle": "8eb128cec0ae403e"
+    },
+    {
+        "id": 94092702,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "fc730df6c3799246",
+        "name": "フォンデュマシュマロ",
+        "shortname": "マシュマロ",
+        "dropPriority": 2002
     },
     {
         "id": 4,
@@ -7395,6 +7449,7 @@
         "rarity": 1,
         "phash": "fc03d92c24044151",
         "name": "カカオチップ",
+        "name_eng": "Cacao Chips",
         "shortname": "カカオチップ",
         "dropPriority": 2001,
         "phash_battle": "2e43f8044453a00c"
@@ -7607,6 +7662,16 @@
         "shortname": "干し柿",
         "dropPriority": 2001,
         "phash_battle": "f85daf034285280a"
+    },
+    {
+        "id": 94092701,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "7c038556a9924224",
+        "name": "フォンデュビスケット",
+        "shortname": "ビスケット",
+        "dropPriority": 2001
     },
     {
         "id": 1,
