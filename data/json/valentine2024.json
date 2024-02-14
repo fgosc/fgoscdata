@@ -1,5 +1,64 @@
 [
     {
+        "id": 94092800,
+        "name": "岩集め 自然を愛する撮影家",
+        "place": "",
+        "chapter": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 9407630,
+                "name": "ご褒美は勉強の後で",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94092704,
+                "name": "ストーンチョコポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94092702,
+                "name": "フォンデュマシュマロ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94092701,
+                "name": "フォンデュビスケット",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "岩集め 自然を愛する撮影家"
+    },
+    {
         "id": 94092806,
         "name": "岩集め チョコっとグルメ日和",
         "place": "",
