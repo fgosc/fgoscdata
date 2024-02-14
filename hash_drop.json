@@ -3327,7 +3327,8 @@
         "phash": "96e2691c4ae4d986",
         "name": "ストーンチョコポイント",
         "shortname": "ポイント",
-        "dropPriority": 3004
+        "dropPriority": 3004,
+        "phash_battle": "96693866d11cec12"
     },
     {
         "id": 94090004,
@@ -5499,7 +5500,8 @@
         "phash": "f40329c4db349388",
         "name": "フォンデュイチゴ",
         "shortname": "イチゴ",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "d62bc0fb10831c08"
     },
     {
         "id": 94093701,
@@ -6797,7 +6799,8 @@
         "phash": "fc730df6c3799246",
         "name": "フォンデュマシュマロ",
         "shortname": "マシュマロ",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "54a906e93d06f912"
     },
     {
         "id": 4,
@@ -7671,7 +7674,8 @@
         "phash": "7c038556a9924224",
         "name": "フォンデュビスケット",
         "shortname": "ビスケット",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "fc012e8912649106"
     },
     {
         "id": 1,
