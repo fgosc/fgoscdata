@@ -553,5 +553,76 @@
         ],
         "dropItemNum": -1,
         "shortname": "岩集め 注文の多い刀鍛冶"
+    },
+    {
+        "id": 94092809,
+        "name": "岩集め 素敵な拷問準備中",
+        "place": "",
+        "chapter": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9407630,
+                "name": "ご褒美は勉強の後で",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6544,
+                "name": "煌星のカケラ",
+                "type": "Item",
+                "dropPriority": 8508
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94092704,
+                "name": "ストーンチョコポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94092703,
+                "name": "フォンデュイチゴ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94092702,
+                "name": "フォンデュマシュマロ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94092701,
+                "name": "フォンデュビスケット",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "岩集め 素敵な拷問準備中"
     }
 ]
