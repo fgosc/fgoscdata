@@ -482,5 +482,76 @@
         ],
         "dropItemNum": -1,
         "shortname": "岩集め 宝石を求めて三千里"
+    },
+    {
+        "id": 94092808,
+        "name": "岩集め 注文の多い刀鍛冶",
+        "place": "",
+        "chapter": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9407630,
+                "name": "ご褒美は勉強の後で",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6518,
+                "name": "精霊根",
+                "type": "Item",
+                "dropPriority": 8502
+            },
+            {
+                "id": 6550,
+                "name": "夢幻の鱗粉",
+                "type": "Item",
+                "dropPriority": 8319
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94092704,
+                "name": "ストーンチョコポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94092703,
+                "name": "フォンデュイチゴ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94092702,
+                "name": "フォンデュマシュマロ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94092701,
+                "name": "フォンデュビスケット",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "岩集め 注文の多い刀鍛冶"
     }
 ]
