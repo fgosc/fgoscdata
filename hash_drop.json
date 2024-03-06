@@ -5535,7 +5535,8 @@
         "phash": "6689f902520ab3f4",
         "name": "博愛のマカロン",
         "shortname": "マカロン",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "e6c9305a91166d92"
     },
     {
         "id": 94093304,
@@ -6854,7 +6855,8 @@
         "phash": "7c834c3818730bd6",
         "name": "信念のゼリー",
         "shortname": "ゼリー",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "fc835c30838c49b6"
     },
     {
         "id": 4,
@@ -7740,7 +7742,8 @@
         "phash": "f61fd2a1788d0c49",
         "name": "勇気のキャンディ",
         "shortname": "キャンディ",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "1697b3f90c096161"
     },
     {
         "id": 1,
