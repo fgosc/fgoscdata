@@ -39,5 +39,87 @@
         ],
         "dropItemNum": -1,
         "shortname": "アントラクト・お芝居特訓！ 初級"
+    },
+    {
+        "id": 94093402,
+        "name": "アントラクト・お芝居特訓！ 中級",
+        "place": "",
+        "chapter": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
+                "type": "Item",
+                "dropPriority": 8104
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94093303,
+                "name": "博愛のマカロン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94093302,
+                "name": "信念のゼリー",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "アントラクト・お芝居特訓！ 中級"
+    },
+    {
+        "id": 94093403,
+        "name": "アントラクト・お芝居特訓！ 上級",
+        "place": "",
+        "chapter": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94093303,
+                "name": "博愛のマカロン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94093301,
+                "name": "勇気のキャンディ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "アントラクト・お芝居特訓！ 上級"
     }
 ]
