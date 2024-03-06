@@ -1,0 +1,43 @@
+[
+    {
+        "id": 94093401,
+        "name": "アントラクト・お芝居特訓！ 初級",
+        "place": "",
+        "chapter": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            },
+            {
+                "id": 94093302,
+                "name": "信念のゼリー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94093301,
+                "name": "勇気のキャンディ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "アントラクト・お芝居特訓！ 初級"
+    }
+]
