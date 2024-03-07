@@ -121,5 +121,58 @@
         ],
         "dropItemNum": -1,
         "shortname": "アントラクト・お芝居特訓！ 上級"
+    },
+    {
+        "id": 94093404,
+        "name": "アントラクト・お芝居特訓！ 超級",
+        "place": "",
+        "chapter": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 6546,
+                "name": "悠久の実",
+                "type": "Item",
+                "dropPriority": 8407
+            },
+            {
+                "id": 6511,
+                "name": "禁断の頁",
+                "type": "Item",
+                "dropPriority": 8303
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 94093303,
+                "name": "博愛のマカロン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94093302,
+                "name": "信念のゼリー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94093301,
+                "name": "勇気のキャンディ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "アントラクト・お芝居特訓！ 超級"
     }
 ]
