@@ -227,5 +227,64 @@
         ],
         "dropItemNum": -1,
         "shortname": "アントラクト・お芝居特訓！ スタジオ級"
+    },
+    {
+        "id": 94093406,
+        "name": "アントラクト・お芝居特訓！ シアター級",
+        "place": "",
+        "chapter": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 6517,
+                "name": "蛮神の心臓",
+                "type": "Item",
+                "dropPriority": 8500
+            },
+            {
+                "id": 6543,
+                "name": "光銀の冠",
+                "type": "Item",
+                "dropPriority": 8316
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94093303,
+                "name": "博愛のマカロン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94093302,
+                "name": "信念のゼリー",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "アントラクト・お芝居特訓！ シアター級"
     }
 ]
