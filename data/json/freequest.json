@@ -12568,6 +12568,12 @@
         "qp": 10920,
         "drop": [
             {
+                "id": 6558,
+                "name": "黄金釜",
+                "type": "Item",
+                "dropPriority": 8510
+            },
+            {
                 "id": 6524,
                 "name": "大騎士勲章",
                 "type": "Item",
