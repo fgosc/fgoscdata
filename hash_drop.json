@@ -864,6 +864,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "チェック・レディ",
+        "name_eng": "Check, Ready",
         "shortname": "特攻礼装",
         "phash": "9c5353264c4611b3",
         "phash_narrow": "9c5932ea4c02d360",
@@ -874,6 +875,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "コスモカルデア高等学園",
+        "name_eng": "Cosmo Chaldea Academy",
         "shortname": "泥礼装",
         "phash": "f1b0668d94c0f8ee",
         "phash_narrow": "f1706f3f9651c4b3",
@@ -1705,6 +1707,24 @@
         "dropPriority": 9004
     },
     {
+        "id": 9407730,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "シラノ・ド・ベルジュラック",
+        "phash": "ca06a77920d8728b",
+        "phash_narrow": "5e86c7010062bb09",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9407780,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "彼方の日々",
+        "phash": "1ae16417c97bbd92",
+        "phash_narrow": "1ae124056d9bd16c",
+        "dropPriority": 9004
+    },
+    {
         "id": 9800400,
         "type": "Craft Essence",
         "rarity": 4,
@@ -2153,6 +2173,16 @@
         "dropPriority": 9003
     },
     {
+        "id": 6558,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "76290dc3cc568973",
+        "name": "黄金釜",
+        "shortname": "釜",
+        "dropPriority": 8510
+    },
+    {
         "id": 6548,
         "type": "Item",
         "background": "gold",
@@ -2388,6 +2418,16 @@
         ],
         "dropPriority": 8402,
         "phash_battle": "364998a64846318c"
+    },
+    {
+        "id": 6557,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "dfbe2969d81b1674",
+        "name": "終の花",
+        "shortname": "花",
+        "dropPriority": 8322
     },
     {
         "id": 6556,
@@ -5082,6 +5122,7 @@
         "rarity": 3,
         "phash": "d6212d02b1d4038d",
         "name": "メテオバーガー",
+        "name_eng": "Meteor Burger",
         "shortname": "メテオバーガー",
         "dropPriority": 2003,
         "phash_battle": "d66d0b941b8d040b"
@@ -5093,6 +5134,7 @@
         "rarity": 3,
         "phash": "36c90532b150814b",
         "name": "コズミックメダリオン",
+        "name_eng": "Cosmic Medallion",
         "dropPriority": 2004
     },
     {
@@ -5102,6 +5144,7 @@
         "rarity": 3,
         "phash": "7e0603a3015c4e0c",
         "name": "AUOくじ2022",
+        "name_eng": "KoH Lottery Ticket 2024",
         "shortname": "AUOくじ2022",
         "dropPriority": 2005,
         "phash_battle": "2c57a3117c0c43a2"
@@ -6493,6 +6536,7 @@
         "rarity": 2,
         "phash": "d60a035c41a42806",
         "name": "ギャラクシードッグ",
+        "name_eng": "Galaxy Dog",
         "shortname": "ギャラクシードッグ",
         "dropPriority": 2002,
         "phash_battle": "de0351a1ac2e5442"
@@ -7532,6 +7576,7 @@
         "rarity": 1,
         "phash": "1649a993000c6188",
         "name": "スペースポテト",
+        "name_eng": "Space Fries",
         "shortname": "スペースポテト",
         "dropPriority": 2001,
         "phash_battle": "56c9854629c10023"
