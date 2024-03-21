@@ -2180,7 +2180,8 @@
         "phash": "76290dc3cc568973",
         "name": "黄金釜",
         "shortname": "釜",
-        "dropPriority": 8510
+        "dropPriority": 8510,
+        "phash_battle": "762d4bcc8cf3721c"
     },
     {
         "id": 6548,
@@ -2427,7 +2428,8 @@
         "phash": "dfbe2969d81b1674",
         "name": "終の花",
         "shortname": "花",
-        "dropPriority": 8322
+        "dropPriority": 8322,
+        "phash_battle": "5629e91813748443"
     },
     {
         "id": 6556,
