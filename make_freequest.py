@@ -74,6 +74,7 @@ class FgoQuest:
     name: str
     place: str
     chapter: str
+    category: str
     qp: int
     drop: List[DropItem]
     dropItemNum: int
@@ -121,7 +122,7 @@ def main(args):
         quest = questId2quest(questId)
         qp = quest["qp"]
         freequest = FgoFreeQuest(questId, tmp["quest"], tmp["place"],
-                                 tmp["chapter"], qp, drop,
+                                 tmp["chapter"], tmp["category"], qp, drop,
                                  -1,
                                  int(tmp['scPriority']))
         questname = quest["name"]

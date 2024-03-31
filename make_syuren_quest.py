@@ -8,7 +8,7 @@ from pathlib import Path
 import csv
 import unicodedata
 from make_freequest import id2name, id2type, id2dropPriority
-from make_freequest import questId2dropItemNum
+# from make_freequest import questId2dropItemNum
 # from make_freequest import alias2id, DropItem, FgoFreeQuest, questId2qp
 from make_freequest import alias2id, DropItem, FgoFreeQuest, questId2quest
 
@@ -48,13 +48,9 @@ def main(args):
         qp = quest["qp"]
         logger.debug('drop: %s', drop)
         qname = tmp["shortname"].split(" ")
-        try:
-            dropitemnum = questId2dropItemNum[questId]
-        except Exception:
-            logger.warning("ドロップ枠数が取得できません")
-            dropitemnum = -1
+        dropitemnum = -1
         event_quest = FgoFreeQuest(int(tmp["id"]), tmp["quest"], qname[1],
-                                   qname[0], qp, drop,
+                                   qname[0], "カルデアゲート", qp, drop,
                                    dropitemnum,
                                    int(tmp['scPriority']))
 

@@ -72,7 +72,7 @@ def list2dic(quest_list):
         #     dropItemNum = -1
         dropItemNum = -1
         event_quest = FgoEventQuest(int(quest["id"]), quest["quest"],
-                                    "", "", qp, drop,
+                                    "", "", "", qp, drop,
                                     dropItemNum,
                                     quest["shortname"])
         if quest["quest"] != spotname:

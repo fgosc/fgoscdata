@@ -4,6 +4,7 @@
         "name": "日曜 剣の修練場 初級",
         "place": "初級",
         "chapter": "剣の修練場",
+        "category": "カルデアゲート",
         "qp": 1400,
         "drop": [
             {
@@ -67,7 +68,7 @@
                 "dropPriority": 691
             }
         ],
-        "dropItemNum": 13,
+        "dropItemNum": -1,
         "scPriority": 1075
     },
     {
@@ -75,6 +76,7 @@
         "name": "日曜 剣の修練場 中級",
         "place": "中級",
         "chapter": "剣の修練場",
+        "category": "カルデアゲート",
         "qp": 2900,
         "drop": [
             {
@@ -138,7 +140,7 @@
                 "dropPriority": 691
             }
         ],
-        "dropItemNum": 13,
+        "dropItemNum": -1,
         "scPriority": 1074
     },
     {
@@ -146,6 +148,7 @@
         "name": "日曜 剣の修練場 上級",
         "place": "上級",
         "chapter": "剣の修練場",
+        "category": "カルデアゲート",
         "qp": 4400,
         "drop": [
             {
@@ -227,7 +230,7 @@
                 "dropPriority": 691
             }
         ],
-        "dropItemNum": 16,
+        "dropItemNum": -1,
         "scPriority": 1073
     },
     {
@@ -235,6 +238,7 @@
         "name": "日曜 剣の修練場 超級",
         "place": "超級",
         "chapter": "剣の修練場",
+        "category": "カルデアゲート",
         "qp": 6400,
         "drop": [
             {
@@ -316,7 +320,7 @@
                 "dropPriority": 691
             }
         ],
-        "dropItemNum": 16,
+        "dropItemNum": -1,
         "scPriority": 1072
     },
     {
@@ -324,6 +328,7 @@
         "name": "日曜 剣の修練場 極級",
         "place": "極級",
         "chapter": "剣の修練場",
+        "category": "カルデアゲート",
         "qp": 8400,
         "drop": [
             {
@@ -413,6 +418,7 @@
         "name": "月曜 弓の修練場 初級",
         "place": "初級",
         "chapter": "弓の修練場",
+        "category": "カルデアゲート",
         "qp": 1400,
         "drop": [
             {
@@ -470,7 +476,7 @@
                 "dropPriority": 681
             }
         ],
-        "dropItemNum": 12,
+        "dropItemNum": -1,
         "scPriority": 1015
     },
     {
@@ -478,6 +484,7 @@
         "name": "月曜 弓の修練場 中級",
         "place": "中級",
         "chapter": "弓の修練場",
+        "category": "カルデアゲート",
         "qp": 2900,
         "drop": [
             {
@@ -553,7 +560,7 @@
                 "dropPriority": 681
             }
         ],
-        "dropItemNum": 15,
+        "dropItemNum": -1,
         "scPriority": 1014
     },
     {
@@ -561,6 +568,7 @@
         "name": "月曜 弓の修練場 上級",
         "place": "上級",
         "chapter": "弓の修練場",
+        "category": "カルデアゲート",
         "qp": 4400,
         "drop": [
             {
@@ -636,7 +644,7 @@
                 "dropPriority": 681
             }
         ],
-        "dropItemNum": 15,
+        "dropItemNum": -1,
         "scPriority": 1013
     },
     {
@@ -644,6 +652,7 @@
         "name": "月曜 弓の修練場 超級",
         "place": "超級",
         "chapter": "弓の修練場",
+        "category": "カルデアゲート",
         "qp": 6400,
         "drop": [
             {
@@ -719,7 +728,7 @@
                 "dropPriority": 681
             }
         ],
-        "dropItemNum": 15,
+        "dropItemNum": -1,
         "scPriority": 1012
     },
     {
@@ -727,6 +736,7 @@
         "name": "月曜 弓の修練場 極級",
         "place": "極級",
         "chapter": "弓の修練場",
+        "category": "カルデアゲート",
         "qp": 8400,
         "drop": [
             {
@@ -810,6 +820,7 @@
         "name": "火曜 槍の修練場 初級",
         "place": "初級",
         "chapter": "槍の修練場",
+        "category": "カルデアゲート",
         "qp": 1400,
         "drop": [
             {
@@ -861,7 +872,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "scPriority": 1025
     },
     {
@@ -869,6 +880,7 @@
         "name": "火曜 槍の修練場 中級",
         "place": "中級",
         "chapter": "槍の修練場",
+        "category": "カルデアゲート",
         "qp": 2900,
         "drop": [
             {
@@ -932,7 +944,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 13,
+        "dropItemNum": -1,
         "scPriority": 1024
     },
     {
@@ -940,6 +952,7 @@
         "name": "火曜 槍の修練場 上級",
         "place": "上級",
         "chapter": "槍の修練場",
+        "category": "カルデアゲート",
         "qp": 4400,
         "drop": [
             {
@@ -1015,7 +1028,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 15,
+        "dropItemNum": -1,
         "scPriority": 1023
     },
     {
@@ -1023,6 +1036,7 @@
         "name": "火曜 槍の修練場 超級",
         "place": "超級",
         "chapter": "槍の修練場",
+        "category": "カルデアゲート",
         "qp": 6400,
         "drop": [
             {
@@ -1098,7 +1112,7 @@
                 "dropPriority": 686
             }
         ],
-        "dropItemNum": 15,
+        "dropItemNum": -1,
         "scPriority": 1022
     },
     {
@@ -1106,6 +1120,7 @@
         "name": "火曜 槍の修練場 極級",
         "place": "極級",
         "chapter": "槍の修練場",
+        "category": "カルデアゲート",
         "qp": 8400,
         "drop": [
             {
@@ -1189,6 +1204,7 @@
         "name": "水曜 狂の修練場 初級",
         "place": "初級",
         "chapter": "狂の修練場",
+        "category": "カルデアゲート",
         "qp": 1400,
         "drop": [
             {
@@ -1234,7 +1250,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "scPriority": 1035
     },
     {
@@ -1242,6 +1258,7 @@
         "name": "水曜 狂の修練場 中級",
         "place": "中級",
         "chapter": "狂の修練場",
+        "category": "カルデアゲート",
         "qp": 2900,
         "drop": [
             {
@@ -1299,7 +1316,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 12,
+        "dropItemNum": -1,
         "scPriority": 1034
     },
     {
@@ -1307,6 +1324,7 @@
         "name": "水曜 狂の修練場 上級",
         "place": "上級",
         "chapter": "狂の修練場",
+        "category": "カルデアゲート",
         "qp": 4400,
         "drop": [
             {
@@ -1370,7 +1388,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 13,
+        "dropItemNum": -1,
         "scPriority": 1033
     },
     {
@@ -1378,6 +1396,7 @@
         "name": "水曜 狂の修練場 超級",
         "place": "超級",
         "chapter": "狂の修練場",
+        "category": "カルデアゲート",
         "qp": 6400,
         "drop": [
             {
@@ -1441,7 +1460,7 @@
                 "dropPriority": 661
             }
         ],
-        "dropItemNum": 13,
+        "dropItemNum": -1,
         "scPriority": 1032
     },
     {
@@ -1449,6 +1468,7 @@
         "name": "水曜 狂の修練場 極級",
         "place": "極級",
         "chapter": "狂の修練場",
+        "category": "カルデアゲート",
         "qp": 8400,
         "drop": [
             {
@@ -1532,6 +1552,7 @@
         "name": "木曜 騎の修練場 初級",
         "place": "初級",
         "chapter": "騎の修練場",
+        "category": "カルデアゲート",
         "qp": 1400,
         "drop": [
             {
@@ -1577,7 +1598,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "scPriority": 1045
     },
     {
@@ -1585,6 +1606,7 @@
         "name": "木曜 騎の修練場 中級",
         "place": "中級",
         "chapter": "騎の修練場",
+        "category": "カルデアゲート",
         "qp": 2900,
         "drop": [
             {
@@ -1636,7 +1658,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "scPriority": 1044
     },
     {
@@ -1644,6 +1666,7 @@
         "name": "木曜 騎の修練場 上級",
         "place": "上級",
         "chapter": "騎の修練場",
+        "category": "カルデアゲート",
         "qp": 4400,
         "drop": [
             {
@@ -1707,7 +1730,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 13,
+        "dropItemNum": -1,
         "scPriority": 1043
     },
     {
@@ -1715,6 +1738,7 @@
         "name": "木曜 騎の修練場 超級",
         "place": "超級",
         "chapter": "騎の修練場",
+        "category": "カルデアゲート",
         "qp": 6400,
         "drop": [
             {
@@ -1778,7 +1802,7 @@
                 "dropPriority": 676
             }
         ],
-        "dropItemNum": 13,
+        "dropItemNum": -1,
         "scPriority": 1042
     },
     {
@@ -1786,6 +1810,7 @@
         "name": "木曜 騎の修練場 極級",
         "place": "極級",
         "chapter": "騎の修練場",
+        "category": "カルデアゲート",
         "qp": 8400,
         "drop": [
             {
@@ -1863,6 +1888,7 @@
         "name": "金曜 術の修練場 初級",
         "place": "初級",
         "chapter": "術の修練場",
+        "category": "カルデアゲート",
         "qp": 1400,
         "drop": [
             {
@@ -1914,7 +1940,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "scPriority": 1055
     },
     {
@@ -1922,6 +1948,7 @@
         "name": "金曜 術の修練場 中級",
         "place": "中級",
         "chapter": "術の修練場",
+        "category": "カルデアゲート",
         "qp": 2900,
         "drop": [
             {
@@ -1973,7 +2000,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "scPriority": 1054
     },
     {
@@ -1981,6 +2008,7 @@
         "name": "金曜 術の修練場 上級",
         "place": "上級",
         "chapter": "術の修練場",
+        "category": "カルデアゲート",
         "qp": 4400,
         "drop": [
             {
@@ -2044,7 +2072,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 12,
+        "dropItemNum": -1,
         "scPriority": 1053
     },
     {
@@ -2052,6 +2080,7 @@
         "name": "金曜 術の修練場 超級",
         "place": "超級",
         "chapter": "術の修練場",
+        "category": "カルデアゲート",
         "qp": 6400,
         "drop": [
             {
@@ -2115,7 +2144,7 @@
                 "dropPriority": 671
             }
         ],
-        "dropItemNum": 12,
+        "dropItemNum": -1,
         "scPriority": 1052
     },
     {
@@ -2123,6 +2152,7 @@
         "name": "金曜 術の修練場 極級",
         "place": "極級",
         "chapter": "術の修練場",
+        "category": "カルデアゲート",
         "qp": 8400,
         "drop": [
             {
@@ -2206,6 +2236,7 @@
         "name": "土曜 殺の修練場 初級",
         "place": "初級",
         "chapter": "殺の修練場",
+        "category": "カルデアゲート",
         "qp": 1400,
         "drop": [
             {
@@ -2257,7 +2288,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "scPriority": 1065
     },
     {
@@ -2265,6 +2296,7 @@
         "name": "土曜 殺の修練場 中級",
         "place": "中級",
         "chapter": "殺の修練場",
+        "category": "カルデアゲート",
         "qp": 2900,
         "drop": [
             {
@@ -2328,7 +2360,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 13,
+        "dropItemNum": -1,
         "scPriority": 1064
     },
     {
@@ -2336,6 +2368,7 @@
         "name": "土曜 殺の修練場 上級",
         "place": "上級",
         "chapter": "殺の修練場",
+        "category": "カルデアゲート",
         "qp": 4400,
         "drop": [
             {
@@ -2411,7 +2444,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 15,
+        "dropItemNum": -1,
         "scPriority": 1063
     },
     {
@@ -2419,6 +2452,7 @@
         "name": "土曜 殺の修練場 超級",
         "place": "超級",
         "chapter": "殺の修練場",
+        "category": "カルデアゲート",
         "qp": 6400,
         "drop": [
             {
@@ -2494,7 +2528,7 @@
                 "dropPriority": 666
             }
         ],
-        "dropItemNum": 15,
+        "dropItemNum": -1,
         "scPriority": 1062
     },
     {
@@ -2502,6 +2536,7 @@
         "name": "土曜 殺の修練場 極級",
         "place": "極級",
         "chapter": "殺の修練場",
+        "category": "カルデアゲート",
         "qp": 8400,
         "drop": [
             {
