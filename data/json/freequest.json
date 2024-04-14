@@ -21,7 +21,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 100100
+        "scPriority": 100100,
+        "scName": "未確認座標X-A"
     },
     {
         "id": 93000002,
@@ -51,7 +52,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 100200
+        "scPriority": 100200,
+        "scName": "未確認座標X-B"
     },
     {
         "id": 93000003,
@@ -81,7 +83,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 100300
+        "scPriority": 100300,
+        "scName": "未確認座標X-C"
     },
     {
         "id": 93000004,
@@ -111,7 +114,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 100400
+        "scPriority": 100400,
+        "scName": "未確認座標X-D"
     },
     {
         "id": 93000005,
@@ -153,7 +157,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 100500
+        "scPriority": 100500,
+        "scName": "未確認座標X-E"
     },
     {
         "id": 93000006,
@@ -201,7 +206,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 100600
+        "scPriority": 100600,
+        "scName": "未確認座標X-F"
     },
     {
         "id": 93000007,
@@ -237,7 +243,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 100700
+        "scPriority": 100700,
+        "scName": "未確認座標X-G"
     },
     {
         "id": 93000008,
@@ -285,7 +292,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 100800
+        "scPriority": 100800,
+        "scName": "変動座標点0号"
     },
     {
         "id": 93000101,
@@ -315,7 +323,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 100900
+        "scPriority": 100900,
+        "scName": "ドンレミ"
     },
     {
         "id": 93000102,
@@ -351,7 +360,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 101000
+        "scPriority": 101000,
+        "scName": "ヴォークルール"
     },
     {
         "id": 93000103,
@@ -387,7 +397,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 101100
+        "scPriority": 101100,
+        "scName": "ラ・シャリテ"
     },
     {
         "id": 93000104,
@@ -447,7 +458,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 101200
+        "scPriority": 101200,
+        "scName": "ジュラ"
     },
     {
         "id": 93000105,
@@ -489,7 +501,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 101300
+        "scPriority": 101300,
+        "scName": "リヨン"
     },
     {
         "id": 93000109,
@@ -519,7 +532,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 101400
+        "scPriority": 101400,
+        "scName": "マルセイユ"
     },
     {
         "id": 93000106,
@@ -555,7 +569,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 101500
+        "scPriority": 101500,
+        "scName": "ティエール"
     },
     {
         "id": 93000110,
@@ -591,7 +606,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 101600
+        "scPriority": 101600,
+        "scName": "ボルドー"
     },
     {
         "id": 93000107,
@@ -651,7 +667,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 101700
+        "scPriority": 101700,
+        "scName": "オルレアン"
     },
     {
         "id": 93000108,
@@ -723,7 +740,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 101800
+        "scPriority": 101800,
+        "scName": "パリ"
     },
     {
         "id": 93000201,
@@ -771,7 +789,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 101900
+        "scPriority": 101900,
+        "scName": "アッピア街道"
     },
     {
         "id": 93000202,
@@ -801,7 +820,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 102000
+        "scPriority": 102000,
+        "scName": "ローマ"
     },
     {
         "id": 93000209,
@@ -825,7 +845,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 102100
+        "scPriority": 102100,
+        "scName": "エトナ火山"
     },
     {
         "id": 93000203,
@@ -861,7 +882,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 102200
+        "scPriority": 102200,
+        "scName": "フロレンティア"
     },
     {
         "id": 93000204,
@@ -891,7 +913,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 102300
+        "scPriority": 102300,
+        "scName": "メディオラヌム"
     },
     {
         "id": 93000211,
@@ -945,7 +968,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 102400
+        "scPriority": 102400,
+        "scName": "ゲルマニア"
     },
     {
         "id": 93000205,
@@ -993,7 +1017,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 102500
+        "scPriority": 102500,
+        "scName": "マッシリア"
     },
     {
         "id": 93000206,
@@ -1047,7 +1072,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 102600
+        "scPriority": 102600,
+        "scName": "ガリア"
     },
     {
         "id": 93000210,
@@ -1083,7 +1109,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 102700
+        "scPriority": 102700,
+        "scName": "ブリタニア"
     },
     {
         "id": 93000207,
@@ -1125,7 +1152,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 102800
+        "scPriority": 102800,
+        "scName": "形ある島"
     },
     {
         "id": 93000208,
@@ -1179,7 +1207,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 102900
+        "scPriority": 102900,
+        "scName": "連合首都"
     },
     {
         "id": 93000301,
@@ -1209,7 +1238,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 103000
+        "scPriority": 103000,
+        "scName": "海賊船"
     },
     {
         "id": 93000302,
@@ -1257,7 +1287,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 103100
+        "scPriority": 103100,
+        "scName": "海賊島"
     },
     {
         "id": 93000303,
@@ -1305,7 +1336,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 103200
+        "scPriority": 103200,
+        "scName": "王の住まう島"
     },
     {
         "id": 93000304,
@@ -1353,7 +1385,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 103300
+        "scPriority": 103300,
+        "scName": "地図に記された島"
     },
     {
         "id": 93000309,
@@ -1401,7 +1434,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 103400
+        "scPriority": 103400,
+        "scName": "暗礁海域"
     },
     {
         "id": 93000305,
@@ -1443,7 +1477,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 103500
+        "scPriority": 103500,
+        "scName": "潮目の海"
     },
     {
         "id": 93000306,
@@ -1479,7 +1514,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 103600
+        "scPriority": 103600,
+        "scName": "翼竜の島"
     },
     {
         "id": 93000310,
@@ -1515,7 +1551,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 103700
+        "scPriority": 103700,
+        "scName": "カルデラの島"
     },
     {
         "id": 93000307,
@@ -1539,7 +1576,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 103800
+        "scPriority": 103800,
+        "scName": "嵐の海域"
     },
     {
         "id": 93000308,
@@ -1599,7 +1637,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 103900
+        "scPriority": 103900,
+        "scName": "群島"
     },
     {
         "id": 93000312,
@@ -1635,7 +1674,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 104000
+        "scPriority": 104000,
+        "scName": "隠された島"
     },
     {
         "id": 93000311,
@@ -1683,7 +1723,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 104100
+        "scPriority": 104100,
+        "scName": "豊かな海"
     },
     {
         "id": 93000401,
@@ -1707,7 +1748,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 104200
+        "scPriority": 104200,
+        "scName": "オールドストリート"
     },
     {
         "id": 93000402,
@@ -1755,7 +1797,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 104300
+        "scPriority": 104300,
+        "scName": "ホワイトチャペル"
     },
     {
         "id": 93000403,
@@ -1779,7 +1822,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 104400
+        "scPriority": 104400,
+        "scName": "シティ・オブ・ロンドン"
     },
     {
         "id": 93000404,
@@ -1851,7 +1895,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 104500
+        "scPriority": 104500,
+        "scName": "ソーホー"
     },
     {
         "id": 93000405,
@@ -1905,7 +1950,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 104600
+        "scPriority": 104600,
+        "scName": "ウェストミンスター"
     },
     {
         "id": 93000406,
@@ -1947,7 +1993,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 104700
+        "scPriority": 104700,
+        "scName": "リージェントパーク"
     },
     {
         "id": 93000407,
@@ -2001,7 +2048,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 104800
+        "scPriority": 104800,
+        "scName": "クラーケンウェル"
     },
     {
         "id": 93000408,
@@ -2049,7 +2097,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 104900
+        "scPriority": 104900,
+        "scName": "サザーク"
     },
     {
         "id": 93000409,
@@ -2103,7 +2152,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 105000
+        "scPriority": 105000,
+        "scName": "ハイドパーク"
     },
     {
         "id": 93000501,
@@ -2127,7 +2177,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 105100
+        "scPriority": 105100,
+        "scName": "ブラックヒルズ"
     },
     {
         "id": 93000502,
@@ -2181,7 +2232,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 105200
+        "scPriority": 105200,
+        "scName": "リバートン"
     },
     {
         "id": 93000503,
@@ -2229,7 +2281,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 105300
+        "scPriority": 105300,
+        "scName": "デンバー"
     },
     {
         "id": 93000504,
@@ -2265,7 +2318,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 105400
+        "scPriority": 105400,
+        "scName": "デミング"
     },
     {
         "id": 93000506,
@@ -2295,7 +2349,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 105500
+        "scPriority": 105500,
+        "scName": "ダラス"
     },
     {
         "id": 93000508,
@@ -2343,7 +2398,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 105600
+        "scPriority": 105600,
+        "scName": "アルカトラズ"
     },
     {
         "id": 93000509,
@@ -2403,7 +2459,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 105700
+        "scPriority": 105700,
+        "scName": "デモイン"
     },
     {
         "id": 93000511,
@@ -2445,7 +2502,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 105800
+        "scPriority": 105800,
+        "scName": "モントゴメリー"
     },
     {
         "id": 93000505,
@@ -2493,7 +2551,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 105900
+        "scPriority": 105900,
+        "scName": "ラボック"
     },
     {
         "id": 93000507,
@@ -2547,7 +2606,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 106000
+        "scPriority": 106000,
+        "scName": "アレクサンドリア"
     },
     {
         "id": 93000510,
@@ -2595,7 +2655,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 106100
+        "scPriority": 106100,
+        "scName": "カーニー"
     },
     {
         "id": 93000512,
@@ -2661,7 +2722,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 106200
+        "scPriority": 106200,
+        "scName": "シャーロット"
     },
     {
         "id": 93000513,
@@ -2721,7 +2783,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 106300
+        "scPriority": 106300,
+        "scName": "ワシントン"
     },
     {
         "id": 93000514,
@@ -2763,7 +2826,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 106400
+        "scPriority": 106400,
+        "scName": "シカゴ"
     },
     {
         "id": 93000601,
@@ -2817,7 +2881,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 106500
+        "scPriority": 106500,
+        "scName": "砂嵐の砂漠"
     },
     {
         "id": 93000602,
@@ -2859,7 +2924,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 106600
+        "scPriority": 106600,
+        "scName": "明けの砂丘"
     },
     {
         "id": 93000603,
@@ -2889,7 +2955,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 106700
+        "scPriority": 106700,
+        "scName": "死の荒野"
     },
     {
         "id": 93000604,
@@ -2931,7 +2998,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 106800
+        "scPriority": 106800,
+        "scName": "東の村"
     },
     {
         "id": 93000605,
@@ -2991,7 +3059,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 106900
+        "scPriority": 106900,
+        "scName": "円卓の砦"
     },
     {
         "id": 93000606,
@@ -3027,7 +3096,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 107000
+        "scPriority": 107000,
+        "scName": "晩鐘廟"
     },
     {
         "id": 93000607,
@@ -3069,7 +3139,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 107100
+        "scPriority": 107100,
+        "scName": "西の村跡"
     },
     {
         "id": 93000608,
@@ -3117,7 +3188,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 107200
+        "scPriority": 107200,
+        "scName": "アトラス院"
     },
     {
         "id": 93000611,
@@ -3171,7 +3243,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 107300
+        "scPriority": 107300,
+        "scName": "聖都正門"
     },
     {
         "id": 93000612,
@@ -3237,7 +3310,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 107400
+        "scPriority": 107400,
+        "scName": "聖都市街"
     },
     {
         "id": 93000609,
@@ -3285,7 +3359,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 107500
+        "scPriority": 107500,
+        "scName": "隠れ村"
     },
     {
         "id": 93000613,
@@ -3333,7 +3408,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 107600
+        "scPriority": 107600,
+        "scName": "王城"
     },
     {
         "id": 93000614,
@@ -3399,7 +3475,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 107700
+        "scPriority": 107700,
+        "scName": "無の大地"
     },
     {
         "id": 93000610,
@@ -3447,7 +3524,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 107800
+        "scPriority": 107800,
+        "scName": "大神殿"
     },
     {
         "id": 93000701,
@@ -3477,7 +3555,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 107900
+        "scPriority": 107900,
+        "scName": "廃都バビロン"
     },
     {
         "id": 93000702,
@@ -3525,7 +3604,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 108000
+        "scPriority": 108000,
+        "scName": "北の高台"
     },
     {
         "id": 93000703,
@@ -3567,7 +3647,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 108100
+        "scPriority": 108100,
+        "scName": "黒い杉の森"
     },
     {
         "id": 93000704,
@@ -3615,7 +3696,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 108200
+        "scPriority": 108200,
+        "scName": "高原"
     },
     {
         "id": 93000705,
@@ -3657,7 +3739,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 108300
+        "scPriority": 108300,
+        "scName": "湿原"
     },
     {
         "id": 93000706,
@@ -3705,7 +3788,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 108400
+        "scPriority": 108400,
+        "scName": "ウル"
     },
     {
         "id": 93000707,
@@ -3741,7 +3825,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 108500
+        "scPriority": 108500,
+        "scName": "エリドゥ"
     },
     {
         "id": 93000708,
@@ -3777,7 +3862,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 108600
+        "scPriority": 108600,
+        "scName": "観測所"
     },
     {
         "id": 93000709,
@@ -3807,7 +3893,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 108700
+        "scPriority": 108700,
+        "scName": "葦の原"
     },
     {
         "id": 93000710,
@@ -3843,7 +3930,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 108800
+        "scPriority": 108800,
+        "scName": "クタ"
     },
     {
         "id": 93000711,
@@ -3891,7 +3979,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 108900
+        "scPriority": 108900,
+        "scName": "北壁"
     },
     {
         "id": 93000712,
@@ -3939,7 +4028,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 109000
+        "scPriority": 109000,
+        "scName": "ニップル"
     },
     {
         "id": 93000713,
@@ -3987,7 +4077,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 109100
+        "scPriority": 109100,
+        "scName": "エビフ山"
     },
     {
         "id": 93000714,
@@ -4029,7 +4120,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 109200
+        "scPriority": 109200,
+        "scName": "鮮血神殿"
     },
     {
         "id": 93020101,
@@ -4059,7 +4151,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 109300
+        "scPriority": 109300,
+        "scName": "代々木二丁目"
     },
     {
         "id": 93020102,
@@ -4101,7 +4194,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 109400
+        "scPriority": 109400,
+        "scName": "国道20号"
     },
     {
         "id": 93020103,
@@ -4137,7 +4231,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 109500
+        "scPriority": 109500,
+        "scName": "新宿駅"
     },
     {
         "id": 93020104,
@@ -4185,7 +4280,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 109600
+        "scPriority": 109600,
+        "scName": "新宿四丁目"
     },
     {
         "id": 93020105,
@@ -4227,7 +4323,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 109700
+        "scPriority": 109700,
+        "scName": "歌舞伎町"
     },
     {
         "id": 93020106,
@@ -4257,7 +4354,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 109800
+        "scPriority": 109800,
+        "scName": "バレルタワー"
     },
     {
         "id": 93020107,
@@ -4317,7 +4415,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 109900
+        "scPriority": 109900,
+        "scName": "パーティー会場"
     },
     {
         "id": 93020108,
@@ -4365,7 +4464,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 110000
+        "scPriority": 110000,
+        "scName": "タワー最上階"
     },
     {
         "id": 93020109,
@@ -4413,7 +4513,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 110100
+        "scPriority": 110100,
+        "scName": "新宿御苑"
     },
     {
         "id": 93020110,
@@ -4473,7 +4574,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 110200
+        "scPriority": 110200,
+        "scName": "新宿二丁目"
     },
     {
         "id": 93020201,
@@ -4515,7 +4617,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 110300
+        "scPriority": 110300,
+        "scName": "地底平原"
     },
     {
         "id": 93020202,
@@ -4563,7 +4666,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 110400
+        "scPriority": 110400,
+        "scName": "野営地"
     },
     {
         "id": 93020203,
@@ -4611,7 +4715,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 110500
+        "scPriority": 110500,
+        "scName": "川辺の町"
     },
     {
         "id": 93020204,
@@ -4653,7 +4758,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 110600
+        "scPriority": 110600,
+        "scName": "桃源郷"
     },
     {
         "id": 93020205,
@@ -4689,7 +4795,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 110700
+        "scPriority": 110700,
+        "scName": "イース"
     },
     {
         "id": 93020206,
@@ -4725,7 +4832,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 110800
+        "scPriority": 110800,
+        "scName": "北の断崖"
     },
     {
         "id": 93020207,
@@ -4761,7 +4869,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 110900
+        "scPriority": 110900,
+        "scName": "不夜城"
     },
     {
         "id": 93020208,
@@ -4821,7 +4930,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 111000
+        "scPriority": 111000,
+        "scName": "山裾の密林"
     },
     {
         "id": 93020210,
@@ -4863,7 +4973,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 111100
+        "scPriority": 111100,
+        "scName": "竜宮城"
     },
     {
         "id": 93020209,
@@ -4911,7 +5022,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 111200
+        "scPriority": 111200,
+        "scName": "地底大河"
     },
     {
         "id": 93020211,
@@ -4947,7 +5059,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 111300
+        "scPriority": 111300,
+        "scName": "エルドラド"
     },
     {
         "id": 93020212,
@@ -4983,7 +5096,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 111400
+        "scPriority": 111400,
+        "scName": "大地の裂け目"
     },
     {
         "id": 93020301,
@@ -5031,7 +5145,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 111500
+        "scPriority": 111500,
+        "scName": "田んぼ"
     },
     {
         "id": 93020302,
@@ -5085,7 +5200,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 111600
+        "scPriority": 111600,
+        "scName": "里"
     },
     {
         "id": 93020303,
@@ -5133,7 +5249,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 111700
+        "scPriority": 111700,
+        "scName": "庵"
     },
     {
         "id": 93020304,
@@ -5163,7 +5280,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 111800
+        "scPriority": 111800,
+        "scName": "城下町"
     },
     {
         "id": 93020305,
@@ -5217,7 +5335,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 111900
+        "scPriority": 111900,
+        "scName": "合戦場"
     },
     {
         "id": 93020306,
@@ -5277,7 +5396,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 112000
+        "scPriority": 112000,
+        "scName": "土気城"
     },
     {
         "id": 93020307,
@@ -5331,7 +5451,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 112100
+        "scPriority": 112100,
+        "scName": "裏山"
     },
     {
         "id": 93020308,
@@ -5391,7 +5512,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 112200
+        "scPriority": 112200,
+        "scName": "荒川の原"
     },
     {
         "id": 93020309,
@@ -5439,7 +5561,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 112300
+        "scPriority": 112300,
+        "scName": "戦戦恐恐"
     },
     {
         "id": 93020401,
@@ -5463,7 +5586,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 112400
+        "scPriority": 112400,
+        "scName": "静寂な森"
     },
     {
         "id": 93020402,
@@ -5511,7 +5635,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 112500
+        "scPriority": 112500,
+        "scName": "カーター家"
     },
     {
         "id": 93020403,
@@ -5541,7 +5666,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 112600
+        "scPriority": 112600,
+        "scName": "公会堂"
     },
     {
         "id": 93020404,
@@ -5583,7 +5709,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 112700
+        "scPriority": 112700,
+        "scName": "波止場"
     },
     {
         "id": 93020406,
@@ -5619,7 +5746,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 112800
+        "scPriority": 112800,
+        "scName": "ウェイトリー家"
     },
     {
         "id": 93020405,
@@ -5661,7 +5789,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 112900
+        "scPriority": 112900,
+        "scName": "郊外の屋敷"
     },
     {
         "id": 93020408,
@@ -5703,7 +5832,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 113000
+        "scPriority": 113000,
+        "scName": "ガローの丘"
     },
     {
         "id": 93020407,
@@ -5745,7 +5875,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 113100
+        "scPriority": 113100,
+        "scName": "牧草地"
     },
     {
         "id": 93020410,
@@ -5787,7 +5918,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 113200
+        "scPriority": 113200,
+        "scName": "空き家"
     },
     {
         "id": 93020409,
@@ -5829,7 +5961,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 113300
+        "scPriority": 113300,
+        "scName": "隠れ家"
     },
     {
         "id": 93020411,
@@ -5871,7 +6004,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 113400
+        "scPriority": 113400,
+        "scName": "留置所"
     },
     {
         "id": 93030201,
@@ -5913,7 +6047,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 113500
+        "scPriority": 113500,
+        "scName": "アンカーポイント"
     },
     {
         "id": 93030202,
@@ -5949,7 +6084,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 113600
+        "scPriority": 113600,
+        "scName": "ヤガ・スモレンスク"
     },
     {
         "id": 93030203,
@@ -5991,7 +6127,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 113700
+        "scPriority": 113700,
+        "scName": "風穴氷窟"
     },
     {
         "id": 93030204,
@@ -6033,7 +6170,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 113800
+        "scPriority": 113800,
+        "scName": "叛逆軍の砦"
     },
     {
         "id": 93030205,
@@ -6075,7 +6213,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 113900
+        "scPriority": 113900,
+        "scName": "ヤガ・スィチョーフカ"
     },
     {
         "id": 93030206,
@@ -6117,7 +6256,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 114000
+        "scPriority": 114000,
+        "scName": "焼き払われた村"
     },
     {
         "id": 93030207,
@@ -6159,7 +6299,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 114100
+        "scPriority": 114100,
+        "scName": "ヤガ・ヴャジマ"
     },
     {
         "id": 93030208,
@@ -6207,7 +6348,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 114200
+        "scPriority": 114200,
+        "scName": "ヤガ・ジェメンスク"
     },
     {
         "id": 93030209,
@@ -6255,7 +6397,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 114300
+        "scPriority": 114300,
+        "scName": "ヤガ・トゥーラ"
     },
     {
         "id": 93030210,
@@ -6297,7 +6440,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 114400
+        "scPriority": 114400,
+        "scName": "潰れた村"
     },
     {
         "id": 93030212,
@@ -6327,7 +6471,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 114500
+        "scPriority": 114500,
+        "scName": "ヤガ・モスクワ"
     },
     {
         "id": 93030211,
@@ -6381,7 +6526,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 114600
+        "scPriority": 114600,
+        "scName": "大渓谷の砦"
     },
     {
         "id": 93030213,
@@ -6435,7 +6581,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 114700
+        "scPriority": 114700,
+        "scName": "大樹の根元"
     },
     {
         "id": 93030214,
@@ -6483,7 +6630,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 114800
+        "scPriority": 114800,
+        "scName": "ヤガ・リャザン"
     },
     {
         "id": 93030301,
@@ -6537,7 +6685,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 114900
+        "scPriority": 114900,
+        "scName": "ランディングポイント"
     },
     {
         "id": 93030302,
@@ -6579,7 +6728,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 115000
+        "scPriority": 115000,
+        "scName": "薄氷の丘"
     },
     {
         "id": 93030303,
@@ -6609,7 +6759,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 115100
+        "scPriority": 115100,
+        "scName": "巨人の花園"
     },
     {
         "id": 93030304,
@@ -6657,7 +6808,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 115200
+        "scPriority": 115200,
+        "scName": "第23集落"
     },
     {
         "id": 93030305,
@@ -6699,7 +6851,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 115300
+        "scPriority": 115300,
+        "scName": "英雄の穴倉"
     },
     {
         "id": 93030306,
@@ -6729,7 +6882,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 115400
+        "scPriority": 115400,
+        "scName": "雪と氷の城"
     },
     {
         "id": 93030307,
@@ -6777,7 +6931,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 115500
+        "scPriority": 115500,
+        "scName": "果てへと至る道"
     },
     {
         "id": 93030308,
@@ -6825,7 +6980,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 115600
+        "scPriority": 115600,
+        "scName": "炎の館"
     },
     {
         "id": 93030309,
@@ -6873,7 +7029,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 115700
+        "scPriority": 115700,
+        "scName": "第67集落"
     },
     {
         "id": 93030310,
@@ -6915,7 +7072,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 115800
+        "scPriority": 115800,
+        "scName": "北の境界"
     },
     {
         "id": 93030311,
@@ -6963,7 +7121,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 115900
+        "scPriority": 115900,
+        "scName": "忘れられた神殿"
     },
     {
         "id": 93030401,
@@ -7011,7 +7170,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 116000
+        "scPriority": 116000,
+        "scName": "シーディングポイント"
     },
     {
         "id": 93030402,
@@ -7053,7 +7213,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 116100
+        "scPriority": 116100,
+        "scName": "隣村"
     },
     {
         "id": 93030403,
@@ -7101,7 +7262,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 116200
+        "scPriority": 116200,
+        "scName": "氷冷窟"
     },
     {
         "id": 93030404,
@@ -7155,7 +7317,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 116300
+        "scPriority": 116300,
+        "scName": "芥の陣幕"
     },
     {
         "id": 93030405,
@@ -7209,7 +7372,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 116400
+        "scPriority": 116400,
+        "scName": "景陽原"
     },
     {
         "id": 93030406,
@@ -7269,7 +7433,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 116500
+        "scPriority": 116500,
+        "scName": "山陽丘"
     },
     {
         "id": 93030407,
@@ -7317,7 +7482,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 116600
+        "scPriority": 116600,
+        "scName": "収容所"
     },
     {
         "id": 93030408,
@@ -7359,7 +7525,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 116700
+        "scPriority": 116700,
+        "scName": "石泉峡"
     },
     {
         "id": 93030409,
@@ -7401,7 +7568,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 116800
+        "scPriority": 116800,
+        "scName": "大坪峪"
     },
     {
         "id": 93030410,
@@ -7461,7 +7629,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 116900
+        "scPriority": 116900,
+        "scName": "咸陽"
     },
     {
         "id": 93030411,
@@ -7491,7 +7660,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 117000
+        "scPriority": 117000,
+        "scName": "八門洞"
     },
     {
         "id": 93030501,
@@ -7533,7 +7703,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 117100
+        "scPriority": 117100,
+        "scName": "イニシエートポイント"
     },
     {
         "id": 93030502,
@@ -7587,7 +7758,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 117200
+        "scPriority": 117200,
+        "scName": "ビーチュ"
     },
     {
         "id": 93030503,
@@ -7629,7 +7801,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 117300
+        "scPriority": 117300,
+        "scName": "隠遁窟"
     },
     {
         "id": 93030504,
@@ -7683,7 +7856,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 117400
+        "scPriority": 117400,
+        "scName": "北の霊峰"
     },
     {
         "id": 93030505,
@@ -7725,7 +7899,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 117500
+        "scPriority": 117500,
+        "scName": "西の断層"
     },
     {
         "id": 93030506,
@@ -7767,7 +7942,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 117600
+        "scPriority": 117600,
+        "scName": "ディーヴァール"
     },
     {
         "id": 93030507,
@@ -7803,7 +7979,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 117700
+        "scPriority": 117700,
+        "scName": "神の空岩跡"
     },
     {
         "id": 93030508,
@@ -7857,7 +8034,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 117800
+        "scPriority": 117800,
+        "scName": "南の町"
     },
     {
         "id": 93030509,
@@ -7911,7 +8089,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 117900
+        "scPriority": 117900,
+        "scName": "無窮の地"
     },
     {
         "id": 93030510,
@@ -7947,7 +8126,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 118000
+        "scPriority": 118000,
+        "scName": "東の花園"
     },
     {
         "id": 93030601,
@@ -7995,7 +8175,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 118100
+        "scPriority": 118100,
+        "scName": "セーリングポイント"
     },
     {
         "id": 93030602,
@@ -8049,7 +8230,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 118200
+        "scPriority": 118200,
+        "scName": "ヘスティア島"
     },
     {
         "id": 93030603,
@@ -8085,7 +8267,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 118300
+        "scPriority": 118300,
+        "scName": "ヘカテ島"
     },
     {
         "id": 93030604,
@@ -8133,7 +8316,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 118400
+        "scPriority": 118400,
+        "scName": "デイモス島"
     },
     {
         "id": 93030605,
@@ -8187,7 +8371,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 118500
+        "scPriority": 118500,
+        "scName": "アストライア島"
     },
     {
         "id": 93030606,
@@ -8235,7 +8420,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 118600
+        "scPriority": 118600,
+        "scName": "テティス島"
     },
     {
         "id": 93030607,
@@ -8295,7 +8481,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 118700
+        "scPriority": 118700,
+        "scName": "エリス島"
     },
     {
         "id": 93030608,
@@ -8343,7 +8530,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 118800
+        "scPriority": 118800,
+        "scName": "ネメシス島"
     },
     {
         "id": 93030609,
@@ -8397,7 +8585,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 118900
+        "scPriority": 118900,
+        "scName": "タナトス島"
     },
     {
         "id": 93030701,
@@ -8445,7 +8634,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 119000
+        "scPriority": 119000,
+        "scName": "グライディングポイント"
     },
     {
         "id": 93030702,
@@ -8481,7 +8671,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 119100
+        "scPriority": 119100,
+        "scName": "星間都市西部"
     },
     {
         "id": 93030703,
@@ -8529,7 +8720,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 119200
+        "scPriority": 119200,
+        "scName": "星間都市南部"
     },
     {
         "id": 93030704,
@@ -8583,7 +8775,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 119300
+        "scPriority": 119300,
+        "scName": "星間都市東部"
     },
     {
         "id": 93030706,
@@ -8643,7 +8836,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 119400
+        "scPriority": 119400,
+        "scName": "大工房"
     },
     {
         "id": 93030705,
@@ -8691,7 +8885,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 119500
+        "scPriority": 119500,
+        "scName": "破神同盟基地"
     },
     {
         "id": 93030707,
@@ -8739,7 +8934,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 119600
+        "scPriority": 119600,
+        "scName": "祭壇街"
     },
     {
         "id": 93030708,
@@ -8787,7 +8983,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 119700
+        "scPriority": 119700,
+        "scName": "空中庭園"
     },
     {
         "id": 93030709,
@@ -8835,7 +9032,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 119800
+        "scPriority": 119800,
+        "scName": "機神回廊"
     },
     {
         "id": 93030710,
@@ -8895,7 +9093,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 119900
+        "scPriority": 119900,
+        "scName": "大祭壇"
     },
     {
         "id": 93030711,
@@ -8925,7 +9124,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 120000
+        "scPriority": 120000,
+        "scName": "地下機構帯・外周部"
     },
     {
         "id": 93030801,
@@ -8973,7 +9173,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 120100
+        "scPriority": 120100,
+        "scName": "七条四坊"
     },
     {
         "id": 93030802,
@@ -9033,7 +9234,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 120200
+        "scPriority": 120200,
+        "scName": "七条二坊"
     },
     {
         "id": 93030803,
@@ -9081,7 +9283,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 120300
+        "scPriority": 120300,
+        "scName": "六条大路"
     },
     {
         "id": 93030804,
@@ -9123,7 +9326,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 120400
+        "scPriority": 120400,
+        "scName": "貴族邸"
     },
     {
         "id": 93030805,
@@ -9171,7 +9375,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 120500
+        "scPriority": 120500,
+        "scName": "朱雀門"
     },
     {
         "id": 93030806,
@@ -9219,7 +9424,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 120600
+        "scPriority": 120600,
+        "scName": "平安宮"
     },
     {
         "id": 93030807,
@@ -9267,7 +9473,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 120700
+        "scPriority": 120700,
+        "scName": "朱雀大路"
     },
     {
         "id": 93030808,
@@ -9315,7 +9522,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 120800
+        "scPriority": 120800,
+        "scName": "稲荷神社"
     },
     {
         "id": 93030809,
@@ -9369,7 +9577,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 120900
+        "scPriority": 120900,
+        "scName": "大宮大路"
     },
     {
         "id": 93030810,
@@ -9411,7 +9620,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 121000
+        "scPriority": 121000,
+        "scName": "頼光の屋敷"
     },
     {
         "id": 93030811,
@@ -9441,7 +9651,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 121100
+        "scPriority": 121100,
+        "scName": "五条の橋"
     },
     {
         "id": 93030812,
@@ -9483,7 +9694,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 121200
+        "scPriority": 121200,
+        "scName": "大江山"
     },
     {
         "id": 93030813,
@@ -9531,7 +9743,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 121300
+        "scPriority": 121300,
+        "scName": "三条三坊"
     },
     {
         "id": 93031000,
@@ -9597,7 +9810,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 121400
+        "scPriority": 121400,
+        "scName": "霧の海岸"
     },
     {
         "id": 93031001,
@@ -9639,7 +9853,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 121500
+        "scPriority": 121500,
+        "scName": "コーンウォールの村"
     },
     {
         "id": 93031002,
@@ -9699,7 +9914,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 121600
+        "scPriority": 121600,
+        "scName": "ソールズベリー"
     },
     {
         "id": 93031003,
@@ -9759,7 +9975,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 121700
+        "scPriority": 121700,
+        "scName": "グロスター"
     },
     {
         "id": 93031004,
@@ -9807,7 +10024,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 121800
+        "scPriority": 121800,
+        "scName": "涙の河"
     },
     {
         "id": 93031005,
@@ -9855,7 +10073,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 121900
+        "scPriority": 121900,
+        "scName": "ノリッジ"
     },
     {
         "id": 93031006,
@@ -9915,7 +10134,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 122000
+        "scPriority": 122000,
+        "scName": "キャメロット"
     },
     {
         "id": 93031007,
@@ -9957,7 +10177,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 122100
+        "scPriority": 122100,
+        "scName": "ロンディニウム"
     },
     {
         "id": 93031008,
@@ -10011,7 +10232,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 122200
+        "scPriority": 122200,
+        "scName": "マンチェスター"
     },
     {
         "id": 93031012,
@@ -10047,7 +10269,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 122300
+        "scPriority": 122300,
+        "scName": "エディンバラ"
     },
     {
         "id": 93031013,
@@ -10095,7 +10318,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 122400
+        "scPriority": 122400,
+        "scName": "ニュー・ダーリントン"
     },
     {
         "id": 93031009,
@@ -10173,7 +10397,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 122500
+        "scPriority": 122500,
+        "scName": "湖水地方"
     },
     {
         "id": 93031010,
@@ -10251,7 +10476,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 122600
+        "scPriority": 122600,
+        "scName": "果ての海岸"
     },
     {
         "id": 93031011,
@@ -10335,7 +10561,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 122700
+        "scPriority": 122700,
+        "scName": "オークニー"
     },
     {
         "id": 93031014,
@@ -10383,7 +10610,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 122800
+        "scPriority": 122800,
+        "scName": "オックスフォード"
     },
     {
         "id": 93031015,
@@ -10431,7 +10659,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 122900
+        "scPriority": 122900,
+        "scName": "ドーバーハウス"
     },
     {
         "id": 93031201,
@@ -10479,7 +10708,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 123000
+        "scPriority": 123000,
+        "scName": "狭間の街"
     },
     {
         "id": 93031202,
@@ -10527,7 +10757,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 123100
+        "scPriority": 123100,
+        "scName": "暁の平原"
     },
     {
         "id": 93031203,
@@ -10587,7 +10818,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 123200
+        "scPriority": 123200,
+        "scName": "中つ森"
     },
     {
         "id": 93031204,
@@ -10647,7 +10879,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 123300
+        "scPriority": 123300,
+        "scName": "薄暮れの森"
     },
     {
         "id": 93031205,
@@ -10695,7 +10928,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 123400
+        "scPriority": 123400,
+        "scName": "天嶮山脈"
     },
     {
         "id": 93031206,
@@ -10755,7 +10989,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 123500
+        "scPriority": 123500,
+        "scName": "王道界域拠点"
     },
     {
         "id": 93031207,
@@ -10803,7 +11038,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 123600
+        "scPriority": 123600,
+        "scName": "クサンテンの塔"
     },
     {
         "id": 93031208,
@@ -10857,7 +11093,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 123700
+        "scPriority": 123700,
+        "scName": "アツァガウク砦"
     },
     {
         "id": 93031209,
@@ -10911,7 +11148,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 123800
+        "scPriority": 123800,
+        "scName": "湖畔の平原"
     },
     {
         "id": 93031213,
@@ -10971,7 +11209,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 123900
+        "scPriority": 123900,
+        "scName": "復讐界域拠点"
     },
     {
         "id": 93031214,
@@ -11019,7 +11258,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 124000
+        "scPriority": 124000,
+        "scName": "ライヘンバッハ"
     },
     {
         "id": 93031210,
@@ -11061,7 +11301,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 124100
+        "scPriority": 124100,
+        "scName": "シルミウム"
     },
     {
         "id": 93031211,
@@ -11109,7 +11350,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 124200
+        "scPriority": 124200,
+        "scName": "復権界域拠点"
     },
     {
         "id": 93031212,
@@ -11181,7 +11423,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 124300
+        "scPriority": 124300,
+        "scName": "門前の平原"
     },
     {
         "id": 93031215,
@@ -11235,7 +11478,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 124400
+        "scPriority": 124400,
+        "scName": "果ての荒野"
     },
     {
         "id": 93031216,
@@ -11289,7 +11533,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 124500
+        "scPriority": 124500,
+        "scName": "ヨウィヌス砦"
     },
     {
         "id": 93031301,
@@ -11331,7 +11576,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 124600
+        "scPriority": 124600,
+        "scName": "チコモストク"
     },
     {
         "id": 93031302,
@@ -11373,7 +11619,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 124700
+        "scPriority": 124700,
+        "scName": "賢者の隠れ家"
     },
     {
         "id": 93031303,
@@ -11427,7 +11674,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 124800
+        "scPriority": 124800,
+        "scName": "トウモロコシ畑"
     },
     {
         "id": 93031304,
@@ -11469,7 +11717,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 124900
+        "scPriority": 124900,
+        "scName": "トラトラウキ"
     },
     {
         "id": 93031305,
@@ -11511,7 +11760,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 125000
+        "scPriority": 125000,
+        "scName": "大平原"
     },
     {
         "id": 93031306,
@@ -11553,7 +11803,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 125100
+        "scPriority": 125100,
+        "scName": "チチェン・イツァー"
     },
     {
         "id": 93031307,
@@ -11595,7 +11846,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 125200
+        "scPriority": 125200,
+        "scName": "クラッシュポイント"
     },
     {
         "id": 93031308,
@@ -11649,7 +11901,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 125300
+        "scPriority": 125300,
+        "scName": "イスタウキ"
     },
     {
         "id": 93031309,
@@ -11697,7 +11950,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 125400
+        "scPriority": 125400,
+        "scName": "メヒコシティ"
     },
     {
         "id": 93031310,
@@ -11739,7 +11993,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 125500
+        "scPriority": 125500,
+        "scName": "カーンの廃墟"
     },
     {
         "id": 93031311,
@@ -11799,7 +12054,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 125600
+        "scPriority": 125600,
+        "scName": "ソソアウワキ"
     },
     {
         "id": 93031312,
@@ -11841,7 +12097,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 125700
+        "scPriority": 125700,
+        "scName": "メツィティトラン"
     },
     {
         "id": 93031313,
@@ -11889,7 +12146,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 125800
+        "scPriority": 125800,
+        "scName": "ヤヤウキ"
     },
     {
         "id": 93031314,
@@ -11937,7 +12195,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 125900
+        "scPriority": 125900,
+        "scName": "カラクムル"
     },
     {
         "id": 93031315,
@@ -11997,7 +12256,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 126000
+        "scPriority": 126000,
+        "scName": "ティカル遺跡"
     },
     {
         "id": 93031316,
@@ -12039,7 +12299,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 126100
+        "scPriority": 126100,
+        "scName": "焼きモロコシ畑"
     },
     {
         "id": 93040101,
@@ -12063,7 +12324,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 126200
+        "scPriority": 126200,
+        "scName": "ロシアエリア"
     },
     {
         "id": 93040102,
@@ -12081,7 +12343,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 126300
+        "scPriority": 126300,
+        "scName": "東欧エリア"
     },
     {
         "id": 93040103,
@@ -12105,7 +12368,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 126400
+        "scPriority": 126400,
+        "scName": "ハワイエリア"
     },
     {
         "id": 94095301,
@@ -12129,7 +12393,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 126410
+        "scPriority": 126410,
+        "scName": "常夏即売会場"
     },
     {
         "id": 93040105,
@@ -12165,7 +12430,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 126500
+        "scPriority": 126500,
+        "scName": "オセアニア北部エリア"
     },
     {
         "id": 94086601,
@@ -12189,7 +12455,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 126600
+        "scPriority": 126600,
+        "scName": "北欧エリア"
     },
     {
         "id": 94086602,
@@ -12207,7 +12474,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 126700
+        "scPriority": 126700,
+        "scName": "カリブ海エリア"
     },
     {
         "id": 94089601,
@@ -12231,7 +12499,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 126800
+        "scPriority": 126800,
+        "scName": "東アジアエリア"
     },
     {
         "id": 94089602,
@@ -12261,7 +12530,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 126900
+        "scPriority": 126900,
+        "scName": "アメリカ南部エリア"
     },
     {
         "id": 94090701,
@@ -12291,7 +12561,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127000
+        "scPriority": 127000,
+        "scName": "南アジアエリア"
     },
     {
         "id": 94090702,
@@ -12309,7 +12580,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127100
+        "scPriority": 127100,
+        "scName": "アフリカ南部エリア"
     },
     {
         "id": 94093201,
@@ -12333,7 +12605,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127200
+        "scPriority": 127200,
+        "scName": "光糸導く迷宮"
     },
     {
         "id": 94093202,
@@ -12351,7 +12624,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127300
+        "scPriority": 127300,
+        "scName": "久遠の微笑"
     },
     {
         "id": 94095302,
@@ -12369,7 +12643,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127310
+        "scPriority": 127310,
+        "scName": "女神像を求めて"
     },
     {
         "id": 93040201,
@@ -12411,7 +12686,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127400
+        "scPriority": 127400,
+        "scName": "修理部郊外"
     },
     {
         "id": 93040202,
@@ -12453,7 +12729,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127500
+        "scPriority": 127500,
+        "scName": "修理部本部"
     },
     {
         "id": 93040203,
@@ -12501,7 +12778,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127600
+        "scPriority": 127600,
+        "scName": "警防部本部"
     },
     {
         "id": 93040204,
@@ -12543,7 +12821,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127700
+        "scPriority": 127700,
+        "scName": "生産部農地"
     },
     {
         "id": 93040205,
@@ -12585,7 +12864,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127800
+        "scPriority": 127800,
+        "scName": "警防部広場"
     },
     {
         "id": 93040206,
@@ -12633,7 +12913,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127900
+        "scPriority": 127900,
+        "scName": "維持部本部"
     },
     {
         "id": 93040209,
@@ -12675,7 +12956,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128000
+        "scPriority": 128000,
+        "scName": "維持部モール"
     },
     {
         "id": 93040210,
@@ -12705,7 +12987,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128100
+        "scPriority": 128100,
+        "scName": "構築部本部"
     },
     {
         "id": 93040207,
@@ -12759,7 +13042,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128200
+        "scPriority": 128200,
+        "scName": "外周部"
     },
     {
         "id": 93040208,
@@ -12801,7 +13085,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128300
+        "scPriority": 128300,
+        "scName": "移送部本部"
     },
     {
         "id": 93040211,
@@ -12855,7 +13140,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128400
+        "scPriority": 128400,
+        "scName": "生産部本部"
     },
     {
         "id": 93040301,
@@ -12903,7 +13189,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128500
+        "scPriority": 128500,
+        "scName": "かいもの帰り"
     },
     {
         "id": 93040302,
@@ -12933,7 +13220,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128900
+        "scPriority": 128900,
+        "scName": "ないしょの待ち合わせ"
     },
     {
         "id": 93040303,
@@ -12981,7 +13269,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 129000
+        "scPriority": 129000,
+        "scName": "しずかな放課後"
     },
     {
         "id": 93040304,
@@ -13053,7 +13342,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 129100
+        "scPriority": 129100,
+        "scName": "ななふしぎ調査"
     },
     {
         "id": 93040305,
@@ -13107,7 +13397,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 129300
+        "scPriority": 129300,
+        "scName": "とつぜんの呼び出し"
     },
     {
         "id": 93040306,
@@ -13179,7 +13470,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 129200
+        "scPriority": 129200,
+        "scName": "いのこり特訓"
     },
     {
         "id": 93040307,
@@ -13221,7 +13513,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128600
+        "scPriority": 128600,
+        "scName": "いつもの通い道"
     },
     {
         "id": 93040308,
@@ -13299,7 +13592,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 129500
+        "scPriority": 129500,
+        "scName": "たびだちの駅"
     },
     {
         "id": 93040309,
@@ -13341,7 +13635,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128700
+        "scPriority": 128700,
+        "scName": "であいの交差点"
     },
     {
         "id": 93040310,
@@ -13413,7 +13708,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128800
+        "scPriority": 128800,
+        "scName": "たたずむ摩天楼"
     },
     {
         "id": 93040311,
@@ -13455,7 +13751,8 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 129600
+        "scPriority": 129600,
+        "scName": "あいにくの空模様"
     },
     {
         "id": 93040312,
@@ -13503,6 +13800,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 129400
+        "scPriority": 129400,
+        "scName": "バードウォッチング"
     }
 ]

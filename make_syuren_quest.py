@@ -52,7 +52,8 @@ def main(args):
         event_quest = FgoFreeQuest(int(tmp["id"]), tmp["quest"], qname[1],
                                    qname[0], "カルデアゲート", qp, drop,
                                    dropitemnum,
-                                   int(tmp['scPriority']))
+                                   int(tmp['scPriority']),
+                                   tmp["shortname"])
 
         quest_output.append(dataclasses.asdict(event_quest))
 

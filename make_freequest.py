@@ -83,6 +83,7 @@ class FgoQuest:
 @dataclasses.dataclass(frozen=True)
 class FgoFreeQuest(FgoQuest):
     scPriority: int
+    scName: str
 
 def questId2quest(questId):
     endpoint = f"{url_quest}{questId}/1"
@@ -124,7 +125,8 @@ def main(args):
         freequest = FgoFreeQuest(questId, tmp["quest"], tmp["place"],
                                  tmp["chapter"], tmp["category"], qp, drop,
                                  -1,
-                                 int(tmp['scPriority']))
+                                 int(tmp['scPriority']),
+                                 tmp["scName"])
         questname = quest["name"]
         if tmp["quest"] != questname:
             logger.warning("場所名が異なります%s %s", tmp["quest"], questname)
