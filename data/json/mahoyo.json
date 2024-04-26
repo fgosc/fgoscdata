@@ -1,0 +1,74 @@
+[
+    {
+        "id": 94095704,
+        "name": "隈乃温泉十怪談 その肆 愛憎の祠",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 9407840,
+                "name": "温泉球争",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809260,
+                "name": "概念礼装EXPカード：おかしな双子",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9809270,
+                "name": "概念礼装EXPカード：お喋り探偵ロビン",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94095602,
+                "name": "温泉牛乳",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94095601,
+                "name": "いわくつきの御札",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "隈乃温泉十怪談 その肆 愛憎の祠"
+    }
+]
