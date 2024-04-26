@@ -886,6 +886,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "スタァの休日",
+        "name_eng": "Star's Day Off",
         "shortname": "礼装",
         "phash": "ccc7cc23fb2c0964",
         "phash_narrow": "c4c704e37c03a42b",
@@ -906,6 +907,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "クランクイン",
+        "name_eng": "First Day of Filming",
         "shortname": "泥礼装",
         "phash": "d1c315939b0a1db6",
         "phash_narrow": "c9e155d3838b863d",
@@ -1275,6 +1277,16 @@
         "dropPriority": 9005
     },
     {
+        "id": 9407840,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "温泉球争",
+        "shortname": "礼装",
+        "phash": "e436f2cec35f1d01",
+        "phash_narrow": "2c37b8c2f2da434a",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1369,6 +1381,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "蛮竜の牙床",
+        "name_eng": "Titanic Fang Totem",
         "phash": "89a87e7afc1ccc13",
         "phash_narrow": "81867af3fcacb3fb",
         "dropPriority": 9004
@@ -1378,6 +1391,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "群雄の証跡",
+        "name_eng": "Seal of Heroism",
         "phash": "f0fb39f6b18b600e",
         "phash_narrow": "7413747413150460",
         "dropPriority": 9004
@@ -1387,6 +1401,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "八百土の晶洞",
+        "name_eng": "Eightfold Clay Geode ",
         "phash": "99bfa40ec9aa99e2",
         "phash_narrow": "58b726ce8595e49f",
         "dropPriority": 9004
@@ -1892,6 +1907,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：Ｓバニヤン降臨",
+        "name_eng": "CE EXP Card: Super Bunyan Appears",
         "shortname": "★4EXP礼装",
         "phash": "3e03884249b5f0b5",
         "phash_narrow": "7e2bca4a0f82dd80",
@@ -1933,6 +1949,16 @@
         "name": "概念礼装EXPカード：おせちもいいんですけど",
         "phash": "22155d29a7520300",
         "phash_narrow": "021d5dadf52307e6",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9809260,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "概念礼装EXPカード：おかしな双子",
+        "shortname": "★4EXP礼装",
+        "phash": "d97233baa59fdce3",
+        "phash_narrow": "d97232b23dccc7d1",
         "dropPriority": 9004
     },
     {
@@ -2147,6 +2173,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "概念礼装EXPカード：大黒天＆アニング降臨",
+        "name_eng": "CE EXP Card: Daikokuten & Anning Appear",
         "shortname": "★3EXP礼装",
         "phash": "f49c0f05d1410de1",
         "phash_narrow": "f49e2ebe031cc00d",
@@ -2170,6 +2197,16 @@
         "shortname": "★3EXP礼装",
         "phash": "5e17c41281a4a499",
         "phash_narrow": "5a4f545300728a04",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9809270,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "概念礼装EXPカード：お喋り探偵ロビン",
+        "shortname": "★3EXP礼装",
+        "phash": "6963a9ce733cdcee",
+        "phash_narrow": "6d238cd7739c8f72",
         "dropPriority": 9003
     },
     {
@@ -3383,6 +3420,15 @@
         "phash_battle": "1c892382d192a443"
     },
     {
+        "id": 94095604,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "7e6291986171499c",
+        "name": "除霊ポイント",
+        "dropPriority": 3004
+    },
+    {
         "id": 94092704,
         "type": "Point",
         "background": "silver",
@@ -3464,6 +3510,7 @@
         "rarity": 2,
         "phash": "b66849dc711696e4",
         "name": "バニペイポイント",
+        "name_eng": "BunyanPay Point",
         "dropPriority": 3007
     },
     {
@@ -3912,6 +3959,15 @@
         "phash": "76290bdcc7b4432c",
         "name": "Ｕピース〔火〕",
         "dropPriority": 2000
+    },
+    {
+        "id": 201,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7c03a18c49283258",
+        "name": "Ｕピース〔水〕",
+        "dropPriority": 2001
     },
     {
         "id": 94000303,
@@ -5158,6 +5214,7 @@
         "rarity": 3,
         "phash": "1c01e20e31260cc1",
         "name": "魔生木",
+        "name_eng": "Magical Wood",
         "shortname": "木",
         "dropPriority": 2003,
         "phash_battle": "1cc386390689f28b"
@@ -5169,6 +5226,7 @@
         "rarity": 3,
         "phash": "4682a9b04e3394c7",
         "name": "ファン１号の証",
+        "name_eng": "No. 1 Fan Ribbon",
         "dropPriority": 2007
     },
     {
@@ -5178,6 +5236,7 @@
         "rarity": 3,
         "phash": "769a07d461ada303",
         "name": "アンティークリール",
+        "name_eng": "Antique Reel",
         "shortname": "リール",
         "dropPriority": 2003,
         "phash_battle": "f69f5729a1822470"
@@ -5189,6 +5248,7 @@
         "rarity": 3,
         "phash": "fc0223fc46033587",
         "name": "2500万DL記念チケット〔サーヴァント〕",
+        "name_eng": "20 Mil DL Celebration Ticket (Servant)",
         "dropPriority": 9001
     },
     {
@@ -5198,6 +5258,7 @@
         "rarity": 3,
         "phash": "fc0223fc46033587",
         "name": "2500万DL記念チケット〔概念礼装〕",
+        "name_eng": "20 Mil DL Celebration Ticket (Craft Essence)",
         "dropPriority": 9001
     },
     {
@@ -5600,6 +5661,25 @@
         "phash": "5609a15658b54e1b",
         "name": "Fate/stay night 20th記念特別交換チケット",
         "dropPriority": 2001
+    },
+    {
+        "id": 94095603,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "6684875971519999",
+        "name": "骨董品の提灯",
+        "shortname": "提灯",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94095605,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "6e10f70703e87c5d",
+        "name": "おしおきチョーカー",
+        "dropPriority": 2005
     },
     {
         "id": 3,
@@ -6550,6 +6630,7 @@
         "rarity": 2,
         "phash": "76a1035e1106b966",
         "name": "万能岩",
+        "name_eng": "Multipurpose Rock",
         "shortname": "岩",
         "dropPriority": 2002,
         "phash_battle": "74a3ce1996306400"
@@ -6561,6 +6642,7 @@
         "rarity": 2,
         "phash": "9b6d4b9c96e96b33",
         "name": "元気なコン",
+        "name_eng": "Energetic Con",
         "shortname": "元コン",
         "dropPriority": 2004,
         "phash_battle": "9a639e1e6b581069"
@@ -6572,6 +6654,7 @@
         "rarity": 2,
         "phash": "5b43fc9ec62bbd73",
         "name": "陽気なコン",
+        "name_eng": "Cheerful Con",
         "shortname": "陽コン",
         "dropPriority": 2005,
         "phash_battle": "0a6ade432d733d37"
@@ -6583,6 +6666,7 @@
         "rarity": 2,
         "phash": "fbea465e7c396951",
         "name": "健気なコン",
+        "name_eng": "Laudable Con",
         "shortname": "健コン",
         "dropPriority": 2006,
         "phash_battle": "9bcb5ebc296bb95b"
@@ -6594,6 +6678,7 @@
         "rarity": 2,
         "phash": "fc0229ec175866b0",
         "name": "シガースティック（偽）",
+        "name_eng": "Cigar (Fake)",
         "shortname": "シガー",
         "dropPriority": 2002,
         "phash_battle": "de0b255d2ce61092"
@@ -6605,6 +6690,7 @@
         "rarity": 2,
         "phash": "fcac030f48c38acc",
         "name": "ドカドカハンマー",
+        "name_eng": "Boom-Boom Hammer",
         "shortname": "ハンマー",
         "dropPriority": 2005,
         "phash_battle": "bc270b6803c803c8"
@@ -6616,6 +6702,7 @@
         "rarity": 2,
         "phash": "56ac5b9761c1ed6d",
         "name": "ガツガツピッケル",
+        "name_eng": "Clink-Clink Pickax",
         "shortname": "ピッケル",
         "dropPriority": 2006,
         "phash_battle": "b64e9741edad03b2"
@@ -6627,6 +6714,7 @@
         "rarity": 2,
         "phash": "dc9318dc056535d5",
         "name": "ザクザクシャベル",
+        "name_eng": "Diggy-Diggy Shovel",
         "shortname": "シャベル",
         "dropPriority": 2004,
         "phash_battle": "de12d86535d75248"
@@ -6903,6 +6991,16 @@
         "shortname": "ゼリー",
         "dropPriority": 2002,
         "phash_battle": "fc835c30838c49b6"
+    },
+    {
+        "id": 94095602,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "b7e6cd6e59d99c99",
+        "name": "温泉牛乳",
+        "shortname": "牛乳",
+        "dropPriority": 2002
     },
     {
         "id": 4,
@@ -7590,6 +7688,7 @@
         "rarity": 1,
         "phash": "7c25030b0141f091",
         "name": "神秘蔦",
+        "name_eng": "Mystical Ivy",
         "shortname": "蔦",
         "dropPriority": 2001,
         "phash_battle": "7c070b01c4912110"
@@ -7601,6 +7700,7 @@
         "rarity": 1,
         "phash": "720b0d51c9ac0744",
         "name": "来福おにぎり",
+        "name_eng": "Lucky Rice Balls",
         "shortname": "おにぎり",
         "dropPriority": 2001,
         "phash_battle": "e22f51a91543b29a"
@@ -7791,6 +7891,16 @@
         "shortname": "キャンディ",
         "dropPriority": 2001,
         "phash_battle": "1697b3f90c096161"
+    },
+    {
+        "id": 94095601,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "d60319a435c16da4",
+        "name": "いわくつきの御札",
+        "shortname": "御札",
+        "dropPriority": 2001
     },
     {
         "id": 1,
