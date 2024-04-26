@@ -120,6 +120,66 @@
         "shortname": "隈乃温泉十怪談 その弐 獣愛に目覚めし山童"
     },
     {
+        "id": 94095703,
+        "name": "隈乃温泉十怪談 その参 極彩色の暗雲",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9407840,
+                "name": "温泉球争",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809270,
+                "name": "概念礼装EXPカード：お喋り探偵ロビン",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94095603,
+                "name": "骨董品の提灯",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94095601,
+                "name": "いわくつきの御札",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "隈乃温泉十怪談 その参 極彩色の暗雲"
+    },
+    {
         "id": 94095704,
         "name": "隈乃温泉十怪談 その肆 愛憎の祠",
         "place": "",
