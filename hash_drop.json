@@ -5670,7 +5670,8 @@
         "phash": "6684875971519999",
         "name": "骨董品の提灯",
         "shortname": "提灯",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "6686c17111990164"
     },
     {
         "id": 94095605,
@@ -7000,7 +7001,8 @@
         "phash": "b7e6cd6e59d99c99",
         "name": "温泉牛乳",
         "shortname": "牛乳",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "b6a4165999989948"
     },
     {
         "id": 4,
@@ -7900,7 +7902,8 @@
         "phash": "d60319a435c16da4",
         "name": "いわくつきの御札",
         "shortname": "御札",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "56132d1559a48125"
     },
     {
         "id": 1,
