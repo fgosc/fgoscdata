@@ -60,6 +60,66 @@
         "shortname": "隈乃温泉十怪談 その壱 河伯達は遊びたい"
     },
     {
+        "id": 94095702,
+        "name": "隈乃温泉十怪談 その弐 獣愛に目覚めし山童",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9407840,
+                "name": "温泉球争",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809270,
+                "name": "概念礼装EXPカード：お喋り探偵ロビン",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            },
+            {
+                "id": 94095603,
+                "name": "骨董品の提灯",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94095602,
+                "name": "温泉牛乳",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "隈乃温泉十怪談 その弐 獣愛に目覚めし山童"
+    },
+    {
         "id": 94095704,
         "name": "隈乃温泉十怪談 その肆 愛憎の祠",
         "place": "",
