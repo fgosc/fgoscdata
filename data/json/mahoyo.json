@@ -492,6 +492,72 @@
         "shortname": "隈乃温泉十怪談 その漆 鏡の中の彼女"
     },
     {
+        "id": 94095708,
+        "name": "隈乃温泉十怪談 その捌 納期に囚われし魂",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8900,
+        "drop": [
+            {
+                "id": 9407840,
+                "name": "温泉球争",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809260,
+                "name": "概念礼装EXPカード：おかしな双子",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94095603,
+                "name": "骨董品の提灯",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94095602,
+                "name": "温泉牛乳",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "隈乃温泉十怪談 その捌 納期に囚われし魂"
+    },
+    {
         "id": 94095803,
         "name": "【怪異大量発生中！】闇夜の牙は森の中 蝕ミ級",
         "place": "",
