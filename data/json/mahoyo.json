@@ -1072,5 +1072,83 @@
         ],
         "dropItemNum": -1,
         "shortname": "【怪異大量発生中！】窟の中に潜む者 蝕ミ級"
+    },
+    {
+        "id": 94095815,
+        "name": "【怪異大量発生中！】廻り蠢く呪物と共に 蝕ミ級",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9407840,
+                "name": "温泉球争",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809260,
+                "name": "概念礼装EXPカード：おかしな双子",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
+                "type": "Item",
+                "dropPriority": 8104
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 94095603,
+                "name": "骨董品の提灯",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94095602,
+                "name": "温泉牛乳",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94095601,
+                "name": "いわくつきの御札",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【怪異大量発生中！】廻り蠢く呪物と共に 蝕ミ級"
     }
 ]
