@@ -1228,5 +1228,83 @@
         ],
         "dropItemNum": -1,
         "shortname": "【怪異大量発生中！】異形異類も温浴したい 蝕ミ級"
+    },
+    {
+        "id": 94095821,
+        "name": "【怪異大量発生中！】鬼哭啾啾の捧げ物 蝕ミ級",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9407840,
+                "name": "温泉球争",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809260,
+                "name": "概念礼装EXPカード：おかしな双子",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 94095603,
+                "name": "骨董品の提灯",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94095602,
+                "name": "温泉牛乳",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94095601,
+                "name": "いわくつきの御札",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【怪異大量発生中！】鬼哭啾啾の捧げ物 蝕ミ級"
     }
 ]
