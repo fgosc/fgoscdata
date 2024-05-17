@@ -4,6 +4,7 @@
         "name": "カルデア探検隊！ 漂流してきた宝を探せ！",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 2400,
         "drop": [
             {
@@ -55,14 +56,15 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 8,
-        "shortname": "漂流してきた宝を探せ！"
+        "dropItemNum": -1,
+        "shortname": "カルデア探検隊！ 漂流してきた宝を探せ！"
     },
     {
         "id": 94060602,
         "name": "カルデア探検隊！ 海賊達と飲みニケーション！",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 3400,
         "drop": [
             {
@@ -114,14 +116,15 @@
                 "dropPriority": 2002
             }
         ],
-        "dropItemNum": 8,
-        "shortname": "海賊達と飲みニケーション！"
+        "dropItemNum": -1,
+        "shortname": "カルデア探検隊！ 海賊達と飲みニケーション！"
     },
     {
         "id": 94060603,
         "name": "カルデア探検隊！ 秘境に隠れし宝を探せ！",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 4400,
         "drop": [
             {
@@ -179,14 +182,15 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 9,
-        "shortname": "秘境に隠れし宝を探せ！"
+        "dropItemNum": -1,
+        "shortname": "カルデア探検隊！ 秘境に隠れし宝を探せ！"
     },
     {
         "id": 94060604,
         "name": "カルデア探検隊！ 部族と交流を試みよ！",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 5400,
         "drop": [
             {
@@ -238,14 +242,15 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 8,
-        "shortname": "部族と交流を試みよ！"
+        "dropItemNum": -1,
+        "shortname": "カルデア探検隊！ 部族と交流を試みよ！"
     },
     {
         "id": 94060605,
         "name": "カルデア探検隊！ 崩れた遺跡を掘り起こせ！",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 6400,
         "drop": [
             {
@@ -297,14 +302,15 @@
                 "dropPriority": 2002
             }
         ],
-        "dropItemNum": 8,
-        "shortname": "崩れた遺跡を掘り起こせ！"
+        "dropItemNum": -1,
+        "shortname": "カルデア探検隊！ 崩れた遺跡を掘り起こせ！"
     },
     {
         "id": 94060606,
         "name": "カルデア探検隊！ 海底洞窟にお宝が！？",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 7400,
         "drop": [
             {
@@ -368,14 +374,15 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 10,
-        "shortname": "海底洞窟にお宝が！？"
+        "dropItemNum": -1,
+        "shortname": "カルデア探検隊！ 海底洞窟にお宝が！？"
     },
     {
         "id": 94060607,
         "name": "カルデア探検隊！ 神秘の山には秘密がたくさん！",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 8400,
         "drop": [
             {
@@ -439,14 +446,15 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 10,
-        "shortname": "神秘の山には秘密がたくさん！"
+        "dropItemNum": -1,
+        "shortname": "カルデア探検隊！ 神秘の山には秘密がたくさん！"
     },
     {
         "id": 94060608,
         "name": "カルデア探検隊！ 巨大墳墓に眠る謎！",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 8900,
         "drop": [
             {
@@ -510,14 +518,15 @@
                 "dropPriority": 2002
             }
         ],
-        "dropItemNum": 10,
-        "shortname": "巨大墳墓に眠る謎！"
+        "dropItemNum": -1,
+        "shortname": "カルデア探検隊！ 巨大墳墓に眠る謎！"
     },
     {
         "id": 94060609,
         "name": "カルデア探検隊！ 座礁船に群がる巨大生物の謎！",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 9400,
         "drop": [
             {
@@ -581,14 +590,15 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 10,
-        "shortname": "座礁船に群がる巨大生物の謎！"
+        "dropItemNum": -1,
+        "shortname": "カルデア探検隊！ 座礁船に群がる巨大生物の謎！"
     },
     {
         "id": 94060610,
         "name": "カルデア探検隊！最終回！ 神秘はいつも足元に！？",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 9400,
         "drop": [
             {
@@ -670,7 +680,7 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 13,
-        "shortname": "神秘はいつも足元に！？"
+        "dropItemNum": -1,
+        "shortname": "カルデア探検隊！ 神秘はいつも足元に！？"
     }
 ]
