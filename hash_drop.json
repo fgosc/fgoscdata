@@ -918,6 +918,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "五大元素使い",
+        "name_eng": "Average One",
         "phash": "d91e87e71d43e94e",
         "phash_narrow": "d93ae6ae13e348d7",
         "dropPriority": 9005
@@ -927,6 +928,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "碧空に立つ",
+        "name_eng": "Standing beneath the Azure Sky",
         "phash": "cf68c404299ad292",
         "phash_narrow": "2e69c46c694c0cb1",
         "dropPriority": 9005
@@ -936,6 +938,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ハートブレイカー",
+        "name_eng": "Heartbreaker",
         "shortname": "礼装",
         "phash": "8abc91032cdb67ed",
         "phash_narrow": "8fbcd3241877852d",
@@ -1287,6 +1290,25 @@
         "dropPriority": 9005
     },
     {
+        "id": 9407850,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "レポートチェック",
+        "phash": "b25a68aedb0b8a22",
+        "phash_narrow": "b250649459c99ad8",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9407890,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ミスター・レッドガジェット",
+        "shortname": "礼装",
+        "phash": "5e61b906e12a0691",
+        "phash_narrow": "46b198c5e9269009",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1411,6 +1433,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "砂上の貝楼",
+        "name_eng": "Seashells by the Seashore",
         "phash": "3be792d3f5b26dee",
         "phash_narrow": "2bef9ad3b2956214",
         "dropPriority": 9004
@@ -1420,6 +1443,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "天寵の尾羽",
+        "name_eng": "Blessed Plumage",
         "phash": "6699e93c7206f7e1",
         "phash_narrow": "86d9ad78075e2112",
         "dropPriority": 9004
@@ -1429,6 +1453,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "投影装填",
+        "name_eng": "Trigger Off",
         "phash": "1e076fe8414b200a",
         "phash_narrow": "1c07ec64c304c121",
         "dropPriority": 9004
@@ -1438,6 +1463,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "悲願の継承",
+        "name_eng": "Inheritance of a Long-Cherished Dream",
         "phash": "86c750200bb2294e",
         "phash_narrow": "8ec7a46f92300620",
         "dropPriority": 9004
@@ -1447,6 +1473,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "代償魔術",
+        "name_eng": "Transmutation Magecraft",
         "phash": "ba60868745f26db4",
         "phash_narrow": "7b788f0d922c15c2",
         "dropPriority": 9004
@@ -1456,6 +1483,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "燈る祈りを胸に掲げて",
+        "name_eng": "With Lighted Prayer in Our Hearts",
         "phash": "89fecb5a3c8d7ca7",
         "phash_narrow": "81b6c37a9f1c3d58",
         "dropPriority": 9004
@@ -1465,6 +1493,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "禁忌の書架",
+        "name_eng": "Forbidden Grimoire",
         "phash": "ad0f7cb4c3b2c3c3",
         "phash_narrow": "a94f7c5d3cf320b3",
         "dropPriority": 9004
@@ -1474,6 +1503,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "無窮の廻構",
+        "name_eng": "Perpetual Motion Machine",
         "phash": "e9f681aa1d6681e3",
         "phash_narrow": "e87781b97c2dba90",
         "dropPriority": 9004
@@ -1483,6 +1513,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "血涙の坩堝",
+        "name_eng": "Crucible of Bloody Tears",
         "phash": "ed72e99259a39da2",
         "phash_narrow": "76588670eb1f8462",
         "dropPriority": 9004
@@ -1492,6 +1523,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "緋髄の工房",
+        "name_eng": "Scarlet Marrow Workshop",
         "phash": "7c92897b69d6d9f6",
         "phash_narrow": "7d80bf2b8aaaff0b",
         "dropPriority": 9004
@@ -1674,6 +1706,15 @@
         "name": "緋毛の燎原",
         "phash": "e91ba03cd42652eb",
         "phash_narrow": "6b9ba87db47cb063",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9407180,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "黒脂の暗沼",
+        "phash": "fc728932cd764d32",
+        "phash_narrow": "76d90002e5106896",
         "dropPriority": 9004
     },
     {
@@ -2016,6 +2057,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "枯れない花",
+        "name_eng": "Unwithering Flower",
         "phash": "591c078f6981d66d",
         "phash_narrow": "781c876d33850de3",
         "dropPriority": 9003
@@ -2794,6 +2836,7 @@
         "rarity": 1,
         "phash": "f6272c9343231948",
         "name": "忘れじの灰",
+        "name_eng": "Ash of Remembrance",
         "shortname": "灰",
         "dropPriority": 8108,
         "phash_battle": "f62d83c33148e9c2"
@@ -2805,6 +2848,7 @@
         "rarity": 1,
         "phash": "f4f970a60f17275f",
         "name": "黄昏の儀式剣",
+        "name_eng": "Ceremonial Sword of Twilight",
         "shortname": "剣",
         "dropPriority": 8107,
         "phash_battle": "e579060f2fd7ff7e"
@@ -3420,6 +3464,16 @@
         "phash_battle": "1c892382d192a443"
     },
     {
+        "id": 94098707,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "6f686ed3929ecacc",
+        "name": "デジマスイーツポイント",
+        "shortname": "ポイント",
+        "dropPriority": 3007
+    },
+    {
         "id": 94095604,
         "type": "Point",
         "background": "silver",
@@ -3499,6 +3553,7 @@
         "rarity": 2,
         "phash": "7e2a86d86178d994",
         "name": "犬士ポイント",
+        "name_eng": "Dog Warrior Points",
         "shortname": "犬士P",
         "dropPriority": 3004,
         "phash_battle": "fa068d6979593699"
@@ -5268,6 +5323,7 @@
         "rarity": 3,
         "phash": "760985d8a37ea116",
         "name": "転々手鞠",
+        "name_eng": "Rolly Ball",
         "shortname": "手鞠",
         "dropPriority": 2003,
         "phash_battle": "fa1584abb1236332"
@@ -5308,6 +5364,7 @@
         "rarity": 3,
         "phash": "f70229ec169bec66",
         "name": "FGO 7th Anniversary 英霊夢装チケット",
+        "name_eng": "FGO 7th Anniversary Dream Portrait Ticket",
         "dropPriority": 2002
     },
     {
@@ -5681,6 +5738,16 @@
         "phash": "6e10f70703e87c5d",
         "name": "おしおきチョーカー",
         "dropPriority": 2005
+    },
+    {
+        "id": 94098703,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "9b0a68f6b229767e",
+        "name": "リュウグウパール",
+        "shortname": "パール",
+        "dropPriority": 2003
     },
     {
         "id": 3,
@@ -6727,6 +6794,7 @@
         "rarity": 2,
         "phash": "3e12e9a4934c1a4c",
         "name": "噛々縄索",
+        "name_eng": "Rope Toy",
         "shortname": "縄索",
         "dropPriority": 2002,
         "phash_battle": "164badd34a0b9d25"
@@ -7003,6 +7071,46 @@
         "shortname": "牛乳",
         "dropPriority": 2002,
         "phash_battle": "b6a4165999989948"
+    },
+    {
+        "id": 94098702,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "7720a40968ce3c59",
+        "name": "ホシクズキャンディ",
+        "shortname": "キャンディ",
+        "dropPriority": 2002
+    },
+    {
+        "id": 94098704,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "2f3ad15832b0061c",
+        "name": "サザンシュガー",
+        "shortname": "シュガー",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94098705,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5e8294292c6909c3",
+        "name": "ジャーニーパウダー",
+        "shortname": "パウダー",
+        "dropPriority": 2005
+    },
+    {
+        "id": 94098706,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "fe1a09a80b54f683",
+        "name": "トロピカルバター",
+        "shortname": "バター",
+        "dropPriority": 2006
     },
     {
         "id": 4,
@@ -7714,6 +7822,7 @@
         "rarity": 1,
         "phash": "56c9a57241180096",
         "name": "白々御飯",
+        "name_eng": "Chompy Meal",
         "shortname": "御飯",
         "dropPriority": 2001,
         "phash_battle": "56ad266916d38804"
@@ -7904,6 +8013,16 @@
         "shortname": "御札",
         "dropPriority": 2001,
         "phash_battle": "56132d1559a48125"
+    },
+    {
+        "id": 94098701,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "5601bc020ad1b019",
+        "name": "ニジイロナマコ",
+        "shortname": "ナマコ",
+        "dropPriority": 2001
     },
     {
         "id": 1,
