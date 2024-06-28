@@ -1,0 +1,296 @@
+[
+    {
+        "id": 94098801,
+        "name": "貿易戦略  女神から交渉の秘訣を学ぶ",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 9407890,
+                "name": "ミスター・レッドガジェット",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94098707,
+                "name": "デジマスイーツポイント",
+                "type": "Point",
+                "dropPriority": 3007
+            },
+            {
+                "id": 94098705,
+                "name": "ジャーニーパウダー",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94020801,
+                "name": "ファンシーシュガー",
+                "type": "Item",
+                "dropPriority": 2001
+            },
+            {
+                "id": 94093301,
+                "name": "勇気のキャンディ",
+                "type": "Item",
+                "dropPriority": 2001
+            },
+            {
+                "id": 94098701,
+                "name": "ニジイロナマコ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "貿易戦略  女神から交渉の秘訣を学ぶ"
+    },
+    {
+        "id": 94098802,
+        "name": "貿易戦略  物資運搬のノウハウを学ぶ",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9407890,
+                "name": "ミスター・レッドガジェット",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94098707,
+                "name": "デジマスイーツポイント",
+                "type": "Point",
+                "dropPriority": 3007
+            },
+            {
+                "id": 94098706,
+                "name": "トロピカルバター",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94098705,
+                "name": "ジャーニーパウダー",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94098703,
+                "name": "リュウグウパール",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94093301,
+                "name": "勇気のキャンディ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "貿易戦略  物資運搬のノウハウを学ぶ"
+    },
+    {
+        "id": 94098803,
+        "name": "貿易戦略  メイド喫茶で事業管理を学ぶ",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9407890,
+                "name": "ミスター・レッドガジェット",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94098707,
+                "name": "デジマスイーツポイント",
+                "type": "Point",
+                "dropPriority": 3007
+            },
+            {
+                "id": 94098706,
+                "name": "トロピカルバター",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94098703,
+                "name": "リュウグウパール",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94020801,
+                "name": "ファンシーシュガー",
+                "type": "Item",
+                "dropPriority": 2001
+            },
+            {
+                "id": 94098701,
+                "name": "ニジイロナマコ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "貿易戦略  メイド喫茶で事業管理を学ぶ"
+    },
+    {
+        "id": 94098804,
+        "name": "貿易戦略  ライバル団子屋との売り上げ勝負",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 9407890,
+                "name": "ミスター・レッドガジェット",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94098707,
+                "name": "デジマスイーツポイント",
+                "type": "Point",
+                "dropPriority": 3007
+            },
+            {
+                "id": 94098706,
+                "name": "トロピカルバター",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94098705,
+                "name": "ジャーニーパウダー",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94098703,
+                "name": "リュウグウパール",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94020801,
+                "name": "ファンシーシュガー",
+                "type": "Item",
+                "dropPriority": 2001
+            },
+            {
+                "id": 94093301,
+                "name": "勇気のキャンディ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "貿易戦略  ライバル団子屋との売り上げ勝負"
+    }
+]
