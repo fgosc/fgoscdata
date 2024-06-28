@@ -50,10 +50,10 @@
                 "dropPriority": 2005
             },
             {
-                "id": 94020801,
-                "name": "ファンシーシュガー",
+                "id": 94098704,
+                "name": "サザンシュガー",
                 "type": "Item",
-                "dropPriority": 2001
+                "dropPriority": 2004
             },
             {
                 "id": 94093301,
@@ -188,16 +188,16 @@
                 "dropPriority": 2006
             },
             {
+                "id": 94098704,
+                "name": "サザンシュガー",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
                 "id": 94098703,
                 "name": "リュウグウパール",
                 "type": "Item",
                 "dropPriority": 2003
-            },
-            {
-                "id": 94020801,
-                "name": "ファンシーシュガー",
-                "type": "Item",
-                "dropPriority": 2001
             },
             {
                 "id": 94098701,
@@ -272,16 +272,16 @@
                 "dropPriority": 2005
             },
             {
+                "id": 94098704,
+                "name": "サザンシュガー",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
                 "id": 94098703,
                 "name": "リュウグウパール",
                 "type": "Item",
                 "dropPriority": 2003
-            },
-            {
-                "id": 94020801,
-                "name": "ファンシーシュガー",
-                "type": "Item",
-                "dropPriority": 2001
             },
             {
                 "id": 94093301,
