@@ -288,6 +288,12 @@
                 "name": "勇気のキャンディ",
                 "type": "Item",
                 "dropPriority": 2001
+            },
+            {
+                "id": 94098701,
+                "name": "ニジイロナマコ",
+                "type": "Item",
+                "dropPriority": 2001
             }
         ],
         "dropItemNum": -1,
