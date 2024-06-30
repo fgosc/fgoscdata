@@ -382,5 +382,89 @@
         ],
         "dropItemNum": -1,
         "shortname": "貿易戦略  話題の料理研究家に突撃取材"
+    },
+    {
+        "id": 94098806,
+        "name": "貿易戦略  新メニューのレシピを求めて",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9407890,
+                "name": "ミスター・レッドガジェット",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94098707,
+                "name": "デジマスイーツポイント",
+                "type": "Point",
+                "dropPriority": 3007
+            },
+            {
+                "id": 94098706,
+                "name": "トロピカルバター",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94098705,
+                "name": "ジャーニーパウダー",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94098704,
+                "name": "サザンシュガー",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94098703,
+                "name": "リュウグウパール",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94098702,
+                "name": "ホシクズキャンディ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "貿易戦略  新メニューのレシピを求めて"
     }
 ]
