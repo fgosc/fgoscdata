@@ -550,5 +550,77 @@
         ],
         "dropItemNum": -1,
         "shortname": "貿易戦略  龍宮城建て直し計画"
+    },
+    {
+        "id": 94098808,
+        "name": "貿易戦略  新たな取引先を探して",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9407890,
+                "name": "ミスター・レッドガジェット",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6540,
+                "name": "九十九鏡",
+                "type": "Item",
+                "dropPriority": 8506
+            },
+            {
+                "id": 6550,
+                "name": "夢幻の鱗粉",
+                "type": "Item",
+                "dropPriority": 8319
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94098707,
+                "name": "デジマスイーツポイント",
+                "type": "Point",
+                "dropPriority": 3007
+            },
+            {
+                "id": 94098706,
+                "name": "トロピカルバター",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94098705,
+                "name": "ジャーニーパウダー",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94098704,
+                "name": "サザンシュガー",
+                "type": "Item",
+                "dropPriority": 2004
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "貿易戦略  新たな取引先を探して"
     }
 ]
