@@ -12647,6 +12647,50 @@
         "scName": "女神像を求めて"
     },
     {
+        "id": 94100501,
+        "name": "蛇竜のいたずら",
+        "place": "オセアニア南部エリア",
+        "chapter": "オーディール・コール",
+        "category": "奏章",
+        "qp": 389850,
+        "drop": [
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 127320,
+        "scName": "蛇竜のいたずら"
+    },
+    {
+        "id": 94100502,
+        "name": "復活の黄金都市",
+        "place": "西アフリカエリア",
+        "chapter": "オーディール・コール",
+        "category": "奏章",
+        "qp": 270720,
+        "drop": [
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 127330,
+        "scName": "復活の黄金都市"
+    },
+    {
         "id": 93040201,
         "name": "隔離施設",
         "place": "修理部郊外",
