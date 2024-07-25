@@ -52,5 +52,59 @@
         ],
         "dropItemNum": -1,
         "shortname": "海賊・ハント 典位++級"
+    },
+    {
+        "id": 94100110,
+        "name": "へルタースケルター・ハント 典位++級",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 9701400,
+                "name": "剣猛火",
+                "type": "Exp. UP",
+                "dropPriority": 691
+            },
+            {
+                "id": 9701500,
+                "name": "剣業火",
+                "type": "Exp. UP",
+                "dropPriority": 690
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "へルタースケルター・ハント 典位++級"
     }
 ]
