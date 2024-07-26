@@ -106,5 +106,65 @@
         ],
         "dropItemNum": -1,
         "shortname": "へルタースケルター・ハント 典位++級"
+    },
+    {
+        "id": 94100115,
+        "name": "広域殲滅兵器・ハント 典位++級",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 9702400,
+                "name": "槍猛火",
+                "type": "Exp. UP",
+                "dropPriority": 686
+            },
+            {
+                "id": 9702500,
+                "name": "槍業火",
+                "type": "Exp. UP",
+                "dropPriority": 685
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "広域殲滅兵器・ハント 典位++級"
     }
 ]
