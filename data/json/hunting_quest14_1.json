@@ -166,5 +166,65 @@
         ],
         "dropItemNum": -1,
         "shortname": "広域殲滅兵器・ハント 典位++級"
+    },
+    {
+        "id": 94100120,
+        "name": "キメラ・ハント 典位++級",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6511,
+                "name": "禁断の頁",
+                "type": "Item",
+                "dropPriority": 8303
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 9705400,
+                "name": "術猛火",
+                "type": "Exp. UP",
+                "dropPriority": 671
+            },
+            {
+                "id": 9705500,
+                "name": "術業火",
+                "type": "Exp. UP",
+                "dropPriority": 670
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "キメラ・ハント 典位++級"
     }
 ]
