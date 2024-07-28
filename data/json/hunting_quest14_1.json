@@ -226,5 +226,65 @@
         ],
         "dropItemNum": -1,
         "shortname": "キメラ・ハント 典位++級"
+    },
+    {
+        "id": 94100125,
+        "name": "対人殲滅装置・ハント 典位++級",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 9706400,
+                "name": "殺猛火",
+                "type": "Exp. UP",
+                "dropPriority": 666
+            },
+            {
+                "id": 9706500,
+                "name": "殺業火",
+                "type": "Exp. UP",
+                "dropPriority": 665
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "対人殲滅装置・ハント 典位++級"
     }
 ]
