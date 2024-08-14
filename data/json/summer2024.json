@@ -1,0 +1,176 @@
+[
+    {
+        "id": 94099801,
+        "name": "ドバイ観光 高さにこだわる女神様",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 9407960,
+                "name": "眺望絶佳、神韻縹渺",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94099505,
+                "name": "ドバイ観光ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94099502,
+                "name": "ラグジュアリーキャメル",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94099501,
+                "name": "リッチデーツ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ドバイ観光 高さにこだわる女神様"
+    },
+    {
+        "id": 94099802,
+        "name": "ドバイ観光 不毀のバリケード",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9407970,
+                "name": "黄昏の風に吹かれて",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94099505,
+                "name": "ドバイ観光ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94099503,
+                "name": "ゴールデンポット",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94099502,
+                "name": "ラグジュアリーキャメル",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ドバイ観光 不毀のバリケード"
+    },
+    {
+        "id": 94099803,
+        "name": "ドバイ観光 ハヌマーンも認めた味",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9407960,
+                "name": "眺望絶佳、神韻縹渺",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6552,
+                "name": "忘れじの灰",
+                "type": "Item",
+                "dropPriority": 8108
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 94099505,
+                "name": "ドバイ観光ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94099503,
+                "name": "ゴールデンポット",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94099501,
+                "name": "リッチデーツ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ドバイ観光 ハヌマーンも認めた味"
+    }
+]
