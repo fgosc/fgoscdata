@@ -949,6 +949,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "フィスト・オブ・ヘイル",
+        "name_eng": "Fist of Hail",
         "shortname": "泥礼装",
         "phash": "1acfac36c930c190",
         "phash_narrow": "1acf2e863a441090",
@@ -959,6 +960,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "アイス・ウォーリアー",
+        "name_eng": "Ice Warrior",
         "shortname": "特攻礼装",
         "phash": "716c6efdfca044ae",
         "phash_narrow": "304a6ffbf9104c6c",
@@ -969,6 +971,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "Ａ’",
+        "name_eng": "A'",
         "phash": "06710d659d024b8c",
         "phash_narrow": "463944ad374a0902",
         "dropPriority": 9005
@@ -1006,6 +1009,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "逆堕つ泥雨",
+        "name_eng": "Inverted Rain of Mud",
         "phash": "23f35d4798239ef1",
         "phash_narrow": "a3f34ff5294e94b0",
         "dropPriority": 9005
@@ -1309,6 +1313,44 @@
         "dropPriority": 9005
     },
     {
+        "id": 9407960,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "眺望絶佳、神韻縹渺",
+        "shortname": "特攻礼装",
+        "phash": "5ec1794884e15a37",
+        "phash_narrow": "5ed35b1cc0307d1a",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9407970,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "黄昏の風に吹かれて",
+        "shortname": "泥礼装",
+        "phash": "cea414627995d14b",
+        "phash_narrow": "af9cd66a36b2d454",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9407980,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "喝采の焔",
+        "phash": "b80366278d629972",
+        "phash_narrow": "b847668d0609162b",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9408010,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "月海原学園の王",
+        "phash": "a601487219863806",
+        "phash_narrow": "b60d4a728178828d",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1560,6 +1602,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "免許皆伝",
+        "name_eng": "Full Mastership",
         "phash": "cff23c14c9ea04e6",
         "phash_narrow": "c2e236195918be60",
         "dropPriority": 9004
@@ -1778,6 +1821,24 @@
         "name": "彼方の日々",
         "phash": "1ae16417c97bbd92",
         "phash_narrow": "1ae124056d9bd16c",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9407990,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "クラウン＆オーギュスト",
+        "phash": "f234bd490b7c0178",
+        "phash_narrow": "f236a54bbe48fe30",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9408020,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "シンジタンク出撃！",
+        "phash": "f8fded162932b292",
+        "phash_narrow": "b8edc4cc6922b333",
         "dropPriority": 9004
     },
     {
@@ -2067,6 +2128,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "ハロー！アークティック",
+        "name_eng": "Hello, Arctic!",
         "phash": "f192de4d396827ef",
         "phash_narrow": "a1f2d6d9f8e03c3e",
         "dropPriority": 9003
@@ -2105,6 +2167,15 @@
         "name": "環太平洋地帯にて",
         "phash": "621b1df8919c6f26",
         "phash_narrow": "62071d71b8e9a176",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9408000,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "ウェルカム・トゥ・エキスポ",
+        "phash": "d347f6d22ab46526",
+        "phash_narrow": "cb25d64abad8ac4b",
         "dropPriority": 9003
     },
     {
@@ -3464,6 +3535,25 @@
         "phash_battle": "1c892382d192a443"
     },
     {
+        "id": 94099505,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "6fc89e3cc976d886",
+        "name": "ドバイ観光ポイント",
+        "shortname": "ポイント",
+        "dropPriority": 3005
+    },
+    {
+        "id": 94099504,
+        "type": "Point",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "1e58a3a671441859",
+        "name": "幸せカウンターポイント",
+        "dropPriority": 3004
+    },
+    {
         "id": 94098707,
         "type": "Point",
         "background": "silver",
@@ -3543,6 +3633,7 @@
         "rarity": 2,
         "phash": "7f688edb8a9ce959",
         "name": "来園者数ポイント",
+        "name_eng": "Visitor Points",
         "shortname": "来園P",
         "dropPriority": 3005,
         "phash_battle": "7984a909c4621cb4"
@@ -5336,6 +5427,7 @@
         "rarity": 3,
         "phash": "7f0e83b11c4ccde3",
         "name": "ワルキューレカチューシャ",
+        "name_eng": "Valkyrie Ears",
         "shortname": "カチューシャ",
         "dropPriority": 2003,
         "phash_battle": "fe03b11c4ca3344c"
@@ -5347,6 +5439,7 @@
         "rarity": 3,
         "phash": "f6090b5ed1843cad",
         "name": "戦乙女のベレー帽",
+        "name_eng": "Valkyrie Beret",
         "dropPriority": 2006
     },
     {
@@ -5356,6 +5449,7 @@
         "rarity": 3,
         "phash": "fc0223fc4643b5a7",
         "name": "FGO 7th Anniversary ★5概念礼装チケット",
+        "name_eng": "FGO 7th Anniversary ★5 Craft Essence Ticket",
         "dropPriority": 2001
     },
     {
@@ -5718,6 +5812,7 @@
         "rarity": 3,
         "phash": "5609a15658b54e1b",
         "name": "Fate/stay night 20th記念特別交換チケット",
+        "name_eng": "\"Fate/stay night\" 20th Anniversary Special Exchange Ticket",
         "dropPriority": 2001
     },
     {
@@ -5750,6 +5845,25 @@
         "shortname": "パール",
         "dropPriority": 2003,
         "phash_battle": "9b69d6b3a4763d74"
+    },
+    {
+        "id": 94099301,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d702794c26e98412",
+        "name": "FGO 9th Anniversary 英霊博装チケット",
+        "dropPriority": 2001
+    },
+    {
+        "id": 94099503,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "364387992dd0033b",
+        "name": "ゴールデンポット",
+        "shortname": "ポット",
+        "dropPriority": 2003
     },
     {
         "id": 3,
@@ -6808,6 +6922,7 @@
         "rarity": 2,
         "phash": "b769b329f89c1c66",
         "name": "アークティックドーム",
+        "name_eng": "Arctic Snow Globe",
         "shortname": "ドーム",
         "dropPriority": 2002,
         "phash_battle": "7673bdb82c2c2d66"
@@ -6819,6 +6934,7 @@
         "rarity": 2,
         "phash": "13e2bdd86c34d6c8",
         "name": "北極式天然氷",
+        "name_eng": "Natural North Pole Ice",
         "shortname": "天然氷",
         "dropPriority": 2004,
         "phash_battle": "12b5d92c564b95ca"
@@ -7117,6 +7233,16 @@
         "shortname": "Tバター",
         "dropPriority": 2006,
         "phash_battle": "5e1da91f5e0b83f4"
+    },
+    {
+        "id": 94099502,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "f6808d2bc927c912",
+        "name": "ラグジュアリーキャメル",
+        "shortname": "キャメル",
+        "dropPriority": 2002
     },
     {
         "id": 4,
@@ -7840,6 +7966,7 @@
         "rarity": 1,
         "phash": "760d60b38c0c2253",
         "name": "オーロラフラッペ",
+        "name_eng": "Aurora Frappé",
         "shortname": "フラッペ",
         "dropPriority": 2001,
         "phash_battle": "166db38c24734c4d"
@@ -8030,6 +8157,16 @@
         "shortname": "ナマコ",
         "dropPriority": 2001,
         "phash_battle": "02f52c0bf11906a5"
+    },
+    {
+        "id": 94099501,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "5609a1f14836240c",
+        "name": "リッチデーツ",
+        "shortname": "デーツ",
+        "dropPriority": 2001
     },
     {
         "id": 1,
