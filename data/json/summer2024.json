@@ -322,5 +322,65 @@
         ],
         "dropItemNum": -1,
         "shortname": "ドバイ観光 百面相の洋品店"
+    },
+    {
+        "id": 94099806,
+        "name": "ドバイ観光 買うべきか買わざるべきか",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9407970,
+                "name": "黄昏の風に吹かれて",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94099505,
+                "name": "ドバイ観光ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94099503,
+                "name": "ゴールデンポット",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94099501,
+                "name": "リッチデーツ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ドバイ観光 買うべきか買わざるべきか"
     }
 ]
