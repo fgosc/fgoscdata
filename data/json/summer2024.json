@@ -448,5 +448,71 @@
         ],
         "dropItemNum": -1,
         "shortname": "ドバイ観光 フードデリバリー戦争"
+    },
+    {
+        "id": 94099808,
+        "name": "ドバイ観光 砂漠の愛の逃避行？",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9407970,
+                "name": "黄昏の風に吹かれて",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6531,
+                "name": "奇奇神酒",
+                "type": "Item",
+                "dropPriority": 8505
+            },
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94099505,
+                "name": "ドバイ観光ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94099503,
+                "name": "ゴールデンポット",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94099502,
+                "name": "ラグジュアリーキャメル",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ドバイ観光 砂漠の愛の逃避行？"
     }
 ]
