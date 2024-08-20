@@ -514,5 +514,71 @@
         ],
         "dropItemNum": -1,
         "shortname": "ドバイ観光 砂漠の愛の逃避行？"
+    },
+    {
+        "id": 94099809,
+        "name": "ドバイ観光 ご利用は計画的に",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8900,
+        "drop": [
+            {
+                "id": 9407960,
+                "name": "眺望絶佳、神韻縹渺",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94099505,
+                "name": "ドバイ観光ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94099503,
+                "name": "ゴールデンポット",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94099501,
+                "name": "リッチデーツ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ドバイ観光 ご利用は計画的に"
     }
 ]
