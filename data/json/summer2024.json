@@ -754,5 +754,83 @@
         ],
         "dropItemNum": -1,
         "shortname": "ドバイ観光 王の晩餐 ～準備中～"
+    },
+    {
+        "id": 94099812,
+        "name": "ドバイ観光 ドラゴンスレイヤーヒーローショー",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9407960,
+                "name": "眺望絶佳、神韻縹渺",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9407970,
+                "name": "黄昏の風に吹かれて",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6542,
+                "name": "真理の卵",
+                "type": "Item",
+                "dropPriority": 8507
+            },
+            {
+                "id": 6537,
+                "name": "巨人の指輪",
+                "type": "Item",
+                "dropPriority": 8312
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94099505,
+                "name": "ドバイ観光ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94099503,
+                "name": "ゴールデンポット",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94099502,
+                "name": "ラグジュアリーキャメル",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94099501,
+                "name": "リッチデーツ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ドバイ観光 ドラゴンスレイヤーヒーローショー"
     }
 ]
