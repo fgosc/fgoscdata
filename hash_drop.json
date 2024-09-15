@@ -2366,7 +2366,8 @@
         "phash": "5b00b6532c964d27",
         "name": "月光核",
         "shortname": "月光",
-        "dropPriority": 8511
+        "dropPriority": 8511,
+        "phash_battle": "2bd656a40e2e77ef"
     },
     {
         "id": 6558,
@@ -2624,7 +2625,8 @@
         "phash": "dc620d3c8b33c906",
         "name": "ユニバーサルキューブ",
         "shortname": "キューブ",
-        "dropPriority": 8323
+        "dropPriority": 8323,
+        "phash_battle": "c80725af71021848"
     },
     {
         "id": 6557,
