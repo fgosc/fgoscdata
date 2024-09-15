@@ -981,6 +981,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "黄泉より出づる讐い",
+        "name_eng": "Vengeance from the Underworld",
         "phash": "99734a6985fd70cc",
         "phash_narrow": "b1d36a0b8b76c826",
         "dropPriority": 9005
@@ -990,6 +991,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "旅をもてなす",
+        "name_eng": "Hospitality for the Journey",
         "shortname": "泥礼装",
         "phash": "27968373d32ff94f",
         "phash_narrow": "679ed3d203b60be2",
@@ -1000,6 +1002,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "夜明け前",
+        "name_eng": "Before Dawn",
         "phash": "73d0ac644a3946ec",
         "phash_narrow": "5390a5623b56ac22",
         "dropPriority": 9005
@@ -1351,6 +1354,24 @@
         "dropPriority": 9005
     },
     {
+        "id": 9408030,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "法悦の浄土",
+        "phash": "9936a4edcc8e7366",
+        "phash_narrow": "9936a5c58d338c6f",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9408060,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "手稿の翼",
+        "phash": "3c65c99213e32771",
+        "phash_narrow": "3c65ce199b251301",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1575,6 +1596,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "是にあらざる",
+        "name_eng": "Cruel and Unusual",
         "phash": "d2ede5f270131007",
         "phash_narrow": "92ade5e871500918",
         "dropPriority": 9004
@@ -1584,6 +1606,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "愚王の鎖牢",
+        "name_eng": "King of Fools' Shackles",
         "phash": "99328c278916cd72",
         "phash_narrow": "99b8ee23b0f7d783",
         "dropPriority": 9004
@@ -1593,6 +1616,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "嘆きの杭園",
+        "name_eng": "Wailing Woods",
         "phash": "d8564d626c228dc3",
         "phash_narrow": "d89c197670e02475",
         "dropPriority": 9004
@@ -1842,6 +1866,15 @@
         "dropPriority": 9004
     },
     {
+        "id": 9408040,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "逃避の始まり",
+        "phash": "1696e4e195e56913",
+        "phash_narrow": "161e649485b4d621",
+        "dropPriority": 9004
+    },
+    {
         "id": 9800400,
         "type": "Craft Essence",
         "rarity": 4,
@@ -2020,6 +2053,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：茶の湯ティーチャー",
+        "name_eng": "CE EXP Card: Cha-no-yu Teacher",
         "shortname": "★4EXP礼装",
         "phash": "f4218ff6d817f416",
         "phash_narrow": "7409aef289d50369",
@@ -2138,6 +2172,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "土の実",
+        "name_eng": "Fruit of the Earth",
         "phash": "61f806dfbeec78f6",
         "phash_narrow": "61f84f972dfff617",
         "dropPriority": 9003
@@ -2297,6 +2332,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "概念礼装EXPカード：二代目は壱与！",
+        "name_eng": "CE EXP Card: Iyo the Second Queen!",
         "shortname": "★3EXP礼装",
         "phash": "13bae6e71d53e997",
         "phash_narrow": "113ae6ae5aebac5b",
@@ -2321,6 +2357,16 @@
         "phash": "6963a9ce733cdcee",
         "phash_narrow": "6d238cd7739c8f72",
         "dropPriority": 9003
+    },
+    {
+        "id": 6560,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5b00b6532c964d27",
+        "name": "月光核",
+        "shortname": "月光",
+        "dropPriority": 8511
     },
     {
         "id": 6558,
@@ -2569,6 +2615,16 @@
         ],
         "dropPriority": 8402,
         "phash_battle": "364998a64846318c"
+    },
+    {
+        "id": 6559,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "dc620d3c8b33c906",
+        "name": "ユニバーサルキューブ",
+        "shortname": "キューブ",
+        "dropPriority": 8323
     },
     {
         "id": 6557,
@@ -3625,6 +3681,7 @@
         "rarity": 2,
         "phash": "2e28d3d8281cd804",
         "name": "茶の湯ポイント",
+        "name_eng": "Cha-no-yu Points",
         "dropPriority": 3007
     },
     {
@@ -5470,6 +5527,7 @@
         "rarity": 3,
         "phash": "5e51a55c0307530c",
         "name": "赤楽茶碗",
+        "name_eng": "Akaraku Tea Bowl",
         "shortname": "茶碗",
         "dropPriority": 2003,
         "phash_battle": "da253503038ef470"
@@ -5481,6 +5539,7 @@
         "rarity": 3,
         "phash": "269869a59933c313",
         "name": "宵闇の勾玉",
+        "name_eng": "Twilight Magatama",
         "dropPriority": 2008
     },
     {
@@ -6948,6 +7007,7 @@
         "rarity": 2,
         "phash": "7c430dd04bbc4a34",
         "name": "天正大判",
+        "name_eng": "Tenshou Period Coin",
         "shortname": "大判",
         "dropPriority": 2002,
         "phash_battle": "7c03cc7bcc133064"
@@ -6959,6 +7019,7 @@
         "rarity": 2,
         "phash": "9f62499c86e37837",
         "name": "グリーン茶葉",
+        "name_eng": "Green Tea Leaves",
         "shortname": "緑茶葉",
         "dropPriority": 2004,
         "phash_battle": "b6691cc66118c460"
@@ -6970,6 +7031,7 @@
         "rarity": 2,
         "phash": "9fe2491c86e37837",
         "name": "イエロー茶葉",
+        "name_eng": "Yellow Tea Leaves",
         "shortname": "黄茶葉",
         "dropPriority": 2005,
         "phash_battle": "b6691cc6e119c461"
@@ -6981,6 +7043,7 @@
         "rarity": 2,
         "phash": "9e62499c86e37837",
         "name": "レッド茶葉",
+        "name_eng": "Red Tea Leaves",
         "shortname": "赤茶葉",
         "dropPriority": 2006,
         "phash_battle": "b6691cc6e119e421"
@@ -7981,6 +8044,7 @@
         "rarity": 1,
         "phash": "069358a5a0216121",
         "name": "荒穂茶筅",
+        "name_eng": "Coarse Bristled Tea Whisk",
         "shortname": "茶筅",
         "dropPriority": 2001,
         "phash_battle": "16538d9501254401"
