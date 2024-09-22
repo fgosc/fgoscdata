@@ -1875,6 +1875,15 @@
         "dropPriority": 9004
     },
     {
+        "id": 9408050,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "海を繋ぐ櫻の夢",
+        "phash": "509a96d68274f9fd",
+        "phash_narrow": "619bbe964690f449",
+        "dropPriority": 9004
+    },
+    {
         "id": 9800400,
         "type": "Craft Essence",
         "rarity": 4,

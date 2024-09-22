@@ -12691,6 +12691,56 @@
         "scName": "復活の黄金都市"
     },
     {
+        "id": 94137201,
+        "name": "賞金稼ぎに幾光年",
+        "place": "アラビアエリア",
+        "chapter": "オーディール・コール",
+        "category": "奏章",
+        "qp": 270720,
+        "drop": [
+            {
+                "id": 6559,
+                "name": "ユニバーサルキューブ",
+                "type": "Item",
+                "dropPriority": 8323
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 127340,
+        "scName": "賞金稼ぎに幾光年"
+    },
+    {
+        "id": 94137202,
+        "name": "月光採掘場",
+        "place": "アラビアエリア",
+        "chapter": "オーディール・コール",
+        "category": "奏章",
+        "qp": 389850,
+        "drop": [
+            {
+                "id": 6560,
+                "name": "月光核",
+                "type": "Item",
+                "dropPriority": 8511
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 127350,
+        "scName": "月光採掘場"
+    },
+    {
         "id": 93040201,
         "name": "隔離施設",
         "place": "修理部郊外",
@@ -12730,7 +12780,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127400,
+        "scPriority": 127360,
         "scName": "修理部郊外"
     },
     {
@@ -12773,7 +12823,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127500,
+        "scPriority": 127370,
         "scName": "修理部本部"
     },
     {
@@ -12822,7 +12872,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127600,
+        "scPriority": 127380,
         "scName": "警防部本部"
     },
     {
@@ -12865,7 +12915,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127700,
+        "scPriority": 127390,
         "scName": "生産部農地"
     },
     {
@@ -12908,7 +12958,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127800,
+        "scPriority": 127400,
         "scName": "警防部広場"
     },
     {
@@ -12957,7 +13007,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127900,
+        "scPriority": 127410,
         "scName": "維持部本部"
     },
     {
@@ -13000,7 +13050,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128000,
+        "scPriority": 127420,
         "scName": "維持部モール"
     },
     {
@@ -13031,7 +13081,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128100,
+        "scPriority": 127430,
         "scName": "構築部本部"
     },
     {
@@ -13086,7 +13136,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128200,
+        "scPriority": 127440,
         "scName": "外周部"
     },
     {
@@ -13129,7 +13179,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128300,
+        "scPriority": 127450,
         "scName": "移送部本部"
     },
     {
@@ -13184,7 +13234,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128400,
+        "scPriority": 127460,
         "scName": "生産部本部"
     },
     {
@@ -13233,7 +13283,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128500,
+        "scPriority": 127470,
         "scName": "かいもの帰り"
     },
     {
@@ -13264,7 +13314,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128900,
+        "scPriority": 127480,
         "scName": "ないしょの待ち合わせ"
     },
     {
@@ -13313,7 +13363,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 129000,
+        "scPriority": 127490,
         "scName": "しずかな放課後"
     },
     {
@@ -13386,7 +13436,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 129100,
+        "scPriority": 127500,
         "scName": "ななふしぎ調査"
     },
     {
@@ -13441,7 +13491,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 129300,
+        "scPriority": 127510,
         "scName": "とつぜんの呼び出し"
     },
     {
@@ -13514,7 +13564,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 129200,
+        "scPriority": 127520,
         "scName": "いのこり特訓"
     },
     {
@@ -13557,7 +13607,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128600,
+        "scPriority": 127530,
         "scName": "いつもの通い道"
     },
     {
@@ -13636,7 +13686,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 129500,
+        "scPriority": 127540,
         "scName": "たびだちの駅"
     },
     {
@@ -13679,7 +13729,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128700,
+        "scPriority": 127550,
         "scName": "であいの交差点"
     },
     {
@@ -13752,7 +13802,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128800,
+        "scPriority": 127560,
         "scName": "たたずむ摩天楼"
     },
     {
@@ -13795,7 +13845,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 129600,
+        "scPriority": 127570,
         "scName": "あいにくの空模様"
     },
     {
@@ -13844,7 +13894,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 129400,
+        "scPriority": 127580,
         "scName": "バードウォッチング"
     }
 ]
