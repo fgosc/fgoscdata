@@ -1,0 +1,110 @@
+[
+    {
+        "id": 94101301,
+        "name": "特訓 優しいパパを目指して",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9408100,
+                "name": "ウィズ・マイ・ファーザー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 94101202,
+                "name": "おおきなクッキー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94101201,
+                "name": "おおきなキャンディー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "特訓 優しいパパを目指して"
+    },
+    {
+        "id": 94101302,
+        "name": "特訓 運動して体力をつけよう",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9408100,
+                "name": "ウィズ・マイ・ファーザー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 94101203,
+                "name": "おおきなケーキ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94101202,
+                "name": "おおきなクッキー",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "特訓 運動して体力をつけよう"
+    }
+]

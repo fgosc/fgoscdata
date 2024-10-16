@@ -5989,7 +5989,8 @@
         "phash": "7f0c16d2b16b8cdc",
         "name": "おおきなケーキ",
         "shortname": "大ケーキ",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "2c0e92f1879c602f"
     },
     {
         "id": 94137701,
@@ -7393,7 +7394,8 @@
         "phash": "dfb21eeaa619eb1d",
         "name": "おおきなクッキー",
         "shortname": "大クッキー",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "8b54de04a979a1e7"
     },
     {
         "id": 4,
@@ -8330,7 +8332,8 @@
         "phash": "96297c0692b9c011",
         "name": "おおきなキャンディー",
         "shortname": "大キャンディー",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "967d4693e903da05"
     },
     {
         "id": 1,
