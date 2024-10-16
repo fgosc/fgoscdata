@@ -106,5 +106,59 @@
         ],
         "dropItemNum": -1,
         "shortname": "特訓 運動して体力をつけよう"
+    },
+    {
+        "id": 94101303,
+        "name": "特訓 おいしい料理の練習",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9408100,
+                "name": "ウィズ・マイ・ファーザー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 94101203,
+                "name": "おおきなケーキ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94101201,
+                "name": "おおきなキャンディー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "特訓 おいしい料理の練習"
     }
 ]
