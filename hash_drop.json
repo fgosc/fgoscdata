@@ -7,7 +7,7 @@
         "name": "クエストクリア報酬QP",
         "name_eng": "Quest Clear Reward QP",
         "shortname": "報酬QP",
-        "dropPriority": 9017
+        "dropPriority": 9018
     },
     {
         "id": 9400410,
@@ -1022,6 +1022,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "芙蓉に舞う",
+        "name_eng": "Dancing on Lotus Blossoms",
         "shortname": "芙蓉に舞う",
         "phash": "4e5ee46cd7531ce7",
         "phash_narrow": "1e966cacd318e752",
@@ -1032,6 +1033,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "虎狩り行者",
+        "name_eng": "Tiger-Hunting Pilgrims",
         "shortname": "虎狩り行者",
         "phash": "6b929d291346f4c8",
         "phash_narrow": "6a96ed8b0f774178",
@@ -1042,6 +1044,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "酒池滾々",
+        "name_eng": "Overflowing Indulgence",
         "shortname": "酒池滾々",
         "phash": "818e3fe6d1c5e33e",
         "phash_narrow": "81bf3eb2dd8737c9",
@@ -1372,6 +1375,34 @@
         "dropPriority": 9005
     },
     {
+        "id": 9408100,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ウィズ・マイ・ファーザー",
+        "shortname": "礼装",
+        "phash": "9c8f06f46fc72046",
+        "phash_narrow": "9a8b146cdf0168bc",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9408110,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "鉱石科の君主",
+        "phash": "c2061d78bc6e793e",
+        "phash_narrow": "c7873bb8cee8f8ec",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9408120,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "乾いた拳",
+        "phash": "45bdb84d89f62b53",
+        "phash_narrow": "47b934c9d842f26f",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1636,6 +1667,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "神樹の蒔種",
+        "name_eng": "Seedbed of Yggdrasil",
         "phash": "d44c65974b4c912d",
         "phash_narrow": "9f64a7c34e90f027",
         "dropPriority": 9004
@@ -1645,6 +1677,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "死毒の石廟",
+        "name_eng": "Vault of Toxins",
         "phash": "58138902e9531933",
         "phash_narrow": "f2772eaad64d1c2d",
         "dropPriority": 9004
@@ -1881,6 +1914,15 @@
         "name": "海を繋ぐ櫻の夢",
         "phash": "509a96d68274f9fd",
         "phash_narrow": "619bbe964690f449",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9408130,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "偽りの誓約",
+        "phash": "e1785edc9d36338d",
+        "phash_narrow": "e1fa4edd76d3cc33",
         "dropPriority": 9004
     },
     {
@@ -5560,6 +5602,7 @@
         "rarity": 3,
         "phash": "0621d28913304cd7",
         "name": "青龍の置物",
+        "name_eng": "Blue Dragon Miniature",
         "shortname": "置物",
         "dropPriority": 2003,
         "phash_battle": "2649c233cc833399"
@@ -5571,6 +5614,7 @@
         "rarity": 3,
         "phash": "1663a6e9490c1958",
         "name": "天微星の双玉",
+        "name_eng": "Tianwei's Jade Orb",
         "dropPriority": 2004
     },
     {
@@ -5936,6 +5980,25 @@
         "shortname": "ポット",
         "dropPriority": 2003,
         "phash_battle": "664399e08633425c"
+    },
+    {
+        "id": 94101203,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7f0c16d2b16b8cdc",
+        "name": "おおきなケーキ",
+        "shortname": "大ケーキ",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94137701,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "f7066bb9b64369f8",
+        "name": "3000万DL記念チケット",
+        "dropPriority": 2001
     },
     {
         "id": 3,
@@ -7066,6 +7129,7 @@
         "rarity": 2,
         "phash": "27623cd82c8c6c9d",
         "name": "白虎の壷",
+        "name_eng": "White Tiger Vase",
         "shortname": "壷",
         "dropPriority": 2002,
         "phash_battle": "b634acac2c18d6d9"
@@ -7320,6 +7384,16 @@
         "shortname": "キャメル",
         "dropPriority": 2002,
         "phash_battle": "d605a96bc5021896"
+    },
+    {
+        "id": 94101202,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "dfb21eeaa619eb1d",
+        "name": "おおきなクッキー",
+        "shortname": "大クッキー",
+        "dropPriority": 2002
     },
     {
         "id": 4,
@@ -8067,6 +8141,7 @@
         "rarity": 1,
         "phash": "74b963863d6bc042",
         "name": "高価な巻物",
+        "name_eng": "Valuable Scroll",
         "shortname": "巻物",
         "dropPriority": 2001,
         "phash_battle": "f4e10e7de0c6a316"
@@ -8248,13 +8323,23 @@
         "phash_battle": "5ea9a152a62c810c"
     },
     {
+        "id": 94101201,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "96297c0692b9c011",
+        "name": "おおきなキャンディー",
+        "shortname": "大キャンディー",
+        "dropPriority": 2001
+    },
+    {
         "id": 1,
         "type": "Item",
         "background": "silver",
         "phash": "f61389b4292f4806",
         "name": "QP",
         "name_eng": "QP",
-        "dropPriority": 515,
+        "dropPriority": 516,
         "phash_battle": "561be42b2814a00b"
     },
     {
