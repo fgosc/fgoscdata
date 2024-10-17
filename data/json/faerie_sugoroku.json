@@ -160,5 +160,65 @@
         ],
         "dropItemNum": -1,
         "shortname": "特訓 おいしい料理の練習"
+    },
+    {
+        "id": 94101304,
+        "name": "特訓 効率的な掃除方法を考えよう",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9408100,
+                "name": "ウィズ・マイ・ファーザー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6555,
+                "name": "狂気の残滓",
+                "type": "Item",
+                "dropPriority": 8110
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 94101203,
+                "name": "おおきなケーキ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94101202,
+                "name": "おおきなクッキー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94101201,
+                "name": "おおきなキャンディー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "特訓 効率的な掃除方法を考えよう"
     }
 ]
