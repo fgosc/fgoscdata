@@ -220,5 +220,59 @@
         ],
         "dropItemNum": -1,
         "shortname": "特訓 効率的な掃除方法を考えよう"
+    },
+    {
+        "id": 94101305,
+        "name": "特訓 プレゼント選びは慎重に",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9408100,
+                "name": "ウィズ・マイ・ファーザー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 94101202,
+                "name": "おおきなクッキー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94101201,
+                "name": "おおきなキャンディー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "特訓 プレゼント選びは慎重に"
     }
 ]
