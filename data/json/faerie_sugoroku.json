@@ -274,5 +274,59 @@
         ],
         "dropItemNum": -1,
         "shortname": "特訓 プレゼント選びは慎重に"
+    },
+    {
+        "id": 94101306,
+        "name": "特訓 最高の食材を求めて",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9408100,
+                "name": "ウィズ・マイ・ファーザー",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6518,
+                "name": "精霊根",
+                "type": "Item",
+                "dropPriority": 8502
+            },
+            {
+                "id": 6543,
+                "name": "光銀の冠",
+                "type": "Item",
+                "dropPriority": 8316
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 94101203,
+                "name": "おおきなケーキ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94101202,
+                "name": "おおきなクッキー",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "特訓 最高の食材を求めて"
     }
 ]
