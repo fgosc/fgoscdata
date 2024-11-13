@@ -1055,6 +1055,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "カウント・ストレッチ",
+        "name_eng": "Count and Stretch",
         "shortname": "特攻礼装",
         "phash": "7746eae06d74e5be",
         "phash_narrow": "5046cae958e1b664",
@@ -1065,6 +1066,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "花の解説者",
+        "name_eng": "Commentator of Flowers",
         "shortname": "泥礼装",
         "phash": "70ab8d63ac275b74",
         "phash_narrow": "71af9be8a54ba0f4",
@@ -1243,15 +1245,6 @@
         "dropPriority": 9005
     },
     {
-        "id": 9407530,
-        "type": "Craft Essence",
-        "rarity": 5,
-        "name": "女神の御籤",
-        "phash": "60939c69cb49d29f",
-        "phash_narrow": "6392b4eb49cb8b78",
-        "dropPriority": 9005
-    },
-    {
         "id": 9407590,
         "type": "Craft Essence",
         "rarity": 5,
@@ -1400,6 +1393,16 @@
         "name": "乾いた拳",
         "phash": "45bdb84d89f62b53",
         "phash_narrow": "47b934c9d842f26f",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9408170,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "開拓の鬼",
+        "shortname": "礼装",
+        "phash": "123a76f7c5c5a402",
+        "phash_narrow": "123a32535de10d8d",
         "dropPriority": 9005
     },
     {
@@ -1687,6 +1690,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "激竜の寝座",
+        "name_eng": "Raging Dragon's Lair",
         "phash": "4c17cd1ad9123102",
         "phash_narrow": "40c52d798c391f90",
         "dropPriority": 9004
@@ -1696,6 +1700,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "殊勲の大剣",
+        "name_eng": "Great Sword of Distinction",
         "phash": "16343c9b2d20896d",
         "phash_narrow": "5634de9f30a8bc2b",
         "dropPriority": 9004
@@ -5624,6 +5629,7 @@
         "rarity": 3,
         "phash": "b6834d49b39b3516",
         "name": "モルガンメダル〔金〕",
+        "name_eng": "Morgan Medal (Gold)",
         "shortname": "金メダル",
         "dropPriority": 2003,
         "phash_battle": "b24d6dd31d166c67"
@@ -5635,6 +5641,7 @@
         "rarity": 3,
         "phash": "1f9616337b795989",
         "name": "ケルぐるみ",
+        "name_eng": "Cernunnos Plush",
         "dropPriority": 2004
     },
     {
@@ -5644,6 +5651,7 @@
         "rarity": 3,
         "phash": "1ec3ad1e43492c0e",
         "name": "明日霊血古ゼッケン",
+        "name_eng": "Athletic Zone Number Bib",
         "shortname": "ゼッケン",
         "dropPriority": 2005,
         "phash_battle": "52a5be4379865298"
@@ -5991,6 +5999,34 @@
         "shortname": "大ケーキ",
         "dropPriority": 2003,
         "phash_battle": "2c0e92f1879c602f"
+    },
+    {
+        "id": 94136603,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "560cad990319c113",
+        "name": "デコペンキ",
+        "shortname": "ペンキ",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94136604,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "b60143b0994fe0f9",
+        "name": "ツタンごはん",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94136611,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5e03e5961825d36c",
+        "name": "マイナーメット",
+        "dropPriority": 2001
     },
     {
         "id": 94137701,
@@ -7142,6 +7178,7 @@
         "rarity": 2,
         "phash": "f6034d48b3982117",
         "name": "モルガンメダル〔銀〕",
+        "name_eng": "Morgan Medal (Silver)",
         "shortname": "銀メダル",
         "dropPriority": 2002,
         "phash_battle": "b20d6dd31d126c27"
@@ -7396,6 +7433,46 @@
         "shortname": "大クッキー",
         "dropPriority": 2002,
         "phash_battle": "8b54de04a979a1e7"
+    },
+    {
+        "id": 94136602,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "fe8115eb011cc1b0",
+        "name": "ガイドロープ",
+        "shortname": "ロープ",
+        "dropPriority": 2002
+    },
+    {
+        "id": 94136605,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "7689adf68a5a6924",
+        "name": "クラフトストーン",
+        "shortname": "Cストーン",
+        "dropPriority": 2006
+    },
+    {
+        "id": 94136606,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "7689ad7606586904",
+        "name": "クラフトウッド",
+        "shortname": "Cウッド",
+        "dropPriority": 2005
+    },
+    {
+        "id": 94136607,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "56c9ad3c01584914",
+        "name": "クラフトメタル",
+        "shortname": "Cメタル",
+        "dropPriority": 2007
     },
     {
         "id": 4,
@@ -8155,6 +8232,7 @@
         "rarity": 1,
         "phash": "56034d41b199b117",
         "name": "モルガンメダル〔銅〕",
+        "name_eng": "Morgan Medal (Bronze)",
         "shortname": "銅メダル",
         "dropPriority": 2001,
         "phash_battle": "b20d6d9391126c27"
@@ -8334,6 +8412,16 @@
         "shortname": "大キャンディー",
         "dropPriority": 2001,
         "phash_battle": "967d4693e903da05"
+    },
+    {
+        "id": 94136601,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "f8811e79c40240a5",
+        "name": "デザインノート",
+        "shortname": "ノート",
+        "dropPriority": 2001
     },
     {
         "id": 1,
