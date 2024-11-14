@@ -202,5 +202,155 @@
         ],
         "dropItemNum": -1,
         "shortname": "【ゴーストルーム】 暗闇に響く笑声"
+    },
+    {
+        "id": 94136704,
+        "name": "【ゴーストルーム】 付け火・鬼火にご用心",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9408170,
+                "name": "開拓の鬼",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6552,
+                "name": "忘れじの灰",
+                "type": "Item",
+                "dropPriority": 8108
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94136607,
+                "name": "クラフトメタル",
+                "type": "Item",
+                "dropPriority": 2007
+            },
+            {
+                "id": 94136605,
+                "name": "クラフトストーン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94136606,
+                "name": "クラフトウッド",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94136603,
+                "name": "デコペンキ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94136602,
+                "name": "ガイドロープ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94136601,
+                "name": "デザインノート",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【ゴーストルーム】 付け火・鬼火にご用心"
+    },
+    {
+        "id": 94136705,
+        "name": "【ゴーストルーム】 桃園の怪人",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9408170,
+                "name": "開拓の鬼",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94136607,
+                "name": "クラフトメタル",
+                "type": "Item",
+                "dropPriority": 2007
+            },
+            {
+                "id": 94136606,
+                "name": "クラフトウッド",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94136602,
+                "name": "ガイドロープ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94136601,
+                "name": "デザインノート",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【ゴーストルーム】 桃園の怪人"
     }
 ]
