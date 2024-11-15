@@ -352,5 +352,77 @@
         ],
         "dropItemNum": -1,
         "shortname": "【ゴーストルーム】 桃園の怪人"
+    },
+    {
+        "id": 94136706,
+        "name": "【ゴーストルーム】 死して守護する者",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9408170,
+                "name": "開拓の鬼",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94136605,
+                "name": "クラフトストーン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94136606,
+                "name": "クラフトウッド",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94136603,
+                "name": "デコペンキ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94136602,
+                "name": "ガイドロープ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【ゴーストルーム】 死して守護する者"
     }
 ]
