@@ -424,5 +424,77 @@
         ],
         "dropItemNum": -1,
         "shortname": "【ゴーストルーム】 死して守護する者"
+    },
+    {
+        "id": 94136707,
+        "name": "【ゴーストルーム】 恐るべき宝物庫",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9408170,
+                "name": "開拓の鬼",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94136607,
+                "name": "クラフトメタル",
+                "type": "Item",
+                "dropPriority": 2007
+            },
+            {
+                "id": 94136605,
+                "name": "クラフトストーン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94136603,
+                "name": "デコペンキ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94136601,
+                "name": "デザインノート",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【ゴーストルーム】 恐るべき宝物庫"
     }
 ]
