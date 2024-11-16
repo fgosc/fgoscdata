@@ -496,5 +496,161 @@
         ],
         "dropItemNum": -1,
         "shortname": "【ゴーストルーム】 恐るべき宝物庫"
+    },
+    {
+        "id": 94136708,
+        "name": "【ゴーストルーム】 終わらぬ戦士の闘争",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9408170,
+                "name": "開拓の鬼",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6544,
+                "name": "煌星のカケラ",
+                "type": "Item",
+                "dropPriority": 8508
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94136607,
+                "name": "クラフトメタル",
+                "type": "Item",
+                "dropPriority": 2007
+            },
+            {
+                "id": 94136605,
+                "name": "クラフトストーン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94136606,
+                "name": "クラフトウッド",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94136603,
+                "name": "デコペンキ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94136602,
+                "name": "ガイドロープ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94136601,
+                "name": "デザインノート",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【ゴーストルーム】 終わらぬ戦士の闘争"
+    },
+    {
+        "id": 94136709,
+        "name": "【ゴーストルーム】 蘇りしミイラ",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9408170,
+                "name": "開拓の鬼",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94136607,
+                "name": "クラフトメタル",
+                "type": "Item",
+                "dropPriority": 2007
+            },
+            {
+                "id": 94136605,
+                "name": "クラフトストーン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94136602,
+                "name": "ガイドロープ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94136601,
+                "name": "デザインノート",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【ゴーストルーム】 蘇りしミイラ"
     }
 ]
