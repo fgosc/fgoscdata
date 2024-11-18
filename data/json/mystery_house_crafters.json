@@ -796,5 +796,71 @@
         ],
         "dropItemNum": -1,
         "shortname": "【ゴーストルーム】 不死王の歓待"
+    },
+    {
+        "id": 94136712,
+        "name": "【ゴーストルーム】 迷宮を彷徨う物の怪",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9408170,
+                "name": "開拓の鬼",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6521,
+                "name": "黒獣脂",
+                "type": "Item",
+                "dropPriority": 8403
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94136607,
+                "name": "クラフトメタル",
+                "type": "Item",
+                "dropPriority": 2007
+            },
+            {
+                "id": 94136605,
+                "name": "クラフトストーン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94136606,
+                "name": "クラフトウッド",
+                "type": "Item",
+                "dropPriority": 2005
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【ゴーストルーム】 迷宮を彷徨う物の怪"
     }
 ]
