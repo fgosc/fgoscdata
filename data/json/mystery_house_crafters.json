@@ -862,5 +862,89 @@
         ],
         "dropItemNum": -1,
         "shortname": "【ゴーストルーム】 迷宮を彷徨う物の怪"
+    },
+    {
+        "id": 94136713,
+        "name": "【ゴーストルーム】 地下室に縛られた霊魂",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9408170,
+                "name": "開拓の鬼",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6557,
+                "name": "終の花",
+                "type": "Item",
+                "dropPriority": 8322
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94136607,
+                "name": "クラフトメタル",
+                "type": "Item",
+                "dropPriority": 2007
+            },
+            {
+                "id": 94136605,
+                "name": "クラフトストーン",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94136606,
+                "name": "クラフトウッド",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94136603,
+                "name": "デコペンキ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94136602,
+                "name": "ガイドロープ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94136601,
+                "name": "デザインノート",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【ゴーストルーム】 地下室に縛られた霊魂"
     }
 ]
