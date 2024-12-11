@@ -6059,7 +6059,8 @@
         "phash": "b603054053aba352",
         "name": "クロネコティーカップ",
         "shortname": "ティーカップ",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "b60d417381c30e54"
     },
     {
         "id": 94138504,
@@ -6078,7 +6079,8 @@
         "phash": "7e0683f86c0f36d3",
         "name": "バレエ鑑賞チケット",
         "shortname": "チケット",
-        "dropPriority": 2006
+        "dropPriority": 2006,
+        "phash_battle": "7603b16c06d27d1d"
     },
     {
         "id": 94138507,
@@ -7538,7 +7540,8 @@
         "phash": "db0ab5cc4e719fbc",
         "name": "メリーフォーク",
         "shortname": "フォーク",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "8a308d6a95a4a594"
     },
     {
         "id": 4,
@@ -8498,7 +8501,8 @@
         "phash": "6a15c487e02d3c92",
         "name": "ホーリープレート",
         "shortname": "Hプレート",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "2a57d6a43d0625d6"
     },
     {
         "id": 1,
