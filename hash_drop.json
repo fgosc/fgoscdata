@@ -1077,6 +1077,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ドリーム・クローゼット",
+        "name_eng": "Dream Closet",
         "phash": "b1c959b63ff97ce7",
         "phash_narrow": "b1c9d827315f783c",
         "dropPriority": 9005
@@ -1406,6 +1407,25 @@
         "dropPriority": 9005
     },
     {
+        "id": 9408210,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "December 23rd",
+        "shortname": "礼装",
+        "phash": "a386ceea717e89e5",
+        "phash_narrow": "22068ee35a992d06",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9408220,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "シークレット・ミッション",
+        "phash": "f16ab15e53360ab4",
+        "phash_narrow": "51e0ecd7f14e05fb",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1710,6 +1730,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "天隕の烙印",
+        "name_eng": "Celestial Brand",
         "phash": "2996dc568d32ed3a",
         "phash_narrow": "299c56df32c4a0a2",
         "dropPriority": 9004
@@ -1719,6 +1740,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "蛮崇の偽神像",
+        "name_eng": "Idol of the Foreign God",
         "phash": "9daaac276912d9d4",
         "phash_narrow": "bea88d6532abdcd8",
         "dropPriority": 9004
@@ -1739,15 +1761,6 @@
         "name": "蛇守の宝庫",
         "phash": "405fe032950e731b",
         "phash_narrow": "4fcfe83f8c92e852",
-        "dropPriority": 9004
-    },
-    {
-        "id": 9406800,
-        "type": "Craft Essence",
-        "rarity": 4,
-        "name": "あの遠い夜の日に",
-        "phash": "eb0250beaad2aeac",
-        "phash_narrow": "eb00522a512acdf7",
         "dropPriority": 9004
     },
     {
@@ -6039,6 +6052,44 @@
         "dropPriority": 2001
     },
     {
+        "id": 94138503,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "b603054053aba352",
+        "name": "クロネコティーカップ",
+        "shortname": "ティーカップ",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94138504,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "da8523583906e139",
+        "name": "クリスマストゥーシューズ",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94138505,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7e0683f86c0f36d3",
+        "name": "バレエ鑑賞チケット",
+        "shortname": "チケット",
+        "dropPriority": 2006
+    },
+    {
+        "id": 94138507,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "8e48d26c4ee4c366",
+        "name": "サンタユーゴ",
+        "dropPriority": 2007
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -7480,6 +7531,16 @@
         "phash_battle": "56853413690e1340"
     },
     {
+        "id": 94138502,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "db0ab5cc4e719fbc",
+        "name": "メリーフォーク",
+        "shortname": "フォーク",
+        "dropPriority": 2002
+    },
+    {
         "id": 4,
         "type": "Item",
         "background": "silver",
@@ -8428,6 +8489,16 @@
         "shortname": "ノート",
         "dropPriority": 2001,
         "phash_battle": "e00ffe8502e1e231"
+    },
+    {
+        "id": 94138501,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "6a15c487e02d3c92",
+        "name": "ホーリープレート",
+        "shortname": "Hプレート",
+        "dropPriority": 2001
     },
     {
         "id": 1,
