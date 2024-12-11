@@ -62,7 +62,12 @@ def list2dic(quest_list):
         drop = sorted(drop, key=lambda x: x.dropPriority, reverse=True)
         questId = int(quest["id"])
         q = questId2quest(questId)
-        qp = q["qp"]
+        if q["recommendLv"] == "90++":
+            qp = 13536
+        elif q["recommendLv"] == "90+":
+            qp = 11280
+        else:
+            qp = int(q["recommendLv"])*100 + 400
         spotname = q["name"]
         logger.debug('drop: %s', drop)
         # try:
