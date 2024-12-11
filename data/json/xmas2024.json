@@ -1,5 +1,65 @@
 [
     {
+        "id": 94138601,
+        "name": "妖精のお手伝い 出張英雄指南",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 2400,
+        "drop": [
+            {
+                "id": 9408210,
+                "name": "December 23rd",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6511,
+                "name": "禁断の頁",
+                "type": "Item",
+                "dropPriority": 8303
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            },
+            {
+                "id": 94138505,
+                "name": "バレエ鑑賞チケット",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94138502,
+                "name": "メリーフォーク",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94138501,
+                "name": "ホーリープレート",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "妖精のお手伝い 出張英雄指南"
+    },
+    {
         "id": 94138604,
         "name": "妖精のお手伝い クリスマスツリー世界シェア",
         "place": "",
