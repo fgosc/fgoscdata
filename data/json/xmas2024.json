@@ -60,6 +60,66 @@
         "shortname": "妖精のお手伝い 出張英雄指南"
     },
     {
+        "id": 94138602,
+        "name": "妖精のお手伝い 雪だるま達人事件",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9408210,
+                "name": "December 23rd",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6543,
+                "name": "光銀の冠",
+                "type": "Item",
+                "dropPriority": 8316
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94138505,
+                "name": "バレエ鑑賞チケット",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94138503,
+                "name": "クロネコティーカップ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94138502,
+                "name": "メリーフォーク",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "妖精のお手伝い 雪だるま達人事件"
+    },
+    {
         "id": 94138604,
         "name": "妖精のお手伝い クリスマスツリー世界シェア",
         "place": "",
