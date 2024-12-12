@@ -120,6 +120,66 @@
         "shortname": "妖精のお手伝い 雪だるま達人事件"
     },
     {
+        "id": 94138603,
+        "name": "妖精のお手伝い オーロラが見えるまで",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9408210,
+                "name": "December 23rd",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94138505,
+                "name": "バレエ鑑賞チケット",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94138503,
+                "name": "クロネコティーカップ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94138501,
+                "name": "ホーリープレート",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "妖精のお手伝い オーロラが見えるまで"
+    },
+    {
         "id": 94138604,
         "name": "妖精のお手伝い クリスマスツリー世界シェア",
         "place": "",
@@ -178,5 +238,65 @@
         ],
         "dropItemNum": -1,
         "shortname": "妖精のお手伝い クリスマスツリー世界シェア"
+    },
+    {
+        "id": 94138605,
+        "name": "妖精のお手伝い 拠点防衛の要",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7900,
+        "drop": [
+            {
+                "id": 9408210,
+                "name": "December 23rd",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94138505,
+                "name": "バレエ鑑賞チケット",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94138502,
+                "name": "メリーフォーク",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94138501,
+                "name": "ホーリープレート",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "妖精のお手伝い 拠点防衛の要"
     }
 ]
