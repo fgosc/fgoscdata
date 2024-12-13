@@ -360,6 +360,72 @@
         "shortname": "妖精のお手伝い 続・拠点防衛の要"
     },
     {
+        "id": 94138607,
+        "name": "妖精のお手伝い ポホヨラキッチン",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8900,
+        "drop": [
+            {
+                "id": 9408210,
+                "name": "December 23rd",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6546,
+                "name": "悠久の実",
+                "type": "Item",
+                "dropPriority": 8407
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94138505,
+                "name": "バレエ鑑賞チケット",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94138503,
+                "name": "クロネコティーカップ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94138501,
+                "name": "ホーリープレート",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "妖精のお手伝い ポホヨラキッチン"
+    },
+    {
         "id": 94138609,
         "name": "妖精のお手伝い ドラゴンセット量産工場",
         "place": "",
