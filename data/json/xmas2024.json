@@ -298,5 +298,41 @@
         ],
         "dropItemNum": -1,
         "shortname": "妖精のお手伝い 拠点防衛の要"
+    },
+    {
+        "id": 94138650,
+        "name": "おもちゃの国の招待状",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 94138503,
+                "name": "クロネコティーカップ",
+                "type": "Item",
+                "dropPriority": 2003
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "おもちゃの国の招待状"
     }
 ]
