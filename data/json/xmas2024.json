@@ -464,16 +464,16 @@
                 "dropPriority": 6195
             },
             {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
                 "id": 7106,
                 "name": "アサシンモニュメント",
                 "type": "Item",
                 "dropPriority": 5295
-            },
-            {
-                "id": 94030104,
-                "name": "おともだちポイント",
-                "type": "Point",
-                "dropPriority": 3004
             },
             {
                 "id": 94138505,
