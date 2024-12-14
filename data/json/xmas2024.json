@@ -558,6 +558,78 @@
         "shortname": "妖精のお手伝い ドラゴンセット量産工場"
     },
     {
+        "id": 94138610,
+        "name": "妖精のお手伝い 異境のグルメ",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9408210,
+                "name": "December 23rd",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6525,
+                "name": "智慧のスカラベ",
+                "type": "Item",
+                "dropPriority": 8503
+            },
+            {
+                "id": 6555,
+                "name": "狂気の残滓",
+                "type": "Item",
+                "dropPriority": 8110
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94138505,
+                "name": "バレエ鑑賞チケット",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94138503,
+                "name": "クロネコティーカップ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94138502,
+                "name": "メリーフォーク",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94138501,
+                "name": "ホーリープレート",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "妖精のお手伝い 異境のグルメ"
+    },
+    {
         "id": 94138650,
         "name": "おもちゃの国の招待状",
         "place": "",
