@@ -6109,7 +6109,8 @@
         "phash": "96538c491458d282",
         "name": "スペムンぬい",
         "shortname": "SMぬい",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "126bcd5dce924e25"
     },
     {
         "id": 3,
@@ -7571,7 +7572,8 @@
         "phash": "ff86711dcce919c9",
         "name": "スペムンアクキー",
         "shortname": "SMアクキー",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "9e7219665949b291"
     },
     {
         "id": 4,
@@ -8542,7 +8544,8 @@
         "phash": "56438959a0834931",
         "name": "スペムンバッヂ",
         "shortname": "SMバッヂ",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "728719ecd339669a"
     },
     {
         "id": 1,
