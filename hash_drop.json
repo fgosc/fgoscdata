@@ -1426,6 +1426,16 @@
         "dropPriority": 9005
     },
     {
+        "id": 9408260,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "マジカルシオン",
+        "shortname": "礼装",
+        "phash": "f85b0caa5a7a4e98",
+        "phash_narrow": "f157a5aa720daefa",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
