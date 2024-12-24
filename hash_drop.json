@@ -6092,6 +6092,16 @@
         "dropPriority": 2007
     },
     {
+        "id": 94138903,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "96538c491458d282",
+        "name": "スペムンぬい",
+        "shortname": "SMぬい",
+        "dropPriority": 2003
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -7544,6 +7554,16 @@
         "phash_battle": "8a308d6a95a4a594"
     },
     {
+        "id": 94138902,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "ff86711dcce919c9",
+        "name": "スペムンアクキー",
+        "shortname": "SMアクキー",
+        "dropPriority": 2002
+    },
+    {
         "id": 4,
         "type": "Item",
         "background": "silver",
@@ -8503,6 +8523,16 @@
         "shortname": "Hプレート",
         "dropPriority": 2001,
         "phash_battle": "2a57d6a43d0625d6"
+    },
+    {
+        "id": 94138901,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "56438959a0834931",
+        "name": "スペムンバッヂ",
+        "shortname": "SMバッヂ",
+        "dropPriority": 2001
     },
     {
         "id": 1,
