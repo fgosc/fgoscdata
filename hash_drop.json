@@ -6124,7 +6124,8 @@
         "phash": "5e4925dc8313619c",
         "name": "ムーンそば",
         "shortname": "ムーンそば",
-        "dropPriority": 2004
+        "dropPriority": 2004,
+        "phash_battle": "5e218c833358240c"
     },
     {
         "id": 3,
