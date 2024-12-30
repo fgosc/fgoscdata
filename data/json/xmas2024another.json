@@ -682,5 +682,143 @@
         ],
         "dropItemNum": -1,
         "shortname": "キングサンタ総力戦 プラネット級"
+    },
+    {
+        "id": 94139115,
+        "name": "ネコ１０８鐘撞戦 レインボースペチャ級",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9408260,
+                "name": "マジカルシオン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6560,
+                "name": "月光核",
+                "type": "Item",
+                "dropPriority": 8511
+            },
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6549,
+                "name": "赦免の小鐘",
+                "type": "Item",
+                "dropPriority": 8106
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 94138904,
+                "name": "ムーンそば",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94138903,
+                "name": "スペムンぬい",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94138902,
+                "name": "スペムンアクキー",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94138901,
+                "name": "スペムンバッヂ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ネコ１０８鐘撞戦 レインボースペチャ級"
     }
 ]
