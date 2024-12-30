@@ -1760,6 +1760,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "奮励の装薬",
+        "name_eng": "Gunpowder Cache",
         "phash": "04507d90bb5289a8",
         "phash_narrow": "046155b173106198",
         "dropPriority": 9004
@@ -1769,6 +1770,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "蛇守の宝庫",
+        "name_eng": "Treasury of the Guardian Serpent",
         "phash": "405fe032950e731b",
         "phash_narrow": "4fcfe83f8c92e852",
         "dropPriority": 9004
@@ -2736,6 +2738,7 @@
         "rarity": 2,
         "phash": "7c83eda648299821",
         "name": "太陽皮",
+        "name_eng": "Solar Hide",
         "shortname": "皮",
         "dropPriority": 8320,
         "phash_battle": "5e03a569a9396310"
@@ -3033,6 +3036,7 @@
         "rarity": 1,
         "phash": "6c4353180acc4049",
         "name": "黒曜鋭刃",
+        "name_eng": "Obsidian Blade",
         "shortname": "刃",
         "dropPriority": 8109,
         "phash_battle": "2ed31b8ec0494904"
@@ -6111,6 +6115,16 @@
         "shortname": "SMぬい",
         "dropPriority": 2003,
         "phash_battle": "126bcd5dce924e25"
+    },
+    {
+        "id": 94138904,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5e4925dc8313619c",
+        "name": "ムーンそば",
+        "shortname": "ムーンそば",
+        "dropPriority": 2004
     },
     {
         "id": 3,
