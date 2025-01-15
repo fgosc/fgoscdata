@@ -3721,7 +3721,8 @@
         "phash": "5e82397883f46807",
         "name": "スピドラポイント",
         "shortname": "速竜P",
-        "dropPriority": 3001
+        "dropPriority": 3001,
+        "phash_battle": "4ea539c3b04c5898"
     },
     {
         "id": 94139402,
@@ -3731,7 +3732,8 @@
         "phash": "5eca813cc2596c93",
         "name": "テクドラポイント",
         "shortname": "技竜P",
-        "dropPriority": 3002
+        "dropPriority": 3002,
+        "phash_battle": "fe09a44268593196"
     },
     {
         "id": 94139401,
@@ -3741,7 +3743,8 @@
         "phash": "762809db823069ce",
         "name": "パワドラポイント",
         "shortname": "力竜P",
-        "dropPriority": 3003
+        "dropPriority": 3003,
+        "phash_battle": "762dc93024c97318"
     },
     {
         "id": 94099505,
@@ -6203,7 +6206,8 @@
         "phash": "d6832d7829524303",
         "name": "ドラゴンスフィア",
         "shortname": "竜スフィア",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "d207382942c34378"
     },
     {
         "id": 3,
@@ -7676,7 +7680,8 @@
         "phash": "7e0681f02bb1484c",
         "name": "ドラゴンディスク",
         "shortname": "竜ディスク",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "7e83c1b1590c1822"
     },
     {
         "id": 4,
@@ -8658,7 +8663,8 @@
         "phash": "5e2f054171bd680b",
         "name": "ドラゴンフード",
         "shortname": "竜フード",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "be2741b1705b8560"
     },
     {
         "id": 1,
