@@ -1436,6 +1436,25 @@
         "dropPriority": 9005
     },
     {
+        "id": 9408270,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "明けの光暈",
+        "phash": "d150d4fb75dbb7c7",
+        "phash_narrow": "4144fb6f59f366de",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9408330,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "デザート・メイデン",
+        "shortname": "礼装",
+        "phash": "22866e3ff62db106",
+        "phash_narrow": "a3ce4f766da77a7e",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1812,15 +1831,6 @@
         "dropPriority": 9004
     },
     {
-        "id": 9407150,
-        "type": "Craft Essence",
-        "rarity": 4,
-        "name": "イッツ・オンリー・ア・ペーパームーン",
-        "phash": "69dab4219ebc796e",
-        "phash_narrow": "69d261059cb5b79a",
-        "dropPriority": 9004
-    },
-    {
         "id": 9407160,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1953,6 +1963,15 @@
         "name": "偽りの誓約",
         "phash": "e1785edc9d36338d",
         "phash_narrow": "e1fa4edd76d3cc33",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9408280,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "春待つ君と",
+        "phash": "0e2b9816c9fa4806",
+        "phash_narrow": "0ea91a15f958073d",
         "dropPriority": 9004
     },
     {
@@ -2145,6 +2164,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：私にだけ見える兎",
+        "name_eng": "CE EXP Card: The Bunny Only I Can See",
         "phash": "a1bdf52b4d722ce3",
         "phash_narrow": "a0b4f7a1561e922d",
         "dropPriority": 9004
@@ -2176,6 +2196,15 @@
         "shortname": "★4EXP礼装",
         "phash": "d97233baa59fdce3",
         "phash_narrow": "d97232b23dccc7d1",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9809280,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "概念礼装EXPカード：カドゥケウス",
+        "phash": "724be9847802c108",
+        "phash_narrow": "566b895836310841",
         "dropPriority": 9004
     },
     {
@@ -2292,6 +2321,15 @@
         "name": "ウェルカム・トゥ・エキスポ",
         "phash": "d347f6d22ab46526",
         "phash_narrow": "cb25d64abad8ac4b",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9408290,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "遺跡を荒らす者",
+        "phash": "797be19871c1b815",
+        "phash_narrow": "7a67ba12c3f021e0",
         "dropPriority": 9003
     },
     {
@@ -3674,6 +3712,36 @@
         ],
         "dropPriority": 5194,
         "phash_battle": "1c892382d192a443"
+    },
+    {
+        "id": 94139403,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5e82397883f46807",
+        "name": "スピドラポイント",
+        "shortname": "速竜P",
+        "dropPriority": 3001
+    },
+    {
+        "id": 94139402,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5eca813cc2596c93",
+        "name": "テクドラポイント",
+        "shortname": "技竜P",
+        "dropPriority": 3002
+    },
+    {
+        "id": 94139401,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "762809db823069ce",
+        "name": "パワドラポイント",
+        "shortname": "力竜P",
+        "dropPriority": 3003
     },
     {
         "id": 94099505,
@@ -6128,6 +6196,16 @@
         "phash_battle": "5e218c833358240c"
     },
     {
+        "id": 94139303,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d6832d7829524303",
+        "name": "ドラゴンスフィア",
+        "shortname": "竜スフィア",
+        "dropPriority": 2003
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -7591,6 +7669,16 @@
         "phash_battle": "9e7219665949b291"
     },
     {
+        "id": 94139302,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "7e0681f02bb1484c",
+        "name": "ドラゴンディスク",
+        "shortname": "竜ディスク",
+        "dropPriority": 2002
+    },
+    {
         "id": 4,
         "type": "Item",
         "background": "silver",
@@ -8561,6 +8649,16 @@
         "shortname": "SMバッヂ",
         "dropPriority": 2001,
         "phash_battle": "728719ecd339669a"
+    },
+    {
+        "id": 94139301,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "5e2f054171bd680b",
+        "name": "ドラゴンフード",
+        "shortname": "竜フード",
+        "dropPriority": 2001
     },
     {
         "id": 1,
