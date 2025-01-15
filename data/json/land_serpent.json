@@ -70,5 +70,77 @@
         ],
         "dropItemNum": -1,
         "shortname": "集めよドラゴンパワー！ 蘇りし古竜？"
+    },
+    {
+        "id": 94139403,
+        "name": "集めよドラゴンパワー！ 恐るべき花嫁竜",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9408330,
+                "name": "デザート・メイデン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94139401,
+                "name": "パワドラポイント",
+                "type": "Point",
+                "dropPriority": 3003
+            },
+            {
+                "id": 94139402,
+                "name": "テクドラポイント",
+                "type": "Point",
+                "dropPriority": 3002
+            },
+            {
+                "id": 94139403,
+                "name": "スピドラポイント",
+                "type": "Point",
+                "dropPriority": 3001
+            },
+            {
+                "id": 94139303,
+                "name": "ドラゴンスフィア",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94139301,
+                "name": "ドラゴンフード",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "集めよドラゴンパワー！ 恐るべき花嫁竜"
     }
 ]
