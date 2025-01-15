@@ -72,6 +72,78 @@
         "shortname": "集めよドラゴンパワー！ 蘇りし古竜？"
     },
     {
+        "id": 94139402,
+        "name": "集めよドラゴンパワー！ 水辺を駆ける腹ペコ竜",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9408330,
+                "name": "デザート・メイデン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            },
+            {
+                "id": 94139401,
+                "name": "パワドラポイント",
+                "type": "Point",
+                "dropPriority": 3003
+            },
+            {
+                "id": 94139402,
+                "name": "テクドラポイント",
+                "type": "Point",
+                "dropPriority": 3002
+            },
+            {
+                "id": 94139403,
+                "name": "スピドラポイント",
+                "type": "Point",
+                "dropPriority": 3001
+            },
+            {
+                "id": 94139303,
+                "name": "ドラゴンスフィア",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94139302,
+                "name": "ドラゴンディスク",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "集めよドラゴンパワー！ 水辺を駆ける腹ペコ竜"
+    },
+    {
         "id": 94139403,
         "name": "集めよドラゴンパワー！ 恐るべき花嫁竜",
         "place": "",
