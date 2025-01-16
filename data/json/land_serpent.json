@@ -214,5 +214,83 @@
         ],
         "dropItemNum": -1,
         "shortname": "集めよドラゴンパワー！ 恐るべき花嫁竜"
+    },
+    {
+        "id": 94139404,
+        "name": "集めよドラゴンパワー！ 迫り来る夫婦竜",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9408330,
+                "name": "デザート・メイデン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6552,
+                "name": "忘れじの灰",
+                "type": "Item",
+                "dropPriority": 8108
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94139401,
+                "name": "パワドラポイント",
+                "type": "Point",
+                "dropPriority": 3003
+            },
+            {
+                "id": 94139402,
+                "name": "テクドラポイント",
+                "type": "Point",
+                "dropPriority": 3002
+            },
+            {
+                "id": 94139403,
+                "name": "スピドラポイント",
+                "type": "Point",
+                "dropPriority": 3001
+            },
+            {
+                "id": 94139302,
+                "name": "ドラゴンディスク",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94139301,
+                "name": "ドラゴンフード",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "集めよドラゴンパワー！ 迫り来る夫婦竜"
     }
 ]
