@@ -370,5 +370,83 @@
         ],
         "dropItemNum": -1,
         "shortname": "集めよドラゴンパワー！ 逆鱗の多い暴れ竜"
+    },
+    {
+        "id": 94139406,
+        "name": "集めよドラゴンパワー！ 蟒蛇の巣",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9408330,
+                "name": "デザート・メイデン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94139401,
+                "name": "パワドラポイント",
+                "type": "Point",
+                "dropPriority": 3003
+            },
+            {
+                "id": 94139402,
+                "name": "テクドラポイント",
+                "type": "Point",
+                "dropPriority": 3002
+            },
+            {
+                "id": 94139403,
+                "name": "スピドラポイント",
+                "type": "Point",
+                "dropPriority": 3001
+            },
+            {
+                "id": 94139303,
+                "name": "ドラゴンスフィア",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94139301,
+                "name": "ドラゴンフード",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "集めよドラゴンパワー！ 蟒蛇の巣"
     }
 ]
