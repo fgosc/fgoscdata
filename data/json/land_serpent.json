@@ -448,5 +448,83 @@
         ],
         "dropItemNum": -1,
         "shortname": "集めよドラゴンパワー！ 蟒蛇の巣"
+    },
+    {
+        "id": 94139407,
+        "name": "集めよドラゴンパワー！ 猛毒の支配者",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9408330,
+                "name": "デザート・メイデン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94139401,
+                "name": "パワドラポイント",
+                "type": "Point",
+                "dropPriority": 3003
+            },
+            {
+                "id": 94139402,
+                "name": "テクドラポイント",
+                "type": "Point",
+                "dropPriority": 3002
+            },
+            {
+                "id": 94139403,
+                "name": "スピドラポイント",
+                "type": "Point",
+                "dropPriority": 3001
+            },
+            {
+                "id": 94139302,
+                "name": "ドラゴンディスク",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94139301,
+                "name": "ドラゴンフード",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "集めよドラゴンパワー！ 猛毒の支配者"
     }
 ]
