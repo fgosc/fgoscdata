@@ -14626,6 +14626,12 @@
         "qp": 0,
         "drop": [
             {
+                "id": 6559,
+                "name": "ユニバーサルキューブ",
+                "type": "Item",
+                "dropPriority": 8323
+            },
+            {
                 "id": 6524,
                 "name": "大騎士勲章",
                 "type": "Item",
