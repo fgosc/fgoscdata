@@ -130,7 +130,7 @@ def main(args):
         elif quest["recommendLv"] == "90★★":
             qp = 158384
         else:
-            qp = int(quest["recommendLv"])*100 + 400
+            qp = int((int(quest["recommendLv"])*100 + 400)*1.3)
         freequest = FgoFreeQuest(questId, tmp["quest"], tmp["place"],
                                  tmp["chapter"], tmp["category"], qp, drop,
                                  -1,
