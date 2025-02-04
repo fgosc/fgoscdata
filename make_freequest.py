@@ -121,7 +121,16 @@ def main(args):
         drop = sorted(drop, key=lambda x: x.dropPriority, reverse=True)
         questId = int(tmp["id"])
         quest = questId2quest(questId)
-        qp = quest["qp"]
+        if quest["recommendLv"] == "90++":
+            qp = 13536
+        elif quest["recommendLv"] == "90+":
+            qp = 11280
+        elif quest["recommendLv"] == "90★":
+            qp = 109988
+        elif quest["recommendLv"] == "90★★":
+            qp = 158384
+        else:
+            qp = int(quest["recommendLv"])*100 + 400
         freequest = FgoFreeQuest(questId, tmp["quest"], tmp["place"],
                                  tmp["chapter"], tmp["category"], qp, drop,
                                  -1,
