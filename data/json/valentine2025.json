@@ -60,6 +60,126 @@
         "shortname": "きらめき探索絵巻『錬金術師が恋をテーマに研究してみた』"
     },
     {
+        "id": 94140302,
+        "name": "きらめき探索絵巻『疾風大名』",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9408370,
+                "name": "スイート・レモン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94140204,
+                "name": "きらめきポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94140203,
+                "name": "ときめき書筆",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94140202,
+                "name": "ささめき短冊",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "きらめき探索絵巻『疾風大名』"
+    },
+    {
+        "id": 94140303,
+        "name": "きらめき探索絵巻『誠耀く』",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9408370,
+                "name": "スイート・レモン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6550,
+                "name": "夢幻の鱗粉",
+                "type": "Item",
+                "dropPriority": 8319
+            },
+            {
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
+                "type": "Item",
+                "dropPriority": 8104
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 94140204,
+                "name": "きらめきポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94140203,
+                "name": "ときめき書筆",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94140201,
+                "name": "そよめき栞",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "きらめき探索絵巻『誠耀く』"
+    },
+    {
         "id": 94140308,
         "name": "きらめき探索絵巻『かぐわしの喝采の華』",
         "place": "",
