@@ -3742,7 +3742,8 @@
         "phash": "0dc4f333a61c4cae",
         "name": "きらめきポイント",
         "shortname": "ポイント",
-        "dropPriority": 3004
+        "dropPriority": 3004,
+        "phash_battle": "0cc333b65824e68e"
     },
     {
         "id": 94139403,
@@ -6252,7 +6253,8 @@
         "phash": "7b02784d27b1857d",
         "name": "ときめき書筆",
         "shortname": "書筆",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "6a1ae8a59445157a"
     },
     {
         "id": 3,
@@ -7737,7 +7739,8 @@
         "phash": "b98aec7692e53ad3",
         "name": "ささめき短冊",
         "shortname": "短冊",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "19cc369276967692"
     },
     {
         "id": 4,
@@ -8731,7 +8734,8 @@
         "phash": "9e87d159690d6809",
         "name": "そよめき栞",
         "shortname": "栞",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "96d359696d090246"
     },
     {
         "id": 1,
