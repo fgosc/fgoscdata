@@ -1087,6 +1087,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "後ろの席の可愛い奴",
+        "name_eng": "The Cutie Who Sits Behind Me",
         "shortname": "礼装",
         "phash": "54e7ac961339ba9c",
         "phash_narrow": "51e1ec95112a5c35",
@@ -1455,6 +1456,16 @@
         "dropPriority": 9005
     },
     {
+        "id": 9408370,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "スイート・レモン",
+        "shortname": "礼装",
+        "phash": "b40f492dc1599593",
+        "phash_narrow": "348f6c07692d936c",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1799,6 +1810,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "霊爛の洋館",
+        "name_eng": "Spectral Manor",
         "phash": "85bacc66cf533906",
         "phash_narrow": "3198ecc4d31bdef3",
         "dropPriority": 9004
@@ -1972,6 +1984,15 @@
         "name": "春待つ君と",
         "phash": "0e2b9816c9fa4806",
         "phash_narrow": "0ea91a15f958073d",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9408380,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "マイ・リトル・ドラゴン",
+        "phash": "d5664329a0f2496d",
+        "phash_narrow": "d5464b21b61a02b6",
         "dropPriority": 9004
     },
     {
@@ -3714,6 +3735,16 @@
         "phash_battle": "1c892382d192a443"
     },
     {
+        "id": 94140204,
+        "type": "Point",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "0dc4f333a61c4cae",
+        "name": "きらめきポイント",
+        "shortname": "ポイント",
+        "dropPriority": 3004
+    },
+    {
         "id": 94139403,
         "type": "Point",
         "background": "silver",
@@ -3826,6 +3857,7 @@
         "rarity": 2,
         "phash": "5c3083c83333d994",
         "name": "らぶらぶはぁとポイント",
+        "name_eng": "Lovey-Dovey Heart Points",
         "shortname": "ポイント",
         "dropPriority": 3004,
         "phash_battle": "7c23c932e99c2ce2"
@@ -5761,6 +5793,7 @@
         "rarity": 3,
         "phash": "5e1db43b2dd04bb9",
         "name": "らぶらぶコイン",
+        "name_eng": "Lovey-Dovey Coin",
         "shortname": "コイン",
         "dropPriority": 2003,
         "phash_battle": "1e1429e9499b0313"
@@ -5772,6 +5805,7 @@
         "rarity": 3,
         "phash": "f6520d9c99278349",
         "name": "祝福ロックオンチョコ〔ストロベリー〕",
+        "name_eng": "Blessed Lock-On Chocolate (Strawberry)",
         "dropPriority": 2006
     },
     {
@@ -5781,6 +5815,7 @@
         "rarity": 3,
         "phash": "76528d9cd9278349",
         "name": "祝福ロックオンチョコ〔ブルーベリー〕",
+        "name_eng": "Blessed Lock-On Chocolate (Blueberry)",
         "dropPriority": 2005
     },
     {
@@ -6208,6 +6243,16 @@
         "shortname": "竜スフィア",
         "dropPriority": 2003,
         "phash_battle": "d207382942c34378"
+    },
+    {
+        "id": 94140203,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7b02784d27b1857d",
+        "name": "ときめき書筆",
+        "shortname": "書筆",
+        "dropPriority": 2003
     },
     {
         "id": 3,
@@ -7362,6 +7407,7 @@
         "rarity": 2,
         "phash": "ce1a4be4983764c9",
         "name": "らぶらぶペナント",
+        "name_eng": "Lovey-Dovey Pennant",
         "shortname": "ペナント",
         "dropPriority": 2002,
         "phash_battle": "de0be51c24cc2731"
@@ -7682,6 +7728,16 @@
         "shortname": "竜ディスク",
         "dropPriority": 2002,
         "phash_battle": "7e83c1b1590c1822"
+    },
+    {
+        "id": 94140202,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "b98aec7692e53ad3",
+        "name": "ささめき短冊",
+        "shortname": "短冊",
+        "dropPriority": 2002
     },
     {
         "id": 4,
@@ -8453,6 +8509,7 @@
         "rarity": 1,
         "phash": "5627b099d84b6095",
         "name": "らぶらぶキーホルダー",
+        "name_eng": "Lovey-Dovey Keychain",
         "shortname": "キーホルダー",
         "dropPriority": 2001,
         "phash_battle": "4633994968959112"
@@ -8665,6 +8722,16 @@
         "shortname": "竜フード",
         "dropPriority": 2001,
         "phash_battle": "be2741b1705b8560"
+    },
+    {
+        "id": 94140201,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "9e87d159690d6809",
+        "name": "そよめき栞",
+        "shortname": "栞",
+        "dropPriority": 2001
     },
     {
         "id": 1,
