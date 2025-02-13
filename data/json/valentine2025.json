@@ -252,6 +252,72 @@
         "shortname": "きらめき探索絵巻『ラヴとナイフ』"
     },
     {
+        "id": 94140305,
+        "name": "きらめき探索絵巻『人理に残る妖女になったわ』",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9408370,
+                "name": "スイート・レモン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94140204,
+                "name": "きらめきポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94140202,
+                "name": "ささめき短冊",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94140201,
+                "name": "そよめき栞",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "きらめき探索絵巻『人理に残る妖女になったわ』"
+    },
+    {
         "id": 94140308,
         "name": "きらめき探索絵巻『かぐわしの喝采の華』",
         "place": "",
