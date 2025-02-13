@@ -180,6 +180,78 @@
         "shortname": "きらめき探索絵巻『誠耀く』"
     },
     {
+        "id": 94140304,
+        "name": "きらめき探索絵巻『ラヴとナイフ』",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 9408370,
+                "name": "スイート・レモン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6537,
+                "name": "巨人の指輪",
+                "type": "Item",
+                "dropPriority": 8312
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94140204,
+                "name": "きらめきポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94140203,
+                "name": "ときめき書筆",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94140202,
+                "name": "ささめき短冊",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94140201,
+                "name": "そよめき栞",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "きらめき探索絵巻『ラヴとナイフ』"
+    },
+    {
         "id": 94140308,
         "name": "きらめき探索絵巻『かぐわしの喝采の華』",
         "place": "",
