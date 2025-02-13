@@ -318,6 +318,72 @@
         "shortname": "きらめき探索絵巻『人理に残る妖女になったわ』"
     },
     {
+        "id": 94140306,
+        "name": "きらめき探索絵巻『神様してます』",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9408370,
+                "name": "スイート・レモン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94140204,
+                "name": "きらめきポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94140203,
+                "name": "ときめき書筆",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94140202,
+                "name": "ささめき短冊",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "きらめき探索絵巻『神様してます』"
+    },
+    {
         "id": 94140308,
         "name": "きらめき探索絵巻『かぐわしの喝采の華』",
         "place": "",
