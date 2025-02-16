@@ -122,13 +122,13 @@ def main(args):
         questId = int(tmp["id"])
         quest = questId2quest(questId)
         if quest["recommendLv"] == "90++":
-            qp = 13536
+            qp = (90*100+400)*20*1.2*1.2 #  270,720
         elif quest["recommendLv"] == "90+":
-            qp = 11280
+            qp = (90*100+400)*20*1.2 #  225,600
         elif quest["recommendLv"] == "90★":
-            qp = 109988
+            qp = 324870
         elif quest["recommendLv"] == "90★★":
-            qp = 158384
+            qp = 389850
         else:
             qp = int((int(quest["recommendLv"])*100 + 400)*1.3)
         freequest = FgoFreeQuest(questId, tmp["quest"], tmp["place"],
