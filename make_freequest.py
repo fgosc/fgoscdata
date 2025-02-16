@@ -122,9 +122,9 @@ def main(args):
         questId = int(tmp["id"])
         quest = questId2quest(questId)
         if quest["recommendLv"] == "90++":
-            qp = (90*100+400)*20*1.2*1.2 #  270,720
+            qp = int((90*100+400)*20*1.2*1.2) #  270,720
         elif quest["recommendLv"] == "90+":
-            qp = (90*100+400)*20*1.2 #  225,600
+            qp = int((90*100+400)*20*1.2) #  225,600
         elif quest["recommendLv"] == "90★":
             qp = 324870
         elif quest["recommendLv"] == "90★★":
