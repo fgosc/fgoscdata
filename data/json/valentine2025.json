@@ -510,6 +510,78 @@
         "shortname": "きらめき探索絵巻『かぐわしの喝采の華』"
     },
     {
+        "id": 94140309,
+        "name": "きらめき探索絵巻『私の幸せな日常』",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9408370,
+                "name": "スイート・レモン",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94140204,
+                "name": "きらめきポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94140203,
+                "name": "ときめき書筆",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94140202,
+                "name": "ささめき短冊",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94140201,
+                "name": "そよめき栞",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "きらめき探索絵巻『私の幸せな日常』"
+    },
+    {
         "id": 94140310,
         "name": "きらめき探索絵巻『ウサギの仮面』",
         "place": "",
