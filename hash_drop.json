@@ -1098,6 +1098,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "カルデアの男",
+        "name_eng": "Man of Chaldea",
         "phash": "94a5600e2976dd42",
         "phash_narrow": "95e1e62f296ef40f",
         "dropPriority": 9005
@@ -1466,6 +1467,24 @@
         "dropPriority": 9005
     },
     {
+        "id": 9408390,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "至誠の一針",
+        "phash": "2ac6553274c95911",
+        "phash_narrow": "2ad41336a468d939",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9408400,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "探偵クリスト～未来邂逅編～",
+        "phash": "4907b052dfd38b8b",
+        "phash_narrow": "4fbe307dd627b373",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -1820,6 +1839,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "嬰児のゆりかご",
+        "name_eng": "Homunculus Cradle",
         "phash": "f4e3dd723133cd86",
         "phash_narrow": "f283dc7031510c89",
         "dropPriority": 9004
@@ -1993,6 +2013,15 @@
         "name": "マイ・リトル・ドラゴン",
         "phash": "d5664329a0f2496d",
         "phash_narrow": "d5464b21b61a02b6",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9408420,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "ウェザー・リポート＜Ｐ＞",
+        "phash": "e9d75f01cc2b54f8",
+        "phash_narrow": "a1df0581039341d7",
         "dropPriority": 9004
     },
     {
@@ -3847,6 +3876,7 @@
         "rarity": 2,
         "phash": "d64829d0c130d984",
         "name": "ＴＡＫＡＳＵＧＩポイント",
+        "name_eng": "TAKASUGI Point",
         "shortname": "ポイント",
         "dropPriority": 3004,
         "phash_battle": "d62da14993900e84"
@@ -4362,6 +4392,15 @@
         "phash": "7c03a18c49283258",
         "name": "Ｕピース〔水〕",
         "dropPriority": 2001
+    },
+    {
+        "id": 202,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5202ac1907c4637c",
+        "name": "Ｕピース〔地〕",
+        "dropPriority": 2002
     },
     {
         "id": 94000303,
@@ -5826,6 +5865,7 @@
         "rarity": 3,
         "phash": "56c9ad0a41928316",
         "name": "ＷＡＲＡＪＩカツ丼",
+        "name_eng": "WARAJI Katsu Don",
         "shortname": "カツ丼",
         "dropPriority": 2003,
         "phash_battle": "06fd2b4393128027"
@@ -5837,6 +5877,7 @@
         "rarity": 3,
         "phash": "7f0623fc8613dcc1",
         "name": "CBC2023特別優待券",
+        "name_eng": "CBC 2025 Shareholder Benefits Ticket",
         "dropPriority": 2005
     },
     {
@@ -6255,6 +6296,25 @@
         "shortname": "書筆",
         "dropPriority": 2003,
         "phash_battle": "6a1ae8a59445157a"
+    },
+    {
+        "id": 94141503,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "9c20c385663cf9dc",
+        "name": "レトロルームキー",
+        "shortname": "ルームキー",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94141504,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7e0223fc0613d8e5",
+        "name": "CBC2025特別交換券",
+        "dropPriority": 2004
     },
     {
         "id": 3,
@@ -7421,6 +7481,7 @@
         "rarity": 2,
         "phash": "f609155ae9560994",
         "name": "ＳＡＹＡＭＡ茶",
+        "name_eng": "SAYAMA Tea",
         "shortname": "茶",
         "dropPriority": 2002,
         "phash_battle": "e21d0ce85791b324"
@@ -7741,6 +7802,16 @@
         "shortname": "短冊",
         "dropPriority": 2002,
         "phash_battle": "19cc369276967692"
+    },
+    {
+        "id": 94141502,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "76290d5a91b62004",
+        "name": "ビンテージクローシュ",
+        "shortname": "クローシュ",
+        "dropPriority": 2002
     },
     {
         "id": 4,
@@ -8524,6 +8595,7 @@
         "rarity": 1,
         "phash": "5657a9a1641c1982",
         "name": "ＺＥＲＹフライ",
+        "name_eng": "ZELLY Fry",
         "shortname": "フライ",
         "dropPriority": 2001,
         "phash_battle": "560fa16419a28c09"
@@ -8736,6 +8808,16 @@
         "shortname": "栞",
         "dropPriority": 2001,
         "phash_battle": "96d359696d090246"
+    },
+    {
+        "id": 94141501,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "5289fc0676318c15",
+        "name": "クラシックタオル",
+        "shortname": "Cタオル",
+        "dropPriority": 2001
     },
     {
         "id": 1,
