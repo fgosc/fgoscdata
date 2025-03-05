@@ -1,0 +1,146 @@
+[
+    {
+        "id": 94141600,
+        "name": "コンシェルジュ日誌 苦労性な客室案内人",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94141502,
+                "name": "ビンテージクローシュ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94141501,
+                "name": "クラシックタオル",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "コンシェルジュ日誌 苦労性な客室案内人"
+    },
+    {
+        "id": 94141601,
+        "name": "コンシェルジュ日誌 天下無双の害虫退治",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94141503,
+                "name": "レトロルームキー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94141502,
+                "name": "ビンテージクローシュ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "コンシェルジュ日誌 天下無双の害虫退治"
+    },
+    {
+        "id": 94141602,
+        "name": "コンシェルジュ日誌 外道だらけの魚釣り",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94141503,
+                "name": "レトロルームキー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94141501,
+                "name": "クラシックタオル",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "コンシェルジュ日誌 外道だらけの魚釣り"
+    }
+]
