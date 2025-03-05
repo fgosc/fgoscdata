@@ -6305,7 +6305,8 @@
         "phash": "9c20c385663cf9dc",
         "name": "レトロルームキー",
         "shortname": "ルームキー",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "bc41836cf0fcdcb0"
     },
     {
         "id": 94141504,
@@ -7811,7 +7812,8 @@
         "phash": "76290d5a91b62004",
         "name": "ビンテージクローシュ",
         "shortname": "クローシュ",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "66ad4893b6246849"
     },
     {
         "id": 4,
@@ -8817,7 +8819,8 @@
         "phash": "5289fc0676318c15",
         "name": "クラシックタオル",
         "shortname": "Cタオル",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "02bdf632851f21d3"
     },
     {
         "id": 1,
