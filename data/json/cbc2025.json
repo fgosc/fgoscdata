@@ -142,5 +142,65 @@
         ],
         "dropItemNum": -1,
         "shortname": "コンシェルジュ日誌 外道だらけの魚釣り"
+    },
+    {
+        "id": 94141603,
+        "name": "コンシェルジュ日誌 豪華絢爛プランニング",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7900,
+        "drop": [
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6556,
+                "name": "エーテル収光体",
+                "type": "Item",
+                "dropPriority": 8321
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94141503,
+                "name": "レトロルームキー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94141502,
+                "name": "ビンテージクローシュ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94141501,
+                "name": "クラシックタオル",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "コンシェルジュ日誌 豪華絢爛プランニング"
     }
 ]
