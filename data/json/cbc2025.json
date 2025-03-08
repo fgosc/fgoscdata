@@ -256,5 +256,59 @@
         ],
         "dropItemNum": -1,
         "shortname": "コンシェルジュ日誌 心尽くしのクロークルーム"
+    },
+    {
+        "id": 94141605,
+        "name": "コンシェルジュ日誌 ルームクリーニングの極意",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8900,
+        "drop": [
+            {
+                "id": 6517,
+                "name": "蛮神の心臓",
+                "type": "Item",
+                "dropPriority": 8500
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94141503,
+                "name": "レトロルームキー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94141502,
+                "name": "ビンテージクローシュ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "コンシェルジュ日誌 ルームクリーニングの極意"
     }
 ]
