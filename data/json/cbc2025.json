@@ -310,5 +310,59 @@
         ],
         "dropItemNum": -1,
         "shortname": "コンシェルジュ日誌 ルームクリーニングの極意"
+    },
+    {
+        "id": 94141606,
+        "name": "コンシェルジュ日誌 ワイルドレスキュー",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6542,
+                "name": "真理の卵",
+                "type": "Item",
+                "dropPriority": 8507
+            },
+            {
+                "id": 6552,
+                "name": "忘れじの灰",
+                "type": "Item",
+                "dropPriority": 8108
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94141503,
+                "name": "レトロルームキー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94141501,
+                "name": "クラシックタオル",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "コンシェルジュ日誌 ワイルドレスキュー"
     }
 ]
