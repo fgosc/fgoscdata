@@ -366,6 +366,72 @@
         "shortname": "コンシェルジュ日誌 ワイルドレスキュー"
     },
     {
+        "id": 94141607,
+        "name": "コンシェルジュ日誌 難攻不落のフロント対応",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 6525,
+                "name": "智慧のスカラベ",
+                "type": "Item",
+                "dropPriority": 8503
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94141503,
+                "name": "レトロルームキー",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94141502,
+                "name": "ビンテージクローシュ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94141501,
+                "name": "クラシックタオル",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "コンシェルジュ日誌 難攻不落のフロント対応"
+    },
+    {
         "id": 94141608,
         "name": "コンシェルジュ日誌 五つ星ラウンドサービス",
         "place": "",
