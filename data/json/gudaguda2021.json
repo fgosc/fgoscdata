@@ -4,6 +4,7 @@
         "name": "聞き込み調査 初級",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 7400,
         "drop": [
             {
@@ -61,14 +62,15 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 9,
-        "shortname": "初級"
+        "dropItemNum": -1,
+        "shortname": "聞き込み調査 初級"
     },
     {
         "id": 94063902,
         "name": "聞き込み調査 中級",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 7400,
         "drop": [
             {
@@ -126,14 +128,15 @@
                 "dropPriority": 2002
             }
         ],
-        "dropItemNum": 9,
-        "shortname": "中級"
+        "dropItemNum": -1,
+        "shortname": "聞き込み調査 中級"
     },
     {
         "id": 94063903,
         "name": "聞き込み調査 上級",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 7400,
         "drop": [
             {
@@ -197,14 +200,15 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 10,
-        "shortname": "上級"
+        "dropItemNum": -1,
+        "shortname": "聞き込み調査 上級"
     },
     {
         "id": 94063904,
         "name": "ＳＡＩＴＡＭＡバレー",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 8400,
         "drop": [
             {
@@ -268,7 +272,7 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "shortname": "ＳＡＩＴＡＭＡバレー"
     },
     {
@@ -276,6 +280,7 @@
         "name": "ノブノブの森",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 8400,
         "drop": [
             {
@@ -339,7 +344,7 @@
                 "dropPriority": 2002
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "shortname": "ノブノブの森"
     },
     {
@@ -347,6 +352,7 @@
         "name": "軍用地下通路",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 8400,
         "drop": [
             {
@@ -410,7 +416,7 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "shortname": "軍用地下通路"
     },
     {
@@ -418,6 +424,7 @@
         "name": "ノーッブ☆動物公園",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 9400,
         "drop": [
             {
@@ -481,7 +488,7 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "shortname": "ノーッブ☆動物公園"
     },
     {
@@ -489,6 +496,7 @@
         "name": "ノブブセメント工場",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 9400,
         "drop": [
             {
@@ -546,7 +554,7 @@
                 "dropPriority": 2002
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "shortname": "ノブブセメント工場"
     },
     {
@@ -554,6 +562,7 @@
         "name": "勤王まんじゅう市",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 9400,
         "drop": [
             {
@@ -611,7 +620,7 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "shortname": "勤王まんじゅう市"
     },
     {
@@ -619,6 +628,7 @@
         "name": "小江戸散歩",
         "place": "",
         "chapter": "",
+        "category": "",
         "qp": 9400,
         "drop": [
             {
@@ -688,7 +698,7 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 11,
+        "dropItemNum": -1,
         "shortname": "小江戸散歩"
     },
     {
@@ -696,7 +706,8 @@
         "name": "怪しい倉庫巡回",
         "place": "",
         "chapter": "",
-        "qp": 9400,
+        "category": "",
+        "qp": 11280,
         "drop": [
             {
                 "id": 9405600,
@@ -753,7 +764,7 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 9,
+        "dropItemNum": -1,
         "shortname": "怪しい倉庫巡回"
     },
     {
@@ -761,7 +772,8 @@
         "name": "昭和勤王党",
         "place": "",
         "chapter": "",
-        "qp": 9400,
+        "category": "",
+        "qp": 11280,
         "drop": [
             {
                 "id": 9405600,
@@ -824,7 +836,7 @@
                 "dropPriority": 2002
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "shortname": "昭和勤王党"
     },
     {
@@ -832,7 +844,8 @@
         "name": "裏ＳＡＩＴＡＭＡバレー",
         "place": "",
         "chapter": "",
-        "qp": 9400,
+        "category": "",
+        "qp": 11280,
         "drop": [
             {
                 "id": 9405600,
@@ -895,7 +908,7 @@
                 "dropPriority": 2001
             }
         ],
-        "dropItemNum": 10,
+        "dropItemNum": -1,
         "shortname": "裏ＳＡＩＴＡＭＡバレー"
     }
 ]
