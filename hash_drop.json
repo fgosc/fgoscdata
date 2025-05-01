@@ -2548,7 +2548,8 @@
         "phash": "7b83acf04929c7b6",
         "name": "天命の聖水",
         "shortname": "聖水",
-        "dropPriority": 8513
+        "dropPriority": 8513,
+        "phash_battle": "7ab6f4690f96c60e"
     },
     {
         "id": 6560,
@@ -2817,7 +2818,8 @@
         "phash": "fe820d7c891c7384",
         "name": "神彩のレンズ",
         "shortname": "レンズ",
-        "dropPriority": 8324
+        "dropPriority": 8324,
+        "phash_battle": "f6076498184e5383"
     },
     {
         "id": 6559,
