@@ -15458,7 +15458,602 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127870,
+        "scPriority": 127860,
         "scName": "悔悟の祈り"
+    },
+    {
+        "id": 94145401,
+        "name": "〔セイバー〕 Ⅰ",
+        "place": "冠位研鑽戦",
+        "chapter": "冠位戴冠戦剣",
+        "category": "冠位戴冠戦",
+        "qp": 32487,
+        "drop": [
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 127870,
+        "scName": "冠位研鑽戦〔セイバー〕 Ⅰ"
+    },
+    {
+        "id": 94145402,
+        "name": "〔セイバー〕 Ⅱ",
+        "place": "冠位研鑽戦",
+        "chapter": "冠位戴冠戦剣",
+        "category": "冠位戴冠戦",
+        "qp": 34761,
+        "drop": [
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 127880,
+        "scName": "冠位研鑽戦〔セイバー〕 Ⅱ"
+    },
+    {
+        "id": 94145403,
+        "name": "〔セイバー〕 Ⅲ",
+        "place": "冠位研鑽戦",
+        "chapter": "冠位戴冠戦剣",
+        "category": "冠位戴冠戦",
+        "qp": 37194,
+        "drop": [
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 127890,
+        "scName": "冠位研鑽戦〔セイバー〕 Ⅲ"
+    },
+    {
+        "id": 94145404,
+        "name": "〔セイバー〕 Ⅳ",
+        "place": "冠位研鑽戦",
+        "chapter": "冠位戴冠戦剣",
+        "category": "冠位戴冠戦",
+        "qp": 39798,
+        "drop": [
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 127900,
+        "scName": "冠位研鑽戦〔セイバー〕 Ⅳ"
+    },
+    {
+        "id": 94145405,
+        "name": "〔セイバー〕 Ⅴ",
+        "place": "冠位研鑽戦",
+        "chapter": "冠位戴冠戦剣",
+        "category": "冠位戴冠戦",
+        "qp": 42584,
+        "drop": [
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 127910,
+        "scName": "冠位研鑽戦〔セイバー〕 Ⅴ"
+    },
+    {
+        "id": 94145406,
+        "name": "〔セイバー〕 Ⅵ",
+        "place": "冠位研鑽戦",
+        "chapter": "冠位戴冠戦剣",
+        "category": "冠位戴冠戦",
+        "qp": 45565,
+        "drop": [
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 127920,
+        "scName": "冠位研鑽戦〔セイバー〕 Ⅵ"
+    },
+    {
+        "id": 94145407,
+        "name": "〔セイバー〕 Ⅶ",
+        "place": "冠位研鑽戦",
+        "chapter": "冠位戴冠戦剣",
+        "category": "冠位戴冠戦",
+        "qp": 48754,
+        "drop": [
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6519,
+                "name": "戦馬の幼角",
+                "type": "Item",
+                "dropPriority": 8401
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 127930,
+        "scName": "冠位研鑽戦〔セイバー〕 Ⅶ"
     }
 ]

@@ -4423,7 +4423,8 @@
         "phash": "7392a46e4e99a47b",
         "name": "星冠の結晶〔セイバー〕",
         "shortname": "剣結晶",
-        "dropPriority": 8000
+        "dropPriority": 8000,
+        "phash_battle": "721ae4da8542879d"
     },
     {
         "id": 70,
