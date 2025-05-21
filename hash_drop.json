@@ -2850,6 +2850,7 @@
         "rarity": 2,
         "phash": "97628c58699ce296",
         "name": "エーテル収光体",
+        "name_eng": "Ether Converger",
         "shortname": "エーテル",
         "dropPriority": 8321,
         "phash_battle": "b3a45869b496a7d8"
@@ -3148,6 +3149,7 @@
         "rarity": 1,
         "phash": "56098520e1625119",
         "name": "狂気の残滓",
+        "name_eng": "Remnants of Madness",
         "shortname": "残滓",
         "dropPriority": 8110,
         "phash_battle": "720d856141515051"
@@ -4390,7 +4392,8 @@
         "rarity": 3,
         "phash": "7e0394a92778035e",
         "name": "新星のトーチ",
-        "dropPriority": 8007
+        "name_eng": "Torch of Nova",
+        "dropPriority": 8001
     },
     {
         "id": 52,
@@ -4399,7 +4402,8 @@
         "rarity": 3,
         "phash": "2782da99767aeddc",
         "name": "明星のトーチ",
-        "dropPriority": 8008
+        "name_eng": "Torch of the Morning Star",
+        "dropPriority": 8002
     },
     {
         "id": 53,
@@ -4408,6 +4412,26 @@
         "rarity": 3,
         "phash": "2f0394e1267a411c",
         "name": "極星のトーチ",
+        "name_eng": "Torch of the Polar Star",
+        "dropPriority": 8003
+    },
+    {
+        "id": 55,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7392a46e4e99a47b",
+        "name": "星冠の結晶〔セイバー〕",
+        "shortname": "剣結晶",
+        "dropPriority": 8000
+    },
+    {
+        "id": 70,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5e910708a4526994",
+        "name": "遡行の羅針盤",
         "dropPriority": 8009
     },
     {
@@ -6375,7 +6399,8 @@
         "rarity": 2,
         "phash": "5e18a1b6681ddb0c",
         "name": "星光の砂",
-        "dropPriority": 8006
+        "name_eng": "Sand of Starlight",
+        "dropPriority": 8000
     },
     {
         "id": 94000302,
