@@ -15540,6 +15540,42 @@
                 "name": "英雄の証",
                 "type": "Item",
                 "dropPriority": 8100
+            },
+            {
+                "id": 55,
+                "name": "星冠の結晶〔セイバー〕",
+                "type": "Item",
+                "dropPriority": 8000
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
             }
         ],
         "dropItemNum": -1,
@@ -15625,6 +15661,42 @@
                 "name": "英雄の証",
                 "type": "Item",
                 "dropPriority": 8100
+            },
+            {
+                "id": 55,
+                "name": "星冠の結晶〔セイバー〕",
+                "type": "Item",
+                "dropPriority": 8000
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
             }
         ],
         "dropItemNum": -1,
@@ -15710,6 +15782,42 @@
                 "name": "英雄の証",
                 "type": "Item",
                 "dropPriority": 8100
+            },
+            {
+                "id": 55,
+                "name": "星冠の結晶〔セイバー〕",
+                "type": "Item",
+                "dropPriority": 8000
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
             }
         ],
         "dropItemNum": -1,
@@ -15795,6 +15903,42 @@
                 "name": "英雄の証",
                 "type": "Item",
                 "dropPriority": 8100
+            },
+            {
+                "id": 55,
+                "name": "星冠の結晶〔セイバー〕",
+                "type": "Item",
+                "dropPriority": 8000
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
             }
         ],
         "dropItemNum": -1,
@@ -15880,6 +16024,42 @@
                 "name": "英雄の証",
                 "type": "Item",
                 "dropPriority": 8100
+            },
+            {
+                "id": 55,
+                "name": "星冠の結晶〔セイバー〕",
+                "type": "Item",
+                "dropPriority": 8000
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
             }
         ],
         "dropItemNum": -1,
@@ -15965,6 +16145,42 @@
                 "name": "英雄の証",
                 "type": "Item",
                 "dropPriority": 8100
+            },
+            {
+                "id": 55,
+                "name": "星冠の結晶〔セイバー〕",
+                "type": "Item",
+                "dropPriority": 8000
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
             }
         ],
         "dropItemNum": -1,
@@ -16050,6 +16266,42 @@
                 "name": "英雄の証",
                 "type": "Item",
                 "dropPriority": 8100
+            },
+            {
+                "id": 55,
+                "name": "星冠の結晶〔セイバー〕",
+                "type": "Item",
+                "dropPriority": 8000
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
             }
         ],
         "dropItemNum": -1,
