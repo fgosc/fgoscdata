@@ -1141,6 +1141,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "トワイライト・メディテーション",
+        "name_eng": "Twilight Meditation",
         "phash": "0a17e6da1ca3dc30",
         "phash_narrow": "0a25e65a238f25ca",
         "dropPriority": 9005
@@ -1871,6 +1872,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "霊樹の宿根",
+        "name_eng": "Perennial Spirit Elemental",
         "phash": "38329cb65d0e9199",
         "phash_narrow": "7349b4f34ed65cda",
         "dropPriority": 9004
@@ -9307,7 +9309,7 @@
         "shortname": "殺猛火",
         "phash": "0b28f4babef3cfa1",
         "phash_sold": "0bf8f89f268fcef0",
-        "phash_class": "d0cbe497cdce3c34",
+        "phash_class": "f16be4136d961880",
         "phash_class_sold": "d0dbcc93edce3434"
     },
     {
