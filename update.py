@@ -704,7 +704,7 @@ def make_ce_data():
 if __name__ == '__main__':
     ce_output = make_ce_data()
     reward_output, item_output = make_item_data()
-    with open(hash_exp_file, encoding='UTF-8') as f:
+    with open(hash_exp_file, encoding='utf-8-sig') as f:
         reader = csv.DictReader(f)
         exp_output = []
         for row in reader:
