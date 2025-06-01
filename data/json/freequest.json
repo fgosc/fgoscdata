@@ -14956,10 +14956,10 @@
                 "dropPriority": 681
             },
             {
-                "id": 9707400,
-                "name": "狂猛火",
+                "id": 9706400,
+                "name": "殺猛火",
                 "type": "Exp. UP",
-                "dropPriority": 661
+                "dropPriority": 666
             }
         ],
         "dropItemNum": -1,
