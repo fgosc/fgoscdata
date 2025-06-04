@@ -1489,6 +1489,25 @@
         "dropPriority": 9005
     },
     {
+        "id": 9408580,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "海へ",
+        "shortname": "礼装",
+        "phash": "3047c72f3972a54c",
+        "phash_narrow": "3247872d52a0a02f",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9408590,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "幸せな花嫁へ",
+        "phash": "59e9a5f5b169be5b",
+        "phash_narrow": "5beae4b5e1a47166",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -3801,6 +3820,16 @@
         ],
         "dropPriority": 5194,
         "phash_battle": "1c892382d192a443"
+    },
+    {
+        "id": 94144705,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5e688992899c630c",
+        "name": "材料収集ポイント",
+        "shortname": "ポイント",
+        "dropPriority": 3005
     },
     {
         "id": 94140204,
@@ -6385,6 +6414,26 @@
         "dropPriority": 2004
     },
     {
+        "id": 94144703,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "ec23075699b99b49",
+        "name": "バッテリーユニット",
+        "shortname": "バッテリー",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94144704,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "669699696d9c93d3",
+        "name": "スーパーボルト",
+        "shortname": "ボルト",
+        "dropPriority": 2004
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -7886,6 +7935,16 @@
         "phash_battle": "66ad4893b6246849"
     },
     {
+        "id": 94144702,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "fc030db453389b48",
+        "name": "モーターユニット",
+        "shortname": "モーター",
+        "dropPriority": 2002
+    },
+    {
         "id": 4,
         "type": "Item",
         "background": "silver",
@@ -8893,6 +8952,16 @@
         "shortname": "Cタオル",
         "dropPriority": 2001,
         "phash_battle": "02bdf632851f21d3"
+    },
+    {
+        "id": 94144701,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "d60721615b992370",
+        "name": "ギアユニット",
+        "shortname": "ギア",
+        "dropPriority": 2001
     },
     {
         "id": 1,
