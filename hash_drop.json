@@ -6423,7 +6423,7 @@
         "name": "バッテリーユニット",
         "shortname": "バッテリー",
         "dropPriority": 2003,
-        "phash_battle": "fe0bd57299c98c49"
+        "phash_battle": "e83756b199298d68"
     },
     {
         "id": 94144704,
@@ -7945,7 +7945,7 @@
         "name": "モーターユニット",
         "shortname": "モーター",
         "dropPriority": 2002,
-        "phash_battle": "e83756b199298d68"
+        "phash_battle": "fe0bd57299c98c49"
     },
     {
         "id": 4,
