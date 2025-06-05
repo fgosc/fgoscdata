@@ -166,5 +166,71 @@
         ],
         "dropItemNum": -1,
         "shortname": "材料収集 密林のナワバリ争い"
+    },
+    {
+        "id": 94144904,
+        "name": "材料収集 島のお宝争奪戦",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9408580,
+                "name": "海へ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94144705,
+                "name": "材料収集ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94144702,
+                "name": "モーターユニット",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94144701,
+                "name": "ギアユニット",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "材料収集 島のお宝争奪戦"
     }
 ]
