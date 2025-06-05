@@ -1,0 +1,170 @@
+[
+    {
+        "id": 94144901,
+        "name": "材料収集 傀儡から部品を手に入れろ",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 9408580,
+                "name": "海へ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 94144705,
+                "name": "材料収集ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94144702,
+                "name": "モーターユニット",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94144701,
+                "name": "ギアユニット",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "材料収集 傀儡から部品を手に入れろ"
+    },
+    {
+        "id": 94144902,
+        "name": "材料収集 暴れまわるサイボーグ",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9408580,
+                "name": "海へ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94144705,
+                "name": "材料収集ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94144703,
+                "name": "バッテリーユニット",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94144702,
+                "name": "モーターユニット",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "材料収集 暴れまわるサイボーグ"
+    },
+    {
+        "id": 94144903,
+        "name": "材料収集 密林のナワバリ争い",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9408580,
+                "name": "海へ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94144705,
+                "name": "材料収集ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94144703,
+                "name": "バッテリーユニット",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94144701,
+                "name": "ギアユニット",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "材料収集 密林のナワバリ争い"
+    }
+]
