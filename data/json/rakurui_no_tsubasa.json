@@ -232,5 +232,65 @@
         ],
         "dropItemNum": -1,
         "shortname": "材料収集 島のお宝争奪戦"
+    },
+    {
+        "id": 94144905,
+        "name": "材料収集 略奪者との攻防戦",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9408580,
+                "name": "海へ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6550,
+                "name": "夢幻の鱗粉",
+                "type": "Item",
+                "dropPriority": 8319
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94144705,
+                "name": "材料収集ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94144703,
+                "name": "バッテリーユニット",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94144702,
+                "name": "モーターユニット",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "材料収集 略奪者との攻防戦"
     }
 ]
