@@ -292,5 +292,65 @@
         ],
         "dropItemNum": -1,
         "shortname": "材料収集 略奪者との攻防戦"
+    },
+    {
+        "id": 94144906,
+        "name": "材料収集 精密なる絡繰軍団",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9408580,
+                "name": "海へ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6546,
+                "name": "悠久の実",
+                "type": "Item",
+                "dropPriority": 8407
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94144705,
+                "name": "材料収集ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            },
+            {
+                "id": 94144703,
+                "name": "バッテリーユニット",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94144701,
+                "name": "ギアユニット",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "材料収集 精密なる絡繰軍団"
     }
 ]
