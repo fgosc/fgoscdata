@@ -352,5 +352,59 @@
         ],
         "dropItemNum": -1,
         "shortname": "材料収集 精密なる絡繰軍団"
+    },
+    {
+        "id": 94144907,
+        "name": "材料収集 良質な鋼を求めて",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9408580,
+                "name": "海へ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6518,
+                "name": "精霊根",
+                "type": "Item",
+                "dropPriority": 8502
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94144705,
+                "name": "材料収集ポイント",
+                "type": "Point",
+                "dropPriority": 3005
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "材料収集 良質な鋼を求めて"
     }
 ]
