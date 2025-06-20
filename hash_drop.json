@@ -4470,7 +4470,8 @@
         "phash": "6712609c9e99696a",
         "name": "星冠の結晶〔バーサーカー〕",
         "shortname": "狂結晶",
-        "dropPriority": 8006
+        "dropPriority": 8006,
+        "phash_battle": "e262649eb16a49b6"
     },
     {
         "id": 70,
