@@ -1151,6 +1151,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "スウェット・ブラッド",
+        "name_eng": "Sweat Blood",
         "phash": "c19c7a76b66a57be",
         "phash_narrow": "c19c79b4a843de3b",
         "dropPriority": 9005
@@ -1160,6 +1161,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "匠たる心魂",
+        "name_eng": "Artisanal Spirit",
         "phash": "1b6296d7c5a6bd3a",
         "phash_narrow": "1b2896d342e7ee34",
         "dropPriority": 9005
@@ -1882,6 +1884,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "太陽の花",
+        "name_eng": "Flowers of the Sun",
         "phash": "578852678bd3d85c",
         "phash_narrow": "2d98766ba7c1f6d9",
         "dropPriority": 9004
@@ -2376,6 +2379,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "ビー・シェルヴド",
+        "name_eng": "Be Shelved",
         "phash": "8a3225201a6bfcc7",
         "phash_narrow": "8b9665b41bbdf732",
         "dropPriority": 9003
@@ -4457,6 +4461,16 @@
         "shortname": "剣結晶",
         "dropPriority": 8000,
         "phash_battle": "721ae4da8542879d"
+    },
+    {
+        "id": 61,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "6712609c9e99696a",
+        "name": "星冠の結晶〔バーサーカー〕",
+        "shortname": "狂結晶",
+        "dropPriority": 8006
     },
     {
         "id": 70,
