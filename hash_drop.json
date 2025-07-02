@@ -1510,6 +1510,16 @@
         "dropPriority": 9005
     },
     {
+        "id": 9408640,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "サン・シャワー",
+        "shortname": "礼装",
+        "phash": "8fe1389ac0cd9f76",
+        "phash_narrow": "8f613f02e91f52bd",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -2564,6 +2574,16 @@
         "phash": "6963a9ce733cdcee",
         "phash_narrow": "6d238cd7739c8f72",
         "dropPriority": 9003
+    },
+    {
+        "id": 6563,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "fc0203b45308682f",
+        "name": "遺霊箱",
+        "shortname": "箱",
+        "dropPriority": 8514
     },
     {
         "id": 6562,
@@ -6050,6 +6070,7 @@
         "rarity": 3,
         "phash": "d61229ec8613b850",
         "name": "FGO 8th Anniversary 英霊催装チケット",
+        "name_eng": "FGO 8th Anniversary Celebration Portrait Ticket",
         "dropPriority": 2001
     },
     {
@@ -6449,6 +6470,44 @@
         "name": "スーパーボルト",
         "shortname": "ボルト",
         "dropPriority": 2004
+    },
+    {
+        "id": 94145803,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "ff48864d30c79f66",
+        "name": "サニーフェザー",
+        "shortname": "Sフェザー",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94145804,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7e0986f0a75c241a",
+        "name": "空の砕片",
+        "shortname": "砕片",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94145806,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "672666496dc966cd",
+        "name": "美味い酒",
+        "dropPriority": 9001
+    },
+    {
+        "id": 94146601,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "fe0223ec0613f8d8",
+        "name": "OVER THE SAME SKY 英霊星行チケット〔JUNE〕",
+        "dropPriority": 9001
     },
     {
         "id": 3,
@@ -7963,6 +8022,16 @@
         "phash_battle": "fe0bd57299c98c49"
     },
     {
+        "id": 94145802,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "1fc6993b68a7125d",
+        "name": "クラウディバルーン",
+        "shortname": "バルーン",
+        "dropPriority": 2002
+    },
+    {
         "id": 4,
         "type": "Item",
         "background": "silver",
@@ -8981,6 +9050,16 @@
         "shortname": "ギア",
         "dropPriority": 2001,
         "phash_battle": "460f611bb1338c6c"
+    },
+    {
+        "id": 94145801,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "74993066cb9b3c67",
+        "name": "レイニーグライダー",
+        "shortname": "グライダー",
+        "dropPriority": 2001
     },
     {
         "id": 1,
