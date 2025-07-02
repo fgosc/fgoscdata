@@ -6479,7 +6479,8 @@
         "phash": "ff48864d30c79f66",
         "name": "サニーフェザー",
         "shortname": "Sフェザー",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "f8060cf487e00738"
     },
     {
         "id": 94145804,
@@ -6489,7 +6490,8 @@
         "phash": "7e0986f0a75c241a",
         "name": "空の砕片",
         "shortname": "砕片",
-        "dropPriority": 2004
+        "dropPriority": 2004,
+        "phash_battle": "3a4bf2b6342e4ccc"
     },
     {
         "id": 94145806,
@@ -8029,7 +8031,8 @@
         "phash": "1fc6993b68a7125d",
         "name": "クラウディバルーン",
         "shortname": "バルーン",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "96d33ba49738052c"
     },
     {
         "id": 4,
@@ -9059,7 +9062,8 @@
         "phash": "74993066cb9b3c67",
         "name": "レイニーグライダー",
         "shortname": "グライダー",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "cc3966c918668758"
     },
     {
         "id": 1,
