@@ -2583,7 +2583,8 @@
         "phash": "fc0203b45308682f",
         "name": "遺霊箱",
         "shortname": "箱",
-        "dropPriority": 8514
+        "dropPriority": 8514,
+        "phash_battle": "fc0765534c39871c"
     },
     {
         "id": 6562,
@@ -4490,7 +4491,8 @@
         "phash": "479264199e8d3162",
         "name": "星冠の結晶〔ランサー〕",
         "shortname": "槍結晶",
-        "dropPriority": 8002
+        "dropPriority": 8002,
+        "phash_battle": "ca66689e1d628d9c"
     },
     {
         "id": 61,
