@@ -15470,6 +15470,12 @@
         "qp": 32487,
         "drop": [
             {
+                "id": 6563,
+                "name": "遺霊箱",
+                "type": "Item",
+                "dropPriority": 8514
+            },
+            {
                 "id": 6548,
                 "name": "鬼炎鬼灯",
                 "type": "Item",
@@ -15570,12 +15576,6 @@
                 "name": "セイバーモニュメント",
                 "type": "Item",
                 "dropPriority": 5300
-            },
-            {
-                "id": 7001,
-                "name": "セイバーピース",
-                "type": "Item",
-                "dropPriority": 5200
             }
         ],
         "dropItemNum": -1,
@@ -15591,6 +15591,12 @@
         "qp": 34761,
         "drop": [
             {
+                "id": 6563,
+                "name": "遺霊箱",
+                "type": "Item",
+                "dropPriority": 8514
+            },
+            {
                 "id": 6548,
                 "name": "鬼炎鬼灯",
                 "type": "Item",
@@ -15691,12 +15697,6 @@
                 "name": "セイバーモニュメント",
                 "type": "Item",
                 "dropPriority": 5300
-            },
-            {
-                "id": 7001,
-                "name": "セイバーピース",
-                "type": "Item",
-                "dropPriority": 5200
             }
         ],
         "dropItemNum": -1,
@@ -15712,6 +15712,12 @@
         "qp": 37194,
         "drop": [
             {
+                "id": 6563,
+                "name": "遺霊箱",
+                "type": "Item",
+                "dropPriority": 8514
+            },
+            {
                 "id": 6548,
                 "name": "鬼炎鬼灯",
                 "type": "Item",
@@ -15812,12 +15818,6 @@
                 "name": "セイバーモニュメント",
                 "type": "Item",
                 "dropPriority": 5300
-            },
-            {
-                "id": 7001,
-                "name": "セイバーピース",
-                "type": "Item",
-                "dropPriority": 5200
             }
         ],
         "dropItemNum": -1,
@@ -15833,6 +15833,12 @@
         "qp": 39798,
         "drop": [
             {
+                "id": 6563,
+                "name": "遺霊箱",
+                "type": "Item",
+                "dropPriority": 8514
+            },
+            {
                 "id": 6548,
                 "name": "鬼炎鬼灯",
                 "type": "Item",
@@ -15933,12 +15939,6 @@
                 "name": "セイバーモニュメント",
                 "type": "Item",
                 "dropPriority": 5300
-            },
-            {
-                "id": 7001,
-                "name": "セイバーピース",
-                "type": "Item",
-                "dropPriority": 5200
             }
         ],
         "dropItemNum": -1,
@@ -15954,6 +15954,12 @@
         "qp": 42584,
         "drop": [
             {
+                "id": 6563,
+                "name": "遺霊箱",
+                "type": "Item",
+                "dropPriority": 8514
+            },
+            {
                 "id": 6548,
                 "name": "鬼炎鬼灯",
                 "type": "Item",
@@ -16054,12 +16060,6 @@
                 "name": "セイバーモニュメント",
                 "type": "Item",
                 "dropPriority": 5300
-            },
-            {
-                "id": 7001,
-                "name": "セイバーピース",
-                "type": "Item",
-                "dropPriority": 5200
             }
         ],
         "dropItemNum": -1,
@@ -16075,6 +16075,12 @@
         "qp": 45565,
         "drop": [
             {
+                "id": 6563,
+                "name": "遺霊箱",
+                "type": "Item",
+                "dropPriority": 8514
+            },
+            {
                 "id": 6548,
                 "name": "鬼炎鬼灯",
                 "type": "Item",
@@ -16175,12 +16181,6 @@
                 "name": "セイバーモニュメント",
                 "type": "Item",
                 "dropPriority": 5300
-            },
-            {
-                "id": 7001,
-                "name": "セイバーピース",
-                "type": "Item",
-                "dropPriority": 5200
             }
         ],
         "dropItemNum": -1,
@@ -16196,6 +16196,12 @@
         "qp": 48754,
         "drop": [
             {
+                "id": 6563,
+                "name": "遺霊箱",
+                "type": "Item",
+                "dropPriority": 8514
+            },
+            {
                 "id": 6548,
                 "name": "鬼炎鬼灯",
                 "type": "Item",
@@ -16296,12 +16302,6 @@
                 "name": "セイバーモニュメント",
                 "type": "Item",
                 "dropPriority": 5300
-            },
-            {
-                "id": 7001,
-                "name": "セイバーピース",
-                "type": "Item",
-                "dropPriority": 5200
             }
         ],
         "dropItemNum": -1,
@@ -16317,6 +16317,12 @@
         "qp": 32487,
         "drop": [
             {
+                "id": 6563,
+                "name": "遺霊箱",
+                "type": "Item",
+                "dropPriority": 8514
+            },
+            {
                 "id": 6544,
                 "name": "煌星のカケラ",
                 "type": "Item",
@@ -16417,12 +16423,6 @@
                 "name": "バーサーカーモニュメント",
                 "type": "Item",
                 "dropPriority": 5294
-            },
-            {
-                "id": 7007,
-                "name": "バーサーカーピース",
-                "type": "Item",
-                "dropPriority": 5194
             }
         ],
         "dropItemNum": -1,
@@ -16438,6 +16438,12 @@
         "qp": 34761,
         "drop": [
             {
+                "id": 6563,
+                "name": "遺霊箱",
+                "type": "Item",
+                "dropPriority": 8514
+            },
+            {
                 "id": 6544,
                 "name": "煌星のカケラ",
                 "type": "Item",
@@ -16538,12 +16544,6 @@
                 "name": "バーサーカーモニュメント",
                 "type": "Item",
                 "dropPriority": 5294
-            },
-            {
-                "id": 7007,
-                "name": "バーサーカーピース",
-                "type": "Item",
-                "dropPriority": 5194
             }
         ],
         "dropItemNum": -1,
@@ -16559,6 +16559,12 @@
         "qp": 37194,
         "drop": [
             {
+                "id": 6563,
+                "name": "遺霊箱",
+                "type": "Item",
+                "dropPriority": 8514
+            },
+            {
                 "id": 6544,
                 "name": "煌星のカケラ",
                 "type": "Item",
@@ -16659,12 +16665,6 @@
                 "name": "バーサーカーモニュメント",
                 "type": "Item",
                 "dropPriority": 5294
-            },
-            {
-                "id": 7007,
-                "name": "バーサーカーピース",
-                "type": "Item",
-                "dropPriority": 5194
             }
         ],
         "dropItemNum": -1,
@@ -16680,6 +16680,12 @@
         "qp": 39798,
         "drop": [
             {
+                "id": 6563,
+                "name": "遺霊箱",
+                "type": "Item",
+                "dropPriority": 8514
+            },
+            {
                 "id": 6544,
                 "name": "煌星のカケラ",
                 "type": "Item",
@@ -16780,12 +16786,6 @@
                 "name": "バーサーカーモニュメント",
                 "type": "Item",
                 "dropPriority": 5294
-            },
-            {
-                "id": 7007,
-                "name": "バーサーカーピース",
-                "type": "Item",
-                "dropPriority": 5194
             }
         ],
         "dropItemNum": -1,
@@ -16801,6 +16801,12 @@
         "qp": 42584,
         "drop": [
             {
+                "id": 6563,
+                "name": "遺霊箱",
+                "type": "Item",
+                "dropPriority": 8514
+            },
+            {
                 "id": 6544,
                 "name": "煌星のカケラ",
                 "type": "Item",
@@ -16901,12 +16907,6 @@
                 "name": "バーサーカーモニュメント",
                 "type": "Item",
                 "dropPriority": 5294
-            },
-            {
-                "id": 7007,
-                "name": "バーサーカーピース",
-                "type": "Item",
-                "dropPriority": 5194
             }
         ],
         "dropItemNum": -1,
@@ -16922,6 +16922,12 @@
         "qp": 45565,
         "drop": [
             {
+                "id": 6563,
+                "name": "遺霊箱",
+                "type": "Item",
+                "dropPriority": 8514
+            },
+            {
                 "id": 6544,
                 "name": "煌星のカケラ",
                 "type": "Item",
@@ -17022,12 +17028,6 @@
                 "name": "バーサーカーモニュメント",
                 "type": "Item",
                 "dropPriority": 5294
-            },
-            {
-                "id": 7007,
-                "name": "バーサーカーピース",
-                "type": "Item",
-                "dropPriority": 5194
             }
         ],
         "dropItemNum": -1,
@@ -17043,6 +17043,12 @@
         "qp": 48754,
         "drop": [
             {
+                "id": 6563,
+                "name": "遺霊箱",
+                "type": "Item",
+                "dropPriority": 8514
+            },
+            {
                 "id": 6544,
                 "name": "煌星のカケラ",
                 "type": "Item",
@@ -17143,12 +17149,6 @@
                 "name": "バーサーカーモニュメント",
                 "type": "Item",
                 "dropPriority": 5294
-            },
-            {
-                "id": 7007,
-                "name": "バーサーカーピース",
-                "type": "Item",
-                "dropPriority": 5194
             }
         ],
         "dropItemNum": -1,
@@ -17273,7 +17273,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127940,
+        "scPriority": 128010,
         "scName": "冠位研鑽戦〔ランサー〕 Ⅰ"
     },
     {
@@ -17394,7 +17394,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127950,
+        "scPriority": 128020,
         "scName": "冠位研鑽戦〔ランサー〕 Ⅱ"
     },
     {
@@ -17515,7 +17515,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127960,
+        "scPriority": 128030,
         "scName": "冠位研鑽戦〔ランサー〕 Ⅲ"
     },
     {
@@ -17636,7 +17636,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127970,
+        "scPriority": 128040,
         "scName": "冠位研鑽戦〔ランサー〕 Ⅳ"
     },
     {
@@ -17757,7 +17757,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127980,
+        "scPriority": 128050,
         "scName": "冠位研鑽戦〔ランサー〕 Ⅴ"
     },
     {
@@ -17878,7 +17878,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 127990,
+        "scPriority": 128060,
         "scName": "冠位研鑽戦〔ランサー〕 Ⅵ"
     },
     {
@@ -17999,7 +17999,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128000,
+        "scPriority": 128070,
         "scName": "冠位研鑽戦〔ランサー〕 Ⅶ"
     }
 ]
