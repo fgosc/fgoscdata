@@ -4515,7 +4515,8 @@
         "phash": "7710ecb64b49b67a",
         "name": "星冠の結晶〔エクストラⅠ〕",
         "shortname": "EX1結晶",
-        "dropPriority": 8007
+        "dropPriority": 8007,
+        "phash_battle": "324ea4c3975a0cb6"
     },
     {
         "id": 63,
@@ -4525,7 +4526,8 @@
         "phash": "73126c964b4993fa",
         "name": "星冠の結晶〔エクストラⅡ〕",
         "shortname": "EX2結晶",
-        "dropPriority": 8008
+        "dropPriority": 8008,
+        "phash_battle": "b24cb6e9d3790cb6"
     },
     {
         "id": 70,
