@@ -58,5 +58,65 @@
         ],
         "dropItemNum": -1,
         "shortname": "【夢のリゾート巡り】マハトマ☆体験"
+    },
+    {
+        "id": 94147302,
+        "name": "【夢のリゾート巡り】絶対安心ジャングルガイド",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9408790,
+                "name": "百の輝き",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94147206,
+                "name": "夏の夢の宝箱〔金〕",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94147205,
+                "name": "夏の夢の宝箱〔銀〕",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94147203,
+                "name": "ウルトラ浮き輪",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94147202,
+                "name": "ハイパー虫取り網",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【夢のリゾート巡り】絶対安心ジャングルガイド"
     }
 ]
