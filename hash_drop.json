@@ -1522,6 +1522,26 @@
         "dropPriority": 9005
     },
     {
+        "id": 9408780,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "眠れる森の戦士",
+        "shortname": "特攻礼装",
+        "phash": "3878fcf5c6e60544",
+        "phash_narrow": "18783df4e2d1cc00",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9408790,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "百の輝き",
+        "shortname": "泥礼装",
+        "phash": "924fa58563338dbc",
+        "phash_narrow": "9b6c84cc63a1f352",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -3847,6 +3867,16 @@
         ],
         "dropPriority": 5194,
         "phash_battle": "1c892382d192a443"
+    },
+    {
+        "id": 94147207,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "de294dc0a15f1904",
+        "name": "プレジデントポイント",
+        "shortname": "ポイント",
+        "dropPriority": 3007
     },
     {
         "id": 94144705,
@@ -6658,6 +6688,35 @@
         "dropPriority": 9001
     },
     {
+        "id": 94147203,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "e30bf4a90e500ff4",
+        "name": "ウルトラ浮き輪",
+        "shortname": "浮き輪",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94147206,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "1609a11420525967",
+        "name": "夏の夢の宝箱〔金〕",
+        "shortname": "夢箱金",
+        "dropPriority": 2006
+    },
+    {
+        "id": 94147208,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "e7881b273468e1df",
+        "name": "エンプーサ・グラス",
+        "dropPriority": 2008
+    },
+    {
         "id": 94148801,
         "type": "Item",
         "background": "gold",
@@ -8195,6 +8254,26 @@
         "phash_battle": "96d33ba49738052c"
     },
     {
+        "id": 94147202,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "cf9873ccdc31669c",
+        "name": "ハイパー虫取り網",
+        "shortname": "虫取り網",
+        "dropPriority": 2002
+    },
+    {
+        "id": 94147205,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5628a9dc28f25b67",
+        "name": "夏の夢の宝箱〔銀〕",
+        "shortname": "夢箱銀",
+        "dropPriority": 2005
+    },
+    {
         "id": 4,
         "type": "Item",
         "background": "silver",
@@ -9225,6 +9304,26 @@
         "shortname": "グライダー",
         "dropPriority": 2001,
         "phash_battle": "cc3966c918668758"
+    },
+    {
+        "id": 94147201,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "56112d0108594504",
+        "name": "スーパー麦わら帽",
+        "shortname": "麦わら帽",
+        "dropPriority": 2001
+    },
+    {
+        "id": 94147204,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "5629a99520325a43",
+        "name": "夏の夢の宝箱〔銅〕",
+        "shortname": "夢箱銅",
+        "dropPriority": 2004
     },
     {
         "id": 1,
