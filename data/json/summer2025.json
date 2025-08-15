@@ -250,5 +250,71 @@
         ],
         "dropItemNum": -1,
         "shortname": "【夢のリゾート巡り】北軍の得物事情"
+    },
+    {
+        "id": 94147305,
+        "name": "【夢のリゾート巡り】南軍ロマンス劇場",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9408780,
+                "name": "眠れる森の戦士",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94147206,
+                "name": "夏の夢の宝箱〔金〕",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94147205,
+                "name": "夏の夢の宝箱〔銀〕",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94147203,
+                "name": "ウルトラ浮き輪",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94147202,
+                "name": "ハイパー虫取り網",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【夢のリゾート巡り】南軍ロマンス劇場"
     }
 ]
