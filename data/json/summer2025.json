@@ -316,5 +316,71 @@
         ],
         "dropItemNum": -1,
         "shortname": "【夢のリゾート巡り】南軍ロマンス劇場"
+    },
+    {
+        "id": 94147306,
+        "name": "【夢のリゾート巡り】わくわく様は視た",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9408790,
+                "name": "百の輝き",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94147206,
+                "name": "夏の夢の宝箱〔金〕",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94147204,
+                "name": "夏の夢の宝箱〔銅〕",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94147203,
+                "name": "ウルトラ浮き輪",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94147201,
+                "name": "スーパー麦わら帽",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【夢のリゾート巡り】わくわく様は視た"
     }
 ]
