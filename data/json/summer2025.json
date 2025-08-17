@@ -382,5 +382,77 @@
         ],
         "dropItemNum": -1,
         "shortname": "【夢のリゾート巡り】わくわく様は視た"
+    },
+    {
+        "id": 94147307,
+        "name": "【夢のリゾート巡り】オバケなんて嘘じゃ",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9408780,
+                "name": "眠れる森の戦士",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6552,
+                "name": "忘れじの灰",
+                "type": "Item",
+                "dropPriority": 8108
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94147205,
+                "name": "夏の夢の宝箱〔銀〕",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94147204,
+                "name": "夏の夢の宝箱〔銅〕",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94147202,
+                "name": "ハイパー虫取り網",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94147201,
+                "name": "スーパー麦わら帽",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【夢のリゾート巡り】オバケなんて嘘じゃ"
     }
 ]
