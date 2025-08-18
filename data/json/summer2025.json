@@ -454,5 +454,77 @@
         ],
         "dropItemNum": -1,
         "shortname": "【夢のリゾート巡り】オバケなんて嘘じゃ"
+    },
+    {
+        "id": 94147308,
+        "name": "【夢のリゾート巡り】ぎゃてぇブライダル",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8900,
+        "drop": [
+            {
+                "id": 9408790,
+                "name": "百の輝き",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6517,
+                "name": "蛮神の心臓",
+                "type": "Item",
+                "dropPriority": 8500
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94147206,
+                "name": "夏の夢の宝箱〔金〕",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94147205,
+                "name": "夏の夢の宝箱〔銀〕",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94147203,
+                "name": "ウルトラ浮き輪",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94147202,
+                "name": "ハイパー虫取り網",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【夢のリゾート巡り】ぎゃてぇブライダル"
     }
 ]
