@@ -526,5 +526,77 @@
         ],
         "dropItemNum": -1,
         "shortname": "【夢のリゾート巡り】ぎゃてぇブライダル"
+    },
+    {
+        "id": 94147309,
+        "name": "【夢のリゾート巡り】癒しのライフセーバー",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9408780,
+                "name": "眠れる森の戦士",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6556,
+                "name": "エーテル収光体",
+                "type": "Item",
+                "dropPriority": 8321
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94147206,
+                "name": "夏の夢の宝箱〔金〕",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94147204,
+                "name": "夏の夢の宝箱〔銅〕",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94147203,
+                "name": "ウルトラ浮き輪",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94147201,
+                "name": "スーパー麦わら帽",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【夢のリゾート巡り】癒しのライフセーバー"
     }
 ]
