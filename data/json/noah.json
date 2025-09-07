@@ -1,0 +1,392 @@
+[
+    {
+        "id": 94148302,
+        "name": "ノアズ・アーク対艦戦 100門艦級",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 6562,
+                "name": "天命の聖水",
+                "type": "Item",
+                "dropPriority": 8513
+            },
+            {
+                "id": 6560,
+                "name": "月光核",
+                "type": "Item",
+                "dropPriority": 8511
+            },
+            {
+                "id": 6558,
+                "name": "黄金釜",
+                "type": "Item",
+                "dropPriority": 8510
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6555,
+                "name": "狂気の残滓",
+                "type": "Item",
+                "dropPriority": 8110
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 9700100,
+                "name": "全種火",
+                "type": "Exp. UP",
+                "dropPriority": 699
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ノアズ・アーク対艦戦 100門艦級"
+    },
+    {
+        "id": 94148303,
+        "name": "ノアズ・アーク対艦戦 200門艦級",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 6562,
+                "name": "天命の聖水",
+                "type": "Item",
+                "dropPriority": 8513
+            },
+            {
+                "id": 6560,
+                "name": "月光核",
+                "type": "Item",
+                "dropPriority": 8511
+            },
+            {
+                "id": 6558,
+                "name": "黄金釜",
+                "type": "Item",
+                "dropPriority": 8510
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6555,
+                "name": "狂気の残滓",
+                "type": "Item",
+                "dropPriority": 8110
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 9700100,
+                "name": "全種火",
+                "type": "Exp. UP",
+                "dropPriority": 699
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ノアズ・アーク対艦戦 200門艦級"
+    },
+    {
+        "id": 94148304,
+        "name": "ノアズ・アーク対艦戦 300門艦級",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 6562,
+                "name": "天命の聖水",
+                "type": "Item",
+                "dropPriority": 8513
+            },
+            {
+                "id": 6560,
+                "name": "月光核",
+                "type": "Item",
+                "dropPriority": 8511
+            },
+            {
+                "id": 6558,
+                "name": "黄金釜",
+                "type": "Item",
+                "dropPriority": 8510
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6555,
+                "name": "狂気の残滓",
+                "type": "Item",
+                "dropPriority": 8110
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 9700100,
+                "name": "全種火",
+                "type": "Exp. UP",
+                "dropPriority": 699
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ノアズ・アーク対艦戦 300門艦級"
+    },
+    {
+        "id": 94148305,
+        "name": "ノアズ・アーク対艦戦 500門艦級",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 6562,
+                "name": "天命の聖水",
+                "type": "Item",
+                "dropPriority": 8513
+            },
+            {
+                "id": 6560,
+                "name": "月光核",
+                "type": "Item",
+                "dropPriority": 8511
+            },
+            {
+                "id": 6558,
+                "name": "黄金釜",
+                "type": "Item",
+                "dropPriority": 8510
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6555,
+                "name": "狂気の残滓",
+                "type": "Item",
+                "dropPriority": 8110
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 9700100,
+                "name": "全種火",
+                "type": "Exp. UP",
+                "dropPriority": 699
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ノアズ・アーク対艦戦 500門艦級"
+    },
+    {
+        "id": 94148306,
+        "name": "ノアズ・アーク対艦戦 1000門艦級",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 16243,
+        "drop": [
+            {
+                "id": 6562,
+                "name": "天命の聖水",
+                "type": "Item",
+                "dropPriority": 8513
+            },
+            {
+                "id": 6560,
+                "name": "月光核",
+                "type": "Item",
+                "dropPriority": 8511
+            },
+            {
+                "id": 6558,
+                "name": "黄金釜",
+                "type": "Item",
+                "dropPriority": 8510
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6555,
+                "name": "狂気の残滓",
+                "type": "Item",
+                "dropPriority": 8110
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 9700100,
+                "name": "全種火",
+                "type": "Exp. UP",
+                "dropPriority": 699
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ノアズ・アーク対艦戦 1000門艦級"
+    }
+]
