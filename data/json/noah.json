@@ -68,10 +68,10 @@
                 "dropPriority": 6096
             },
             {
-                "id": 9700100,
-                "name": "全種火",
+                "id": 9700500,
+                "name": "全業火",
                 "type": "Exp. UP",
-                "dropPriority": 699
+                "dropPriority": 695
             }
         ],
         "dropItemNum": -1,
@@ -146,10 +146,10 @@
                 "dropPriority": 6096
             },
             {
-                "id": 9700100,
-                "name": "全種火",
+                "id": 9700500,
+                "name": "全業火",
                 "type": "Exp. UP",
-                "dropPriority": 699
+                "dropPriority": 695
             }
         ],
         "dropItemNum": -1,
@@ -224,10 +224,10 @@
                 "dropPriority": 6096
             },
             {
-                "id": 9700100,
-                "name": "全種火",
+                "id": 9700500,
+                "name": "全業火",
                 "type": "Exp. UP",
-                "dropPriority": 699
+                "dropPriority": 695
             }
         ],
         "dropItemNum": -1,
@@ -302,10 +302,10 @@
                 "dropPriority": 6096
             },
             {
-                "id": 9700100,
-                "name": "全種火",
+                "id": 9700500,
+                "name": "全業火",
                 "type": "Exp. UP",
-                "dropPriority": 699
+                "dropPriority": 695
             }
         ],
         "dropItemNum": -1,
@@ -380,10 +380,10 @@
                 "dropPriority": 6096
             },
             {
-                "id": 9700100,
-                "name": "全種火",
+                "id": 9700500,
+                "name": "全業火",
                 "type": "Exp. UP",
-                "dropPriority": 699
+                "dropPriority": 695
             }
         ],
         "dropItemNum": -1,
