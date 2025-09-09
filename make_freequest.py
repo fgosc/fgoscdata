@@ -18,7 +18,8 @@ freequest_file = Path(__file__).resolve().parent / Path("freequest.csv")
 freequest_json_file = Path(__file__).resolve().parent \
                       / "data/json" / Path("freequest.json")
 drop_file = Path(__file__).resolve().parent / Path("hash_drop.json")
-url_quest = "https://api.atlasacademy.io/nice/JP/quest/"
+url = "https://api.atlasacademy.io/export/JP/nice_war.json"
+
 
 with open(drop_file, encoding='UTF-8') as f:
     drop_item = json.load(f)
@@ -85,14 +86,39 @@ class FgoFreeQuest(FgoQuest):
     scPriority: int
     scName: str
 
-def questId2quest(questId):
-    endpoint = f"{url_quest}{questId}/1"
-    logger.info("calling HTTP API: %s", endpoint)
-    r_get = requests.get(endpoint)
-    if r_get.status_code != 200:
-        raise APIError(f"status code: {r_get.status_code}, text: {r_get.text}")
-    quest = r_get.json()
-    return quest
+
+def fetch_free_quests(url: str) -> dict:
+    """
+    指定されたURLからJSONを取得し、"type"が"free"のクエストを抽出。
+    結果を {id: {"name": ..., "recommendLv": ...}} の形式で返す。
+    """
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        data = response.json()
+
+        result = {}
+
+        for entry in data:  # 辞書A
+            spots = entry.get("spots", [])
+            for spot in spots:  # 辞書B
+                if isinstance(spot, dict):
+                    quests = spot.get("quests", [])
+                    for quest in quests:  # 辞書D
+                        if isinstance(quest, dict):
+                            quest_id = quest.get("id")
+                            if quest_id is not None:
+                                result[quest_id] = {
+                                    "name": quest.get("name"),
+                                    "recommendLv": quest.get("recommendLv")
+                                }
+
+        return result
+
+    except requests.exceptions.RequestException as e:
+        raise RuntimeError(f"HTTPエラー: {e}")
+    except ValueError as e:
+        raise RuntimeError(f"JSON解析エラー: {e}")
 
 
 def main(args):
@@ -101,6 +127,7 @@ def main(args):
         reader = csv.DictReader(f)
         tmps = [row for row in reader]
 
+    free_quests = fetch_free_quests(url)
     quest_output = []
     for tmp in tqdm(tmps):
         # ドロップを作成
@@ -120,7 +147,8 @@ def main(args):
 
         drop = sorted(drop, key=lambda x: x.dropPriority, reverse=True)
         questId = int(tmp["id"])
-        quest = questId2quest(questId)
+        
+        quest = free_quests[questId]
         if quest["recommendLv"] == "90++":
             qp = int((90*100+400)*20*1.2*1.2) #  270,720
         elif quest["recommendLv"] == "90+":
