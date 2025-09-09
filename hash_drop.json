@@ -4545,7 +4545,8 @@
         "phash": "6792b92e66cd8d7b",
         "name": "星冠の結晶〔ライダー〕",
         "shortname": "騎結晶",
-        "dropPriority": 8003
+        "dropPriority": 8003,
+        "phash_battle": "669a2466c5720699"
     },
     {
         "id": 61,
