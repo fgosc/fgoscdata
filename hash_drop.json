@@ -1212,6 +1212,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "プレジデント・オーシャン",
+        "name_eng": "President Ocean",
         "phash": "10e585e69c176598",
         "phash_narrow": "9131a7ea1b471c66",
         "dropPriority": 9005
@@ -1221,6 +1222,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ほしの歩き方",
+        "name_eng": "How To Travel the Stars",
         "shortname": "特攻礼装",
         "phash": "bd2dc7f17e8ae1ff",
         "phash_narrow": "3d0fc17c1ea15fc8",
@@ -1539,6 +1541,15 @@
         "shortname": "泥礼装",
         "phash": "924fa58563338dbc",
         "phash_narrow": "9b6c84cc63a1f352",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9408800,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "異星の神",
+        "phash": "f873de0ea09a6ce7",
+        "phash_narrow": "f9f35d219058e36a",
         "dropPriority": 9005
     },
     {
@@ -4527,6 +4538,16 @@
         "phash_battle": "ca66689e1d628d9c"
     },
     {
+        "id": 58,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "6792b92e66cd8d7b",
+        "name": "星冠の結晶〔ライダー〕",
+        "shortname": "騎結晶",
+        "dropPriority": 8003
+    },
+    {
         "id": 61,
         "type": "Item",
         "background": "gold",
@@ -4575,6 +4596,7 @@
         "rarity": 3,
         "phash": "76290bdcc7b4432c",
         "name": "Ｕピース〔火〕",
+        "name_eng": "U Piece (Fire)",
         "dropPriority": 2000
     },
     {
@@ -6197,6 +6219,7 @@
         "rarity": 3,
         "phash": "3cf30b31a44631c8",
         "name": "ダッココアラ",
+        "name_eng": "Koala Hugger",
         "shortname": "コアラ",
         "dropPriority": 2003,
         "phash_battle": "b40319a619a539e0"
@@ -6725,6 +6748,15 @@
         "rarity": 3,
         "phash": "fe0223ec0613f8d8",
         "name": "OVER THE SAME SKY 英霊星行チケット〔JULY〕",
+        "dropPriority": 9001
+    },
+    {
+        "id": 94149201,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "fe0223ec0613f8d8",
+        "name": "OVER THE SAME SKY 英霊星行チケット〔AUGUST〕",
         "dropPriority": 9001
     },
     {
@@ -7998,6 +8030,7 @@
         "rarity": 2,
         "phash": "fc0e83f119f98c26",
         "name": "カンガルーブーメラン",
+        "name_eng": "Kangaroo Boomerang",
         "shortname": "ブーメラン",
         "dropPriority": 2002,
         "phash_battle": "7c0643b9a926321a"
@@ -9118,6 +9151,7 @@
         "rarity": 1,
         "phash": "56c30b2979411116",
         "name": "カモノハシクッキー",
+        "name_eng": "Platypus Cookie",
         "shortname": "カモノハシ",
         "dropPriority": 2001,
         "phash_battle": "568ba979311b2196"
