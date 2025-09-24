@@ -112,5 +112,137 @@
         ],
         "dropItemNum": -1,
         "shortname": "神剣改め よく焦がす薙刀"
+    },
+    {
+        "id": 94149403,
+        "name": "神剣改め これはキミの剣",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9408880,
+                "name": "デュアル・バーニング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809580,
+                "name": "概念礼装EXPカード：死に損ねの赤狼",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94149303,
+                "name": "てかてかばらずし",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94149302,
+                "name": "あつあつ湯豆腐",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "神剣改め これはキミの剣"
+    },
+    {
+        "id": 94149404,
+        "name": "神剣改め 血を啜る大斧",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 9408880,
+                "name": "デュアル・バーニング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809570,
+                "name": "概念礼装EXPカード：もぐもぐ彦斎",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9809580,
+                "name": "概念礼装EXPカード：死に損ねの赤狼",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94149303,
+                "name": "てかてかばらずし",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94149301,
+                "name": "なまなま八ツ橋",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "神剣改め 血を啜る大斧"
     }
 ]
