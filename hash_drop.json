@@ -6735,7 +6735,8 @@
     "phash": "764c890385586b36",
     "name": "てかてかばらずし",
     "shortname": "ばらずし",
-    "dropPriority": 2003
+    "dropPriority": 2003,
+    "phash_battle": "766d03c1d8629471"
   },
   {
     "id": 94149304,
@@ -8314,7 +8315,8 @@
     "phash": "f6692796c90c59d3",
     "name": "あつあつ湯豆腐",
     "shortname": "湯豆腐",
-    "dropPriority": 2002
+    "dropPriority": 2002,
+    "phash_battle": "f02d168169db51d1"
   },
   {
     "id": 4,
@@ -9379,7 +9381,8 @@
     "phash": "f6210dc2617c9324",
     "name": "なまなま八ツ橋",
     "shortname": "八ツ橋",
-    "dropPriority": 2001
+    "dropPriority": 2001,
+    "phash_battle": "f2bd0760de280ea0"
   },
   {
     "id": 1,
