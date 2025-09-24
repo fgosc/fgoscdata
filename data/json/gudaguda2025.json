@@ -58,5 +58,59 @@
         ],
         "dropItemNum": -1,
         "shortname": "神剣改め 心臓を穿つ槍"
+    },
+    {
+        "id": 94149402,
+        "name": "神剣改め よく焦がす薙刀",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9408880,
+                "name": "デュアル・バーニング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809580,
+                "name": "概念礼装EXPカード：死に損ねの赤狼",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            },
+            {
+                "id": 94149302,
+                "name": "あつあつ湯豆腐",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94149301,
+                "name": "なまなま八ツ橋",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "神剣改め よく焦がす薙刀"
     }
 ]
