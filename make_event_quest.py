@@ -10,7 +10,9 @@ import unicodedata
 from tqdm import tqdm
 from make_freequest import id2name, id2type, id2dropPriority, alias2id
 # from make_freequest import questId2dropItemNum
-from make_freequest import DropItem, FgoQuest, questId2quest
+from make_freequest import DropItem, FgoQuest, fetch_free_quests
+
+url = "https://api.atlasacademy.io/export/JP/nice_war.json"
 
 logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
 logger = logging.getLogger(__name__)
@@ -42,6 +44,7 @@ def is_utf8_file_with_bom(filename):
 
 
 def list2dic(quest_list):
+    free_quests = fetch_free_quests(url)
     quest_output = []
     for quest in quest_list:
         # ドロップを作成
@@ -61,7 +64,7 @@ def list2dic(quest_list):
 
         drop = sorted(drop, key=lambda x: x.dropPriority, reverse=True)
         questId = int(quest["id"])
-        q = questId2quest(questId)
+        q = free_quests[questId]
         if q["recommendLv"] == "90++":
             qp = 13536
         elif q["recommendLv"] == "90+++":
