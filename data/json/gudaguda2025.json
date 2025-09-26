@@ -244,5 +244,77 @@
         ],
         "dropItemNum": -1,
         "shortname": "神剣改め 血を啜る大斧"
+    },
+    {
+        "id": 94149405,
+        "name": "神剣改め 介錯人の大段平",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9408880,
+                "name": "デュアル・バーニング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809570,
+                "name": "概念礼装EXPカード：もぐもぐ彦斎",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9809580,
+                "name": "概念礼装EXPカード：死に損ねの赤狼",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94149303,
+                "name": "てかてかばらずし",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94149302,
+                "name": "あつあつ湯豆腐",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94149301,
+                "name": "なまなま八ツ橋",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "神剣改め 介錯人の大段平"
     }
 ]
