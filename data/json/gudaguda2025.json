@@ -316,5 +316,77 @@
         ],
         "dropItemNum": -1,
         "shortname": "神剣改め 介錯人の大段平"
+    },
+    {
+        "id": 94149406,
+        "name": "神剣改め 修行中の黄金剣",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9408880,
+                "name": "デュアル・バーニング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809570,
+                "name": "概念礼装EXPカード：もぐもぐ彦斎",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9809580,
+                "name": "概念礼装EXPカード：死に損ねの赤狼",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6546,
+                "name": "悠久の実",
+                "type": "Item",
+                "dropPriority": 8407
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94149302,
+                "name": "あつあつ湯豆腐",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94149301,
+                "name": "なまなま八ツ橋",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "神剣改め 修行中の黄金剣"
     }
 ]
