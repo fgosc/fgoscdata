@@ -388,5 +388,71 @@
         ],
         "dropItemNum": -1,
         "shortname": "神剣改め 修行中の黄金剣"
+    },
+    {
+        "id": 94149407,
+        "name": "神剣改め 戦士のナイフ",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9408880,
+                "name": "デュアル・バーニング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809570,
+                "name": "概念礼装EXPカード：もぐもぐ彦斎",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 9809580,
+                "name": "概念礼装EXPカード：死に損ねの赤狼",
+                "type": "Craft Essence",
+                "dropPriority": 9003
+            },
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6511,
+                "name": "禁断の頁",
+                "type": "Item",
+                "dropPriority": 8303
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94149303,
+                "name": "てかてかばらずし",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94149302,
+                "name": "あつあつ湯豆腐",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "神剣改め 戦士のナイフ"
     }
 ]
