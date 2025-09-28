@@ -454,5 +454,77 @@
         ],
         "dropItemNum": -1,
         "shortname": "神剣改め 戦士のナイフ"
+    },
+    {
+        "id": 94149408,
+        "name": "神剣改め 風踊る魔槍",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9408880,
+                "name": "デュアル・バーニング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809570,
+                "name": "概念礼装EXPカード：もぐもぐ彦斎",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6531,
+                "name": "奇奇神酒",
+                "type": "Item",
+                "dropPriority": 8505
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94149303,
+                "name": "てかてかばらずし",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94149301,
+                "name": "なまなま八ツ橋",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "神剣改め 風踊る魔槍"
     }
 ]
