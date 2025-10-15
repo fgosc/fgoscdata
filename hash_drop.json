@@ -4589,7 +4589,8 @@
         "phash": "6710b08e4e91916a",
         "name": "星冠の結晶〔アサシン〕",
         "shortname": "殺結晶",
-        "dropPriority": 8005
+        "dropPriority": 8005,
+        "phash_battle": "6632a48e9162a69c"
     },
     {
         "id": 61,
