@@ -52,5 +52,59 @@
         ],
         "dropItemNum": -1,
         "shortname": "カ星ツアー 宇宙海賊にご用心！"
+    },
+    {
+        "id": 94150102,
+        "name": "カ星ツアー 賞金稼ぎに狙われて！",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9408960,
+                "name": "遠い星の私へ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            },
+            {
+                "id": 94150004,
+                "name": "ディーバポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94150003,
+                "name": "パンクロックドラゴン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94150002,
+                "name": "ヘルＴシャツ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "カ星ツアー 賞金稼ぎに狙われて！"
     }
 ]
