@@ -106,5 +106,59 @@
         ],
         "dropItemNum": -1,
         "shortname": "カ星ツアー 賞金稼ぎに狙われて！"
+    },
+    {
+        "id": 94150103,
+        "name": "カ星ツアー プレミアム便はデンジャラス！",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9408960,
+                "name": "遠い星の私へ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94150004,
+                "name": "ディーバポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94150003,
+                "name": "パンクロックドラゴン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94150001,
+                "name": "デスピック",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "カ星ツアー プレミアム便はデンジャラス！"
     }
 ]
