@@ -3930,7 +3930,8 @@
         "phash": "5e6239ac87d8492d",
         "name": "ディーバポイント",
         "shortname": "ポイント",
-        "dropPriority": 3004
+        "dropPriority": 3004,
+        "phash_battle": "5633ad86490dd829"
     },
     {
         "id": 94147207,
@@ -6863,7 +6864,8 @@
         "phash": "7619ac61adc6c3b9",
         "name": "パンクロックドラゴン",
         "shortname": "ドラゴン",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "5e0da107c233c699"
     },
     {
         "id": 94150005,
@@ -8445,7 +8447,8 @@
         "phash": "560ea5f149303902",
         "name": "ヘルＴシャツ",
         "shortname": "Ｔシャツ",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "5e8ec14131832923"
     },
     {
         "id": 4,
@@ -9522,7 +9525,8 @@
         "phash": "9c83c36c23333033",
         "name": "デスピック",
         "shortname": "ピック",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "9ec3ec2332323033"
     },
     {
         "id": 1,
