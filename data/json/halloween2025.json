@@ -1,0 +1,56 @@
+[
+    {
+        "id": 94150101,
+        "name": "カ星ツアー 宇宙海賊にご用心！",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 9408960,
+                "name": "遠い星の私へ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94150004,
+                "name": "ディーバポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94150002,
+                "name": "ヘルＴシャツ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94150001,
+                "name": "デスピック",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "カ星ツアー 宇宙海賊にご用心！"
+    }
+]
