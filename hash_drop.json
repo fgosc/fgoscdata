@@ -1564,6 +1564,16 @@
         "dropPriority": 9005
     },
     {
+        "id": 9408960,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "遠い星の私へ",
+        "shortname": "礼装",
+        "phash": "9870a70e20d759e6",
+        "phash_narrow": "19f09f0ebf11c28d",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -3911,6 +3921,16 @@
         ],
         "dropPriority": 5194,
         "phash_battle": "1c892382d192a443"
+    },
+    {
+        "id": 94150004,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5e6239ac87d8492d",
+        "name": "ディーバポイント",
+        "shortname": "ポイント",
+        "dropPriority": 3004
     },
     {
         "id": 94147207,
@@ -6836,6 +6856,25 @@
         "dropPriority": 9001
     },
     {
+        "id": 94150003,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7619ac61adc6c3b9",
+        "name": "パンクロックドラゴン",
+        "shortname": "ドラゴン",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94150005,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7b00b25a56d6a6af",
+        "name": "終焉のカチューシャ",
+        "dropPriority": 2005
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -8399,6 +8438,16 @@
         "phash_battle": "f02d168169db51d1"
     },
     {
+        "id": 94150002,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "560ea5f149303902",
+        "name": "ヘルＴシャツ",
+        "shortname": "Ｔシャツ",
+        "dropPriority": 2002
+    },
+    {
         "id": 4,
         "type": "Item",
         "background": "silver",
@@ -9464,6 +9513,16 @@
         "shortname": "八ツ橋",
         "dropPriority": 2001,
         "phash_battle": "f2bd0760de280ea0"
+    },
+    {
+        "id": 94150001,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "9c83c36c23333033",
+        "name": "デスピック",
+        "shortname": "ピック",
+        "dropPriority": 2001
     },
     {
         "id": 1,
