@@ -226,5 +226,65 @@
         ],
         "dropItemNum": -1,
         "shortname": "カ星ツアー 賞金首を捕まえて！"
+    },
+    {
+        "id": 94150105,
+        "name": "カ星ツアー 映画の主題歌ならおまかせ！",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9408960,
+                "name": "遠い星の私へ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6537,
+                "name": "巨人の指輪",
+                "type": "Item",
+                "dropPriority": 8312
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94150004,
+                "name": "ディーバポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94150003,
+                "name": "パンクロックドラゴン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94150002,
+                "name": "ヘルＴシャツ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "カ星ツアー 映画の主題歌ならおまかせ！"
     }
 ]
