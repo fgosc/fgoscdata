@@ -286,5 +286,71 @@
         ],
         "dropItemNum": -1,
         "shortname": "カ星ツアー 映画の主題歌ならおまかせ！"
+    },
+    {
+        "id": 94150106,
+        "name": "カ星ツアー 山の頂にはダイヤモンド！",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9408960,
+                "name": "遠い星の私へ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6556,
+                "name": "エーテル収光体",
+                "type": "Item",
+                "dropPriority": 8321
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94150004,
+                "name": "ディーバポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94150003,
+                "name": "パンクロックドラゴン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94150001,
+                "name": "デスピック",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "カ星ツアー 山の頂にはダイヤモンド！"
     }
 ]
