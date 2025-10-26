@@ -352,5 +352,59 @@
         ],
         "dropItemNum": -1,
         "shortname": "カ星ツアー 山の頂にはダイヤモンド！"
+    },
+    {
+        "id": 94150107,
+        "name": "カ星ツアー 襲来！ インベーダー！",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9408960,
+                "name": "遠い星の私へ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6529,
+                "name": "呪獣胆石",
+                "type": "Item",
+                "dropPriority": 8504
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94030104,
+                "name": "おともだちポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94150004,
+                "name": "ディーバポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "カ星ツアー 襲来！ インベーダー！"
     }
 ]
