@@ -406,5 +406,161 @@
         ],
         "dropItemNum": -1,
         "shortname": "カ星ツアー 襲来！ インベーダー！"
+    },
+    {
+        "id": 94150108,
+        "name": "カ星ツアー お城が魔竜に乗っ取られたわ！？",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9408960,
+                "name": "遠い星の私へ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6525,
+                "name": "智慧のスカラベ",
+                "type": "Item",
+                "dropPriority": 8503
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94150004,
+                "name": "ディーバポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94150003,
+                "name": "パンクロックドラゴン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94150002,
+                "name": "ヘルＴシャツ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94150001,
+                "name": "デスピック",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "カ星ツアー お城が魔竜に乗っ取られたわ！？"
+    },
+    {
+        "id": 94150109,
+        "name": "カ星ツアー 対決！ 宇宙的アーティスト！",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9408960,
+                "name": "遠い星の私へ",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6561,
+                "name": "神彩のレンズ",
+                "type": "Item",
+                "dropPriority": 8324
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94150004,
+                "name": "ディーバポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94150003,
+                "name": "パンクロックドラゴン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94150002,
+                "name": "ヘルＴシャツ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94150001,
+                "name": "デスピック",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "カ星ツアー 対決！ 宇宙的アーティスト！"
     }
 ]
