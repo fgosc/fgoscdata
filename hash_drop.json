@@ -1996,6 +1996,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "空白の男",
+        "name_eng": "The Blank Man",
         "phash": "a525c633c97b0de4",
         "phash_narrow": "a5a416bd7b9bc45a",
         "dropPriority": 9004
@@ -2005,6 +2006,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "天性の捕食者",
+        "name_eng": "Natural Predator",
         "phash": "7932ec6e01b2fc44",
         "phash_narrow": "5a93ee0d13ba61a3",
         "dropPriority": 9004
@@ -2014,6 +2016,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "霧の情景",
+        "name_eng": "Misty Scene",
         "phash": "5156c57c9bb93eb3",
         "phash_narrow": "51d6ecdce975977d",
         "dropPriority": 9004
@@ -4581,6 +4584,16 @@
         "phash_battle": "721ae4da8542879d"
     },
     {
+        "id": 56,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d312669e0ed1b34e",
+        "name": "星冠の結晶〔アーチャー〕",
+        "shortname": "弓結晶",
+        "dropPriority": 8001
+    },
+    {
         "id": 57,
         "type": "Item",
         "background": "gold",
@@ -6875,6 +6888,15 @@
         "phash": "7b00b25a56d6a6af",
         "name": "終焉のカチューシャ",
         "dropPriority": 2005
+    },
+    {
+        "id": 94150701,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "fe0223ec0613f8d8",
+        "name": "OVER THE SAME SKY 英霊星行チケット〔OCTOBER〕",
+        "dropPriority": 9001
     },
     {
         "id": 3,
