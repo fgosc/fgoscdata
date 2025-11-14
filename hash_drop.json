@@ -4591,7 +4591,8 @@
         "phash": "d312669e0ed1b34e",
         "name": "星冠の結晶〔アーチャー〕",
         "shortname": "弓結晶",
-        "dropPriority": 8001
+        "dropPriority": 8001,
+        "phash_battle": "9a66248ef34e93d9"
     },
     {
         "id": 57,
