@@ -1235,6 +1235,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ハウ・トゥ・ライフ",
+        "name_eng": "How to Life",
         "shortname": "礼装",
         "phash": "1e2f4e40556284ba",
         "phash_narrow": "be2f425553642a98",
@@ -1245,6 +1246,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ＮＦＦから愛をこめて",
+        "name_eng": "From NFF with Love",
         "phash": "723f68c49a896416",
         "phash_narrow": "463f64d69950ba41",
         "dropPriority": 9005
@@ -1571,6 +1573,15 @@
         "shortname": "礼装",
         "phash": "9870a70e20d759e6",
         "phash_narrow": "19f09f0ebf11c28d",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9408990,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "カルデアの者",
+        "phash": "9e03fc4aa126c1b6",
+        "phash_narrow": "0ea15c9330a1a1cc",
         "dropPriority": 9005
     },
     {
@@ -2076,15 +2087,6 @@
         "dropPriority": 9004
     },
     {
-        "id": 9408050,
-        "type": "Craft Essence",
-        "rarity": 4,
-        "name": "海を繋ぐ櫻の夢",
-        "phash": "509a96d68274f9fd",
-        "phash_narrow": "619bbe964690f449",
-        "dropPriority": 9004
-    },
-    {
         "id": 9408130,
         "type": "Craft Essence",
         "rarity": 4,
@@ -2329,6 +2331,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：ナイス甲斐",
+        "name_eng": "CE EXP Card: Nice-Gai",
         "shortname": "★4EXP礼装",
         "phash": "92338c0eb9fb0940",
         "phash_narrow": "32f30c04fb891933",
@@ -2629,6 +2632,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "概念礼装EXPカード：雑賀にお任せ",
+        "name_eng": "CE EXP Card: Leave it to Saika",
         "shortname": "★3EXP礼装",
         "phash": "5e17c41281a4a499",
         "phash_narrow": "5a4f545300728a04",
@@ -4059,6 +4063,7 @@
         "rarity": 2,
         "phash": "5e08011c98656110",
         "name": "魔甲斐レージポイント",
+        "name_eng": "Makai Rage Point",
         "shortname": "ポイント",
         "dropPriority": 3004,
         "phash_battle": "5601851865501111"
@@ -4615,6 +4620,16 @@
         "shortname": "騎結晶",
         "dropPriority": 8003,
         "phash_battle": "669a2466c5720699"
+    },
+    {
+        "id": 59,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "6718c6965c97b569",
+        "name": "星冠の結晶〔キャスター〕",
+        "shortname": "術結晶",
+        "dropPriority": 8004
     },
     {
         "id": 60,
@@ -6322,6 +6337,7 @@
         "rarity": 3,
         "phash": "56239506b4e125d9",
         "name": "武田ハンドル",
+        "name_eng": "Takeda Steering Wheel",
         "shortname": "ハンドル",
         "dropPriority": 2003,
         "phash_battle": "6edb06a4e5f03911"
@@ -6333,6 +6349,7 @@
         "rarity": 3,
         "phash": "d60121d0c06d3c81",
         "name": "Ｍ５１チケット",
+        "name_eng": "M51 Ticket",
         "shortname": "チケット",
         "dropPriority": 2005
     },
@@ -6897,6 +6914,25 @@
         "rarity": 3,
         "phash": "fe0223ec0613f8d8",
         "name": "OVER THE SAME SKY 英霊星行チケット〔OCTOBER〕",
+        "dropPriority": 9001
+    },
+    {
+        "id": 94151101,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "f6cec9b93343702c",
+        "name": "魔芒石",
+        "shortname": "魔芒石",
+        "dropPriority": 2001
+    },
+    {
+        "id": 94151601,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "fe0223ec0613f8d8",
+        "name": "OVER THE SAME SKY 英霊星行チケット〔NOVEMBER〕",
         "dropPriority": 9001
     },
     {
@@ -8183,6 +8219,7 @@
         "rarity": 2,
         "phash": "9d43cc6492dc07f0",
         "name": "毘天ステッカー",
+        "name_eng": "Biten Sticker",
         "shortname": "ステッカー",
         "dropPriority": 2002,
         "phash_battle": "1ecb6492cc3396d2"
@@ -9327,6 +9364,7 @@
         "rarity": 1,
         "phash": "9e117162891c420c",
         "name": "今魔川焼",
+        "name_eng": "Imagawayaki",
         "shortname": "今川焼",
         "dropPriority": 2001,
         "phash_battle": "0e716389540c0286"
