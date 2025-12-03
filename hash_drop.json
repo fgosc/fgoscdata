@@ -4629,7 +4629,8 @@
         "phash": "6718c6965c97b569",
         "name": "星冠の結晶〔キャスター〕",
         "shortname": "術結晶",
-        "dropPriority": 8004
+        "dropPriority": 8004,
+        "phash_battle": "625ec6de376893dd"
     },
     {
         "id": 60,
@@ -6924,7 +6925,8 @@
         "phash": "f6cec9b93343702c",
         "name": "魔芒石",
         "shortname": "魔芒石",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "decfb913522c45f0"
     },
     {
         "id": 94151601,
