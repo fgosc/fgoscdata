@@ -1,20 +1,27 @@
 #!/usr/bin/env python3
 # イベントCSVデータをJSONファイルに変換
 import argparse
-import dataclasses
-import logging
-import json
-from pathlib import Path
 import csv
+import dataclasses
+import json
+import logging
 import unicodedata
-from tqdm import tqdm
-from make_freequest import id2name, id2type, id2dropPriority, alias2id
+from pathlib import Path
+
 # from make_freequest import questId2dropItemNum
-from make_freequest import DropItem, FgoQuest, fetch_free_quests
+from make_freequest import (
+    DropItem,
+    FgoQuest,
+    alias2id,
+    fetch_free_quests,
+    id2dropPriority,
+    id2name,
+    id2type,
+)
 
 url = "https://api.atlasacademy.io/export/JP/nice_war.json"
 
-logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
+logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
 logger = logging.getLogger(__name__)
 
 csv_dir = Path(__file__).resolve().parent / Path("data/csv/")
@@ -27,20 +34,18 @@ class FgoEventQuest(FgoQuest):
 
 
 def open_file_with_utf8(filename):
-    '''utf-8 のファイルを BOM ありかどうかを自動判定して読み込む
-    '''
+    """utf-8 のファイルを BOM ありかどうかを自動判定して読み込む"""
     is_with_bom = is_utf8_file_with_bom(filename)
 
-    encoding = 'utf-8-sig' if is_with_bom else 'utf-8'
+    encoding = "utf-8-sig" if is_with_bom else "utf-8"
 
     return open(filename, encoding=encoding)
 
 
 def is_utf8_file_with_bom(filename):
-    '''utf-8 ファイルが BOM ありかどうかを判定する
-    '''
-    line_first = open(filename, encoding='utf-8').readline()
-    return (line_first[0] == '\ufeff')
+    """utf-8 ファイルが BOM ありかどうかを判定する"""
+    line_first = open(filename, encoding="utf-8").readline()
+    return line_first[0] == "\ufeff"
 
 
 def list2dic(quest_list):
@@ -59,8 +64,14 @@ def list2dic(quest_list):
                         logger.error("Error: 変換できません: %s", quest[item])
                         exit(1)
                     name = id2name[alias2id[quest[item]]]
-                    drop.append(DropItem(item_id, name, id2type[item_id],
-                                         id2dropPriority[item_id]))
+                    drop.append(
+                        DropItem(
+                            item_id,
+                            name,
+                            id2type[item_id],
+                            id2dropPriority[item_id],
+                        ),
+                    )
 
         drop = sorted(drop, key=lambda x: x.dropPriority, reverse=True)
         questId = int(quest["id"])
@@ -71,26 +82,35 @@ def list2dic(quest_list):
             qp = 16243
         elif q["recommendLv"] == "90+":
             qp = 11280
+        elif q["recommendLv"] == "120★★★":
+            qp = 558187
         else:
-            qp = int(q["recommendLv"])*100 + 400
+            qp = int(q["recommendLv"]) * 100 + 400
         spotname = q["name"]
-        logger.debug('drop: %s', drop)
+        logger.debug("drop: %s", drop)
         # try:
         #     dropItemNum = questId2dropItemNum[questId]
         # except:
         #     logger.warning("ドロップ枠数が取得できません")
         #     dropItemNum = -1
         dropItemNum = -1
-        event_quest = FgoEventQuest(int(quest["id"]), quest["quest"],
-                                    "", "", "", qp, drop,
-                                    dropItemNum,
-                                    quest["shortname"])
+        event_quest = FgoEventQuest(
+            int(quest["id"]),
+            quest["quest"],
+            "",
+            "",
+            "",
+            qp,
+            drop,
+            dropItemNum,
+            quest["shortname"],
+        )
         if quest["quest"] != spotname:
-            logger.warning("場所名が異なります: %s %s",
-                           quest["quest"], spotname)
-        
+            logger.warning("場所名が異なります: %s %s", quest["quest"], spotname)
+
         quest_output.append(dataclasses.asdict(event_quest))
     return quest_output
+
 
 def main(args):
     file = Path(args.csv)
@@ -105,26 +125,26 @@ def main(args):
     quest_dic = list2dic(quest_list)
 
     outfile = json_dir / (file.stem + ".json")
-    with open(outfile, "w",  encoding='UTF-8') as f:
+    with open(outfile, "w", encoding="UTF-8") as f:
         f.write(json.dumps(quest_dic, ensure_ascii=False, indent=4))
 
 
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        'csv',
-        help='input csv file',
+        "csv",
+        help="input csv file",
     )
     parser.add_argument(
-        '--loglevel',
-        choices=('DEBUG', 'INFO', 'WARNING'),
-        default='WARNING',
-        help='loglevel [default: WARNING]',
+        "--loglevel",
+        choices=("DEBUG", "INFO", "WARNING"),
+        default="WARNING",
+        help="loglevel [default: WARNING]",
     )
     return parser.parse_args()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     args = parse_args()
     logger.setLevel(args.loglevel)
     main(args)
