@@ -74,10 +74,10 @@
                 "dropPriority": 6094
             },
             {
-                "id": 9707500,
-                "name": "狂業火",
+                "id": 9700500,
+                "name": "全業火",
                 "type": "Exp. UP",
-                "dropPriority": 660
+                "dropPriority": 695
             }
         ],
         "dropItemNum": -1,
@@ -158,10 +158,10 @@
                 "dropPriority": 6097
             },
             {
-                "id": 9704500,
-                "name": "騎業火",
+                "id": 9700500,
+                "name": "全業火",
                 "type": "Exp. UP",
-                "dropPriority": 675
+                "dropPriority": 695
             }
         ],
         "dropItemNum": -1,
@@ -242,10 +242,10 @@
                 "dropPriority": 6096
             },
             {
-                "id": 9705500,
-                "name": "術業火",
+                "id": 9700500,
+                "name": "全業火",
                 "type": "Exp. UP",
-                "dropPriority": 670
+                "dropPriority": 695
             }
         ],
         "dropItemNum": -1,
@@ -326,10 +326,10 @@
                 "dropPriority": 6095
             },
             {
-                "id": 9706500,
-                "name": "殺業火",
+                "id": 9700500,
+                "name": "全業火",
                 "type": "Exp. UP",
-                "dropPriority": 665
+                "dropPriority": 695
             }
         ],
         "dropItemNum": -1,
@@ -410,10 +410,10 @@
                 "dropPriority": 6099
             },
             {
-                "id": 9703500,
-                "name": "弓業火",
+                "id": 9700500,
+                "name": "全業火",
                 "type": "Exp. UP",
-                "dropPriority": 680
+                "dropPriority": 695
             }
         ],
         "dropItemNum": -1,
@@ -494,10 +494,10 @@
                 "dropPriority": 6100
             },
             {
-                "id": 9701500,
-                "name": "剣業火",
+                "id": 9700500,
+                "name": "全業火",
                 "type": "Exp. UP",
-                "dropPriority": 690
+                "dropPriority": 695
             }
         ],
         "dropItemNum": -1,
@@ -578,10 +578,10 @@
                 "dropPriority": 6098
             },
             {
-                "id": 9702500,
-                "name": "槍業火",
+                "id": 9700500,
+                "name": "全業火",
                 "type": "Exp. UP",
-                "dropPriority": 685
+                "dropPriority": 695
             }
         ],
         "dropItemNum": -1,
