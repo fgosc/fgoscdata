@@ -1256,6 +1256,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "聖しこの青",
+        "name_eng": "Silent Night, Holy Blue",
         "shortname": "礼装",
         "phash": "01fbfb26fac6e6a9",
         "phash_narrow": "05fb713855e6ae5f",
@@ -4686,6 +4687,17 @@
         "dropPriority": 8009
     },
     {
+        "id": 100,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "de462773d38c8cac",
+        "name": "黄金の果実",
+        "name_eng": "Golden Fruit",
+        "shortname": "金林檎",
+        "dropPriority": 9014
+    },
+    {
         "id": 200,
         "type": "Item",
         "background": "gold",
@@ -4730,6 +4742,107 @@
         "phash": "6603a5799ab3dad6",
         "name": "Ｕメダル",
         "dropPriority": 2004
+    },
+    {
+        "id": 2000,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "8e615b92667196a6",
+        "name": "獣の足跡",
+        "name_eng": "Beast's Footprint",
+        "shortname": "足跡",
+        "dropPriority": 9005
+    },
+    {
+        "id": 2101,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "6f611a921e73a686",
+        "name": "獣の足跡〔セイバー〕",
+        "shortname": "剣足跡",
+        "dropPriority": 9006
+    },
+    {
+        "id": 2102,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "8f6172939e00cda6",
+        "name": "獣の足跡〔アーチャー〕",
+        "shortname": "弓足跡",
+        "dropPriority": 9007
+    },
+    {
+        "id": 2103,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "8f4972f34e9cbc26",
+        "name": "獣の足跡〔ランサー〕",
+        "shortname": "槍足跡",
+        "dropPriority": 9008
+    },
+    {
+        "id": 2104,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "26695b93161cc6e7",
+        "name": "獣の足跡〔ライダー〕",
+        "shortname": "騎足跡",
+        "dropPriority": 9009
+    },
+    {
+        "id": 2105,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "a7635819c672a686",
+        "name": "獣の足跡〔キャスター〕",
+        "shortname": "術足跡",
+        "dropPriority": 9010
+    },
+    {
+        "id": 2106,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "ae415b630696e685",
+        "name": "獣の足跡〔アサシン〕",
+        "shortname": "殺足跡",
+        "dropPriority": 9011
+    },
+    {
+        "id": 2107,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "8e915b630644a496",
+        "name": "獣の足跡〔バーサーカー〕",
+        "shortname": "狂足跡",
+        "dropPriority": 9012
+    },
+    {
+        "id": 2108,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "87695b9216368423",
+        "name": "獣の足跡〔エクストラⅠ〕",
+        "shortname": "EX1足跡",
+        "dropPriority": 9013
+    },
+    {
+        "id": 2109,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "866979d216348c23",
+        "name": "獣の足跡〔エクストラⅡ〕",
+        "shortname": "EX2足跡",
+        "dropPriority": 9014
     },
     {
         "id": 94000303,
@@ -6361,6 +6474,7 @@
         "rarity": 3,
         "phash": "5609fcc217602458",
         "name": "シャークパイ",
+        "name_eng": "Shark Pie",
         "shortname": "パイ",
         "dropPriority": 2003,
         "phash_battle": "4669d2f720580285"
@@ -6372,6 +6486,7 @@
         "rarity": 3,
         "phash": "dc8903b6610c7986",
         "name": "ノーチラスオーナメント",
+        "name_eng": "Nautilus Ornament",
         "dropPriority": 2004
     },
     {
@@ -6381,6 +6496,7 @@
         "rarity": 3,
         "phash": "ec0313bc825b46a3",
         "name": "クリスマスハッピーチケット",
+        "name_eng": "Happy Christmas Ticket",
         "shortname": "くじ",
         "dropPriority": 2005,
         "phash_battle": "e60bb49266c03996"
@@ -6392,6 +6508,7 @@
         "rarity": 3,
         "phash": "568ca9b3c34a3c93",
         "name": "サンタボンバーハット",
+        "name_eng": "Santa Bomber Hat",
         "dropPriority": 2007
     },
     {
@@ -6938,6 +7055,15 @@
         "dropPriority": 9001
     },
     {
+        "id": 94152401,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5602a9ac0653d819",
+        "name": "英霊極点交換チケット",
+        "dropPriority": 9001
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -6957,6 +7083,28 @@
         "name": "星光の砂",
         "name_eng": "Sand of Starlight",
         "dropPriority": 8000
+    },
+    {
+        "id": 101,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "7c608cd8c9367366",
+        "name": "白銀の果実",
+        "name_eng": "Silver Fruit",
+        "shortname": "銀林檎",
+        "dropPriority": 9013
+    },
+    {
+        "id": 104,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "dec825706306d884",
+        "name": "青銅の果実",
+        "name_eng": "Bronzed Cobalt Fruit",
+        "shortname": "青林檎",
+        "dropPriority": 9012
     },
     {
         "id": 94000302,
@@ -8233,6 +8381,7 @@
         "rarity": 2,
         "phash": "97b2294c52b321d9",
         "name": "サンゴケイン",
+        "name_eng": "Coral Cane",
         "shortname": "サンゴ",
         "dropPriority": 2002,
         "phash_battle": "96b96d52b1589962"
@@ -8522,6 +8671,17 @@
         "shortname": "FP",
         "dropPriority": 512,
         "phash_battle": "7c8587214959c460"
+    },
+    {
+        "id": 102,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "5461849959147124",
+        "name": "赤銅の果実",
+        "name_eng": "Bronze Fruit",
+        "shortname": "銅林檎",
+        "dropPriority": 9011
     },
     {
         "id": 94000301,
@@ -9378,6 +9538,7 @@
         "rarity": 1,
         "phash": "d60769d130336889",
         "name": "シェルクラッカー",
+        "name_eng": "Shell Cracker",
         "shortname": "クラッカー",
         "dropPriority": 2001,
         "phash_battle": "d66fc93361208598"
