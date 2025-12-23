@@ -4782,7 +4782,8 @@
         "phash": "8f4972f34e9cbc26",
         "name": "獣の足跡〔ランサー〕",
         "shortname": "槍足跡",
-        "dropPriority": 9008
+        "dropPriority": 9008,
+        "phash_battle": "8d7b72ce9c26e687"
     },
     {
         "id": 2104,
@@ -4822,7 +4823,8 @@
         "phash": "8e915b630644a496",
         "name": "獣の足跡〔バーサーカー〕",
         "shortname": "狂足跡",
-        "dropPriority": 9012
+        "dropPriority": 9012,
+        "phash_battle": "865b6b5606965245"
     },
     {
         "id": 2108,
@@ -8681,7 +8683,8 @@
         "name": "赤銅の果実",
         "name_eng": "Bronze Fruit",
         "shortname": "銅林檎",
-        "dropPriority": 9011
+        "dropPriority": 9011,
+        "phash_battle": "7407989911722424"
     },
     {
         "id": 94000301,
