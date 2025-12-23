@@ -4762,7 +4762,8 @@
         "phash": "6f611a921e73a686",
         "name": "獣の足跡〔セイバー〕",
         "shortname": "剣足跡",
-        "dropPriority": 9006
+        "dropPriority": 9006,
+        "phash_battle": "665b9a7b96274c94"
     },
     {
         "id": 2102,
@@ -4772,7 +4773,8 @@
         "phash": "8f6172939e00cda6",
         "name": "獣の足跡〔アーチャー〕",
         "shortname": "弓足跡",
-        "dropPriority": 9007
+        "dropPriority": 9007,
+        "phash_battle": "8c63729e89c6f609"
     },
     {
         "id": 2103,
@@ -4793,7 +4795,8 @@
         "phash": "26695b93161cc6e7",
         "name": "獣の足跡〔ライダー〕",
         "shortname": "騎足跡",
-        "dropPriority": 9009
+        "dropPriority": 9009,
+        "phash_battle": "a65993368ce7649c"
     },
     {
         "id": 2105,
@@ -4803,7 +4806,8 @@
         "phash": "a7635819c672a686",
         "name": "獣の足跡〔キャスター〕",
         "shortname": "術足跡",
-        "dropPriority": 9010
+        "dropPriority": 9010,
+        "phash_battle": "a67b19f6368636d9"
     },
     {
         "id": 2106,
@@ -4813,7 +4817,8 @@
         "phash": "ae415b630696e685",
         "name": "獣の足跡〔アサシン〕",
         "shortname": "殺足跡",
-        "dropPriority": 9011
+        "dropPriority": 9011,
+        "phash_battle": "a65b5bb606874b84"
     },
     {
         "id": 2107,
