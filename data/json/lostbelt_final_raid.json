@@ -656,46 +656,10 @@
                 "dropPriority": 6297
             },
             {
-                "id": 6204,
-                "name": "騎の秘石",
-                "type": "Item",
-                "dropPriority": 6297
-            },
-            {
-                "id": 6204,
-                "name": "騎の秘石",
-                "type": "Item",
-                "dropPriority": 6297
-            },
-            {
                 "id": 6205,
                 "name": "術の秘石",
                 "type": "Item",
                 "dropPriority": 6296
-            },
-            {
-                "id": 6205,
-                "name": "術の秘石",
-                "type": "Item",
-                "dropPriority": 6296
-            },
-            {
-                "id": 6205,
-                "name": "術の秘石",
-                "type": "Item",
-                "dropPriority": 6296
-            },
-            {
-                "id": 6206,
-                "name": "殺の秘石",
-                "type": "Item",
-                "dropPriority": 6295
-            },
-            {
-                "id": 6206,
-                "name": "殺の秘石",
-                "type": "Item",
-                "dropPriority": 6295
             },
             {
                 "id": 6206,
@@ -710,16 +674,52 @@
                 "dropPriority": 6294
             },
             {
-                "id": 6207,
-                "name": "狂の秘石",
+                "id": 6104,
+                "name": "騎の魔石",
                 "type": "Item",
-                "dropPriority": 6294
+                "dropPriority": 6197
             },
             {
-                "id": 6207,
-                "name": "狂の秘石",
+                "id": 6105,
+                "name": "術の魔石",
                 "type": "Item",
-                "dropPriority": 6294
+                "dropPriority": 6196
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
             },
             {
                 "id": 9700500,
