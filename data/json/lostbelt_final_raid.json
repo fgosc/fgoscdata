@@ -586,5 +586,149 @@
         ],
         "dropItemNum": -1,
         "shortname": "クエーサー・ジェネシス 追憶戦α"
+    },
+    {
+        "id": 4000848,
+        "name": "Ｍ・スペクトラム 追憶戦α",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 558187,
+        "drop": [
+            {
+                "id": 2109,
+                "name": "獣の足跡〔エクストラⅡ〕",
+                "type": "Item",
+                "dropPriority": 9014
+            },
+            {
+                "id": 2108,
+                "name": "獣の足跡〔エクストラⅠ〕",
+                "type": "Item",
+                "dropPriority": 9013
+            },
+            {
+                "id": 102,
+                "name": "赤銅の果実",
+                "type": "Item",
+                "dropPriority": 9011
+            },
+            {
+                "id": 6558,
+                "name": "黄金釜",
+                "type": "Item",
+                "dropPriority": 8510
+            },
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6561,
+                "name": "神彩のレンズ",
+                "type": "Item",
+                "dropPriority": 8324
+            },
+            {
+                "id": 6557,
+                "name": "終の花",
+                "type": "Item",
+                "dropPriority": 8322
+            },
+            {
+                "id": 6556,
+                "name": "エーテル収光体",
+                "type": "Item",
+                "dropPriority": 8321
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 9700500,
+                "name": "全業火",
+                "type": "Exp. UP",
+                "dropPriority": 695
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "Ｍ・スペクトラム 追憶戦α"
     }
 ]
