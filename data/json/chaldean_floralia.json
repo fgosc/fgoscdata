@@ -166,5 +166,77 @@
         ],
         "dropItemNum": -1,
         "shortname": "花畑作り 敷き藁を分けてもらおう"
+    },
+    {
+        "id": 94152904,
+        "name": "花畑作り 獣除けの柵を作ろう",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9409060,
+                "name": "戯れの蕾",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94152804,
+                "name": "はなさかポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94152803,
+                "name": "ぐんぐん肥料",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94152802,
+                "name": "のびのび肥料",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94152801,
+                "name": "すくすく肥料",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "花畑作り 獣除けの柵を作ろう"
     }
 ]
