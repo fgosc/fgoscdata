@@ -1,0 +1,170 @@
+[
+    {
+        "id": 94152901,
+        "name": "花畑作り 腐葉土を手に入れよう",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 2400,
+        "drop": [
+            {
+                "id": 9409060,
+                "name": "戯れの蕾",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94152804,
+                "name": "はなさかポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94152802,
+                "name": "のびのび肥料",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94152801,
+                "name": "すくすく肥料",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "花畑作り 腐葉土を手に入れよう"
+    },
+    {
+        "id": 94152902,
+        "name": "花畑作り 音響栽培を学ぼう",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9409060,
+                "name": "戯れの蕾",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6533,
+                "name": "宵哭きの鉄杭",
+                "type": "Item",
+                "dropPriority": 8104
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94152804,
+                "name": "はなさかポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94152803,
+                "name": "ぐんぐん肥料",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94152802,
+                "name": "のびのび肥料",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "花畑作り 音響栽培を学ぼう"
+    },
+    {
+        "id": 94152903,
+        "name": "花畑作り 敷き藁を分けてもらおう",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9409060,
+                "name": "戯れの蕾",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94152804,
+                "name": "はなさかポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94152803,
+                "name": "ぐんぐん肥料",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94152801,
+                "name": "すくすく肥料",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "花畑作り 敷き藁を分けてもらおう"
+    }
+]

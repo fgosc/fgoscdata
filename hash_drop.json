@@ -3989,7 +3989,8 @@
         "phash": "ff6ac9923acc6637",
         "name": "はなさかポイント",
         "shortname": "ポイント",
-        "dropPriority": 3004
+        "dropPriority": 3004,
+        "phash_battle": "76e9b2188d31ce14"
     },
     {
         "id": 94150004,
@@ -7143,7 +7144,8 @@
         "phash": "761285a4e321293b",
         "name": "ぐんぐん肥料",
         "shortname": "ぐん肥",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "7607c4e721212129"
     },
     {
         "id": 94152805,
@@ -8761,7 +8763,8 @@
         "phash": "d7488744e1bb3909",
         "name": "のびのび肥料",
         "shortname": "のび肥",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "fa8646e139291949"
     },
     {
         "id": 4,
@@ -9864,7 +9867,8 @@
         "phash": "560f81c5e1293909",
         "name": "すくすく肥料",
         "shortname": "すく肥",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "560705e121290901"
     },
     {
         "id": 1,
