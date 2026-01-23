@@ -1267,6 +1267,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "月より団子",
+        "name_eng": "Dumplings over the Moon",
         "shortname": "礼装",
         "phash": "1a16e4c6cb29b1d2",
         "phash_narrow": "1a36c4c629add91b",
@@ -1583,6 +1584,25 @@
         "name": "カルデアの者",
         "phash": "9e03fc4aa126c1b6",
         "phash_narrow": "0ea15c9330a1a1cc",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9409000,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "黎明",
+        "phash": "8b61e3dc79c3a4fc",
+        "phash_narrow": "8b61867cd3d0ac1e",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9409060,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "戯れの蕾",
+        "shortname": "礼装",
+        "phash": "a5f246649b81a626",
+        "phash_narrow": "a592467e59e90792",
         "dropPriority": 9005
     },
     {
@@ -1980,6 +2000,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "緋毛の燎原",
+        "name_eng": "Fiery Manes",
         "phash": "e91ba03cd42652eb",
         "phash_narrow": "6b9ba87db47cb063",
         "dropPriority": 9004
@@ -2038,6 +2059,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "咲初めに鶴",
+        "name_eng": "First Bloom with Crane",
         "phash": "16cda53431235919",
         "phash_narrow": "56cdcc9c25724563",
         "dropPriority": 9004
@@ -2130,6 +2152,15 @@
         "name": "２０３号室の演奏会",
         "phash": "1c934746d8611416",
         "phash_narrow": "3c8b47d6e9b4840a",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9409010,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "願い事",
+        "phash": "c1793cc66ab739ed",
+        "phash_narrow": "c1799ccecf577177",
         "dropPriority": 9004
     },
     {
@@ -2343,6 +2374,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：おせちもいいんですけど",
+        "name_eng": "CE EXP Card: New Year's Food is Nice and All, But...",
         "phash": "22155d29a7520300",
         "phash_narrow": "021d5dadf52307e6",
         "dropPriority": 9004
@@ -2374,6 +2406,15 @@
         "shortname": "★4EXP礼装",
         "phash": "be521ca763b00628",
         "phash_narrow": "ae521c6bf1c67823",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9809590,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "概念礼装EXPカード：わたしの小さなウマ",
+        "phash": "36bbff4201a59c57",
+        "phash_narrow": "32b9df43aa2047eb",
         "dropPriority": 9004
     },
     {
@@ -2481,6 +2522,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "環太平洋地帯にて",
+        "name_eng": "In the Pacific Rim Region",
         "phash": "621b1df8919c6f26",
         "phash_narrow": "62071d71b8e9a176",
         "dropPriority": 9003
@@ -2501,6 +2543,15 @@
         "name": "遺跡を荒らす者",
         "phash": "797be19871c1b815",
         "phash_narrow": "7a67ba12c3f021e0",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9409020,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "優駿",
+        "phash": "7c1d9f9b05120822",
+        "phash_narrow": "7085ff8b5d888680",
         "dropPriority": 9003
     },
     {
@@ -3931,6 +3982,16 @@
         "phash_battle": "1c892382d192a443"
     },
     {
+        "id": 94152804,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "ff6ac9923acc6637",
+        "name": "はなさかポイント",
+        "shortname": "ポイント",
+        "dropPriority": 3004
+    },
+    {
         "id": 94150004,
         "type": "Point",
         "background": "silver",
@@ -4839,7 +4900,8 @@
         "phash": "87695b9216368423",
         "name": "獣の足跡〔エクストラⅠ〕",
         "shortname": "EX1足跡",
-        "dropPriority": 9013
+        "dropPriority": 9013,
+        "phash_battle": "86795b160ec3790c"
     },
     {
         "id": 2109,
@@ -4849,7 +4911,8 @@
         "phash": "866979d216348c23",
         "name": "獣の足跡〔エクストラⅡ〕",
         "shortname": "EX2足跡",
-        "dropPriority": 9014
+        "dropPriority": 9014,
+        "phash_battle": "86695a368cc3698c"
     },
     {
         "id": 94000303,
@@ -6525,6 +6588,7 @@
         "rarity": 3,
         "phash": "6e02c551232e59c4",
         "name": "武蔵うどん",
+        "name_eng": "Musashi Udon",
         "shortname": "うどん",
         "dropPriority": 2003,
         "phash_battle": "ae0559235ac11498"
@@ -6536,6 +6600,7 @@
         "rarity": 3,
         "phash": "762b86d10e729178",
         "name": "水引根付",
+        "name_eng": "Mizuhiki Netsuke",
         "dropPriority": 2004
     },
     {
@@ -7069,6 +7134,25 @@
         "phash": "5602a9ac0653d819",
         "name": "英霊極点交換チケット",
         "dropPriority": 9001
+    },
+    {
+        "id": 94152803,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "761285a4e321293b",
+        "name": "ぐんぐん肥料",
+        "shortname": "ぐん肥",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94152805,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "1f40a896718d726d",
+        "name": "花園のコサージュ",
+        "dropPriority": 2005
     },
     {
         "id": 3,
@@ -8400,6 +8484,7 @@
         "rarity": 2,
         "phash": "cea3b1580fdc438e",
         "name": "江戸むすび",
+        "name_eng": "Edo Musubi",
         "shortname": "むすび",
         "dropPriority": 2002,
         "phash_battle": "8eb128cec0ae403e"
@@ -8667,6 +8752,16 @@
         "shortname": "Ｔシャツ",
         "dropPriority": 2002,
         "phash_battle": "5e8ec14131832923"
+    },
+    {
+        "id": 94152802,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "d7488744e1bb3909",
+        "name": "のびのび肥料",
+        "shortname": "のび肥",
+        "dropPriority": 2002
     },
     {
         "id": 4,
@@ -9558,6 +9653,7 @@
         "rarity": 1,
         "phash": "fce917260316c384",
         "name": "東干し柿",
+        "name_eng": "Azuma Dried Persimmon",
         "shortname": "干し柿",
         "dropPriority": 2001,
         "phash_battle": "f85daf034285280a"
@@ -9759,6 +9855,16 @@
         "shortname": "ピック",
         "dropPriority": 2001,
         "phash_battle": "9ec3ec2332323033"
+    },
+    {
+        "id": 94152801,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "560f81c5e1293909",
+        "name": "すくすく肥料",
+        "shortname": "すく肥",
+        "dropPriority": 2001
     },
     {
         "id": 1,
