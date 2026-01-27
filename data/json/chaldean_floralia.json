@@ -436,5 +436,59 @@
         ],
         "dropItemNum": -1,
         "shortname": "花畑作り 米のとぎ汁を譲ってもらおう"
+    },
+    {
+        "id": 94152908,
+        "name": "花畑作り 新たな水源地を見つけよう",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9409060,
+                "name": "戯れの蕾",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6529,
+                "name": "呪獣胆石",
+                "type": "Item",
+                "dropPriority": 8504
+            },
+            {
+                "id": 6555,
+                "name": "狂気の残滓",
+                "type": "Item",
+                "dropPriority": 8110
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94152804,
+                "name": "はなさかポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "花畑作り 新たな水源地を見つけよう"
     }
 ]
