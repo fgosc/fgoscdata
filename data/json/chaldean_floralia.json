@@ -580,5 +580,83 @@
         ],
         "dropItemNum": -1,
         "shortname": "花畑作り 花畑の監視員を雇おう"
+    },
+    {
+        "id": 94152910,
+        "name": "花畑作り クワ振りの極意を学ぼう",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9409060,
+                "name": "戯れの蕾",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6517,
+                "name": "蛮神の心臓",
+                "type": "Item",
+                "dropPriority": 8500
+            },
+            {
+                "id": 6552,
+                "name": "忘れじの灰",
+                "type": "Item",
+                "dropPriority": 8108
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94152804,
+                "name": "はなさかポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94152803,
+                "name": "ぐんぐん肥料",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94152802,
+                "name": "のびのび肥料",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94152801,
+                "name": "すくすく肥料",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "花畑作り クワ振りの極意を学ぼう"
     }
 ]
