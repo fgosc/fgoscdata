@@ -1278,6 +1278,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ご褒美は勉強の後で",
+        "name_eng": "A Reward Awaits After Your Studies",
         "shortname": "礼装",
         "phash": "1ea3668f9a2be006",
         "phash_narrow": "1e63679808f8224e",
@@ -1603,6 +1604,16 @@
         "shortname": "礼装",
         "phash": "a5f246649b81a626",
         "phash_narrow": "a592467e59e90792",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9409200,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "サイン・オブ・スプリング",
+        "shortname": "礼装",
+        "phash": "96c751248d53b928",
+        "phash_narrow": "9e4b7424439538d0",
         "dropPriority": 9005
     },
     {
@@ -3982,6 +3993,16 @@
         "phash_battle": "1c892382d192a443"
     },
     {
+        "id": 94153904,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "7fb88d7cc87e5a95",
+        "name": "豊穣ポイント",
+        "shortname": "ポイント",
+        "dropPriority": 3004
+    },
+    {
         "id": 94152804,
         "type": "Point",
         "background": "silver",
@@ -4115,6 +4136,7 @@
         "rarity": 2,
         "phash": "96e2691c4ae4d986",
         "name": "ストーンチョコポイント",
+        "name_eng": "Chocolate Rock Points",
         "shortname": "ポイント",
         "dropPriority": 3004,
         "phash_battle": "96693866d11cec12"
@@ -6611,6 +6633,7 @@
         "rarity": 3,
         "phash": "f40329c4db349388",
         "name": "フォンデュイチゴ",
+        "name_eng": "Chocolate Fondue Strawberry",
         "shortname": "イチゴ",
         "dropPriority": 2003,
         "phash_battle": "d62bc0fb10831c08"
@@ -7155,6 +7178,16 @@
         "phash": "1f40a896718d726d",
         "name": "花園のコサージュ",
         "dropPriority": 2005
+    },
+    {
+        "id": 94153903,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "bb83f673ceb8473c",
+        "name": "親愛のミトン",
+        "shortname": "ミトン",
+        "dropPriority": 2003
     },
     {
         "id": 3,
@@ -8498,6 +8531,7 @@
         "rarity": 2,
         "phash": "fc730df6c3799246",
         "name": "フォンデュマシュマロ",
+        "name_eng": "Chocolate Fondue Marshmallow",
         "shortname": "マシュマロ",
         "dropPriority": 2002,
         "phash_battle": "54a906e93d06f912"
@@ -8765,6 +8799,16 @@
         "shortname": "のび肥",
         "dropPriority": 2002,
         "phash_battle": "fa8646e139291949"
+    },
+    {
+        "id": 94153902,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "db8a2e52e87f0ef5",
+        "name": "慈愛のエプロン",
+        "shortname": "エプロン",
+        "dropPriority": 2002
     },
     {
         "id": 4,
@@ -9668,6 +9712,7 @@
         "rarity": 1,
         "phash": "7c038556a9924224",
         "name": "フォンデュビスケット",
+        "name_eng": "Chocolate Fondue Biscuit",
         "shortname": "ビスケット",
         "dropPriority": 2001,
         "phash_battle": "fc012e8912649106"
@@ -9869,6 +9914,16 @@
         "shortname": "すく肥",
         "dropPriority": 2001,
         "phash_battle": "560705e121290901"
+    },
+    {
+        "id": 94153901,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "d64b232c5803c6d9",
+        "name": "恵愛の三角巾",
+        "shortname": "三角巾",
+        "dropPriority": 2001
     },
     {
         "id": 1,
