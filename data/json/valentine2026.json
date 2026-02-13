@@ -1,0 +1,194 @@
+[
+    {
+        "id": 94154001,
+        "name": "度数調査 世情に構わず狩猟ツアー",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 2400,
+        "drop": [
+            {
+                "id": 9409200,
+                "name": "サイン・オブ・スプリング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6543,
+                "name": "光銀の冠",
+                "type": "Item",
+                "dropPriority": 8316
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            },
+            {
+                "id": 94153904,
+                "name": "豊穣ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94153902,
+                "name": "慈愛のエプロン",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94153901,
+                "name": "恵愛の三角巾",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "度数調査 世情に構わず狩猟ツアー"
+    },
+    {
+        "id": 94154002,
+        "name": "度数調査 新作チョコＣＭ撮影",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9409200,
+                "name": "サイン・オブ・スプリング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6537,
+                "name": "巨人の指輪",
+                "type": "Item",
+                "dropPriority": 8312
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94153904,
+                "name": "豊穣ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94153903,
+                "name": "親愛のミトン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94153902,
+                "name": "慈愛のエプロン",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "度数調査 新作チョコＣＭ撮影"
+    },
+    {
+        "id": 94154003,
+        "name": "度数調査 数の自慢は悪い文明？",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9409200,
+                "name": "サイン・オブ・スプリング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6524,
+                "name": "大騎士勲章",
+                "type": "Item",
+                "dropPriority": 8309
+            },
+            {
+                "id": 6551,
+                "name": "黄昏の儀式剣",
+                "type": "Item",
+                "dropPriority": 8107
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 94153904,
+                "name": "豊穣ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94153903,
+                "name": "親愛のミトン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94153901,
+                "name": "恵愛の三角巾",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "度数調査 数の自慢は悪い文明？"
+    }
+]
