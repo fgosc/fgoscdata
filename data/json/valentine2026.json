@@ -190,5 +190,209 @@
         ],
         "dropItemNum": -1,
         "shortname": "度数調査 数の自慢は悪い文明？"
+    },
+    {
+        "id": 94154004,
+        "name": "度数調査 舞姫のお悩み相談",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9409200,
+                "name": "サイン・オブ・スプリング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6549,
+                "name": "赦免の小鐘",
+                "type": "Item",
+                "dropPriority": 8106
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 94153904,
+                "name": "豊穣ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94153902,
+                "name": "慈愛のエプロン",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94153901,
+                "name": "恵愛の三角巾",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "度数調査 舞姫のお悩み相談"
+    },
+    {
+        "id": 94154005,
+        "name": "度数調査 甘味に飽きたらどうしましょう",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9409200,
+                "name": "サイン・オブ・スプリング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6511,
+                "name": "禁断の頁",
+                "type": "Item",
+                "dropPriority": 8303
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94153904,
+                "name": "豊穣ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94153903,
+                "name": "親愛のミトン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94153902,
+                "name": "慈愛のエプロン",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "度数調査 甘味に飽きたらどうしましょう"
+    },
+    {
+        "id": 94154006,
+        "name": "度数調査 チョコレート工場の機密",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8900,
+        "drop": [
+            {
+                "id": 9409200,
+                "name": "サイン・オブ・スプリング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6539,
+                "name": "暁光炉心",
+                "type": "Item",
+                "dropPriority": 8406
+            },
+            {
+                "id": 6559,
+                "name": "ユニバーサルキューブ",
+                "type": "Item",
+                "dropPriority": 8323
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94153904,
+                "name": "豊穣ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94153903,
+                "name": "親愛のミトン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94153901,
+                "name": "恵愛の三角巾",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "度数調査 チョコレート工場の機密"
     }
 ]
