@@ -394,5 +394,65 @@
         ],
         "dropItemNum": -1,
         "shortname": "度数調査 チョコレート工場の機密"
+    },
+    {
+        "id": 94154007,
+        "name": "度数調査 新作チョコ即売会",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9409200,
+                "name": "サイン・オブ・スプリング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6518,
+                "name": "精霊根",
+                "type": "Item",
+                "dropPriority": 8502
+            },
+            {
+                "id": 6556,
+                "name": "エーテル収光体",
+                "type": "Item",
+                "dropPriority": 8321
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94153904,
+                "name": "豊穣ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "度数調査 新作チョコ即売会"
     }
 ]
