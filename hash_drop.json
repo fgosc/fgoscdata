@@ -4000,7 +4000,8 @@
         "phash": "7fb88d7cc87e5a95",
         "name": "豊穣ポイント",
         "shortname": "ポイント",
-        "dropPriority": 3004
+        "dropPriority": 3004,
+        "phash_battle": "7e89aca96a191994"
     },
     {
         "id": 94152804,
@@ -7187,7 +7188,8 @@
         "phash": "bb83f673ceb8473c",
         "name": "親愛のミトン",
         "shortname": "ミトン",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "8bf27a9a47dcb12f"
     },
     {
         "id": 3,
@@ -8808,7 +8810,8 @@
         "phash": "db8a2e52e87f0ef5",
         "name": "慈愛のエプロン",
         "shortname": "エプロン",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "d99c4ee92eacb932"
     },
     {
         "id": 4,
@@ -9923,7 +9926,8 @@
         "phash": "d64b232c5803c6d9",
         "name": "恵愛の三角巾",
         "shortname": "三角巾",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "d4232c5107c932c2"
     },
     {
         "id": 1,
