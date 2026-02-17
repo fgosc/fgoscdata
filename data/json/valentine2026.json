@@ -454,5 +454,149 @@
         ],
         "dropItemNum": -1,
         "shortname": "度数調査 新作チョコ即売会"
+    },
+    {
+        "id": 94154008,
+        "name": "度数調査 チョコをつまみに大宴会",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9409200,
+                "name": "サイン・オブ・スプリング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94153904,
+                "name": "豊穣ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94153903,
+                "name": "親愛のミトン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94153902,
+                "name": "慈愛のエプロン",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94153901,
+                "name": "恵愛の三角巾",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "度数調査 チョコをつまみに大宴会"
+    },
+    {
+        "id": 94154009,
+        "name": "度数調査 幼き王へのお届けもの",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9409200,
+                "name": "サイン・オブ・スプリング",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 6558,
+                "name": "黄金釜",
+                "type": "Item",
+                "dropPriority": 8510
+            },
+            {
+                "id": 6554,
+                "name": "黒曜鋭刃",
+                "type": "Item",
+                "dropPriority": 8109
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94153904,
+                "name": "豊穣ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94153903,
+                "name": "親愛のミトン",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94153902,
+                "name": "慈愛のエプロン",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94153901,
+                "name": "恵愛の三角巾",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "度数調査 幼き王へのお届けもの"
     }
 ]
