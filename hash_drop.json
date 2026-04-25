@@ -1289,6 +1289,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ＢＲＤ",
+        "name_eng": "BRD",
         "phash": "a7b0daf6394e1b32",
         "phash_narrow": "a799d6f7e9430373",
         "dropPriority": 9005
@@ -1298,6 +1299,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "カルデア・モーニング",
+        "name_eng": "Chaldea Morning",
         "phash": "7681651ed9260460",
         "phash_narrow": "fec104d91f69c824",
         "dropPriority": 9005
@@ -1307,6 +1309,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "温泉球争",
+        "name_eng": "Hot Springs Ball Games",
         "shortname": "礼装",
         "phash": "e436f2cec35f1d01",
         "phash_narrow": "2c37b8c2f2da434a",
@@ -1607,6 +1610,33 @@
         "dropPriority": 9005
     },
     {
+        "id": 9409070,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "トラジェクトリー・オブ・フェイト",
+        "phash": "09ec3bc15ed3bedd",
+        "phash_narrow": "8d2ea9ed57f2df53",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9409080,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ファイブ・ラウンズ",
+        "phash": "819f6989c6b79532",
+        "phash_narrow": "856769cceec49217",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9409090,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "プレゼント・フォー・ユー",
+        "phash": "b3d36130b5a2ab52",
+        "phash_narrow": "bad3615da43f0392",
+        "dropPriority": 9005
+    },
+    {
         "id": 9409200,
         "type": "Craft Essence",
         "rarity": 5,
@@ -1614,6 +1644,24 @@
         "shortname": "礼装",
         "phash": "96c751248d53b928",
         "phash_narrow": "9e4b7424439538d0",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9409210,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "記憶の大図書館",
+        "phash": "da3aa666e0349d61",
+        "phash_narrow": "5b9e9f42c49ec6e6",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9409220,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "月海原生徒会の会計",
+        "phash": "04fbae66d926480c",
+        "phash_narrow": "04bb2e5db7f3ea94",
         "dropPriority": 9005
     },
     {
@@ -2080,6 +2128,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "シラノ・ド・ベルジュラック",
+        "name_eng": "Cyrano de Bergerac",
         "phash": "ca06a77920d8728b",
         "phash_narrow": "5e86c7010062bb09",
         "dropPriority": 9004
@@ -2089,6 +2138,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "彼方の日々",
+        "name_eng": "Faraway Days",
         "phash": "1ae16417c97bbd92",
         "phash_narrow": "1ae124056d9bd16c",
         "dropPriority": 9004
@@ -2172,6 +2222,42 @@
         "name": "願い事",
         "phash": "c1793cc66ab739ed",
         "phash_narrow": "c1799ccecf577177",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9409100,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "Studio Legale G",
+        "phash": "59b3bee356d694b4",
+        "phash_narrow": "503bae636a5f0c0b",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9409110,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "Breaching",
+        "phash": "bcb14e3ec0bf2962",
+        "phash_narrow": "b6e14e429d0f6e9f",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9409120,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "フェアリー・ファーム",
+        "phash": "7ac34235d5991862",
+        "phash_narrow": "7ec2427595bc624a",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9409230,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "裏庭の厨房",
+        "phash": "9db76526a2393966",
+        "phash_narrow": "9dbd45260b17262a",
         "dropPriority": 9004
     },
     {
@@ -2395,6 +2481,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：おかしな双子",
+        "name_eng": "CE EXP Card: Strange Twins",
         "shortname": "★4EXP礼装",
         "phash": "d97233baa59fdce3",
         "phash_narrow": "d97232b23dccc7d1",
@@ -2566,6 +2653,51 @@
         "dropPriority": 9003
     },
     {
+        "id": 9409130,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "グランド・ギャザリング",
+        "phash": "873603c2e85bf4f9",
+        "phash_narrow": "873617e04b34eb32",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9409140,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "ライト・オブ・ナイト",
+        "phash": "5b57649aebe2b566",
+        "phash_narrow": "5265141bea9ac4d1",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9409150,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "ドラバス～10th記念ライブ～",
+        "phash": "36621327e51664c5",
+        "phash_narrow": "67421367976e5256",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9409160,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "翠嶺の息吹",
+        "phash": "e96ccef663d394f7",
+        "phash_narrow": "f96fce626111bf8c",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9409240,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "選ばれし者",
+        "phash": "ebc8fd1eb8c2d75c",
+        "phash_narrow": "ebf9d61eabc6587f",
+        "dropPriority": 9003
+    },
+    {
         "id": 9800300,
         "type": "Craft Essence",
         "rarity": 3,
@@ -2706,6 +2838,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "概念礼装EXPカード：お喋り探偵ロビン",
+        "name_eng": "CE EXP Card: The Talkative Detective Robin",
         "shortname": "★3EXP礼装",
         "phash": "6963a9ce733cdcee",
         "phash_narrow": "6d238cd7739c8f72",
@@ -2761,6 +2894,7 @@
         "rarity": 3,
         "phash": "76290dc3cc568973",
         "name": "黄金釜",
+        "name_eng": "Golden Cauldron",
         "shortname": "釜",
         "dropPriority": 8510,
         "phash_battle": "762d4bcc8cf3721c"
@@ -3031,6 +3165,7 @@
         "rarity": 2,
         "phash": "dfbe2969d81b1674",
         "name": "終の花",
+        "name_eng": "Flower of the End",
         "shortname": "花",
         "dropPriority": 8322,
         "phash_battle": "5629e91813748443"
@@ -4128,6 +4263,7 @@
         "rarity": 2,
         "phash": "7e6291986171499c",
         "name": "除霊ポイント",
+        "name_eng": "Exorcism Point",
         "dropPriority": 3004
     },
     {
@@ -4799,6 +4935,7 @@
         "rarity": 3,
         "phash": "7c03a18c49283258",
         "name": "Ｕピース〔水〕",
+        "name_eng": "U Piece (Water)",
         "dropPriority": 2001
     },
     {
@@ -6646,6 +6783,7 @@
         "rarity": 3,
         "phash": "6689f902520ab3f4",
         "name": "博愛のマカロン",
+        "name_eng": "Macaron of Benevolence",
         "shortname": "マカロン",
         "dropPriority": 2003,
         "phash_battle": "e6c9305a91166d92"
@@ -6657,6 +6795,7 @@
         "rarity": 3,
         "phash": "7e0623fc8613d8e1",
         "name": "CBC2024特別交換券",
+        "name_eng": "CBC 2026 Special Exchange Ticket",
         "dropPriority": 2004
     },
     {
@@ -6676,6 +6815,7 @@
         "rarity": 3,
         "phash": "6684875971519999",
         "name": "骨董品の提灯",
+        "name_eng": "Antique Lantern",
         "shortname": "提灯",
         "dropPriority": 2003,
         "phash_battle": "6686c17111990164"
@@ -6687,6 +6827,7 @@
         "rarity": 3,
         "phash": "6e10f70703e87c5d",
         "name": "おしおきチョーカー",
+        "name_eng": "Punishment Choker",
         "dropPriority": 2005
     },
     {
@@ -7190,6 +7331,34 @@
         "shortname": "ミトン",
         "dropPriority": 2003,
         "phash_battle": "8bf27a9a47dcb12f"
+    },
+    {
+        "id": 94154401,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "7f06b3d80633d9cd",
+        "name": "CBC2026特別交換券",
+        "dropPriority": 2001
+    },
+    {
+        "id": 94155603,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "de42186ca739c14f",
+        "name": "朽ちた大剣",
+        "shortname": "大剣",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94155604,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5606b1318d61319b",
+        "name": "カリオンの額帯",
+        "dropPriority": 2004
     },
     {
         "id": 3,
@@ -8545,6 +8714,7 @@
         "rarity": 2,
         "phash": "7c834c3818730bd6",
         "name": "信念のゼリー",
+        "name_eng": "Jelly of Conviction",
         "shortname": "ゼリー",
         "dropPriority": 2002,
         "phash_battle": "fc835c30838c49b6"
@@ -8556,6 +8726,7 @@
         "rarity": 2,
         "phash": "b7e6cd6e59d99c99",
         "name": "温泉牛乳",
+        "name_eng": "Hot Springs Milk",
         "shortname": "牛乳",
         "dropPriority": 2002,
         "phash_battle": "b6a4165999989948"
@@ -8812,6 +8983,16 @@
         "shortname": "エプロン",
         "dropPriority": 2002,
         "phash_battle": "d99c4ee92eacb932"
+    },
+    {
+        "id": 94155602,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "b629631c49d30cd2",
+        "name": "古びた鉄兜",
+        "shortname": "鉄兜",
+        "dropPriority": 2002
     },
     {
         "id": 4,
@@ -9727,6 +9908,7 @@
         "rarity": 1,
         "phash": "f61fd2a1788d0c49",
         "name": "勇気のキャンディ",
+        "name_eng": "Candy of Courage",
         "shortname": "キャンディ",
         "dropPriority": 2001,
         "phash_battle": "1697b3f90c096161"
@@ -9738,6 +9920,7 @@
         "rarity": 1,
         "phash": "d60319a435c16da4",
         "name": "いわくつきの御札",
+        "name_eng": "Shady Talisman",
         "shortname": "御札",
         "dropPriority": 2001,
         "phash_battle": "56132d1559a48125"
@@ -9928,6 +10111,16 @@
         "shortname": "三角巾",
         "dropPriority": 2001,
         "phash_battle": "d4232c5107c932c2"
+    },
+    {
+        "id": 94155601,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "5687a16209100b50",
+        "name": "褪せたマント",
+        "shortname": "マント",
+        "dropPriority": 2001
     },
     {
         "id": 1,
