@@ -1665,6 +1665,16 @@
         "dropPriority": 9005
     },
     {
+        "id": 9409280,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "アライアンス",
+        "shortname": "礼装",
+        "phash": "39999ce6cd7e37f4",
+        "phash_narrow": "3999b2cdcd3f7fbe",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -2513,6 +2523,15 @@
         "name": "概念礼装EXPカード：わたしの小さなウマ",
         "phash": "36bbff4201a59c57",
         "phash_narrow": "32b9df43aa2047eb",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9809890,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "概念礼装EXPカード：ロックにキメてこうぜ！",
+        "phash": "0ca3a0bb1b12e90c",
+        "phash_narrow": "1ce3a41952839d59",
         "dropPriority": 9004
     },
     {
