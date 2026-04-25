@@ -160,5 +160,77 @@
         ],
         "dropItemNum": -1,
         "shortname": "襲撃騎馬隊"
+    },
+    {
+        "id": 94155803,
+        "name": "盗人の穴倉",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9409280,
+                "name": "アライアンス",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809890,
+                "name": "概念礼装EXPカード：ロックにキメてこうぜ！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6532,
+                "name": "枯淡勾玉",
+                "type": "Item",
+                "dropPriority": 8310
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94155603,
+                "name": "朽ちた大剣",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94155602,
+                "name": "古びた鉄兜",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94155601,
+                "name": "褪せたマント",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "盗人の穴倉"
     }
 ]
