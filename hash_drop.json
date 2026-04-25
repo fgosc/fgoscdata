@@ -2530,6 +2530,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "概念礼装EXPカード：ロックにキメてこうぜ！",
+        "shortname": "★4EXP礼装",
         "phash": "0ca3a0bb1b12e90c",
         "phash_narrow": "1ce3a41952839d59",
         "dropPriority": 9004

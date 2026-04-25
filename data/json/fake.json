@@ -1,0 +1,164 @@
+[
+    {
+        "id": 94155800,
+        "name": "臨終の庭",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 9409280,
+                "name": "アライアンス",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809890,
+                "name": "概念礼装EXPカード：ロックにキメてこうぜ！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 94155602,
+                "name": "古びた鉄兜",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94155601,
+                "name": "褪せたマント",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "臨終の庭"
+    },
+    {
+        "id": 94155801,
+        "name": "血無き骨踊る狂宴",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9409280,
+                "name": "アライアンス",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809890,
+                "name": "概念礼装EXPカード：ロックにキメてこうぜ！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94155603,
+                "name": "朽ちた大剣",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94155602,
+                "name": "古びた鉄兜",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "血無き骨踊る狂宴"
+    },
+    {
+        "id": 94155802,
+        "name": "襲撃騎馬隊",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9409280,
+                "name": "アライアンス",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809890,
+                "name": "概念礼装EXPカード：ロックにキメてこうぜ！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6513,
+                "name": "隕蹄鉄",
+                "type": "Item",
+                "dropPriority": 8305
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94155603,
+                "name": "朽ちた大剣",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94155601,
+                "name": "褪せたマント",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "襲撃騎馬隊"
+    }
+]
