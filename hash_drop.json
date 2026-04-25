@@ -7349,7 +7349,8 @@
         "phash": "de42186ca739c14f",
         "name": "朽ちた大剣",
         "shortname": "大剣",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "c61aec279047b01f"
     },
     {
         "id": 94155604,
@@ -8992,7 +8993,8 @@
         "phash": "b629631c49d30cd2",
         "name": "古びた鉄兜",
         "shortname": "鉄兜",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "b6230c494c4883cc"
     },
     {
         "id": 4,
@@ -10120,7 +10122,8 @@
         "phash": "5687a16209100b50",
         "name": "褪せたマント",
         "shortname": "マント",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "5685e16161411119"
     },
     {
         "id": 1,
