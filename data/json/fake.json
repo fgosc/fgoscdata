@@ -358,5 +358,71 @@
         ],
         "dropItemNum": -1,
         "shortname": "凄絶の門"
+    },
+    {
+        "id": 94155806,
+        "name": "死を告げる一矢",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9409280,
+                "name": "アライアンス",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809890,
+                "name": "概念礼装EXPカード：ロックにキメてこうぜ！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6557,
+                "name": "終の花",
+                "type": "Item",
+                "dropPriority": 8322
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94155603,
+                "name": "朽ちた大剣",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94155601,
+                "name": "褪せたマント",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "死を告げる一矢"
     }
 ]
