@@ -424,5 +424,113 @@
         ],
         "dropItemNum": -1,
         "shortname": "死を告げる一矢"
+    },
+    {
+        "id": 94155906,
+        "name": "【狂愚】女神アーテー封伐戦 ΠI",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 16243,
+        "drop": [
+            {
+                "id": 2107,
+                "name": "獣の足跡〔バーサーカー〕",
+                "type": "Item",
+                "dropPriority": 9012
+            },
+            {
+                "id": 9409280,
+                "name": "アライアンス",
+                "type": "Craft Essence",
+                "dropPriority": 9005
+            },
+            {
+                "id": 9809890,
+                "name": "概念礼装EXPカード：ロックにキメてこうぜ！",
+                "type": "Craft Essence",
+                "dropPriority": 9004
+            },
+            {
+                "id": 6562,
+                "name": "天命の聖水",
+                "type": "Item",
+                "dropPriority": 8513
+            },
+            {
+                "id": 6542,
+                "name": "真理の卵",
+                "type": "Item",
+                "dropPriority": 8507
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6555,
+                "name": "狂気の残滓",
+                "type": "Item",
+                "dropPriority": 8110
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 94155603,
+                "name": "朽ちた大剣",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94155602,
+                "name": "古びた鉄兜",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94155601,
+                "name": "褪せたマント",
+                "type": "Item",
+                "dropPriority": 2001
+            },
+            {
+                "id": 9700500,
+                "name": "全業火",
+                "type": "Exp. UP",
+                "dropPriority": 695
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【狂愚】女神アーテー封伐戦 ΠI"
     }
 ]
