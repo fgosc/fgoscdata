@@ -64,12 +64,16 @@ def list2dic(quest_list):
                         logger.error("Error: 変換できません: %s", quest[item])
                         exit(1)
                     name = id2name[alias2id[quest[item]]]
+                    id2_type = id2type[alias2id[quest[item]]]
+                    drop_priority = id2dropPriority[item_id]
+                    if id2_type == "Craft Essence":
+                        drop_priority = drop_priority * 10
                     drop.append(
                         DropItem(
                             item_id,
                             name,
-                            id2type[item_id],
-                            id2dropPriority[item_id],
+                            id2_type,
+                            drop_priority,
                         ),
                     )
 
