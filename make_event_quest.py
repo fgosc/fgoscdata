@@ -83,7 +83,7 @@ def list2dic(quest_list):
         if q["recommendLv"] == "90++":
             qp = 13536
         elif q["recommendLv"] == "90+++":
-            qp = 16243
+            qp = 16244
         elif q["recommendLv"] == "90+":
             qp = 11280
         elif q["recommendLv"] == "120★★★":
