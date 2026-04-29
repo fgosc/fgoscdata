@@ -434,12 +434,6 @@
         "qp": 16243,
         "drop": [
             {
-                "id": 2107,
-                "name": "獣の足跡〔バーサーカー〕",
-                "type": "Item",
-                "dropPriority": 9012
-            },
-            {
                 "id": 9409280,
                 "name": "アライアンス",
                 "type": "Craft Essence",
@@ -450,6 +444,12 @@
                 "name": "概念礼装EXPカード：ロックにキメてこうぜ！",
                 "type": "Craft Essence",
                 "dropPriority": 9004
+            },
+            {
+                "id": 2107,
+                "name": "獣の足跡〔バーサーカー〕",
+                "type": "Item",
+                "dropPriority": 9012
             },
             {
                 "id": 6562,
