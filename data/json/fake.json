@@ -736,5 +736,71 @@
         ],
         "dropItemNum": -1,
         "shortname": "聖なる剣のものがたり"
+    },
+    {
+        "id": 94155852,
+        "name": "おおきなビルの木の下で",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9409280,
+                "name": "アライアンス",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 9809890,
+                "name": "概念礼装EXPカード：ロックにキメてこうぜ！",
+                "type": "Craft Essence",
+                "dropPriority": 90040
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6549,
+                "name": "赦免の小鐘",
+                "type": "Item",
+                "dropPriority": 8106
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94155603,
+                "name": "朽ちた大剣",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94155601,
+                "name": "褪せたマント",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "おおきなビルの木の下で"
     }
 ]
