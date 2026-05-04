@@ -802,5 +802,89 @@
         ],
         "dropItemNum": -1,
         "shortname": "おおきなビルの木の下で"
+    },
+    {
+        "id": 94155853,
+        "name": "みんなを守ってくださいますか",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9409280,
+                "name": "アライアンス",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 9809890,
+                "name": "概念礼装EXPカード：ロックにキメてこうぜ！",
+                "type": "Craft Essence",
+                "dropPriority": 90040
+            },
+            {
+                "id": 6517,
+                "name": "蛮神の心臓",
+                "type": "Item",
+                "dropPriority": 8500
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94155603,
+                "name": "朽ちた大剣",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94155602,
+                "name": "古びた鉄兜",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94155601,
+                "name": "褪せたマント",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "みんなを守ってくださいますか"
     }
 ]
