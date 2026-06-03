@@ -27801,5 +27801,36 @@
         "dropItemNum": -1,
         "scPriority": 128560,
         "scName": "冠位研鑽戦〔キャスター〕 Ⅶ"
+    },
+    {
+        "id": 93050110,
+        "name": "原初の海",
+        "place": "『過去』",
+        "chapter": "運命の三女神編",
+        "category": "パスト・カルデア",
+        "qp": 11310,
+        "drop": [
+            {
+                "id": 6564,
+                "name": "創生の真珠",
+                "type": "Item",
+                "dropPriority": 8325
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 9703400,
+                "name": "弓猛火",
+                "type": "Exp. UP",
+                "dropPriority": 681
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 128570,
+        "scName": "原初の海"
     }
 ]
