@@ -2893,7 +2893,8 @@
         "phash": "5ea4871973983127",
         "name": "黎溟琥珀",
         "shortname": "琥珀",
-        "dropPriority": 8515
+        "dropPriority": 8515,
+        "phash_battle": "7c870d58191b92b1"
     },
     {
         "id": 6563,
@@ -3185,7 +3186,8 @@
         "phash": "5e33094ca4584b9c",
         "name": "創生の真珠",
         "shortname": "真珠",
-        "dropPriority": 8325
+        "dropPriority": 8325,
+        "phash_battle": "be112ce44b19189c"
     },
     {
         "id": 6561,
