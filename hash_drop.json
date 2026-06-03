@@ -1320,6 +1320,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "レポートチェック",
+        "name_eng": "Checking Reports",
         "phash": "b25a68aedb0b8a22",
         "phash_narrow": "b250649459c99ad8",
         "dropPriority": 9005
@@ -1672,6 +1673,15 @@
         "shortname": "礼装",
         "phash": "39999ce6cd7e37f4",
         "phash_narrow": "3999b2cdcd3f7fbe",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9409320,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "流転の剣聖",
+        "phash": "8ceb1ad53a0f8e24",
+        "phash_narrow": "ec6a59701b874c1f",
         "dropPriority": 9005
     },
     {
@@ -2079,6 +2089,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "黒脂の暗沼",
+        "name_eng": "Slimy Black Bog",
         "phash": "fc728932cd764d32",
         "phash_narrow": "76d90002e5106896",
         "dropPriority": 9004
@@ -2875,6 +2886,16 @@
         "dropPriority": 9003
     },
     {
+        "id": 6565,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5ea4871973983127",
+        "name": "黎溟琥珀",
+        "shortname": "琥珀",
+        "dropPriority": 8515
+    },
+    {
         "id": 6563,
         "type": "Item",
         "background": "gold",
@@ -3155,6 +3176,16 @@
         ],
         "dropPriority": 8402,
         "phash_battle": "364998a64846318c"
+    },
+    {
+        "id": 6564,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "5e33094ca4584b9c",
+        "name": "創生の真珠",
+        "shortname": "真珠",
+        "dropPriority": 8325
     },
     {
         "id": 6561,
