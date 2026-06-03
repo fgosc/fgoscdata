@@ -27803,6 +27803,55 @@
         "scName": "冠位研鑽戦〔キャスター〕 Ⅶ"
     },
     {
+        "id": 93050109,
+        "name": "恐竜たちの楽園",
+        "place": "『過去』",
+        "chapter": "運命の三女神編",
+        "category": "パスト・カルデア",
+        "qp": 11310,
+        "drop": [
+            {
+                "id": 6565,
+                "name": "黎溟琥珀",
+                "type": "Item",
+                "dropPriority": 8515
+            },
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 9704500,
+                "name": "騎業火",
+                "type": "Exp. UP",
+                "dropPriority": 675
+            },
+            {
+                "id": 9707400,
+                "name": "狂猛火",
+                "type": "Exp. UP",
+                "dropPriority": 661
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 128570,
+        "scName": "恐竜たちの楽園"
+    },
+    {
         "id": 93050110,
         "name": "原初の海",
         "place": "『過去』",
@@ -27830,7 +27879,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128570,
+        "scPriority": 128580,
         "scName": "原初の海"
     }
 ]
