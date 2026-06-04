@@ -27974,6 +27974,61 @@
         "scName": "封鎖された海域"
     },
     {
+        "id": 93050104,
+        "name": "魔霧に覆われし都",
+        "place": "第四特異点",
+        "chapter": "運命の三女神編",
+        "category": "パスト・カルデア",
+        "qp": 10660,
+        "drop": [
+            {
+                "id": 6565,
+                "name": "黎溟琥珀",
+                "type": "Item",
+                "dropPriority": 8515
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6511,
+                "name": "禁断の頁",
+                "type": "Item",
+                "dropPriority": 8303
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 9704500,
+                "name": "騎業火",
+                "type": "Exp. UP",
+                "dropPriority": 675
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 128600,
+        "scName": "魔霧に覆われし都"
+    },
+    {
         "id": 93050105,
         "name": "神話息づく大地",
         "place": "第五特異点",
@@ -28037,8 +28092,179 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128600,
+        "scPriority": 128610,
         "scName": "神話息づく大地"
+    },
+    {
+        "id": 93050106,
+        "name": "聖地の争い",
+        "place": "第六特異点",
+        "chapter": "運命の三女神編",
+        "category": "パスト・カルデア",
+        "qp": 10920,
+        "drop": [
+            {
+                "id": 6525,
+                "name": "智慧のスカラベ",
+                "type": "Item",
+                "dropPriority": 8503
+            },
+            {
+                "id": 6564,
+                "name": "創生の真珠",
+                "type": "Item",
+                "dropPriority": 8325
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 9703400,
+                "name": "弓猛火",
+                "type": "Exp. UP",
+                "dropPriority": 681
+            },
+            {
+                "id": 9705500,
+                "name": "術業火",
+                "type": "Exp. UP",
+                "dropPriority": 670
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 128620,
+        "scName": "聖地の争い"
+    },
+    {
+        "id": 93050107,
+        "name": "母なる海の仔",
+        "place": "第七特異点",
+        "chapter": "運命の三女神編",
+        "category": "パスト・カルデア",
+        "qp": 11050,
+        "drop": [
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6564,
+                "name": "創生の真珠",
+                "type": "Item",
+                "dropPriority": 8325
+            },
+            {
+                "id": 6527,
+                "name": "万死の毒針",
+                "type": "Item",
+                "dropPriority": 8202
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 9703400,
+                "name": "弓猛火",
+                "type": "Exp. UP",
+                "dropPriority": 681
+            },
+            {
+                "id": 9704500,
+                "name": "騎業火",
+                "type": "Exp. UP",
+                "dropPriority": 675
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 128630,
+        "scName": "母なる海の仔"
+    },
+    {
+        "id": 93050108,
+        "name": "終点の神殿",
+        "place": "終局特異点",
+        "chapter": "運命の三女神編",
+        "category": "パスト・カルデア",
+        "qp": 11180,
+        "drop": [
+            {
+                "id": 6565,
+                "name": "黎溟琥珀",
+                "type": "Item",
+                "dropPriority": 8515
+            },
+            {
+                "id": 6564,
+                "name": "創生の真珠",
+                "type": "Item",
+                "dropPriority": 8325
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 9703400,
+                "name": "弓猛火",
+                "type": "Exp. UP",
+                "dropPriority": 681
+            },
+            {
+                "id": 9704500,
+                "name": "騎業火",
+                "type": "Exp. UP",
+                "dropPriority": 675
+            }
+        ],
+        "dropItemNum": -1,
+        "scPriority": 128640,
+        "scName": "終点の神殿"
     },
     {
         "id": 93050109,
@@ -28086,7 +28312,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128610,
+        "scPriority": 128650,
         "scName": "恐竜たちの楽園"
     },
     {
@@ -28117,7 +28343,7 @@
             }
         ],
         "dropItemNum": -1,
-        "scPriority": 128620,
+        "scPriority": 128660,
         "scName": "原初の海"
     }
 ]
