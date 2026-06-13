@@ -1,0 +1,452 @@
+[
+    {
+        "id": 94157601,
+        "name": "お手伝い 山菜採り",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9403640,
+                "name": "銀雪の女神たち",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6528,
+                "name": "原初の産毛",
+                "type": "Item",
+                "dropPriority": 8405
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94032204,
+                "name": "スギの材木",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94032202,
+                "name": "川の幸",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94032201,
+                "name": "山の幸",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "お手伝い 山菜採り"
+    },
+    {
+        "id": 94157602,
+        "name": "お手伝い 雑巾がけ",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9403640,
+                "name": "銀雪の女神たち",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94032205,
+                "name": "ヒノキの材木",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94032203,
+                "name": "雀の幸",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94032201,
+                "name": "山の幸",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "お手伝い 雑巾がけ"
+    },
+    {
+        "id": 94157603,
+        "name": "お手伝い 川魚獲り",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9403640,
+                "name": "銀雪の女神たち",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6529,
+                "name": "呪獣胆石",
+                "type": "Item",
+                "dropPriority": 8504
+            },
+            {
+                "id": 6515,
+                "name": "八連双晶",
+                "type": "Item",
+                "dropPriority": 8301
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94032206,
+                "name": "ケヤキの材木",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94032203,
+                "name": "雀の幸",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94032202,
+                "name": "川の幸",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "お手伝い 川魚獲り"
+    },
+    {
+        "id": 94157604,
+        "name": "お手伝い 女湯掃除",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9403640,
+                "name": "銀雪の女神たち",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94032205,
+                "name": "ヒノキの材木",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94032203,
+                "name": "雀の幸",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94032202,
+                "name": "川の幸",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "お手伝い 女湯掃除"
+    },
+    {
+        "id": 94157606,
+        "name": "お手伝い 宴会配膳",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9403640,
+                "name": "銀雪の女神たち",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6506,
+                "name": "竜の逆鱗",
+                "type": "Item",
+                "dropPriority": 8501
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94032204,
+                "name": "スギの材木",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94032203,
+                "name": "雀の幸",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94032201,
+                "name": "山の幸",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "お手伝い 宴会配膳"
+    },
+    {
+        "id": 94157610,
+        "name": "お手伝い 道案内",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9403640,
+                "name": "銀雪の女神たち",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6516,
+                "name": "凶骨",
+                "type": "Item",
+                "dropPriority": 8101
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94032206,
+                "name": "ケヤキの材木",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94032205,
+                "name": "ヒノキの材木",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94032204,
+                "name": "スギの材木",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94032203,
+                "name": "雀の幸",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94032202,
+                "name": "川の幸",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94032201,
+                "name": "山の幸",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "お手伝い 道案内"
+    }
+]
