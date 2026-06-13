@@ -288,6 +288,78 @@
         "shortname": "お手伝い 女湯掃除"
     },
     {
+        "id": 94157605,
+        "name": "お手伝い 男湯掃除",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9403640,
+                "name": "銀雪の女神たち",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94032206,
+                "name": "ケヤキの材木",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94032202,
+                "name": "川の幸",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94032201,
+                "name": "山の幸",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "お手伝い 男湯掃除"
+    },
+    {
         "id": 94157606,
         "name": "お手伝い 宴会配膳",
         "place": "",
