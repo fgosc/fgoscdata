@@ -742,5 +742,191 @@
         ],
         "dropItemNum": -1,
         "shortname": "お手伝い 道案内"
+    },
+    {
+        "id": 94157611,
+        "name": "お手伝い 奉納殿の見回り",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9403640,
+                "name": "銀雪の女神たち",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6518,
+                "name": "精霊根",
+                "type": "Item",
+                "dropPriority": 8502
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6537,
+                "name": "巨人の指輪",
+                "type": "Item",
+                "dropPriority": 8312
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94032206,
+                "name": "ケヤキの材木",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94032205,
+                "name": "ヒノキの材木",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94032204,
+                "name": "スギの材木",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94032203,
+                "name": "雀の幸",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94032202,
+                "name": "川の幸",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94032201,
+                "name": "山の幸",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "お手伝い 奉納殿の見回り"
+    },
+    {
+        "id": 94157612,
+        "name": "お手伝い 鍼灸サービスアシスタント",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9403640,
+                "name": "銀雪の女神たち",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6556,
+                "name": "エーテル収光体",
+                "type": "Item",
+                "dropPriority": 8321
+            },
+            {
+                "id": 6530,
+                "name": "魔術髄液",
+                "type": "Item",
+                "dropPriority": 8103
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94032206,
+                "name": "ケヤキの材木",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94032205,
+                "name": "ヒノキの材木",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94032204,
+                "name": "スギの材木",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94032203,
+                "name": "雀の幸",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94032202,
+                "name": "川の幸",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94032201,
+                "name": "山の幸",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "お手伝い 鍼灸サービスアシスタント"
     }
 ]
