@@ -7447,7 +7447,8 @@
         "phash": "fb8b1ed015d683b6",
         "name": "おしごとウォレット",
         "shortname": "ウォレット",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "a32f58549603b771"
     },
     {
         "id": 3,
@@ -9098,7 +9099,8 @@
         "phash": "1ea9737ea19c3a66",
         "name": "おしごとストラップ",
         "shortname": "ストラップ",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "9ed17a8d5a71582e"
     },
     {
         "id": 4,
@@ -10240,7 +10242,8 @@
         "phash": "d425018361789c06",
         "name": "おしごとバンド",
         "shortname": "バンド",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "dc258361dc0e0461"
     },
     {
         "id": 1,
