@@ -1686,6 +1686,16 @@
         "dropPriority": 9005
     },
     {
+        "id": 9409360,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ドリーム・プール",
+        "shortname": "礼装",
+        "phash": "0b0901f9197da736",
+        "phash_narrow": "0b06c1d949e975fb",
+        "dropPriority": 9005
+    },
+    {
         "id": 9401880,
         "type": "Craft Essence",
         "rarity": 4,
@@ -4180,6 +4190,15 @@
         ],
         "dropPriority": 5194,
         "phash_battle": "1c892382d192a443"
+    },
+    {
+        "id": 94158004,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "ff4209fcc83c4693",
+        "name": "カルデポイント",
+        "dropPriority": 3004
     },
     {
         "id": 94153904,
@@ -6906,6 +6925,7 @@
         "rarity": 3,
         "phash": "d702794c26e98412",
         "name": "FGO 9th Anniversary 英霊博装チケット",
+        "name_eng": "FGO 9th Anniversary Expo Portrait Ticket",
         "dropPriority": 2001
     },
     {
@@ -7418,6 +7438,16 @@
         "phash": "5606b1318d61319b",
         "name": "カリオンの額帯",
         "dropPriority": 2004
+    },
+    {
+        "id": 94158003,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "fb8b1ed015d683b6",
+        "name": "おしごとウォレット",
+        "shortname": "ウォレット",
+        "dropPriority": 2003
     },
     {
         "id": 3,
@@ -9061,6 +9091,16 @@
         "phash_battle": "b6230c494c4883cc"
     },
     {
+        "id": 94158002,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "1ea9737ea19c3a66",
+        "name": "おしごとストラップ",
+        "shortname": "ストラップ",
+        "dropPriority": 2002
+    },
+    {
         "id": 4,
         "type": "Item",
         "background": "silver",
@@ -10191,6 +10231,16 @@
         "shortname": "マント",
         "dropPriority": 2001,
         "phash_battle": "5685e16161411119"
+    },
+    {
+        "id": 94158001,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "d425018361789c06",
+        "name": "おしごとバンド",
+        "shortname": "バンド",
+        "dropPriority": 2001
     },
     {
         "id": 1,
