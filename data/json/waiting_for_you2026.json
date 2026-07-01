@@ -126,6 +126,72 @@
         "shortname": "【トレーダー】デイトレードに挑戦！"
     },
     {
+        "id": 94158202,
+        "name": "【音楽家】作曲しよう！",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9409360,
+                "name": "ドリーム・プール",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6510,
+                "name": "無間の歯車",
+                "type": "Item",
+                "dropPriority": 8302
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94158003,
+                "name": "おしごとウォレット",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94158002,
+                "name": "おしごとストラップ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【音楽家】作曲しよう！"
+    },
+    {
         "id": 94158203,
         "name": "【狩人】獲物を狩ろう！",
         "place": "",
