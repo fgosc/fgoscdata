@@ -318,6 +318,66 @@
         "shortname": "【武器商人】仕入れをしよう！"
     },
     {
+        "id": 94158207,
+        "name": "【ゲームデベロッパー】テストプレイをしよう！",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9409360,
+                "name": "ドリーム・プール",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6541,
+                "name": "禍罪の矢尻",
+                "type": "Item",
+                "dropPriority": 8315
+            },
+            {
+                "id": 6511,
+                "name": "禁断の頁",
+                "type": "Item",
+                "dropPriority": 8303
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94158003,
+                "name": "おしごとウォレット",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94158002,
+                "name": "おしごとストラップ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【ゲームデベロッパー】テストプレイをしよう！"
+    },
+    {
         "id": 94158208,
         "name": "【マフィア】抗争に備えよう！",
         "place": "",
@@ -376,6 +436,78 @@
         ],
         "dropItemNum": -1,
         "shortname": "【マフィア】抗争に備えよう！"
+    },
+    {
+        "id": 94158210,
+        "name": "【ディーラー】イカサマに要注意！",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9409360,
+                "name": "ドリーム・プール",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6560,
+                "name": "月光核",
+                "type": "Item",
+                "dropPriority": 8511
+            },
+            {
+                "id": 6522,
+                "name": "愚者の鎖",
+                "type": "Item",
+                "dropPriority": 8102
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94158002,
+                "name": "おしごとストラップ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94158001,
+                "name": "おしごとバンド",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【ディーラー】イカサマに要注意！"
     },
     {
         "id": 94158211,
