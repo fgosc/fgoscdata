@@ -492,6 +492,60 @@
         "shortname": "【マフィア】抗争に備えよう！"
     },
     {
+        "id": 94158209,
+        "name": "【闇医者】手術を手伝おう！",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9409360,
+                "name": "ドリーム・プール",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6554,
+                "name": "黒曜鋭刃",
+                "type": "Item",
+                "dropPriority": 8109
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94158003,
+                "name": "おしごとウォレット",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94158002,
+                "name": "おしごとストラップ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【闇医者】手術を手伝おう！"
+    },
+    {
         "id": 94158210,
         "name": "【ディーラー】イカサマに要注意！",
         "place": "",
