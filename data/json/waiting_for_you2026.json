@@ -318,6 +318,60 @@
         "shortname": "【武器商人】仕入れをしよう！"
     },
     {
+        "id": 94158206,
+        "name": "【靴屋】靴を選んであげよう！",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9409360,
+                "name": "ドリーム・プール",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6536,
+                "name": "オーロラ鋼",
+                "type": "Item",
+                "dropPriority": 8313
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94158002,
+                "name": "おしごとストラップ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94158001,
+                "name": "おしごとバンド",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【靴屋】靴を選んであげよう！"
+    },
+    {
         "id": 94158207,
         "name": "【ゲームデベロッパー】テストプレイをしよう！",
         "place": "",
