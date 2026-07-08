@@ -252,6 +252,78 @@
         "shortname": "【狩人】獲物を狩ろう！"
     },
     {
+        "id": 94158204,
+        "name": "【闇商人】秘密の市場を覗こう！",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9409360,
+                "name": "ドリーム・プール",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6544,
+                "name": "煌星のカケラ",
+                "type": "Item",
+                "dropPriority": 8508
+            },
+            {
+                "id": 6514,
+                "name": "ホムンクルスベビー",
+                "type": "Item",
+                "dropPriority": 8304
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6105,
+                "name": "術の魔石",
+                "type": "Item",
+                "dropPriority": 6196
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94158003,
+                "name": "おしごとウォレット",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94158002,
+                "name": "おしごとストラップ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94158001,
+                "name": "おしごとバンド",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【闇商人】秘密の市場を覗こう！"
+    },
+    {
         "id": 94158205,
         "name": "【武器商人】仕入れをしよう！",
         "place": "",
