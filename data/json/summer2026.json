@@ -1,0 +1,224 @@
+[
+    {
+        "id": 94159300,
+        "name": "サンセット・ドルフィンラッシュ",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 1900,
+        "drop": [
+            {
+                "id": 9409470,
+                "name": "ル・グテ",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6553,
+                "name": "太陽皮",
+                "type": "Item",
+                "dropPriority": 8320
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            },
+            {
+                "id": 94159005,
+                "name": "うちなー海鮮盛り",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94159004,
+                "name": "うちなー野菜盛り",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94159002,
+                "name": "人魂ぐらす",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94159001,
+                "name": "怪々みんさー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "サンセット・ドルフィンラッシュ"
+    },
+    {
+        "id": 94159301,
+        "name": "噂のマジムン喫茶店",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 2900,
+        "drop": [
+            {
+                "id": 9409480,
+                "name": "渓谷の神秘",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6505,
+                "name": "虚影の塵",
+                "type": "Item",
+                "dropPriority": 8201
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94159006,
+                "name": "うちなーお肉盛り",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94159005,
+                "name": "うちなー海鮮盛り",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94159003,
+                "name": "百鬼やちむん",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94159002,
+                "name": "人魂ぐらす",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "噂のマジムン喫茶店"
+    },
+    {
+        "id": 94159302,
+        "name": "怪しい頭巾屋さん",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 4400,
+        "drop": [
+            {
+                "id": 9409470,
+                "name": "ル・グテ",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6549,
+                "name": "赦免の小鐘",
+                "type": "Item",
+                "dropPriority": 8106
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 94159006,
+                "name": "うちなーお肉盛り",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94159004,
+                "name": "うちなー野菜盛り",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94159003,
+                "name": "百鬼やちむん",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94159001,
+                "name": "怪々みんさー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "怪しい頭巾屋さん"
+    }
+]
