@@ -7,7 +7,7 @@
         "name": "クエストクリア報酬QP",
         "name_eng": "Quest Clear Reward QP",
         "shortname": "報酬QP",
-        "dropPriority": 9018
+        "dropPriority": 9019
     },
     {
         "id": 9400410,
@@ -1341,6 +1341,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "眺望絶佳、神韻縹渺",
+        "name_eng": "Superb Vistas, Sublime Artistry",
         "shortname": "特攻礼装",
         "phash": "5ec1794884e15a37",
         "phash_narrow": "5ed35b1cc0307d1a",
@@ -1351,6 +1352,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "黄昏の風に吹かれて",
+        "name_eng": "Fanned by the Twilight Wind",
         "shortname": "泥礼装",
         "phash": "cea414627995d14b",
         "phash_narrow": "af9cd66a36b2d454",
@@ -1361,6 +1363,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "喝采の焔",
+        "name_eng": "Flames of Ovation",
         "phash": "b80366278d629972",
         "phash_narrow": "b847668d0609162b",
         "dropPriority": 9005
@@ -1370,6 +1373,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "月海原学園の王",
+        "name_eng": "King of Tsukumihara Academy",
         "phash": "a601487219863806",
         "phash_narrow": "b60d4a728178828d",
         "dropPriority": 9005
@@ -1379,6 +1383,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "法悦の浄土",
+        "name_eng": "Pure Land of Rapture",
         "phash": "9936a4edcc8e7366",
         "phash_narrow": "9936a5c58d338c6f",
         "dropPriority": 9005
@@ -1693,6 +1698,35 @@
         "shortname": "礼装",
         "phash": "0b0901f9197da736",
         "phash_narrow": "0b06c1d949e975fb",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9409410,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "豊穣の海",
+        "phash": "32a45ccec3d3a4d9",
+        "phash_narrow": "32a91c9e5386d1cc",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9409470,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ル・グテ",
+        "shortname": "特攻礼装",
+        "phash": "1c5e947d8da1ede7",
+        "phash_narrow": "1f16745e9587c669",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9409480,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "渓谷の神秘",
+        "shortname": "泥礼装",
+        "phash": "2e2a6f8bc341cbb9",
+        "phash_narrow": "2e7c2ea74746c96e",
         "dropPriority": 9005
     },
     {
@@ -2180,6 +2214,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "クラウン＆オーギュスト",
+        "name_eng": "Crown & August",
         "phash": "f234bd490b7c0178",
         "phash_narrow": "f236a54bbe48fe30",
         "dropPriority": 9004
@@ -2189,6 +2224,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "シンジタンク出撃！",
+        "name_eng": "Shinji Tank, Attack!",
         "phash": "f8fded162932b292",
         "phash_narrow": "b8edc4cc6922b333",
         "dropPriority": 9004
@@ -2198,6 +2234,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "逃避の始まり",
+        "name_eng": "The Start of Her Escape",
         "phash": "1696e4e195e56913",
         "phash_narrow": "161e649485b4d621",
         "dropPriority": 9004
@@ -2290,6 +2327,15 @@
         "name": "裏庭の厨房",
         "phash": "9db76526a2393966",
         "phash_narrow": "9dbd45260b17262a",
+        "dropPriority": 9004
+    },
+    {
+        "id": 9409420,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "サマー・アーマー",
+        "phash": "4313e0d1f27995b4",
+        "phash_narrow": "031bc9d25af5d599",
         "dropPriority": 9004
     },
     {
@@ -2672,6 +2718,7 @@
         "type": "Craft Essence",
         "rarity": 3,
         "name": "ウェルカム・トゥ・エキスポ",
+        "name_eng": "Welcome to the Expo",
         "phash": "d347f6d22ab46526",
         "phash_narrow": "cb25d64abad8ac4b",
         "dropPriority": 9003
@@ -2737,6 +2784,24 @@
         "name": "選ばれし者",
         "phash": "ebc8fd1eb8c2d75c",
         "phash_narrow": "ebf9d61eabc6587f",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9409430,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "幽世の使者",
+        "phash": "ed0e3bccd7cb0693",
+        "phash_narrow": "ec2f28d4ebe4dc4c",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9409460,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "わくわくざぶーん～沖縄支店～",
+        "phash": "ab2cf0d21b79ff5c",
+        "phash_narrow": "ab2cd04a6bbff8ec",
         "dropPriority": 9003
     },
     {
@@ -2936,6 +3001,7 @@
         "rarity": 3,
         "phash": "5b00b6532c964d27",
         "name": "月光核",
+        "name_eng": "Moonlight Core",
         "shortname": "月光",
         "dropPriority": 8511,
         "phash_battle": "2bd656a40e2e77ef"
@@ -3218,6 +3284,7 @@
         "rarity": 2,
         "phash": "dc620d3c8b33c906",
         "name": "ユニバーサルキューブ",
+        "name_eng": "Universal Cube",
         "shortname": "キューブ",
         "dropPriority": 8323,
         "phash_battle": "c80725af71021848"
@@ -4192,6 +4259,15 @@
         "phash_battle": "1c892382d192a443"
     },
     {
+        "id": 94159007,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "6e4e99794c96db74",
+        "name": "くらくらポイント",
+        "dropPriority": 3007
+    },
+    {
         "id": 94158004,
         "type": "Point",
         "background": "silver",
@@ -4305,6 +4381,7 @@
         "rarity": 2,
         "phash": "6fc89e3cc976d886",
         "name": "ドバイ観光ポイント",
+        "name_eng": "Dubai Tourism Points",
         "shortname": "ポイント",
         "dropPriority": 3005,
         "phash_battle": "e419bc6b58936c98"
@@ -4316,6 +4393,7 @@
         "rarity": 3,
         "phash": "1e58a3a671441859",
         "name": "幸せカウンターポイント",
+        "name_eng": "Joy Points",
         "dropPriority": 3004
     },
     {
@@ -4982,6 +5060,15 @@
         "dropPriority": 8009
     },
     {
+        "id": 80,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "263263394dc99c79",
+        "name": "地獄の蒼炎",
+        "dropPriority": 2008
+    },
+    {
         "id": 100,
         "type": "Item",
         "background": "gold",
@@ -4990,7 +5077,7 @@
         "name": "黄金の果実",
         "name_eng": "Golden Fruit",
         "shortname": "金林檎",
-        "dropPriority": 9014
+        "dropPriority": 9015
     },
     {
         "id": 200,
@@ -5038,6 +5125,15 @@
         "phash": "6603a5799ab3dad6",
         "name": "Ｕメダル",
         "dropPriority": 2004
+    },
+    {
+        "id": 1001,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "3689661b09d24976",
+        "name": "カルデアの大夢火",
+        "dropPriority": 8951
     },
     {
         "id": 2000,
@@ -6935,6 +7031,7 @@
         "rarity": 3,
         "phash": "364387992dd0033b",
         "name": "ゴールデンポット",
+        "name_eng": "Golden Pot",
         "shortname": "ポット",
         "dropPriority": 2003,
         "phash_battle": "664399e08633425c"
@@ -7451,6 +7548,43 @@
         "phash_battle": "a32f58549603b771"
     },
     {
+        "id": 94158005,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "561d0f806b1129c4",
+        "name": "アッドリュック",
+        "dropPriority": 2005
+    },
+    {
+        "id": 94158801,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "af2253cc34e3c918",
+        "name": "FGO 11th Anniversary 英霊学装チケット",
+        "dropPriority": 9001
+    },
+    {
+        "id": 94159003,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "99c22f30529e869c",
+        "name": "百鬼やちむん",
+        "shortname": "やちむん",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94159008,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5b02e3c88c6656d9",
+        "name": "肉球アームリング",
+        "dropPriority": 2008
+    },
+    {
         "id": 3,
         "type": "Item",
         "background": "silver",
@@ -7480,7 +7614,7 @@
         "name": "白銀の果実",
         "name_eng": "Silver Fruit",
         "shortname": "銀林檎",
-        "dropPriority": 9013
+        "dropPriority": 9014
     },
     {
         "id": 104,
@@ -7491,7 +7625,7 @@
         "name": "青銅の果実",
         "name_eng": "Bronzed Cobalt Fruit",
         "shortname": "青林檎",
-        "dropPriority": 9012
+        "dropPriority": 9013
     },
     {
         "id": 94000302,
@@ -8878,6 +9012,7 @@
         "rarity": 2,
         "phash": "f6808d2bc927c912",
         "name": "ラグジュアリーキャメル",
+        "name_eng": "Luxury Camel",
         "shortname": "キャメル",
         "dropPriority": 2002,
         "phash_battle": "d605a96bc5021896"
@@ -9103,6 +9238,46 @@
         "phash_battle": "9ed17a8d5a71582e"
     },
     {
+        "id": 94159002,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "fe620c5983f3680c",
+        "name": "人魂ぐらす",
+        "shortname": "ぐらす",
+        "dropPriority": 2002
+    },
+    {
+        "id": 94159004,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "7c93a71802d88f29",
+        "name": "うちなー野菜盛り",
+        "shortname": "野菜盛",
+        "dropPriority": 2004
+    },
+    {
+        "id": 94159005,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "769385492c58a1d0",
+        "name": "うちなー海鮮盛り",
+        "shortname": "海鮮盛",
+        "dropPriority": 2005
+    },
+    {
+        "id": 94159006,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "56a99c5323432d99",
+        "name": "うちなーお肉盛り",
+        "shortname": "お肉盛",
+        "dropPriority": 2006
+    },
+    {
         "id": 4,
         "type": "Item",
         "background": "silver",
@@ -9122,7 +9297,7 @@
         "name": "赤銅の果実",
         "name_eng": "Bronze Fruit",
         "shortname": "銅林檎",
-        "dropPriority": 9011,
+        "dropPriority": 9012,
         "phash_battle": "7407989911722424"
     },
     {
@@ -10054,6 +10229,7 @@
         "rarity": 1,
         "phash": "5609a1f14836240c",
         "name": "リッチデーツ",
+        "name_eng": "Rich Dates",
         "shortname": "デーツ",
         "dropPriority": 2001,
         "phash_battle": "5ea9a152a62c810c"
@@ -10246,13 +10422,23 @@
         "phash_battle": "dc258361dc0e0461"
     },
     {
+        "id": 94159001,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "5c0783317968211c",
+        "name": "怪々みんさー",
+        "shortname": "みんさー",
+        "dropPriority": 2001
+    },
+    {
         "id": 1,
         "type": "Item",
         "background": "silver",
         "phash": "f61389b4292f4806",
         "name": "QP",
         "name_eng": "QP",
-        "dropPriority": 516,
+        "dropPriority": 517,
         "phash_battle": "561be42b2814a00b"
     },
     {
