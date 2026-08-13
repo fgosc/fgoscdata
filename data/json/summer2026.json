@@ -220,5 +220,101 @@
         ],
         "dropItemNum": -1,
         "shortname": "怪しい頭巾屋さん"
+    },
+    {
+        "id": 94159303,
+        "name": "海の家繁盛記",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 5400,
+        "drop": [
+            {
+                "id": 9409480,
+                "name": "渓谷の神秘",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 94159006,
+                "name": "うちなーお肉盛り",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94159005,
+                "name": "うちなー海鮮盛り",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94159004,
+                "name": "うちなー野菜盛り",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94159003,
+                "name": "百鬼やちむん",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94159002,
+                "name": "人魂ぐらす",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94159001,
+                "name": "怪々みんさー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "海の家繁盛記"
     }
 ]
