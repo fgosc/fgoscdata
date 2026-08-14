@@ -316,5 +316,89 @@
         ],
         "dropItemNum": -1,
         "shortname": "海の家繁盛記"
+    },
+    {
+        "id": 94159304,
+        "name": "やーぬくび、くぃみれー",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 6400,
+        "drop": [
+            {
+                "id": 9409470,
+                "name": "ル・グテ",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6507,
+                "name": "混沌の爪",
+                "type": "Item",
+                "dropPriority": 8400
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6512,
+                "name": "竜の牙",
+                "type": "Item",
+                "dropPriority": 8200
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7107,
+                "name": "バーサーカーモニュメント",
+                "type": "Item",
+                "dropPriority": 5294
+            },
+            {
+                "id": 94159006,
+                "name": "うちなーお肉盛り",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94159005,
+                "name": "うちなー海鮮盛り",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94159004,
+                "name": "うちなー野菜盛り",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94159002,
+                "name": "人魂ぐらす",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94159001,
+                "name": "怪々みんさー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "やーぬくび、くぃみれー"
     }
 ]
