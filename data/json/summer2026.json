@@ -400,5 +400,83 @@
         ],
         "dropItemNum": -1,
         "shortname": "やーぬくび、くぃみれー"
+    },
+    {
+        "id": 94159305,
+        "name": "開幕！ シャーク・ショータイム",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9409480,
+                "name": "渓谷の神秘",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6535,
+                "name": "永遠結氷",
+                "type": "Item",
+                "dropPriority": 8311
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6104,
+                "name": "騎の魔石",
+                "type": "Item",
+                "dropPriority": 6197
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94159006,
+                "name": "うちなーお肉盛り",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94159005,
+                "name": "うちなー海鮮盛り",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94159004,
+                "name": "うちなー野菜盛り",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94159003,
+                "name": "百鬼やちむん",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94159002,
+                "name": "人魂ぐらす",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "開幕！ シャーク・ショータイム"
     }
 ]
