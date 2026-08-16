@@ -478,5 +478,89 @@
         ],
         "dropItemNum": -1,
         "shortname": "開幕！ シャーク・ショータイム"
+    },
+    {
+        "id": 94159306,
+        "name": "マジムン巫女の秘密の儀式",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9409470,
+                "name": "ル・グテ",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6523,
+                "name": "封魔のランプ",
+                "type": "Item",
+                "dropPriority": 8404
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6509,
+                "name": "蛇の宝玉",
+                "type": "Item",
+                "dropPriority": 8307
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94159006,
+                "name": "うちなーお肉盛り",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94159005,
+                "name": "うちなー海鮮盛り",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94159004,
+                "name": "うちなー野菜盛り",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94159003,
+                "name": "百鬼やちむん",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94159001,
+                "name": "怪々みんさー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "マジムン巫女の秘密の儀式"
     }
 ]
