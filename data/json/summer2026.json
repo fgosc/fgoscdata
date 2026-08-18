@@ -652,5 +652,101 @@
         ],
         "dropItemNum": -1,
         "shortname": "お忍びマジムンボーイ"
+    },
+    {
+        "id": 94159308,
+        "name": "はいさい！ 八郎ひとり旅",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9409470,
+                "name": "ル・グテ",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 9409480,
+                "name": "渓谷の神秘",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6525,
+                "name": "智慧のスカラベ",
+                "type": "Item",
+                "dropPriority": 8503
+            },
+            {
+                "id": 6561,
+                "name": "神彩のレンズ",
+                "type": "Item",
+                "dropPriority": 8324
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6202,
+                "name": "弓の秘石",
+                "type": "Item",
+                "dropPriority": 6299
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 7102,
+                "name": "アーチャーモニュメント",
+                "type": "Item",
+                "dropPriority": 5299
+            },
+            {
+                "id": 94159006,
+                "name": "うちなーお肉盛り",
+                "type": "Item",
+                "dropPriority": 2006
+            },
+            {
+                "id": 94159005,
+                "name": "うちなー海鮮盛り",
+                "type": "Item",
+                "dropPriority": 2005
+            },
+            {
+                "id": 94159004,
+                "name": "うちなー野菜盛り",
+                "type": "Item",
+                "dropPriority": 2004
+            },
+            {
+                "id": 94159003,
+                "name": "百鬼やちむん",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94159002,
+                "name": "人魂ぐらす",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94159001,
+                "name": "怪々みんさー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "はいさい！ 八郎ひとり旅"
     }
 ]
