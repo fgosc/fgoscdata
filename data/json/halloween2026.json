@@ -154,5 +154,71 @@
         ],
         "dropItemNum": -1,
         "shortname": "パンプキン収穫 ぷちぷちファーム"
+    },
+    {
+        "id": 94161102,
+        "name": "パンプキン収穫 分け合いファーム",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9409530,
+                "name": "ピース・オブ・メモリー",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6537,
+                "name": "巨人の指輪",
+                "type": "Item",
+                "dropPriority": 8312
+            },
+            {
+                "id": 6501,
+                "name": "鳳凰の羽根",
+                "type": "Item",
+                "dropPriority": 8306
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7001,
+                "name": "セイバーピース",
+                "type": "Item",
+                "dropPriority": 5200
+            },
+            {
+                "id": 94160904,
+                "name": "パンプキン収穫ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94160903,
+                "name": "三日月パイ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94160901,
+                "name": "けもみみクッキー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "パンプキン収穫 分け合いファーム"
     }
 ]
