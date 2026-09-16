@@ -1393,6 +1393,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "手稿の翼",
+        "name_eng": "Manuscript's Wings",
         "phash": "3c65c99213e32771",
         "phash_narrow": "3c65ce199b251301",
         "dropPriority": 9005
@@ -1412,6 +1413,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "鉱石科の君主",
+        "name_eng": "Lord of the Department of Mineralogy",
         "phash": "c2061d78bc6e793e",
         "phash_narrow": "c7873bb8cee8f8ec",
         "dropPriority": 9005
@@ -1421,6 +1423,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "乾いた拳",
+        "name_eng": "Parched Fist",
         "phash": "45bdb84d89f62b53",
         "phash_narrow": "47b934c9d842f26f",
         "dropPriority": 9005
@@ -1727,6 +1730,25 @@
         "shortname": "泥礼装",
         "phash": "2e2a6f8bc341cbb9",
         "phash_narrow": "2e7c2ea74746c96e",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9409490,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ガン・ディーラー",
+        "phash": "a9a34614b07ef9ef",
+        "phash_narrow": "a9cb46a6b4b4d607",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9409530,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "ピース・オブ・メモリー",
+        "shortname": "礼装",
+        "phash": "2d22dcf3d23e2d83",
+        "phash_narrow": "2d225cd3f67cc97a",
         "dropPriority": 9005
     },
     {
@@ -2244,6 +2266,7 @@
         "type": "Craft Essence",
         "rarity": 4,
         "name": "偽りの誓約",
+        "name_eng": "False Geas",
         "phash": "e1785edc9d36338d",
         "phash_narrow": "e1fa4edd76d3cc33",
         "dropPriority": 9004
@@ -4257,6 +4280,15 @@
         ],
         "dropPriority": 5194,
         "phash_battle": "1c892382d192a443"
+    },
+    {
+        "id": 94160904,
+        "type": "Point",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "d60003186104e1c3",
+        "name": "パンプキン収穫ポイント",
+        "dropPriority": 3004
     },
     {
         "id": 94159007,
@@ -7083,6 +7115,7 @@
         "rarity": 3,
         "phash": "f7066bb9b64369f8",
         "name": "3000万DL記念チケット",
+        "name_eng": "25 Million Downloads Celebration Ticket",
         "dropPriority": 2001
     },
     {
@@ -7584,6 +7617,25 @@
         "phash": "5b02e3c88c6656d9",
         "name": "肉球アームリング",
         "dropPriority": 2008
+    },
+    {
+        "id": 94160903,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "76a4b913932d6d5b",
+        "name": "三日月パイ",
+        "shortname": "三日月",
+        "dropPriority": 2003
+    },
+    {
+        "id": 94161801,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "fc0223fcc60335e7",
+        "name": "3500万DL記念チケット",
+        "dropPriority": 2001
     },
     {
         "id": 3,
@@ -9283,6 +9335,16 @@
         "phash_battle": "a69dd023670b0868"
     },
     {
+        "id": 94160902,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "164aa979d91c4696",
+        "name": "首輪ドーナッツ",
+        "shortname": "首輪",
+        "dropPriority": 2002
+    },
+    {
         "id": 4,
         "type": "Item",
         "background": "silver",
@@ -10436,6 +10498,16 @@
         "shortname": "みんさー",
         "dropPriority": 2001,
         "phash_battle": "3e873169212f2849"
+    },
+    {
+        "id": 94160901,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "d6a5986334994b33",
+        "name": "けもみみクッキー",
+        "shortname": "けもみみ",
+        "dropPriority": 2001
     },
     {
         "id": 1,
