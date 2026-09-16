@@ -4288,6 +4288,7 @@
         "rarity": 3,
         "phash": "d60003186104e1c3",
         "name": "パンプキン収穫ポイント",
+        "shortname": "ポイント",
         "dropPriority": 3004
     },
     {
