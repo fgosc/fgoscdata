@@ -1,0 +1,158 @@
+[
+    {
+        "id": 94161100,
+        "name": "パンプキン収穫 目で愛でファーム",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9409530,
+                "name": "ピース・オブ・メモリー",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6520,
+                "name": "血の涙石",
+                "type": "Item",
+                "dropPriority": 8402
+            },
+            {
+                "id": 6541,
+                "name": "禍罪の矢尻",
+                "type": "Item",
+                "dropPriority": 8315
+            },
+            {
+                "id": 6102,
+                "name": "弓の魔石",
+                "type": "Item",
+                "dropPriority": 6199
+            },
+            {
+                "id": 6002,
+                "name": "弓の輝石",
+                "type": "Item",
+                "dropPriority": 6099
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7002,
+                "name": "アーチャーピース",
+                "type": "Item",
+                "dropPriority": 5199
+            },
+            {
+                "id": 94160904,
+                "name": "パンプキン収穫ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94160902,
+                "name": "首輪ドーナッツ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94160901,
+                "name": "けもみみクッキー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "パンプキン収穫 目で愛でファーム"
+    },
+    {
+        "id": 94161101,
+        "name": "パンプキン収穫 ぷちぷちファーム",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9409530,
+                "name": "ピース・オブ・メモリー",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6547,
+                "name": "虹の糸玉",
+                "type": "Item",
+                "dropPriority": 8318
+            },
+            {
+                "id": 6508,
+                "name": "ゴーストランタン",
+                "type": "Item",
+                "dropPriority": 8300
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 7005,
+                "name": "キャスターピース",
+                "type": "Item",
+                "dropPriority": 5196
+            },
+            {
+                "id": 7006,
+                "name": "アサシンピース",
+                "type": "Item",
+                "dropPriority": 5195
+            },
+            {
+                "id": 7007,
+                "name": "バーサーカーピース",
+                "type": "Item",
+                "dropPriority": 5194
+            },
+            {
+                "id": 94160904,
+                "name": "パンプキン収穫ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94160903,
+                "name": "三日月パイ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94160902,
+                "name": "首輪ドーナッツ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "パンプキン収穫 ぷちぷちファーム"
+    }
+]
