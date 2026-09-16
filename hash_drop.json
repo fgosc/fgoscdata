@@ -4289,7 +4289,8 @@
         "phash": "d60003186104e1c3",
         "name": "パンプキン収穫ポイント",
         "shortname": "ポイント",
-        "dropPriority": 3004
+        "dropPriority": 3004,
+        "phash_battle": "7e0341c284411371"
     },
     {
         "id": 94159007,
@@ -7627,7 +7628,8 @@
         "phash": "76a4b913932d6d5b",
         "name": "三日月パイ",
         "shortname": "三日月",
-        "dropPriority": 2003
+        "dropPriority": 2003,
+        "phash_battle": "3634939aad444970"
     },
     {
         "id": 94161801,
@@ -9343,7 +9345,8 @@
         "phash": "164aa979d91c4696",
         "name": "首輪ドーナッツ",
         "shortname": "首輪",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "5625a909465610a4"
     },
     {
         "id": 4,
@@ -10508,7 +10511,8 @@
         "phash": "d6a5986334994b33",
         "name": "けもみみクッキー",
         "shortname": "けもみみ",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "d69d633409728c84"
     },
     {
         "id": 1,
