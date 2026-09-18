@@ -286,5 +286,71 @@
         ],
         "dropItemNum": -1,
         "shortname": "パンプキン収穫 ここ掘れファーム"
+    },
+    {
+        "id": 94161104,
+        "name": "パンプキン収穫 妙案奇案ファーム",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8400,
+        "drop": [
+            {
+                "id": 9409530,
+                "name": "ピース・オブ・メモリー",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6560,
+                "name": "月光核",
+                "type": "Item",
+                "dropPriority": 8511
+            },
+            {
+                "id": 6503,
+                "name": "英雄の証",
+                "type": "Item",
+                "dropPriority": 8100
+            },
+            {
+                "id": 6203,
+                "name": "槍の秘石",
+                "type": "Item",
+                "dropPriority": 6298
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 7103,
+                "name": "ランサーモニュメント",
+                "type": "Item",
+                "dropPriority": 5298
+            },
+            {
+                "id": 94160904,
+                "name": "パンプキン収穫ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94160903,
+                "name": "三日月パイ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94160902,
+                "name": "首輪ドーナッツ",
+                "type": "Item",
+                "dropPriority": 2002
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "パンプキン収穫 妙案奇案ファーム"
     }
 ]
