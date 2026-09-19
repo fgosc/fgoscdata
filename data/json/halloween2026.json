@@ -352,5 +352,65 @@
         ],
         "dropItemNum": -1,
         "shortname": "パンプキン収穫 妙案奇案ファーム"
+    },
+    {
+        "id": 94161105,
+        "name": "パンプキン収穫 牛追いファーム",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 8900,
+        "drop": [
+            {
+                "id": 9409530,
+                "name": "ピース・オブ・メモリー",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6556,
+                "name": "エーテル収光体",
+                "type": "Item",
+                "dropPriority": 8321
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 7106,
+                "name": "アサシンモニュメント",
+                "type": "Item",
+                "dropPriority": 5295
+            },
+            {
+                "id": 94160904,
+                "name": "パンプキン収穫ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94160903,
+                "name": "三日月パイ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94160901,
+                "name": "けもみみクッキー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "パンプキン収穫 牛追いファーム"
     }
 ]
