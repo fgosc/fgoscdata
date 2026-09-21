@@ -466,5 +466,149 @@
         ],
         "dropItemNum": -1,
         "shortname": "パンプキン収穫 未明のファーム"
+    },
+    {
+        "id": 94161107,
+        "name": "パンプキン収穫 父と子のファーム",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 11280,
+        "drop": [
+            {
+                "id": 9409530,
+                "name": "ピース・オブ・メモリー",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6544,
+                "name": "煌星のカケラ",
+                "type": "Item",
+                "dropPriority": 8508
+            },
+            {
+                "id": 6538,
+                "name": "閑古鈴",
+                "type": "Item",
+                "dropPriority": 8314
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7104,
+                "name": "ライダーモニュメント",
+                "type": "Item",
+                "dropPriority": 5297
+            },
+            {
+                "id": 94160904,
+                "name": "パンプキン収穫ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94160903,
+                "name": "三日月パイ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94160901,
+                "name": "けもみみクッキー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "パンプキン収穫 父と子のファーム"
+    },
+    {
+        "id": 94161108,
+        "name": "パンプキン収穫 誓いのファーム",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 13536,
+        "drop": [
+            {
+                "id": 9409530,
+                "name": "ピース・オブ・メモリー",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 6562,
+                "name": "天命の聖水",
+                "type": "Item",
+                "dropPriority": 8513
+            },
+            {
+                "id": 6545,
+                "name": "神脈霊子",
+                "type": "Item",
+                "dropPriority": 8317
+            },
+            {
+                "id": 6201,
+                "name": "剣の秘石",
+                "type": "Item",
+                "dropPriority": 6300
+            },
+            {
+                "id": 6101,
+                "name": "剣の魔石",
+                "type": "Item",
+                "dropPriority": 6200
+            },
+            {
+                "id": 6001,
+                "name": "剣の輝石",
+                "type": "Item",
+                "dropPriority": 6100
+            },
+            {
+                "id": 7101,
+                "name": "セイバーモニュメント",
+                "type": "Item",
+                "dropPriority": 5300
+            },
+            {
+                "id": 94160904,
+                "name": "パンプキン収穫ポイント",
+                "type": "Point",
+                "dropPriority": 3004
+            },
+            {
+                "id": 94160903,
+                "name": "三日月パイ",
+                "type": "Item",
+                "dropPriority": 2003
+            },
+            {
+                "id": 94160902,
+                "name": "首輪ドーナッツ",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94160901,
+                "name": "けもみみクッキー",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "パンプキン収穫 誓いのファーム"
     }
 ]
