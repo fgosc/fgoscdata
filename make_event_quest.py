@@ -82,7 +82,8 @@ class QuestSource:
                 return q
             # ← ここが今回の重要修正点
             logger.warning(
-                "Quest %s not found in nice_war.json → API fallback", quest_id
+                "Quest %s not found in nice_war.json → API fallback",
+                quest_id,
             )
 
         # API fallback
@@ -161,6 +162,8 @@ def list2dic(quest_list):
             qp = 16244
         elif lv == "90+":
             qp = 11280
+        elif lv == "100★★★":  # 冠位名代戦レイド用
+            qp = 3465565
         elif lv == "120★★★":
             qp = 558187
         else:
