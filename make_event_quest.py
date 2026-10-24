@@ -163,7 +163,7 @@ def list2dic(quest_list):
         elif lv == "90+":
             qp = 11280
         elif lv == "100★★★":  # 冠位名代戦レイド用
-            qp = 3465565
+            qp = 45565
         elif lv == "120★★★":
             qp = 558187
         else:
