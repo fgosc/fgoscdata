@@ -1403,6 +1403,7 @@
         "type": "Craft Essence",
         "rarity": 5,
         "name": "ウィズ・マイ・ファーザー",
+        "name_eng": "With My Father",
         "shortname": "礼装",
         "phash": "9c8f06f46fc72046",
         "phash_narrow": "9a8b146cdf0168bc",
@@ -1749,6 +1750,16 @@
         "shortname": "礼装",
         "phash": "2d22dcf3d23e2d83",
         "phash_narrow": "2d225cd3f67cc97a",
+        "dropPriority": 9005
+    },
+    {
+        "id": 9409690,
+        "type": "Craft Essence",
+        "rarity": 5,
+        "name": "いざ、尋常に川中島！？",
+        "shortname": "礼装",
+        "phash": "c5992906d3edc1d7",
+        "phash_narrow": "c5b92c16b829bab6",
         "dropPriority": 9005
     },
     {
@@ -2627,6 +2638,16 @@
         "dropPriority": 9004
     },
     {
+        "id": 9809900,
+        "type": "Craft Essence",
+        "rarity": 4,
+        "name": "概念礼装EXPカード：ヤマタイガールズ！",
+        "shortname": "★4EXP礼装",
+        "phash": "f5845edc93b22447",
+        "phash_narrow": "f5047cdb9ab8631a",
+        "dropPriority": 9004
+    },
+    {
         "id": 9400500,
         "type": "Craft Essence",
         "rarity": 3,
@@ -2982,6 +3003,16 @@
         "shortname": "★3EXP礼装",
         "phash": "37c8c6f779934c64",
         "phash_narrow": "35c8c67cbb1969ad",
+        "dropPriority": 9003
+    },
+    {
+        "id": 9809910,
+        "type": "Craft Essence",
+        "rarity": 3,
+        "name": "概念礼装EXPカード：爆・DAN・ジョー！",
+        "shortname": "★3EXP礼装",
+        "phash": "26c7e06a5bc38886",
+        "phash_narrow": "3695e45e615c0368",
         "dropPriority": 9003
     },
     {
@@ -4280,6 +4311,16 @@
         ],
         "dropPriority": 5194,
         "phash_battle": "1c892382d192a443"
+    },
+    {
+        "id": 94164003,
+        "type": "Point",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "1ee20b5ab91c83cc",
+        "name": "GUNMA温泉ポイント",
+        "shortname": "ポイント",
+        "dropPriority": 3003
     },
     {
         "id": 94160904,
@@ -7077,6 +7118,7 @@
         "rarity": 3,
         "phash": "7f0c16d2b16b8cdc",
         "name": "おおきなケーキ",
+        "name_eng": "Big Cake",
         "shortname": "大ケーキ",
         "dropPriority": 2003,
         "phash_battle": "2c0e92f1879c602f"
@@ -7639,6 +7681,35 @@
         "phash": "fc0223fcc60335e7",
         "name": "3500万DL記念チケット",
         "dropPriority": 2001
+    },
+    {
+        "id": 94162101,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "73060acbf61309fc",
+        "name": "全世界1億DL突破記念チケット",
+        "name_eng": "100 Million Downloads Worldwide Celebration Ticket",
+        "dropPriority": 2009
+    },
+    {
+        "id": 94164002,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5e42594ca7bce74c",
+        "name": "YAKIまんじゅう",
+        "shortname": "Yまんじゅう",
+        "dropPriority": 2002
+    },
+    {
+        "id": 94164004,
+        "type": "Item",
+        "background": "gold",
+        "rarity": 3,
+        "phash": "5601a1d86ac61423",
+        "name": "ヒラグモちゃん",
+        "dropPriority": 2004
     },
     {
         "id": 3,
@@ -9080,6 +9151,7 @@
         "rarity": 2,
         "phash": "dfb21eeaa619eb1d",
         "name": "おおきなクッキー",
+        "name_eng": "Big Cookie",
         "shortname": "大クッキー",
         "dropPriority": 2002,
         "phash_battle": "8b54de04a979a1e7"
@@ -9347,6 +9419,16 @@
         "shortname": "首輪",
         "dropPriority": 2002,
         "phash_battle": "5625a909465610a4"
+    },
+    {
+        "id": 94164001,
+        "type": "Item",
+        "background": "silver",
+        "rarity": 2,
+        "phash": "56166969b29ba9a5",
+        "name": "SHIMONITAネギ",
+        "shortname": "Sネギ",
+        "dropPriority": 2001
     },
     {
         "id": 4,
@@ -10312,6 +10394,7 @@
         "rarity": 1,
         "phash": "96297c0692b9c011",
         "name": "おおきなキャンディー",
+        "name_eng": "Big Candy",
         "shortname": "大キャンディー",
         "dropPriority": 2001,
         "phash_battle": "967d4693e903da05"
@@ -10513,6 +10596,16 @@
         "shortname": "けもみみ",
         "dropPriority": 2001,
         "phash_battle": "d69d633409728c84"
+    },
+    {
+        "id": 94164000,
+        "type": "Item",
+        "background": "bronze",
+        "rarity": 1,
+        "phash": "740703e13909509c",
+        "name": "MISOおでん",
+        "shortname": "おでん",
+        "dropPriority": 2000
     },
     {
         "id": 1,
