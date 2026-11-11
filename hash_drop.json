@@ -4320,7 +4320,8 @@
         "phash": "1ee20b5ab91c83cc",
         "name": "GUNMA温泉ポイント",
         "shortname": "ポイント",
-        "dropPriority": 3003
+        "dropPriority": 3003,
+        "phash_battle": "b423697809c4d3e4"
     },
     {
         "id": 94160904,
@@ -7700,7 +7701,8 @@
         "phash": "5e42594ca7bce74c",
         "name": "YAKIまんじゅう",
         "shortname": "Yまんじゅう",
-        "dropPriority": 2002
+        "dropPriority": 2002,
+        "phash_battle": "66136995b4451946"
     },
     {
         "id": 94164004,
@@ -9428,7 +9430,8 @@
         "phash": "56166969b29ba9a5",
         "name": "SHIMONITAネギ",
         "shortname": "Sネギ",
-        "dropPriority": 2001
+        "dropPriority": 2001,
+        "phash_battle": "16182932a9a69195"
     },
     {
         "id": 4,
@@ -10605,7 +10608,8 @@
         "phash": "740703e13909509c",
         "name": "MISOおでん",
         "shortname": "おでん",
-        "dropPriority": 2000
+        "dropPriority": 2000,
+        "phash_battle": "7c07e12959d21204"
     },
     {
         "id": 1,
