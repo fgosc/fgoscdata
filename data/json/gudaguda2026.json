@@ -70,5 +70,161 @@
         ],
         "dropItemNum": -1,
         "shortname": "【GUNMA巡り】だるまを買いにいこう"
+    },
+    {
+        "id": 94164101,
+        "name": "【GUNMA巡り】こんにゃくとネギ",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9409690,
+                "name": "いざ、尋常に川中島！？",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 9809910,
+                "name": "概念礼装EXPカード：爆・DAN・ジョー！",
+                "type": "Craft Essence",
+                "dropPriority": 90030
+            },
+            {
+                "id": 6542,
+                "name": "真理の卵",
+                "type": "Item",
+                "dropPriority": 8507
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6534,
+                "name": "励振火薬",
+                "type": "Item",
+                "dropPriority": 8105
+            },
+            {
+                "id": 6204,
+                "name": "騎の秘石",
+                "type": "Item",
+                "dropPriority": 6297
+            },
+            {
+                "id": 6004,
+                "name": "騎の輝石",
+                "type": "Item",
+                "dropPriority": 6097
+            },
+            {
+                "id": 7004,
+                "name": "ライダーピース",
+                "type": "Item",
+                "dropPriority": 5197
+            },
+            {
+                "id": 94164003,
+                "name": "GUNMA温泉ポイント",
+                "type": "Point",
+                "dropPriority": 3003
+            },
+            {
+                "id": 94164002,
+                "name": "YAKIまんじゅう",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94164001,
+                "name": "SHIMONITAネギ",
+                "type": "Item",
+                "dropPriority": 2001
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【GUNMA巡り】こんにゃくとネギ"
+    },
+    {
+        "id": 94164102,
+        "name": "【GUNMA巡り】槍をスキーに連れていけ",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 7400,
+        "drop": [
+            {
+                "id": 9409690,
+                "name": "いざ、尋常に川中島！？",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 9809910,
+                "name": "概念礼装EXPカード：爆・DAN・ジョー！",
+                "type": "Craft Essence",
+                "dropPriority": 90030
+            },
+            {
+                "id": 6548,
+                "name": "鬼炎鬼灯",
+                "type": "Item",
+                "dropPriority": 8509
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6502,
+                "name": "世界樹の種",
+                "type": "Item",
+                "dropPriority": 8203
+            },
+            {
+                "id": 6103,
+                "name": "槍の魔石",
+                "type": "Item",
+                "dropPriority": 6198
+            },
+            {
+                "id": 6003,
+                "name": "槍の輝石",
+                "type": "Item",
+                "dropPriority": 6098
+            },
+            {
+                "id": 7003,
+                "name": "ランサーピース",
+                "type": "Item",
+                "dropPriority": 5198
+            },
+            {
+                "id": 94164003,
+                "name": "GUNMA温泉ポイント",
+                "type": "Point",
+                "dropPriority": 3003
+            },
+            {
+                "id": 94164002,
+                "name": "YAKIまんじゅう",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 94164000,
+                "name": "MISOおでん",
+                "type": "Item",
+                "dropPriority": 2000
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【GUNMA巡り】槍をスキーに連れていけ"
     }
 ]
