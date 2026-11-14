@@ -478,5 +478,173 @@
         ],
         "dropItemNum": -1,
         "shortname": "【GUNMA巡り】運動会の組分け会議"
+    },
+    {
+        "id": 94164106,
+        "name": "【GUNMA巡り】青水伝説を語る会",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 9400,
+        "drop": [
+            {
+                "id": 9409690,
+                "name": "いざ、尋常に川中島！？",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 9809900,
+                "name": "概念礼装EXPカード：ヤマタイガールズ！",
+                "type": "Craft Essence",
+                "dropPriority": 90040
+            },
+            {
+                "id": 6517,
+                "name": "蛮神の心臓",
+                "type": "Item",
+                "dropPriority": 8500
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6555,
+                "name": "狂気の残滓",
+                "type": "Item",
+                "dropPriority": 8110
+            },
+            {
+                "id": 6205,
+                "name": "術の秘石",
+                "type": "Item",
+                "dropPriority": 6296
+            },
+            {
+                "id": 6005,
+                "name": "術の輝石",
+                "type": "Item",
+                "dropPriority": 6096
+            },
+            {
+                "id": 7105,
+                "name": "キャスターモニュメント",
+                "type": "Item",
+                "dropPriority": 5296
+            },
+            {
+                "id": 94164003,
+                "name": "GUNMA温泉ポイント",
+                "type": "Point",
+                "dropPriority": 3003
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "【GUNMA巡り】青水伝説を語る会"
+    },
+    {
+        "id": 94164214,
+        "name": "ミドスラノッブの群れ ぷにぷに戦〔ねばねば級〕",
+        "place": "",
+        "chapter": "",
+        "category": "",
+        "qp": 16244,
+        "drop": [
+            {
+                "id": 9409690,
+                "name": "いざ、尋常に川中島！？",
+                "type": "Craft Essence",
+                "dropPriority": 90050
+            },
+            {
+                "id": 9809900,
+                "name": "概念礼装EXPカード：ヤマタイガールズ！",
+                "type": "Craft Essence",
+                "dropPriority": 90040
+            },
+            {
+                "id": 6518,
+                "name": "精霊根",
+                "type": "Item",
+                "dropPriority": 8502
+            },
+            {
+                "id": 6556,
+                "name": "エーテル収光体",
+                "type": "Item",
+                "dropPriority": 8321
+            },
+            {
+                "id": 6526,
+                "name": "追憶の貝殻",
+                "type": "Item",
+                "dropPriority": 8308
+            },
+            {
+                "id": 6552,
+                "name": "忘れじの灰",
+                "type": "Item",
+                "dropPriority": 8108
+            },
+            {
+                "id": 6206,
+                "name": "殺の秘石",
+                "type": "Item",
+                "dropPriority": 6295
+            },
+            {
+                "id": 6207,
+                "name": "狂の秘石",
+                "type": "Item",
+                "dropPriority": 6294
+            },
+            {
+                "id": 6106,
+                "name": "殺の魔石",
+                "type": "Item",
+                "dropPriority": 6195
+            },
+            {
+                "id": 6107,
+                "name": "狂の魔石",
+                "type": "Item",
+                "dropPriority": 6194
+            },
+            {
+                "id": 6006,
+                "name": "殺の輝石",
+                "type": "Item",
+                "dropPriority": 6095
+            },
+            {
+                "id": 6007,
+                "name": "狂の輝石",
+                "type": "Item",
+                "dropPriority": 6094
+            },
+            {
+                "id": 94164003,
+                "name": "GUNMA温泉ポイント",
+                "type": "Point",
+                "dropPriority": 3003
+            },
+            {
+                "id": 94164002,
+                "name": "YAKIまんじゅう",
+                "type": "Item",
+                "dropPriority": 2002
+            },
+            {
+                "id": 9707500,
+                "name": "狂業火",
+                "type": "Exp. UP",
+                "dropPriority": 660
+            }
+        ],
+        "dropItemNum": -1,
+        "shortname": "ミドスラノッブの群れ ぷにぷに戦〔ねばねば級〕"
     }
 ]
